@@ -19,7 +19,7 @@ Alors oui, je sais, dit comme ça, ça peut paraître désué, pas "swag" ou enc
 
 Pour ce blog, j'ai choisi [jekyll]: http://jekyllrb.com/ , notamment parce qu'il est directement digeste chez Github, parce que c'est aussi le générateur de site statique le plus courant et qu'il bénéficie par conséquence d'une communauté bien fournie (thèmes, plugins, aide ...).  
 
-##Les anciens articles
+## Les anciens articles
 Sur la mouture précédente du blog, j'avais (de mémoire), une petite centaine d'articles.  
 Une grosse partie consistait en astuces pour diverses librairies ou outils (PHP, MySQL, jQuery ...), mais qui n'ont plus lieu d'être, car obsolètes.  
 J'avais des articles plus "perso", dont un sur le télétravail, que j'ai gardé.
