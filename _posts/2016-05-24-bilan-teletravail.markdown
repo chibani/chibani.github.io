@@ -3,6 +3,7 @@ layout: post
 title:  "Télétravail, retour d'expérience"
 date:   2016-05-23 16:30:14 +0200
 categories: developpement-personnel
+redirect_from: /autour-dun-cafe/bilan-teletravail/
 ---
 J'ai passé environ 5 ans en télétravail à temps complet (de juillet 2011 à mai 2016), voici mon retour sur cette situation.
 

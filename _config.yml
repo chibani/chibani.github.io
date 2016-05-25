@@ -34,3 +34,4 @@ kramdown:
 hard_wrap: false
 gems:
   - jekyll-paginate
+  - jekyll-redirect-from
