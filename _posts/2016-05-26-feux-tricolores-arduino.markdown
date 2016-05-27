@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Feux tricolores avec un arduino"
-date:   2016-05-27 10:42:00 +0200
+date:   2016-05-27 08:42:00 +0200
 categories: bricolage
 ---
 J'ai récemment fabriqué un ensemble de feux tricolores miniatures pour mes enfants.  
