@@ -28,7 +28,17 @@ Au final, il y a 6 séquences, allumant différentes LEDs sur les paires de feux
 
  * Le vert dure 10 secondes  
  * Le jaune (ou orange) dure 2 secondes  
- * Le rouge dure 1 seconde (+ le temps du vert de l'autre paire)  
+ * Le rouge dure 1 seconde  
+
+| Durée | Groupe Feu A | Groupe Feu B |
+|-------|--------------|--------------|
+| 10s   | vert         | rouge        |
+| 2s    | orange       | rouge        |
+| 1s    | rouge        | rouge        |
+| 10s   | rouge        | vert         |
+| 2s    | rouge        | orange       |
+| 1s    | rouge        | rouge        |
+| ...   | ...          | ...          |
 
 ![Schéma de séquence des feux](/assets/posts/redlights/sequence_schema.jpg) _(Talent artistique de l'année !)_
 
