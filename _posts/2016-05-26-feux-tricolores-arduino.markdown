@@ -51,7 +51,7 @@ Je suis parti sur ce que j'avais en réserve :
 J'ai construit les feux avec des bouts de contre-plaqué que j'ai percé au diamètre des LEDs.  
 Mais si vous avez la chance d'avoir accès à une imprimante 3D, il y a moyen de faire des poteaux bien plus cools et réalistes.  
 
-[les 4 feux, prêts à êtres installés]()
+![les 4 feux, prêts à êtres installés](/assets/posts/redlights/lights_cabled.jpg)
 
 J'ai installé tout ça dans un tapis de jeu illustré de routes (venant d'un célèbre designer suédois).  
 Le tapis a pris 5 bons coups de cutter (1 pour chaque feu, et un dernier sous la boite de dérivation), pour pouvoir glisser les fils.
