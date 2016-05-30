@@ -3,6 +3,8 @@ layout: post
 title:  "George AbitboT, le bot le plus classe du monde"
 date:   2016-05-28 15:42:00 +0200
 categories: fun
+intro: ># Présentation du bot slack le plus classe du monde : George Abitbot ! Classe, ouiches et surpuissance, tout y est ...
+
 ---
 
 ## George qui ?
