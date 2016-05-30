@@ -3,6 +3,11 @@ layout: post
 title:  "Feux tricolores avec un arduino"
 date:   2016-05-27 08:42:00 +0200
 categories: bricolage
+thumbnail: /assets/posts/redlights/car_with_lights.jpg
+intro : >#
+  Présentation d'un système de mini-feux tricolores que j'ai construit pour mes enfants.  
+  Cet article est également un tuto permettant de construire le même système.
+
 ---
 J'ai récemment fabriqué un ensemble de feux tricolores miniatures pour mes enfants.  
 Le système est assez simple, composé de 2 paires de feux, comprenant chacun 3 LEDs (vert, jaune, rouge).
