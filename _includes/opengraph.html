@@ -4,7 +4,7 @@
 {% if page.thumbnail %}
   <meta property="og:image" content="{{ page.thumbnail | prepend: site.baseurl | prepend: site.url }}">
 {% endif %}
-<meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+<meta property="og:description" content="{% if page.intro %}{{ page.intro | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 <meta property="og:site_name" content="{{ site.title }}">
 <meta property="og:locale" content="{{ site.locale }}">
 
