@@ -11,7 +11,7 @@ email: gerbaudloic@gmail.com
 description: > #
   Blog personnel de Loïc Gerbaud, père/développeur/bricoleur.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://blog.loicg.net" # the base hostname & protocol for your site
+url: "http://blog.loicg.net" # the base hostname & protocol for your site
 twitter_username: chibani
 github_username:  chibani
 locale: french
