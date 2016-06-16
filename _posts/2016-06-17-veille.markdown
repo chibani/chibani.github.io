@@ -1,0 +1,70 @@
+---
+layout: post
+title: "La veille du week-end S1E1"
+date: 2016-06-17 08:00:00 +0200
+category: veille
+---
+C'est vendredi et c'est la "veille du week-end".
+
+Première publication sur le blog, mais j'en suis au 10ème tirage par email (via une newsletter, j'en parle en bas).  
+Chaque vendredi matin (normalement), je publierai ici (et par email) ma récolte Twitter de la semaine (enfin, depuis le vendredi précédent).
+
+L'idée est de me permettre de garder une trace facilement cherchable de ressources intéressantes que j'ai vu passer.  
+Accessoirement, je l'ai proposé à des amis et anciens collègues, qui n'ont pas craché dessus ;)
+
+Cette semaine, parmi les événement marquants :  
+ - jQuery a sorti sa v3 (que je n'ai pas encore regardé, mais ça semble pas mal bouger par rapport à la v2)
+ - SudWeb a commencé à publier les premières vidéos des confs de cette année
+
+Bonne lecture et bon week-end,
+Loïc
+
+## Dev
+ - [T](http://twitter.com/putaindecode_fr/status/740832863172591616) by [@putaindecode_fr](https://twitter.com/putaindecode_fr) ✨ Redux, comment ça marche ? [https://t.co/lZO3TmIBT3](https://t.co/lZO3TmIBT3) par @bloodyowl
+ - [T](http://twitter.com/steveluscher/status/741089564329054208) by [@steveluscher](https://twitter.com/steveluscher) Map/filter/reduce in a tweet.
+ - [T](http://twitter.com/mickael_andrieu/status/741451299930181636) by [@mickael_andrieu](https://twitter.com/mickael_andrieu) Want to migrate your Symfony2 app to Symfony3 ? You should take a look at my new guide ! [https://t.co/lD9CMy6Xyt](https://t.co/lD9CMy6Xyt) #Symfony
+ - [T](http://twitter.com/magsout/status/741615787128033280) by [@magsout](https://twitter.com/magsout) Recomposing your React application [https://t.co/CoRrYDuS27](https://t.co/CoRrYDuS27) #hoc #react
+ - [T](http://twitter.com/waxzce/status/742161848250826752) by [@waxzce](https://twitter.com/waxzce) When 'not' to use arrow functions #javascript #ES6 [https://t.co/IRYJDCN4fY](https://t.co/IRYJDCN4fY) https://t.co/Bc8CTv2jdr
+ - [T](http://twitter.com/Ynote_hk/status/742758359288434688) by [@Ynote_hk](https://twitter.com/Ynote_hk) If you did not study CS like me, here is a really clear explanation of tail-call optimization by @rauschma [https://t.co/Z9E3EP0d30](https://t.co/Z9E3EP0d30)
+
+
+## Front
+ - [T](http://twitter.com/WalterStephanie/status/740808276632174592) by [@WalterStephanie](https://twitter.com/WalterStephanie) Punch-Out Avatar, this is clever &lt;3 [https://t.co/gMpVOxKpRk](https://t.co/gMpVOxKpRk) https://t.co/tlM1tfUlL2
+ - [T](http://twitter.com/SudWeb/status/741166251284783104) by [@SudWeb](https://twitter.com/SudWeb) #video Unexpected musical intruments, a story of modern music hackers by @chrislowis @SudWeb  [https://t.co/1u98R8eyjl](https://t.co/1u98R8eyjl) #webaudio #webMIDI
+ - [T](http://twitter.com/hellgy/status/740762739048583169) by [@hellgy](https://twitter.com/hellgy) Redisdead, une police fait main avec amour et Crayolas [https://t.co/dIpVi5WcFV](https://t.co/dIpVi5WcFV) https://t.co/EgBlALpPVV
+ - [T](http://twitter.com/HarrisFreddy/status/741195183522467840) by [@HarrisFreddy](https://twitter.com/HarrisFreddy) Les slides de mon talk Web Animation Performance [https://t.co/qqjiupQoWK](https://t.co/qqjiupQoWK) #bestofweb2016 @bestofwebconf @parisjs https://t.co/XdPtNFjP9O
+ - [T](http://twitter.com/FGRibreau/status/742040807746744320) by [@FGRibreau](https://twitter.com/FGRibreau) [Blog][Fr] Single Point of Failure : votre site web indisponible à cause des scripts externes ? [https://t.co/4yIDfXuIgJ](https://t.co/4yIDfXuIgJ)
+ - [T](http://twitter.com/waxzce/status/742375805473415170) by [@waxzce](https://twitter.com/waxzce) jQuery 3.0 Final Released! #javascript [https://t.co/M0QTKzPbE6](https://t.co/M0QTKzPbE6)
+
+## Tools
+ - [T](http://twitter.com/FGRibreau/status/740848721328508932) by [@FGRibreau](https://twitter.com/FGRibreau) Excellent feedback by @nylas team! • Growing up with MySQL [https://t.co/eiPpnobNxK](https://t.co/eiPpnobNxK)
+ - [T](http://twitter.com/github/status/742482966270484481) by [@github](https://twitter.com/github) Faster, more flexible submodules, beautiful diffs, and more—Git 2.9 is now available: [https://t.co/YHO25UGSGs](https://t.co/YHO25UGSGs)
+ - [T](http://twitter.com/dhoko_/status/742650198506254336) by [@dhoko_](https://twitter.com/dhoko_) Git-tips ~ Most commonly used git tips and tricks.
+ - [T](http://twitter.com/nixcraft/status/742786571275927552) by [@nixcraft](https://twitter.com/nixcraft) phpMyAdmin Project Successfully Completes Security Audit #infosec #mysql #sysadmin #php #LAMP  [https://t.co/2qORlkMB5J](https://t.co/2qORlkMB5J)
+
+## Geek/IOT
+- [T](http://twitter.com/dboudreau/status/740667589752414208) by [@dboudreau](https://twitter.com/dboudreau) What if we could create a decentralized web, with more privacy, less government control &amp; less corporate influence? [https://t.co/iNAFTq3QS9](https://t.co/iNAFTq3QS9)
+
+## Marketing
+ - [T](http://twitter.com/valvert/status/740791026999255040) by [@valvert](https://twitter.com/valvert) A quoi sont dus les abandons de panier en e-commerce ? [https://t.co/iZf1kf0t2N](https://t.co/iZf1kf0t2N) via @Ecom_Nation
+ - [T](http://twitter.com/le_referenceur/status/740898398996467712) by [@le_referenceur](https://twitter.com/le_referenceur) Le labyrinthe Google My Business: pour quels résultats ? [https://t.co/RhyfDstRCb](https://t.co/RhyfDstRCb) par @le_referenceur sur le blog @resoneo
+ - [T](http://twitter.com/valvert/status/741643740780068868) by [@valvert](https://twitter.com/valvert) Adwords, préparez-vous aux 6 grands changements - Boost Your Web [https://t.co/9ufzlsmlvM](https://t.co/9ufzlsmlvM) via @BoostYourWeb
+ - [T](http://twitter.com/waxzce/status/741919482696896512) by [@waxzce](https://twitter.com/waxzce) Ruin My Search History [https://t.co/plyW97cui3](https://t.co/plyW97cui3) // What can be interesting is use retargeting ads to embrace ruin https://t.co/ITlznoJrIJ
+ - [T](http://twitter.com/Growthmamma/status/742619218265407488) by [@Growthmamma](https://twitter.com/Growthmamma) Le chatbot ou l’obsolescence de 80% des sites web [https://t.co/m7qy14fSgw](https://t.co/m7qy14fSgw) #ecommerce #IA https://t.co/EqLfXya2qN
+
+
+## Développement personnel/RH
+ - [T](http://twitter.com/goulvench/status/740835585355567105) by [@goulvench](https://twitter.com/goulvench) Mise à jour : la vidéo de mon intervention est en ligne ! [https://t.co/WYNY00KHAk](https://t.co/WYNY00KHAk)
+ - [T](http://twitter.com/todoist/status/740977543319277568) by [@todoist](https://twitter.com/todoist) Never miss a date. Turn your @GoogleCalendar events into Todoist tasks using @IFTTT: [https://t.co/phjIaEUA87](https://t.co/phjIaEUA87) #todoist
+ - [T](http://twitter.com/journalduhacker/status/742479667677003776) by [@journalduhacker](https://twitter.com/journalduhacker) Artisan développeur [https://t.co/kRc9dQ3J2z](https://t.co/kRc9dQ3J2z) #dev
+ - [T](http://twitter.com/methylbro/status/742758177956081664) by [@methylbro](https://twitter.com/methylbro) Apprendre à coder à changé ma vie [https://t.co/Dpett5nCgc](https://t.co/Dpett5nCgc) @CharlesPernet #sudweb
+
+
+## Divers/Conneries
+ - [T](http://twitter.com/edasfr/status/740801384275152896) by [@edasfr](https://twitter.com/edasfr) [Lecture] Application SAIP – Le ministère de l’Intérieur lance un nouveau système d’alerte [https://t.co/OeT8KipKZI](https://t.co/OeT8KipKZI) [blog]
+ - [T](http://twitter.com/Snowden/status/740911548076568576) by [@Snowden](https://twitter.com/Snowden) Three years ago, I came forward as the source behind the NSA revelations. Today, here's the state of surveillance: [https://t.co/pK5WZDyw60](https://t.co/pK5WZDyw60)
+ - [T](http://twitter.com/MoOx/status/741557520385376256) by [@MoOx](https://twitter.com/MoOx) Why you shouldn’t share links on Facebook [https://t.co/83CTZyci2F](https://t.co/83CTZyci2F) v/ @b_lionel
+ - [T](http://twitter.com/epenser/status/742124317941633025) by [@epenser](https://twitter.com/epenser) Les gens, je vous conseille vivement cette conférence, chaque minute vaut la peine : [https://t.co/xQaeGxjVEM](https://t.co/xQaeGxjVEM)
+ - [T](http://twitter.com/Wisibility/status/742319247532134400) by [@Wisibility](https://twitter.com/Wisibility) Ce Clip quoi ! Tout en Motion Capture ! [https://t.co/kcX5PfNeJY](https://t.co/kcX5PfNeJY) https://t.co/QRaDnvvu94
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
