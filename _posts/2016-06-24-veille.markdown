@@ -1,0 +1,65 @@
+---
+layout: post
+title: "La veille du week-end S1E2"
+date: 2016-06-24 08:00:00 +0200
+category: veille
+---
+C'est vendredi et c'est la "veille du week-end".  
+Les vidéos de SudWeb continuent de tomber, n'hésitez pas à aller voir sur [leur page Vimeo](https://vimeo.com/sudweb/videos).  
+Ce matin, on a appris le résultat du référendum sur le brexit :/  
+
+Et je crois que vous avez suffisamment de lecture ci-dessous pour vous occuper ;)
+
+Bonne lecture et bon week-end,
+Loïc
+
+## Dev
+- [T](http://twitter.com/jeresig/status/742418281714188289) by [@jeresig](https://twitter.com/jeresig) The engineering principles that we uphold at @khanacademy: [https://t.co/I4iWdmmEha](https://t.co/I4iWdmmEha)
+- [T](http://twitter.com/CleverMarks/status/743035891090886656) by [@CleverMarks](https://twitter.com/CleverMarks) "Ces contrôles de mots de passe qui ne sont qu'une illusion... [https://t.co/vO9jeeoHfX](https://t.co/vO9jeeoHfX) #password #sécurité #ux #tests via @borisschapira
+- [T](http://twitter.com/waxzce/status/744637944321957888) by [@waxzce](https://twitter.com/waxzce) JSON Web Tokens (JWT) vs Sessions [https://t.co/7vQyhFDRJp](https://t.co/7vQyhFDRJp)
+
+
+## Front
+- [T](http://twitter.com/waxzce/status/744591937638903809) by [@waxzce](https://twitter.com/waxzce) The SoundCloud Client in React + Redux [https://t.co/dIhQGQIpVG](https://t.co/dIhQGQIpVG) #javascript https://t.co/XVFtl0Cj48
+- [T](http://twitter.com/L_Demontiers/status/744786625125703683) by [@L_Demontiers](https://twitter.com/L_Demontiers) Le redesign du site des Google Fonts expliqué. [https://t.co/AlQncQ4t8L](https://t.co/AlQncQ4t8L)
+- [T](http://twitter.com/rachelnabors/status/745333019985219584) by [@rachelnabors](https://twitter.com/rachelnabors) Smooth page scroll in five lines of JS: [https://t.co/usn4lQnpYr](https://t.co/usn4lQnpYr)
+
+
+## Tools
+- [T](http://twitter.com/FGRibreau/status/744110192489562112) by [@FGRibreau](https://twitter.com/FGRibreau) [Blog] Knockd for the impatient [https://t.co/xWg2nzP3pr](https://t.co/xWg2nzP3pr)
+- [T](http://twitter.com/FGRibreau/status/744157565458710528) by [@FGRibreau](https://twitter.com/FGRibreau) Rancher -&gt; clone (Jenkins slave through Docker, see :  [https://t.co/ldEjv4xH6L](https://t.co/ldEjv4xH6L) ) -&gt; change 1 env. var. -&gt; deploy -&gt; \o/ https://t.co/NLcxqrA5Bn
+- [T](http://twitter.com/49SD/status/744189404030316544) by [@49SD](https://twitter.com/49SD) Oh my god whoever made thing thank you! [https://t.co/XalO15FOPn](Arbo des dossiers sous Linux)
+- [T](http://twitter.com/sam_et_max/status/744746578959826944) by [@sam_et_max](https://twitter.com/sam_et_max) How are zlib, gzip and Zip related? (2013) Hacker News [https://t.co/Gnh3mct5en](https://t.co/Gnh3mct5en)
+- [T](http://twitter.com/WalterStephanie/status/744786949525778432) by [@WalterStephanie](https://twitter.com/WalterStephanie) [https://t.co/S9Hriow3a1](https://t.co/S9Hriow3a1) Bungee, a font that will both work vertical and horizontal https://t.co/NJYqSYh1pv
+- [T](http://twitter.com/FGRibreau/status/744787445368008704) by [@FGRibreau](https://twitter.com/FGRibreau) pg_view: Get a detailed, real-time view of your PostgreSQL database and system metrics [https://t.co/E0DbtAreVN](https://t.co/E0DbtAreVN)
+- [T](http://twitter.com/n1k0/status/745668289473429505) by [@n1k0](https://twitter.com/n1k0) Everything you always wanted to know about npm* [https://t.co/mW7ldnOkA7](https://t.co/mW7ldnOkA7) (*but were afraid to ask) https://t.co/fZe8dlCps9
+
+## Geek/IOT
+- [T](http://twitter.com/Solarus0/status/744068490752106496) by [@Solarus0](https://twitter.com/Solarus0) L’homme le plus connecté du monde s’est fait dévorer par ses données [https://t.co/gLhvHv6JCr](https://t.co/gLhvHv6JCr) via @rue89
+- [T](http://twitter.com/tyrower/status/744235194194890752) by [@tyrower](https://twitter.com/tyrower) Module Caméra #RaspberryPi - 5 façons de faire du streaming [https://t.co/NGLAqL0SqV](https://t.co/NGLAqL0SqV) via @Magdiblog Merci Olivier ! ;o)
+- [T](http://twitter.com/gcouprie/status/745538367891243008) by [@gcouprie](https://twitter.com/gcouprie) the U2F Zero, a U2F token than you can build yourself for cheap [https://t.co/4j1bSZdEZr](https://t.co/4j1bSZdEZr) https://t.co/z2KpjO0AND
+
+
+## Marketing
+- [T](http://twitter.com/Fasterize/status/744809154586411008) by [@Fasterize](https://twitter.com/Fasterize) GQ augmente son audience en accélérant son site #mobile (article en anglais) [https://t.co/QTtdLveK1x](https://t.co/QTtdLveK1x) #webperf #media
+
+
+## Développement personnel/RH
+- [T](http://twitter.com/methylbro/status/743576484397318145) by [@methylbro](https://twitter.com/methylbro) Revenir à l'essentiel, avec une touche de Lego : [https://t.co/aXkmkvslM0](https://t.co/aXkmkvslM0)
+- [T](http://twitter.com/methylbro/status/744451428794634240) by [@methylbro](https://twitter.com/methylbro) Différence de culture. L'excellent tableau d'@oncletom à l'E1 qui me rapelle tant de choses [https://t.co/CE5B5eaDwz](https://t.co/CE5B5eaDwz) https://t.co/dR4QcV6xnV
+- [T](http://twitter.com/jnchaintreuil/status/743876034831986689) by [@jnchaintreuil](https://twitter.com/jnchaintreuil) Il faut absolument lire l'approche de @SlackHQ pour designer des espaces plus humains ! [https://t.co/d1utwSBrT0](https://t.co/d1utwSBrT0) #RH https://t.co/4WnaC8sPCb
+- [T](http://twitter.com/brainpicker/status/744659109396553729) by [@brainpicker](https://twitter.com/brainpicker) For #FathersDay, Einstein's advice to his young son on the secret to learning anything [https://t.co/tPKejD0LLu](https://t.co/tPKejD0LLu) https://t.co/duNt3J5LPR
+- [T](http://twitter.com/JulienMoya/status/745157139526647808) by [@JulienMoya](https://twitter.com/JulienMoya) [Freelance] S'engager sur une deadline, dans quelles conditions ? [https://t.co/Vk2QM7OprM](https://t.co/Vk2QM7OprM)
+- [T](http://twitter.com/sam_et_max/status/745663369449979904) by [@sam_et_max](https://twitter.com/sam_et_max) Inside the mind of a master procrastinator | Tim Urban [https://t.co/JPmgXJfoB3](https://t.co/JPmgXJfoB3)
+
+
+## Divers/Conneries
+- [T](http://twitter.com/methylbro/status/744440905441157120) by [@methylbro](https://twitter.com/methylbro) S’adonner à la donnée, @GaellePeriat #sudweb [https://t.co/0Fvf7Wmlp7](https://t.co/0Fvf7Wmlp7)
+- [T](http://twitter.com/duncan/status/744524919938088961) by [@duncan](https://twitter.com/duncan) “Smoky fires are badly tuned fires, even if you’re using a solid fuel like wood” QZ [https://t.co/oT90Ff4llW](https://t.co/oT90Ff4llW)
+- [T](http://twitter.com/waxzce/status/744805249228017665) by [@waxzce](https://twitter.com/waxzce) If ICANN only charges 18¢ per domain name, why am I paying $10? [https://t.co/KHpDy5j1LZ](https://t.co/KHpDy5j1LZ)
+- [T](http://twitter.com/ticabri/status/744813275968245761) by [@ticabri](https://twitter.com/ticabri) 69 months of Sud Web (lu en 14 min… le temps passe et nous dépasse) GG @oncletom \o/ [https://t.co/VxI3AIGmjC](https://t.co/VxI3AIGmjC) #SudWeb https://t.co/hCOjV7jtv8
+- [T](http://twitter.com/nicolargo/status/744954127659184129) by [@nicolargo](https://twitter.com/nicolargo) INTEL (backdoor)Inside [https://t.co/PaDWJEfEvV](https://t.co/PaDWJEfEvV)
+- [T](http://twitter.com/domo_blog/status/745188871118397440) by [@domo_blog](https://twitter.com/domo_blog) #DBVeille: Android TV sur Raspberry Pi : le media center pas cher et performant [https://t.co/RkTpXDzM9Q](https://t.co/RkTpXDzM9Q) https://t.co/pNTVZFZdkj
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
