@@ -1,0 +1,71 @@
+---
+layout: post
+title: "La veille du week-end S1E3"
+date: 2016-07-01 08:00:00 +0200
+category: veille
+---
+C'est vendredi et c'est la "veille du week-end".  
+
+Hier, OVH (par la voix de son dirigeant) a annoncé l'activation de httpS sur tous les mutualisés : [le tweet du patron](https://twitter.com/olesovhcom/status/748575814992728064).  
+Une excellente nouvelle, rendue possible grâce à [Let's Encrypt](https://letsencrypt.org/).
+
+Également, [Marie-Cécile Paccard](https://twitter.com/mcpaccard) et [Goulven Champenois](https://twitter.com/goulvench) ont lancé  [@guerirleburnout](https://twitter.com/guerirleburnout), un compte dédié à ce sujet où vous pourrez (au fil du temps) trouver des infos et témoignage sur le sujet.
+
+Bonne lecture et bon week-end,
+Loïc
+
+## Dev
+- [T](http://twitter.com/wesbos/status/746045102917718016) par [@wesbos](https://twitter.com/wesbos) Here is a funny looking piece of ES6: Object Destructuring with variable renaming &amp; default values 😳 [https://t.co/itfbLfiw36](https://t.co/itfbLfiw36)
+- [T](http://twitter.com/waxzce/status/746148104362164224) par [@waxzce](https://twitter.com/waxzce) Accessing the User's Camera with JpegCamera and Canvas #html5 #js [https://t.co/0ysrI2ST1s](https://t.co/0ysrI2ST1s) https://t.co/bMrM0uTLQW
+- [T](http://twitter.com/ktosopl/status/746658192453681152) par [@ktosopl](https://twitter.com/ktosopl) Recording of my "Understanding #Akka Streams, Back Pressure and Asynchronous Architecture" webinar at @lightbend [https://t.co/CmJ4265XTe](https://t.co/CmJ4265XTe)
+
+
+## Front
+- [T](http://twitter.com/mozilla/status/746055113421225985) par [@mozilla](https://twitter.com/mozilla) Learn HTML, CSS, and more — all without leaving your browser. &lt;i&gt;Sweet.&lt;/i&gt; [https://t.co/qTbfnWOBxm](https://t.co/qTbfnWOBxm) https://t.co/7apvuV9oif
+- [T](http://twitter.com/capitainemousse/status/746294730783334400) par [@capitainemousse](https://twitter.com/capitainemousse) Hop, quelques corrections de bug + ajout d'un autre exemple de customisation pour Graph.js [https://t.co/g8ixXRqtu8](https://t.co/g8ixXRqtu8) https://t.co/v6FUUrjKWa
+- [T](http://twitter.com/HTeuMeuLeu/status/747147600411897856) par [@HTeuMeuLeu](https://twitter.com/HTeuMeuLeu) Quelques conseils pour faire un header sticky correctement (media query verticale, scroll clavier, ancres ajustées) [https://t.co/qeebMDpKVb](https://t.co/qeebMDpKVb)
+- [T](http://twitter.com/WalterStephanie/status/748049186332024834) par [@WalterStephanie](https://twitter.com/WalterStephanie) Image Replacement Techniques in the Modern Age [https://t.co/ZdXs2lxqwC](https://t.co/ZdXs2lxqwC)
+- [T](http://twitter.com/YannDecoopman/status/748151166521991169) par [@YannDecoopman](https://twitter.com/YannDecoopman) La dernière fois je cherchais un wysowyg qui coute cher, grace à github je l'ai trouvé pour moins cher [https://t.co/0xknBvJdAD](https://t.co/0xknBvJdAD)
+
+
+## Tools
+- [T](http://twitter.com/todoist/status/746037274467573760) par [@todoist](https://twitter.com/todoist) Our list of Todoist integrations is growing steadily. Anything you'd like us to add? 😊✅ [https://t.co/5x03CEQhp3](https://t.co/5x03CEQhp3) #todoist #integrations
+- [T](http://twitter.com/OlivierMissir/status/746222633713184768) par [@OlivierMissir](https://twitter.com/OlivierMissir) Google lance DataStudio, un outil gratuit pour visualiser ds données et créer ds reportings [https://t.co/4f3xhR10gd](https://t.co/4f3xhR10gd) https://t.co/3xD5qXM6Ci
+- [T](http://twitter.com/FGRibreau/status/746235421164658688) par [@FGRibreau](https://twitter.com/FGRibreau) Zero Downtime Deployment with a Database • [https://t.co/TvDRYrwVvD](https://t.co/TvDRYrwVvD)
+- [T](http://twitter.com/Kozlika/status/746265635987013632) par [@Kozlika](https://twitter.com/Kozlika) Warning: une vulnérabilité sur ImageMagik [https://t.co/MPFxJg4C39](https://t.co/MPFxJg4C39)
+- [T](http://twitter.com/clever_cloud/status/746261103995424768) par [@clever_cloud](https://twitter.com/clever_cloud) [Blog] Introducing Service Dependencies #microservices [https://t.co/PYBq7aUOOD](https://t.co/PYBq7aUOOD) https://t.co/XQJwf3Qadl
+- [T](http://twitter.com/sam_et_max/status/747174715232518144) par [@sam_et_max](https://twitter.com/sam_et_max) emre/storm: Manage your SSH like a boss. [https://t.co/p01crYIaF2](https://t.co/p01crYIaF2)
+- [T](http://twitter.com/journalduhacker/status/747793432299581442) par [@journalduhacker](https://twitter.com/journalduhacker) Introduction à la technologie Blockchain [https://t.co/Blxfns2a5U](https://t.co/Blxfns2a5U) #blockchain
+- [T](http://twitter.com/React_Rocks/status/748127949455503361) par [@React_Rocks](https://twitter.com/React_Rocks) formbuilder by @mozilla: JSON schema survey tool. Can be published, data gathered. [https://t.co/WLJ3DbmThs](https://t.co/WLJ3DbmThs) #reactjs https://t.co/DRfjMLL9BF
+- [T](http://twitter.com/journalduhacker/status/748157076422144000) par [@journalduhacker](https://twitter.com/journalduhacker) Les bases de Redis [https://t.co/60U32a7Yjs](https://t.co/60U32a7Yjs) #nosql
+
+
+## Geek/IOT
+- [T](http://twitter.com/Raspberry_Pi/status/745659993022668801) par [@Raspberry_Pi](https://twitter.com/Raspberry_Pi) New post! Hovercrafts, Minecraft mirror booths and more at @CoderDojo Coolest Projects: [https://t.co/SZ8OiuchNl](https://t.co/SZ8OiuchNl) https://t.co/nmi9PnEk2M
+- [T](http://twitter.com/guiguiabloc/status/747133293951393794) par [@guiguiabloc](https://twitter.com/guiguiabloc) Pas récent, mais terriblement efficace ! How to make an adblocker with BIND and Apache on Debian —  [https://t.co/TQsMhBcO7e](https://t.co/TQsMhBcO7e) via @ciderpunx
+- [T](http://twitter.com/CyrusNorth/status/746786369096278017) par [@CyrusNorth](https://twitter.com/CyrusNorth) J'y penserai à deux fois quand je me connecterai à un spot Wifi gratuit... [https://t.co/iU1FLdvqna](https://t.co/iU1FLdvqna)
+- [T](http://twitter.com/vvoyer/status/747693467455852544) par [@vvoyer](https://twitter.com/vvoyer) You can now signup for a free @algolia Places account (100,000 q/month) at [https://t.co/FNgonJxxgj](https://t.co/FNgonJxxgj) gg @sylvainutard https://t.co/7ZvomrYdVF
+
+
+## Marketing
+- [T](http://twitter.com/borisschapira/status/746238328412901376) par [@borisschapira](https://twitter.com/borisschapira) #Brexit Encore un bel exemple de marketing politique de la division [https://t.co/eH8QQAmcBj](https://t.co/eH8QQAmcBj)
+
+
+## Développement personnel/RH
+- [T](http://twitter.com/sam_et_max/status/747135354281549824) par [@sam_et_max](https://twitter.com/sam_et_max) Reasons not to use (i.e., be used by) Facebook [https://t.co/zqnhRI8Sr2](https://t.co/zqnhRI8Sr2)
+- [T](http://twitter.com/SudWeb/status/747442972980043776) par [@SudWeb](https://twitter.com/SudWeb) Comment @Alex_Pronine et son équipe en marinière mettent un peu de fun et de bonne humeur dans les réunions ? [https://t.co/K119x2D1S7](https://t.co/K119x2D1S7)
+- [T](http://twitter.com/MryEmery/status/747447297051627520) par [@MryEmery](https://twitter.com/MryEmery) Réseaux sociaux : nos quinze secondes d’humiliation quotidienne [https://t.co/PYJXtVTjP5](https://t.co/PYJXtVTjP5)
+- [T](http://twitter.com/savinanne/status/748030054706315264) par [@savinanne](https://twitter.com/savinanne) La #carte de #fidelite l'omerta sur les #donnees #personnelles collectees [https://t.co/znvhJSXpZx](https://t.co/znvhJSXpZx) via @Loi_1901
+- [T](http://twitter.com/goulvench/status/748225549731041280) par [@goulvench](https://twitter.com/goulvench) Plein de super conseils pratiques pour créatifs/free-lances dans la conférence de @JulienMoya ! [https://t.co/365E2FqxnC](https://t.co/365E2FqxnC) /merci @mcpaccard
+
+
+## Divers/Conneries
+- [T](http://twitter.com/waxzce/status/746001364791271424) par [@waxzce](https://twitter.com/waxzce) New Life Found That Lives Off Electricity |  Quanta Magazine [https://t.co/77t0WNzRRU](https://t.co/77t0WNzRRU) https://t.co/dX6eI3DDo9
+- [T](http://twitter.com/slashdot/status/747119878734221312) par [@slashdot](https://twitter.com/slashdot) Linux vs Windows' Challenge: Phoronix Tests Popular Games [https://t.co/Ca8in4mE9m](https://t.co/Ca8in4mE9m)
+- [T](http://twitter.com/LastWeekTonight/status/747438274847846400) par [@LastWeekTonight](https://twitter.com/LastWeekTonight) Here's our story on why it's so hard to stop athletes from doping, complete with inspirational training montages! [https://t.co/Vatue80grD](https://t.co/Vatue80grD)
+- [T](http://twitter.com/waxzce/status/747536004664406019) par [@waxzce](https://twitter.com/waxzce) Inside Silicon Valley’s Robot Pizzeria [https://t.co/ZHTJ9KA0Sm](https://t.co/ZHTJ9KA0Sm) // improve margin making pizza with robots https://t.co/BTkCpLbQzp
+- [T](http://twitter.com/valvert/status/747662573793906688) par [@valvert](https://twitter.com/valvert) Mathematics and sex [https://t.co/K7OAqYJgVD](https://t.co/K7OAqYJgVD)
+- [T](http://twitter.com/tsugimag/status/748147657101688832) par [@tsugimag](https://twitter.com/tsugimag) Gorillaz remet en ligne ses clips en HD sur YouTube : [https://t.co/9la6BJ4kTL](https://t.co/9la6BJ4kTL) https://t.co/GXX1vVCgt8
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
