@@ -21,7 +21,7 @@ Loïc
 
 
 ## Front
-- [T](http://twitter.com/mozilla/status/746055113421225985) par [@mozilla](https://twitter.com/mozilla) Learn HTML, CSS, and more — all without leaving your browser. &lt;i&gt;Sweet.&lt;/i&gt; [https://t.co/qTbfnWOBxm](https://t.co/qTbfnWOBxm) https://t.co/7apvuV9oif
+- [T](http://twitter.com/mozilla/status/746055113421225985) par [@mozilla](https://twitter.com/mozilla) Learn HTML, CSS, and more — all without leaving your browser.; [https://t.co/qTbfnWOBxm](https://t.co/qTbfnWOBxm) https://t.co/7apvuV9oif
 - [T](http://twitter.com/capitainemousse/status/746294730783334400) par [@capitainemousse](https://twitter.com/capitainemousse) Hop, quelques corrections de bug + ajout d'un autre exemple de customisation pour Graph.js [https://t.co/g8ixXRqtu8](https://t.co/g8ixXRqtu8) https://t.co/v6FUUrjKWa
 - [T](http://twitter.com/HTeuMeuLeu/status/747147600411897856) par [@HTeuMeuLeu](https://twitter.com/HTeuMeuLeu) Quelques conseils pour faire un header sticky correctement (media query verticale, scroll clavier, ancres ajustées) [https://t.co/qeebMDpKVb](https://t.co/qeebMDpKVb)
 - [T](http://twitter.com/WalterStephanie/status/748049186332024834) par [@WalterStephanie](https://twitter.com/WalterStephanie) Image Replacement Techniques in the Modern Age [https://t.co/ZdXs2lxqwC](https://t.co/ZdXs2lxqwC)
@@ -60,7 +60,7 @@ Loïc
 
 
 ## Divers/Conneries
-- [T](http://twitter.com/waxzce/status/746001364791271424) par [@waxzce](https://twitter.com/waxzce) New Life Found That Lives Off Electricity |  Quanta Magazine [https://t.co/77t0WNzRRU](https://t.co/77t0WNzRRU) https://t.co/dX6eI3DDo9
+- [T](http://twitter.com/waxzce/status/746001364791271424) par [@waxzce](https://twitter.com/waxzce) New Life Found That Lives Off Electricity : Quanta Magazine [https://t.co/77t0WNzRRU](https://t.co/77t0WNzRRU) https://t.co/dX6eI3DDo9
 - [T](http://twitter.com/slashdot/status/747119878734221312) par [@slashdot](https://twitter.com/slashdot) Linux vs Windows' Challenge: Phoronix Tests Popular Games [https://t.co/Ca8in4mE9m](https://t.co/Ca8in4mE9m)
 - [T](http://twitter.com/LastWeekTonight/status/747438274847846400) par [@LastWeekTonight](https://twitter.com/LastWeekTonight) Here's our story on why it's so hard to stop athletes from doping, complete with inspirational training montages! [https://t.co/Vatue80grD](https://t.co/Vatue80grD)
 - [T](http://twitter.com/waxzce/status/747536004664406019) par [@waxzce](https://twitter.com/waxzce) Inside Silicon Valley’s Robot Pizzeria [https://t.co/ZHTJ9KA0Sm](https://t.co/ZHTJ9KA0Sm) // improve margin making pizza with robots https://t.co/BTkCpLbQzp
