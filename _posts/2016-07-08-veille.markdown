@@ -1,0 +1,66 @@
+---
+layout: post
+title: "La veille du week-end S1E4"
+date: 2016-07-08 08:00:00 +0200
+category: veille
+---
+C'est vendredi et c'est la "veille du week-end".  
+
+Bonne lecture et bon week-end,
+Loïc
+
+## Dev
+- [T](http://twitter.com/JoliCode/status/748507889917136897) par [@JoliCode](https://twitter.com/JoliCode) Aujourd'hui sur le blog, @SFavot nous parle de Natural Language Processing ! [https://t.co/7TDDYplhy8](https://t.co/7TDDYplhy8) 🤓 https://t.co/rjxif7jJU5
+- [T](http://twitter.com/n1k0/status/748547714745569280) par [@n1k0](https://twitter.com/n1k0) meanwhile, @ipsha21 has just published one of the best introduction on react and redux I've ever read [https://t.co/Gr20q7eV5R](https://t.co/Gr20q7eV5R)
+- [T](http://twitter.com/mackhankins/status/748548675375349760) par [@mackhankins](https://twitter.com/mackhankins) Refactoring to Collections is a must read.  @adamwathan killed it with this book.  [https://t.co/zalygybsWM](https://t.co/zalygybsWM)
+- [T](http://twitter.com/LaravelPodcast/status/748635741169688577) par [@LaravelPodcast](https://twitter.com/LaravelPodcast) New episode is live! Episode 46: Laracon and Books Jeffrey Hasn’t Read, with Elixir updates, Laracon, &amp; Red Rising [https://t.co/orrNTlASmi](https://t.co/orrNTlASmi)
+- [T](http://twitter.com/leplatrem/status/748563693038895104) par [@leplatrem](https://twitter.com/leplatrem) I made my first app using redux-saga and #kinto ! Thanks @n1k0 :) [https://t.co/7Ad9EYOCnQ](https://t.co/7Ad9EYOCnQ)
+- [T](http://twitter.com/dan_abramov/status/748949964793999360) par [@dan_abramov](https://twitter.com/dan_abramov) Using ES6 modules? Understand the difference between default and named imports and exports. [https://t.co/5TYz1GxDi0](https://t.co/5TYz1GxDi0) https://t.co/A7rnjpi0WF
+- [T](http://twitter.com/fdevillamil/status/749961608550637568) par [@fdevillamil](https://twitter.com/fdevillamil) Have fun learning to master PostgreSQL with these interactive exercises. [https://t.co/aJ5RGA8EXz](https://t.co/aJ5RGA8EXz)
+- [T](http://twitter.com/fooragnak/status/749893885644726272) par [@fooragnak](https://twitter.com/fooragnak) How are we upgrading #6play on #Redux ? [https://t.co/oc95YffmfT](https://t.co/oc95YffmfT) #flux #TeamCytron #M6Web
+- [T](http://twitter.com/daylerees/status/749994247273713665) par [@daylerees](https://twitter.com/daylerees) Code Smart for @laravelphp contains 458 pages and 31 chapters of Laravel goodness. Grab your copy at [https://t.co/mDUwaAuPSS](https://t.co/mDUwaAuPSS) #laravel
+- [T](http://twitter.com/YannDecoopman/status/750362781233405957) par [@YannDecoopman](https://twitter.com/YannDecoopman) A collective list of public JSON APIs for use in web development. [https://t.co/w2i4Mrhyuq](https://t.co/w2i4Mrhyuq)
+
+
+## Front
+- [T](http://twitter.com/bdrouillat/status/748403567875231744) par [@bdrouillat](https://twitter.com/bdrouillat) "UX mobile et idées reçues" : à faire lire absolument à vos clients via @Usaddict  [https://t.co/W4e5Ey9gKC](https://t.co/W4e5Ey9gKC)
+- [T](http://twitter.com/johan_ramon/status/748892495363309568) par [@johan_ramon](https://twitter.com/johan_ramon) Akbar, a bookmarklet that simulates various types user experiences: [https://t.co/XqOytMXxzI](https://t.co/XqOytMXxzI) #accessibility #a11y
+
+
+## Tools
+- [T](http://twitter.com/ndeloof/status/748399245154189312) par [@ndeloof](https://twitter.com/ndeloof) Slides de mon talk hier au @ContainerDay16 #Jenkins #Docker [https://t.co/o3eINwke6I](https://t.co/o3eINwke6I)
+- [T](http://twitter.com/olesovhcom/status/748575814992728064) par [@olesovhcom](https://twitter.com/olesovhcom) Le SSL a été activé sur tous les sites mutu, ! Est-ce que le votre fonctionne bien en https ? Merci @letsencrypt ! [https://t.co/LlGGr3m9DU](https://t.co/LlGGr3m9DU)
+- [T](http://twitter.com/pierrickbignet/status/748842412441829376) par [@pierrickbignet](https://twitter.com/pierrickbignet) And talking about nice tools, for those who don't know ShareX this is an absolute must have [https://t.co/beM0anMzy1](https://t.co/beM0anMzy1)
+- [T](http://twitter.com/jedisct1/status/750004601601089536) par [@jedisct1](https://twitter.com/jedisct1) RT @quequero: Wget Arbitrary Commands Execution: [https://t.co/J1qt7zL1Jm](https://t.co/J1qt7zL1Jm) https://t.co/h0GBmmaVwv
+- [T](http://twitter.com/TLSv12/status/750337028823326720) par [@TLSv12](https://twitter.com/TLSv12) Vous pouvez désormais évaluer le niveau de diffusion de TLS 1.2 dans les navigateurs depuis Can I use : [https://t.co/nK3KfAErjW](https://t.co/nK3KfAErjW)
+- [T](http://twitter.com/_kud/status/750268606148116480) par [@_kud](https://twitter.com/_kud) If you are on Windows and looking for a font explorer, this one could be yours: [https://t.co/ZSXRDnUOM9](https://t.co/ZSXRDnUOM9)
+- [T](http://twitter.com/PrestaShop/status/750354846574841856) par [@PrestaShop](https://twitter.com/PrestaShop) Voici les 4 principaux changements de #PrestaShop 1.7 : [https://t.co/MhnI218pyN](https://t.co/MhnI218pyN) https://t.co/1HiRy2tSUK
+- [T](http://twitter.com/FGRibreau/status/750633141887496192) par [@FGRibreau](https://twitter.com/FGRibreau) Based on containers • Full-stack environments for every GitHub branch [https://t.co/Ol5or4DSMd](https://t.co/Ol5or4DSMd)
+
+
+## Geek/IOT
+- [T](http://twitter.com/CPUprogramme/status/748445377645391872) par [@CPUprogramme](https://twitter.com/CPUprogramme) Le clavier souverain , tartufferie pour faire Bépo ? @Solarus0 en discute avec @teslawf @radiofmr et podcast [https://t.co/Pb4XOMGcuP](https://t.co/Pb4XOMGcuP)
+- [T](http://twitter.com/arduino/status/748645912117903360) par [@arduino](https://twitter.com/arduino) Relive all the foosball action with a @Raspberry_Pi and Arduino-based instant replay system: [https://t.co/oRiXgUHmnT](https://t.co/oRiXgUHmnT) https://t.co/c56lvfvFAX
+- [T](http://twitter.com/waxzce/status/749956013328101376) par [@waxzce](https://twitter.com/waxzce) Surveillance: Google collects meta data (phone calls, SMS) from Android phones | Born's Tech and Windows World [https://t.co/jgX9TE3Ej0](https://t.co/jgX9TE3Ej0)
+
+
+## Marketing
+- [T](http://twitter.com/gonzague/status/750072185339973633) par [@gonzague](https://twitter.com/gonzague) La petite méthode pourrie de TrustPilot et ColisPrivé - [https://t.co/ndI6ISZlXF](https://t.co/ndI6ISZlXF) https://t.co/TJKrr6GidN
+
+
+## Développement personnel/RH
+- [T](http://twitter.com/goulvench/status/748225549731041280) par [@goulvench](https://twitter.com/goulvench) Plein de super conseils pratiques pour créatifs/free-lances dans la conférence de @JulienMoya ! [https://t.co/365E2FqxnC](https://t.co/365E2FqxnC) /merci @mcpaccard
+- [T](http://twitter.com/FGRibreau/status/750034527943360514) par [@FGRibreau](https://twitter.com/FGRibreau) "nobody is irreplaceable" is bullshit, "successes are built with irreplaceable people" (talk in french) [https://t.co/LSWPd9bO7Y](https://t.co/LSWPd9bO7Y)
+- [T](http://twitter.com/pascal_martin/status/749859552674344960) par [@pascal_martin](https://twitter.com/pascal_martin) « Finding Time to Become a Better Developer », by @BillSourour — [https://t.co/re1biK3AZ0](https://t.co/re1biK3AZ0) https://t.co/wOvHUrAZUI
+- [T](http://twitter.com/glazou/status/750044279947558912) par [@glazou](https://twitter.com/glazou) faites une pause et écoutez ce que j'ai dit à Nantes sur l'état du Logiciel en France (titre sur Youtube faux) [https://t.co/WY85nwqaKC](https://t.co/WY85nwqaKC)
+- [T](http://twitter.com/todoist/status/750382183437701120) par [@todoist](https://twitter.com/todoist) 33 Companies Share Their Secrets to Remote Work Success (feat. Todoist): [https://t.co/GeA2tqaUeq](https://t.co/GeA2tqaUeq) #todoist #remotework
+
+
+## Divers/Conneries
+- [T](http://twitter.com/Wisibility/status/748884150338330624) par [@Wisibility](https://twitter.com/Wisibility) Impressionnant ! Comment fonctionne la technologie derrière les filtres #SnapChat ! [https://t.co/Qq0JNrfEPx](https://t.co/Qq0JNrfEPx)
+- [T](http://twitter.com/SarahBocelli/status/748782708088721408) par [@SarahBocelli](https://twitter.com/SarahBocelli) Le trou dans la couche d'ozone se referme, et pour une fois qu'on a une bonne nouvelle, on va pas cracher dessus [https://t.co/a5GG31hxQu](https://t.co/a5GG31hxQu)
+- [T](http://twitter.com/rudyrigot/status/749407056436686848) par [@rudyrigot](https://twitter.com/rudyrigot) "How AWS came to be" - When serendipity hits, it doesn't hit in a single blow. [https://t.co/k6tYdR3u37](https://t.co/k6tYdR3u37)
+- [T](http://twitter.com/iamtzi/status/750302328507498497) par [@iamtzi](https://twitter.com/iamtzi) Une liste d'espace de coworking (à l'heure ou à la journée) partout dans le monde. A garder dans ses bookmarks ! [https://t.co/CuFYdriNFN](https://t.co/CuFYdriNFN)
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
