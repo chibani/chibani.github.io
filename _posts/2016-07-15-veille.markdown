@@ -1,0 +1,74 @@
+---
+layout: post
+title: "La veille du week-end S1E5"
+date: 2016-07-15 07:20:00 +0200
+category: veille
+---
+C'est vendredi et c'est la "veille du week-end".  
+
+_Ce matin, toutes mes pensées vont à mes "voisins" niçois :/_
+
+Bonne lecture et bon week-end,
+Loïc
+
+## Dev
+
+- [T](http://twitter.com/symfony/status/750974779612475393) par [@symfony](https://twitter.com/symfony) New in Symfony 3.2: Console Improvements (Part 1) [https://t.co/hUdhguJvto](https://t.co/hUdhguJvto)
+- [T](http://twitter.com/theystolemynick/status/751100777452666880) par [@theystolemynick](https://twitter.com/theystolemynick) Quelques réflexes à prendre pour écrire du code extrêmement clair  [https://t.co/AzvbSGbbRC](https://t.co/AzvbSGbbRC)
+- [T](http://twitter.com/dsampaolo/status/751731049059774464) par [@dsampaolo](https://twitter.com/dsampaolo) Laravel 5 visual log viewer : [https://t.co/9jgBY0xWMP](https://t.co/9jgBY0xWMP)
+- [T](http://twitter.com/mariofusco/status/751811659010863104) par [@mariofusco](https://twitter.com/mariofusco) Best known machine learning algorithms segregated by their application intent [https://t.co/Rwr2EISH0e](https://t.co/Rwr2EISH0e)
+- [T](http://twitter.com/pascal_martin/status/752758676251938816) par [@pascal_martin](https://twitter.com/pascal_martin) Quelques slides que j'ai utilisés chez @TEA_tech pour montrer les principales nouveautés de PHP 7.0 et 7.1 — [https://t.co/PvDi0zOI7X](https://t.co/PvDi0zOI7X)
+- [T](http://twitter.com/FGRibreau/status/752807583707197440) par [@FGRibreau](https://twitter.com/FGRibreau) TIL The Claim Check pattern [https://t.co/fatpYeW0cf](https://t.co/fatpYeW0cf)
+
+
+## Front
+
+- [T](http://twitter.com/CelineRouquie/status/751341811612909568) par [@CelineRouquie](https://twitter.com/CelineRouquie) Quelques règles de base pour concevoir un formulaire "user-friendly" [https://t.co/QMFHqToIep](https://t.co/QMFHqToIep) #UX #InterfaceDesign (via @MatPREAU)
+- [T](http://twitter.com/Godefroy/status/752464081706160128) par [@Godefroy](https://twitter.com/Godefroy) Design Better Forms [https://t.co/UXpMyTDL1f](https://t.co/UXpMyTDL1f)
+- [T](http://twitter.com/dhoko_/status/751412546037579776) par [@dhoko_](https://twitter.com/dhoko_) Pour comparaison, ce plugin de tooltip (accessible) [https://t.co/8IHugJWUee](https://t.co/8IHugJWUee) qui ne défonce pas tes FPS. https://t.co/9Hn4QzS2se
+- [T](http://twitter.com/iamtzi/status/752851184738795520) par [@iamtzi](https://twitter.com/iamtzi) Pour ceux qui ont aimé le premier quizz #CSS, en voici un autre sur #flexbox [https://t.co/gTsdEQwPsp](https://t.co/gTsdEQwPsp) Par @goetter ;) https://t.co/V55zi9bDHZ
+
+
+## Tools
+
+- [T](http://twitter.com/jiceb/status/750990316912640000) par [@jiceb](https://twitter.com/jiceb) Mozaïk is a tool based on #nodejs / #react / #d3 / #stylus to easily craft beautiful #dashboard : [https://t.co/2ele38B2MS](https://t.co/2ele38B2MS)
+- [T](http://twitter.com/porteneuve/status/751051611552772096) par [@porteneuve](https://twitter.com/porteneuve) On a suggestion by @mbrehin, I just whipped this up real quick: [https://t.co/5uWbfjXMaV](https://t.co/5uWbfjXMaV) — 'hope it helps some of you #git #stalerefs #prune
+- [T](http://twitter.com/mariejulien/status/751502024286597126) par [@mariejulien](https://twitter.com/mariejulien) OK c'est bon, j'ai publié mon thème Atom "jeux vidéo 80's qui casse les yeux". [https://t.co/mgUnoDvH4g](https://t.co/mgUnoDvH4g) https://t.co/R9yClk9wuU
+- [T](http://twitter.com/gregoirenoyelle/status/751671240411131904) par [@gregoirenoyelle](https://twitter.com/gregoirenoyelle) By by Mamp? Pressmatic | Install #WordPress on your Mac [https://t.co/XgbQrJPbEl](https://t.co/XgbQrJPbEl)
+- [T](http://twitter.com/tbaldauf/status/751393197318889473) par [@tbaldauf](https://twitter.com/tbaldauf) The video of my @velocityconf talk on HTTP2 Image Loading + Server Push is now available: [https://t.co/5x8iSZpeQj](https://t.co/5x8iSZpeQj) #perfmatters #velocityconf
+- [T](http://twitter.com/FGRibreau/status/751825266696151040) par [@FGRibreau](https://twitter.com/FGRibreau) FINALLY someone found the perfect way! Show notification when long running cmd finishes • [https://t.co/ewIOtNocRF](https://t.co/ewIOtNocRF)
+- [T](http://twitter.com/waxzce/status/752308714863026177) par [@waxzce](https://twitter.com/waxzce) Moeditor Your all-purpose markdown editor. #elektron #javascript [https://t.co/HDe7HyaJZe](https://t.co/HDe7HyaJZe) https://t.co/sNgyiCx9P1
+- [T](http://twitter.com/rbwebdev/status/752838802230611969) par [@rbwebdev](https://twitter.com/rbwebdev) Automatiser sa productivité avec gulp [https://t.co/NbPkQMkBXw](https://t.co/NbPkQMkBXw) (cc @_flexbox)
+
+
+## Geek/IOT
+
+- [T](http://twitter.com/Raspberry_Pi/status/751382735474733057) par [@Raspberry_Pi](https://twitter.com/Raspberry_Pi) New post: programming your #PiZero over USB - a super-comprehensive video from @Dan_Aldred. [https://t.co/TLBs4nk9xy](https://t.co/TLBs4nk9xy) https://t.co/Ckc918rWd9
+- [T](http://twitter.com/dazjdm/status/752479701638254592) par [@dazjdm](https://twitter.com/dazjdm) Tiens, Recalbox se met à jour et passe en 4.0.0-beta4 [https://t.co/IiFJJH4jEt](https://t.co/IiFJJH4jEt)
+
+
+## Marketing
+
+J'aurai pu proposer des tweets sur Pokemon Go, mais non ;)
+
+## Développement personnel/RH
+
+- [T](http://twitter.com/guerirleburnout/status/751083496630808576) par [@guerirleburnout](https://twitter.com/guerirleburnout) “Le burnout et moi” : le témoignage de @goulvench sur notre plateforme #burnout [https://t.co/ZtdfGnWk8W](https://t.co/ZtdfGnWk8W)
+- [T](http://twitter.com/LaetitiaPhan/status/751371278649532417) par [@LaetitiaPhan](https://twitter.com/LaetitiaPhan) Musclez votre intuition :) [https://t.co/r9i6YgZHSP](https://t.co/r9i6YgZHSP)
+- [T](http://twitter.com/tuf/status/752140361397628928) par [@tuf](https://twitter.com/tuf) About 68% of people experience "phantom vibration syndrome" [https://t.co/xBVLSBSPDn](https://t.co/xBVLSBSPDn)
+- [T](http://twitter.com/LaetitiaPhan/status/752862180459028480) par [@LaetitiaPhan](https://twitter.com/LaetitiaPhan) D'excellents rappels pour pratiquer la présence et la pleine conscience au travail! [https://t.co/A9OAkcjglf](https://t.co/A9OAkcjglf) https://t.co/cTh4ZvsiYl
+
+
+## Divers/Conneries
+
+- [T](http://twitter.com/Wisibility/status/751006597049114624) par [@Wisibility](https://twitter.com/Wisibility) Les mecs sont vraiment au dessus ! Clip Live #sifacile des @casseursflowte_ [https://t.co/HRKL8JxxUA](https://t.co/HRKL8JxxUA) v/ @Orel_san
+- [T](http://twitter.com/Wisibility/status/751030676972040192) par [@Wisibility](https://twitter.com/Wisibility) Le Poto @royopepito sort un film super joli sur la 2CV Sahara 1964 (seule voiture produite avec 2 moteurs, 694 ex) [https://t.co/9359vBZDgM](https://t.co/9359vBZDgM)
+- [T](http://twitter.com/rudyrigot/status/751033756337582080) par [@rudyrigot](https://twitter.com/rudyrigot) A script that uses speech-to-text to make it look like you were listening to that conference call. Brilliant! [https://t.co/pzvcstIkF9](https://t.co/pzvcstIkF9)
+- [T](http://twitter.com/tyrower/status/751153736588857344) par [@tyrower](https://twitter.com/tyrower) .@Experimentboy fait des bulles géantes et explosives - ChimFizz #04 - String Theory @StringTheoryFR [https://t.co/YolWTTqL5l](https://t.co/YolWTTqL5l)
+- [T](http://twitter.com/TheWalkingWeb/status/751381466332991488) par [@TheWalkingWeb](https://twitter.com/TheWalkingWeb) "TWW 30 - La réalité virtuelle" : [https://t.co/vT2PiOnhnl](https://t.co/vT2PiOnhnl) via @YouTube
+- [T](http://twitter.com/philogb/status/752355974946492417) par [@philogb](https://twitter.com/philogb) Lovely little math story [https://t.co/qmTgxKVe3F](https://t.co/qmTgxKVe3F)
+- [T](http://twitter.com/tweetsauce/status/752203697225072640) par [@tweetsauce](https://twitter.com/tweetsauce) 6 weeks = 6x7x24x60x60 seconds = 6x7x(3x8)x(3600) = 6x7x(3x8)x(4x9x10x10) = 6x7x3x8x4x9x10x(2x5) = 2x3x4x5x6x7x8x9x10 = exactly 10! seconds
+- [T](http://twitter.com/borisschapira/status/752533631449563136) par [@borisschapira](https://twitter.com/borisschapira) [Papa] La blockchain expliquée à un enfant de cinq ans [https://t.co/uAyDxf1fXq](https://t.co/uAyDxf1fXq)
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
