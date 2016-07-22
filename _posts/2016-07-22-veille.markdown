@@ -1,0 +1,52 @@
+---
+layout: post
+title: "La veille du week-end S1E6"
+date: 2016-07-22 07:30:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.
+
+La folie Pokemon Go continue, Boulet poursuit également [SA version du jeu](https://www.instagram.com/bouletto/) (à voir, absolument).
+
+Bonne lecture et bon week-end, Loïc
+
+## Dev
+- [T](http://twitter.com/dsampaolo/status/753970253609197568) par [@dsampaolo](https://twitter.com/dsampaolo) Ma découverte de MJML.io, framework pour templates d'emails responsive (@mjmlio) : [https://t.co/2mW3BBqjfI](https://t.co/2mW3BBqjfI)
+- [T](http://twitter.com/waxzce/status/754633888358686720) par [@waxzce](https://twitter.com/waxzce) Modeling Polymorphic Associations in a Relational Database [https://t.co/b7Hhw6ivjL](https://t.co/b7Hhw6ivjL)
+- [T](http://twitter.com/angustweets/status/754375515159441408) par [@angustweets](https://twitter.com/angustweets) It felt wrong installing half of npm even for basic utilities, so I made JUST, a family of dependency-free modules [https://t.co/B8pApAiYCK](https://t.co/B8pApAiYCK)
+- [T](http://twitter.com/kennethreitz/status/755101908994363392) par [@kennethreitz](https://twitter.com/kennethreitz) "The Hitchhiker's Guide to Python" has now been translated into French! [https://t.co/h41QNZgM9R](https://t.co/h41QNZgM9R)
+
+## Front
+- [T](http://twitter.com/waxzce/status/753502701842030592) par [@waxzce](https://twitter.com/waxzce) Cleave.js - Format input text content when you are typing [https://t.co/3NXOIU19gg](https://t.co/3NXOIU19gg) #javascript https://t.co/CJXc6bwWcs
+- [T](http://twitter.com/Godefroy/status/754275918861000704) par [@Godefroy](https://twitter.com/Godefroy) Unidirectional User Interface Architectures (Redux, Flux, BEST, Elm, Cycle.js, Nested Dialogues) [https://t.co/dPbTdc5ai1](https://t.co/dPbTdc5ai1)
+- [T](http://twitter.com/mattzeunert/status/755438161787052032) par [@mattzeunert](https://twitter.com/mattzeunert) It's easy to forget how many input types there are and how they affect keyboards on mobile. [https://t.co/hFJj04JAVV](https://t.co/hFJj04JAVV) https://t.co/4K9kp7b5c4
+
+## Tools
+- [T](http://twitter.com/fabienv/status/753622591819186184) par [@fabienv](https://twitter.com/fabienv) #scrapely: Use #machinelearning with #webscraping to detect #data in a webpage @ScrapingHub [https://t.co/9Ki92WJCXm](https://t.co/9Ki92WJCXm)
+- [T](http://twitter.com/vcomposieux/status/754226204341833728) par [@vcomposieux](https://twitter.com/vcomposieux) [https://t.co/oj92WUVxAB](https://t.co/oj92WUVxAB) - the cron schedule expression editor https://t.co/RR5fDYCpsj
+- [T](http://twitter.com/damienalexandre/status/754258038597517313) par [@damienalexandre](https://twitter.com/damienalexandre) #Elasticsearch plugin #kopf is being rebuilt as standalone app, as ES 5.0 remove site plugin support  [https://t.co/I0nCfFfx2G](https://t.co/I0nCfFfx2G) #kibana
+- [T](http://twitter.com/waxzce/status/754694413138419712) par [@waxzce](https://twitter.com/waxzce) Faster #PostgreSQL Searches with Trigrams [https://t.co/4CDNQfnKZI](https://t.co/4CDNQfnKZI) cc @urcadox #SQL #postgre https://t.co/6kpM13IShz
+- [T](http://twitter.com/JoliCode/status/754966363677061120) par [@JoliCode](https://twitter.com/JoliCode) #Elasticsearch user? Look at our cheatsheet! Rewritten and updated, with support for all major versions [https://t.co/3ZhrLaFcme](https://t.co/3ZhrLaFcme)
+- [T](http://twitter.com/clementd/status/755373863270289408) par [@clementd](https://twitter.com/clementd) A detailed breakdown of why you shouldn't use mysql [https://t.co/c7MaDYCqzf](https://t.co/c7MaDYCqzf)
+- [T](http://twitter.com/elastic/status/755421064864276481) par [@elastic](https://twitter.com/elastic) Why site plugins are being removed in #Elasticsearch 5.0 &amp; what you can do to prepare for it [https://t.co/HxcxN4s7c9](https://t.co/HxcxN4s7c9) https://t.co/4qw5KBF2c4
+
+
+## Marketing
+*J'aurai pu coller un ou deux trucs sur Pokemon Go, mais non :D*
+
+## Développement personnel/RH
+- [T](http://twitter.com/LaetitiaPhan/status/753933559514140672) par [@LaetitiaPhan](https://twitter.com/LaetitiaPhan) Dealing with our children being overwhelmed/Accompagner un enfant dépassé par ses émotions [https://t.co/KkY21fYHli](https://t.co/KkY21fYHli)
+- [T](http://twitter.com/theystolemynick/status/754697081919574016) par [@theystolemynick](https://twitter.com/theystolemynick) pourquoi les gens racontent des trucs visiblement faux sur Internet ? [https://t.co/oimfAjAKBj](https://t.co/oimfAjAKBj)
+- [T](http://twitter.com/todoist/status/755113022679552002) par [@todoist](https://twitter.com/todoist) Working With Todoist: How I Organise My Projects (via @carl_pullein): [https://t.co/6UYxxKN2uc](https://t.co/6UYxxKN2uc) #productivity #todoist #gtd
+- [T](http://twitter.com/kReEsTaL/status/754979064918732800) par [@kReEsTaL](https://twitter.com/kReEsTaL) [Blog] Cela fait 15 ans que je blogue. Et je n’ai jamais eu autant envie d‘arrêter qu’aujourd’hui. Voici pourquoi. [https://t.co/VoNIOUOUKo](https://t.co/VoNIOUOUKo)
+
+
+## Divers/Conneries
+- [T](http://twitter.com/porteneuve/status/754666872688275456) par [@porteneuve](https://twitter.com/porteneuve) "We're the Superhumans". Seriously, watch this through. Will blow you away — [https://t.co/TNp11SYwoz](https://t.co/TNp11SYwoz)
+- [T](http://twitter.com/tyrower/status/753629755648446464) par [@tyrower](https://twitter.com/tyrower) Les vacances dans l'espace (ft. Boulet) - Spatialiste #04 - @StringTheoryFR avec @FlorencePorcel et #Emmett  [https://t.co/4JjjZrwagV](https://t.co/4JjjZrwagV)
+- [T](http://twitter.com/MoOx/status/753648274826027008) par [@MoOx](https://twitter.com/MoOx) This blind Apple engineer is transforming the tech world at only 22 [https://t.co/ieta3oRBzS](https://t.co/ieta3oRBzS)
+- [T](http://twitter.com/bouchecousue/status/753947069421936644) par [@bouchecousue](https://twitter.com/bouchecousue) Magic Online et sa “Fibre optique Magic Max” [https://t.co/NAmcBybYNi](https://t.co/NAmcBybYNi) https://t.co/uSvFQUh8Dn
+- [T](http://twitter.com/julienmuguet/status/753337532532785153) par [@julienmuguet](https://twitter.com/julienmuguet) La meilleure version de System Of A Down - Chop Suey! Par Insane Cherry (Animal Cover). Voila à quoi sert internet [https://t.co/ijBNX0lqJL](https://t.co/ijBNX0lqJL)
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
