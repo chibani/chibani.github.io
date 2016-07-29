@@ -1,0 +1,58 @@
+---
+layout: post
+title: "La veille du week-end S1E7"
+date: 2016-07-29 07:30:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.
+
+Cette semaine s'est tenue la LaravelCon, aux US. C'est la conférence annuelle sur Laravel.  
+Et, ils ont annoncé les grandes nouveauté de la 5.3 (qui va sortir courant août), [JoliCode les a résumé](https://jolicode.com/blog/les-nouveautes-de-laravel-5-3).
+
+Bonne lecture et bon week-end, Loïc
+
+## Dev
+- [T](http://twitter.com/angustweets/status/756910712992083968) par [@angustweets](https://twitter.com/angustweets) ICYMI (and because I'm vain) "Why I wrote Just" [https://t.co/8tgfpegPat](https://t.co/8tgfpegPat)
+- [T](http://twitter.com/knewter/status/756924714191298560) par [@knewter](https://twitter.com/knewter) This article on OOP is fascinating: [https://t.co/H7vTWX6pbd](https://t.co/H7vTWX6pbd)
+- [T](http://twitter.com/tilotiti/status/757989261509623808) par [@tilotiti](https://twitter.com/tilotiti) Hop ! Mon nouveau #Bundle #Symfony : gérez les fichiers de vos entités en base64. [https://t.co/ElwcjlgbkS](https://t.co/ElwcjlgbkS) #PHP #packagist #Symfony3
+- [T](http://twitter.com/waxzce/status/758196507753402368) par [@waxzce](https://twitter.com/waxzce) API Keys of data protection - by @D33d33k #WEB2DAY #tech2day [https://t.co/TrU53WkFsW](https://t.co/TrU53WkFsW)
+
+
+## Front
+- [T](http://twitter.com/reactjs/status/756519871949770757) par [@reactjs](https://twitter.com/reactjs) Launching create-react-app, a no config getting started experience, #nomorejsfatigue [https://t.co/fqVWgn7w5t](https://t.co/fqVWgn7w5t)
+- [T](http://twitter.com/WalterStephanie/status/758196972411056129) par [@WalterStephanie](https://twitter.com/WalterStephanie) Nice little trick: Full Width Containers in Limited Width Parents [https://t.co/duDkziEwXW](https://t.co/duDkziEwXW)
+
+
+## Tools
+- [T](http://twitter.com/JavaScriptDaily/status/755901148226355200) par [@JavaScriptDaily](https://twitter.com/JavaScriptDaily) Speeding Up Babel Transpilation with Compact Mode: [https://t.co/rKGPbj3QQk](https://t.co/rKGPbj3QQk)
+- [T](http://twitter.com/CaptainTrain_en/status/756099349491441664) par [@CaptainTrain_en](https://twitter.com/CaptainTrain_en) Our @pmorinerie wrote an article on how we moved from Jenkins to Gitlab CI: [https://t.co/QXIBWqhksP](https://t.co/QXIBWqhksP) https://t.co/cM4RKcxPZt
+- [T](http://twitter.com/letsencrypt/status/757977575671029760) par [@letsencrypt](https://twitter.com/letsencrypt) Let's Encrypt now fully supports IPv6. [https://t.co/d4U76R7qpO](https://t.co/d4U76R7qpO)
+- [T](http://twitter.com/dascritch/status/758184650036486144) par [@dascritch](https://twitter.com/dascritch) Les ingés @uber expliquent pourquoi ils sont revenus à MySQL et ce qu'ils reprochent à PostGreSQL. [https://t.co/U2ecCGbxr6](https://t.co/U2ecCGbxr6) ouch.
+
+
+## Marketing
+- [T](http://twitter.com/Fasterize/status/756389090539352064) par [@Fasterize](https://twitter.com/Fasterize) L’impact des temps de chargement sur le rythme cardiaque [https://t.co/yvn4V7wwX7](https://t.co/yvn4V7wwX7) #zen #webperf #MobileFirst https://t.co/gVadgEByYJ
+
+
+## Développement personnel/RH
+- [T](http://twitter.com/waxzce/status/756233324750831617) par [@waxzce](https://twitter.com/waxzce) Building an Open Source Company: Interview with GitLab's CEO [https://t.co/sm49ajD67K](https://t.co/sm49ajD67K) https://t.co/Rq9floHNXh
+- [T](http://twitter.com/newsycombinator/status/756866642118905856) par [@newsycombinator](https://twitter.com/newsycombinator) Project delays: why good software estimates are impossible [https://t.co/O7gZesrzu8](https://t.co/O7gZesrzu8)
+- [T](http://twitter.com/iergo/status/757472131793887232) par [@iergo](https://twitter.com/iergo) Cahier de vacances : Don Norman – The Impact of Persuasion [https://t.co/miiBvfCpHg](https://t.co/miiBvfCpHg) https://t.co/Iu4pRxOykG
+- [T](http://twitter.com/mpjme/status/757489018829438976) par [@mpjme](https://twitter.com/mpjme) Does a developer need to be nice? [https://t.co/lBOENsqte3](https://t.co/lBOENsqte3) https://t.co/6ankhiXXqR
+- [T](http://twitter.com/thibaut_barrere/status/757950973595815936) par [@thibaut_barrere](https://twitter.com/thibaut_barrere) Employee benefits at Basecamp — Signal v. Noise [https://t.co/IIsj0HmdTZ](https://t.co/IIsj0HmdTZ)
+
+
+## Divers/Conneries
+- [T](http://twitter.com/reesmarc/status/756429444445835264) par [@reesmarc](https://twitter.com/reesmarc) Comment les services du renseignement pourront surveiller (presque) n'importe qui [https://t.co/KxjPb7OKMb](https://t.co/KxjPb7OKMb) LPM LoiRenseignement #EtatdUrgence
+- [T](http://twitter.com/picaboubx/status/756880413780480006) par [@picaboubx](https://twitter.com/picaboubx) #laviedesmoutons Ep109 «Chuut au ciné» par @Grincheux est en ligne : [https://t.co/K7Ce6DzleM](https://t.co/K7Ce6DzleM) via @podCloud_fr https://t.co/WSgYhQqeyO
+- [T](http://twitter.com/Loran750/status/757688000184713216) par [@Loran750](https://twitter.com/Loran750) Toi qui commande chez Amazon avec la livraison gratuite, sache qu'un pauvre imbécile est payé 0,53 € pour le livrer. [https://t.co/e8zB2NWMBE](https://t.co/e8zB2NWMBE)
+- [T](http://twitter.com/crash__/status/758266443582570496) par [@crash__](https://twitter.com/crash__) Voilà pourquoi vous devriez être seul maitre de vos mots de passe et ne pas utiliser de gestionnaire… [https://t.co/Fb0PS8bEWo](https://t.co/Fb0PS8bEWo) #0day
+- [T](http://twitter.com/akosma/status/757527181702594561) par [@akosma](https://twitter.com/akosma) re-reading @kadavy‘s “Design for Hackers” which I should have included in my list of must-read books in Medium! [https://t.co/w7Z4wL2k8Y](https://t.co/w7Z4wL2k8Y)
+- [T](http://twitter.com/Skhaen/status/758408086918991874) par [@Skhaen](https://twitter.com/Skhaen) J'étais en train de nettoyer mon gihub, et du coup j'ai publié une version plus "propre" du guide de #lockpicking" [https://t.co/1STfnRPtcB](https://t.co/1STfnRPtcB)
+- [T](http://twitter.com/JeanAbbiateci/status/757880068865687552) par [@JeanAbbiateci](https://twitter.com/JeanAbbiateci) Algorithmia, une API pour coloriser automatiquement des images en N&amp;B [https://t.co/1rkoyIqlGC](https://t.co/1rkoyIqlGC) https://t.co/5MNA4A9ztZ
+
+
+
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
