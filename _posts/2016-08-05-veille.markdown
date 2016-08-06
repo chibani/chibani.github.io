@@ -1,0 +1,69 @@
+---
+layout: post
+title: "La veille du week-end S1E8"
+date: 2016-08-05 07:30:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.
+
+Cette semaine, je suis en vacances, alors je fais simple :D
+
+Bonne lecture et bon week-end, Loïc
+
+## Dev
+- [T](http://twitter.com/fdevillamil/status/758904652184166400) par [@fdevillamil](https://twitter.com/fdevillamil) For people who love coding deep in the system: A tutorial on writing kernels that boot with Qemu and Grub. [https://t.co/yqarJft3zx](https://t.co/yqarJft3zx)
+- [T](http://twitter.com/porteneuve/status/759323427794722816) par [@porteneuve](https://twitter.com/porteneuve) The MS #REST #API guidelines are super-thorough, and I like pretty much all of it: [https://t.co/wYGGG1nwJE](https://t.co/wYGGG1nwJE) — Must-read for API publishers
+- [T](http://twitter.com/CretuEusebiu/status/759863900280061952) par [@CretuEusebiu](https://twitter.com/CretuEusebiu) This is what you can do now in @laravelphp 5.3 [https://t.co/kMHZ0500aP](https://t.co/kMHZ0500aP) #laravel #vuejs https://t.co/Hzlp0msRez
+- [T](http://twitter.com/jonpugh/status/759733817531858944) par [@jonpugh](https://twitter.com/jonpugh) Dear internet builders, I renewed the domain [https://t.co/rvP6OU71Sl](https://t.co/rvP6OU71Sl) and set it and all subdomains to 127.0.0.1. Enjoy!
+- [T](http://twitter.com/laracasts/status/760598582797955073) par [@laracasts](https://twitter.com/laracasts) The latest episode in “What’s new in Laravel 5.3” just went up. Learn about the new $loop object. [https://t.co/EnBLvxZtbx](https://t.co/EnBLvxZtbx)
+
+
+## Front
+- [T](http://twitter.com/cssyren/status/758577778635735040) par [@cssyren](https://twitter.com/cssyren) In CSS: use pixels, not em [https://t.co/pA5xMOjkIz](https://t.co/pA5xMOjkIz) via @jgthms
+- [T](http://twitter.com/nhoizey/status/758916719565864960) par [@nhoizey](https://twitter.com/nhoizey) Viewport Sized Typography with Minimum and Maximum Sizes [https://t.co/Ble2jaG9XN](https://t.co/Ble2jaG9XN) /via @CleverMarks
+- [T](http://twitter.com/WalterStephanie/status/758935250881748994) par [@WalterStephanie](https://twitter.com/WalterStephanie) Le retour des liens de la semaine: UX, CSS, SVG, tutoriels, astuces et supers articles [https://t.co/Bck1AQcOAN](https://t.co/Bck1AQcOAN) https://t.co/oBWxq6ybGW
+- [T](http://twitter.com/goetter/status/759041793090609152) par [@goetter](https://twitter.com/goetter) Et maintenant, la réflexion sur une Convention de Breakpoints responsive : [https://t.co/EFg0jvYH2f](https://t.co/EFg0jvYH2f) (arguments vivement sollicités)
+- [T](http://twitter.com/nhoizey/status/759070234116517888) par [@nhoizey](https://twitter.com/nhoizey) Web Design in 4 minutes [https://t.co/42qYm6CPmv](https://t.co/42qYm6CPmv) /via @CleverMarks
+- [T](http://twitter.com/SaraSoueidan/status/759439937729073152) par [@SaraSoueidan](https://twitter.com/SaraSoueidan) “FFFFALLBACK makes it easy to find the perfect fallback fonts, so that your designs degrade gracefully.” [https://t.co/FmxgfXm9tk](https://t.co/FmxgfXm9tk)
+- [T](http://twitter.com/dhoko_/status/760507530242035712) par [@dhoko_](https://twitter.com/dhoko_) Choices.js ~ lightweight, configurable select box/text input plugin. Similar to Select2 (no jQuery) [https://t.co/xjKaXHIdK6](https://t.co/xjKaXHIdK6) #JavaScript
+- [T](http://twitter.com/SaraSoueidan/status/760776667367346176) par [@SaraSoueidan](https://twitter.com/SaraSoueidan) Mind blown: Using viewport units to create a #CSS-only scroll indicator! 😱 [https://t.co/A9iyWHQOAE](https://t.co/A9iyWHQOAE) by @MikeRiethmuller This is BRILLIANT!🔥
+
+
+## Tools
+- [T](http://twitter.com/jekyll_fr/status/758665754468294656) par [@jekyll_fr](https://twitter.com/jekyll_fr) Jekyll 3.2.0 avec un début de support des thèmes et un nouveau filtre where_exp pour filtrer des tableaux [https://t.co/FxRewIE27d](https://t.co/FxRewIE27d)
+- [T](http://twitter.com/JeanAbbiateci/status/757880068865687552) par [@JeanAbbiateci](https://twitter.com/JeanAbbiateci) Algorithmia, une API pour coloriser automatiquement des images en N&amp;B [https://t.co/1rkoyIqlGC](https://t.co/1rkoyIqlGC) https://t.co/5MNA4A9ztZ
+- [T](http://twitter.com/nhoizey/status/758765026815647744) par [@nhoizey](https://twitter.com/nhoizey) Know why @jaffathecake’s SVGOMG has OMG in its name? Look at this SVG logo from @algolia! [https://t.co/CDToE2dShI](https://t.co/CDToE2dShI) https://t.co/uyOwfR5awF
+- [T](http://twitter.com/SeanTAllen/status/759341106152796160) par [@SeanTAllen](https://twitter.com/SeanTAllen) Even if yo don't care about PgSQL and MySQL, this is an awesome read: [https://t.co/AKZPvk0b69](https://t.co/AKZPvk0b69)
+- [T](http://twitter.com/rudyrigot/status/759578767102734337) par [@rudyrigot](https://twitter.com/rudyrigot) "Code Snippets": like JSFiddle, but in your Chrome Dev Tools. [https://t.co/oP2z46xjgt](https://t.co/oP2z46xjgt)
+- [T](http://twitter.com/b0rk/status/759758932181147648) par [@b0rk](https://twitter.com/b0rk) ngrep  - grep your network! [https://t.co/LJCtQEaDAK](https://t.co/LJCtQEaDAK)
+- [T](http://twitter.com/porteneuve/status/760574850968743936) par [@porteneuve](https://twitter.com/porteneuve) gh-ost by GitHub Engineering seems like a killer online MySQL migration tool — [https://t.co/CAHfbC2OTz](https://t.co/CAHfbC2OTz)
+- [T](http://twitter.com/edenpulse/status/760236811188858881) par [@edenpulse](https://twitter.com/edenpulse) Sketch, ma sélection de plugins [https://t.co/C4W4VRBGiz](https://t.co/C4W4VRBGiz) @nbirckel @WalterStephanie #sketch #plugins
+- [T](http://twitter.com/SwiftOnSecurity/status/760911516337971201) par [@SwiftOnSecurity](https://twitter.com/SwiftOnSecurity) .@1Password debuts native cloud syncing of encrypted password container, matching and surpassing LastPass in areas [https://t.co/F8driQeF7w](https://t.co/F8driQeF7w)
+
+
+## Marketing
+_rien..._
+
+## Geek/IOT
+- [T](http://twitter.com/waxzce/status/758576038179958784) par [@waxzce](https://twitter.com/waxzce) Exploring the Physical Web (Without Buying Beacons) — Medium [https://t.co/rpeAkPa3sO](https://t.co/rpeAkPa3sO) https://t.co/KVI5Hg7Yjt
+
+
+## Développement personnel/RH
+- [T](http://twitter.com/waxzce/status/758979213865037825) par [@waxzce](https://twitter.com/waxzce) This cartoon explains why Elon Musk thinks we’re characters in a computer simulation. [https://t.co/JuPLwVOhxL](https://t.co/JuPLwVOhxL) https://t.co/qoZFYpYP2W
+- [T](http://twitter.com/pascal_martin/status/758994988185231362) par [@pascal_martin](https://twitter.com/pascal_martin) « Why do we automate? », by @mattiasgeniar — [https://t.co/UIUg8XbxRO](https://t.co/UIUg8XbxRO) https://t.co/dwZ7dL0u5c
+- [T](http://twitter.com/wesbos/status/760113858467856384) par [@wesbos](https://twitter.com/wesbos) I've been doing value based billing for years and it pays way better. Hourly Billing is Nuts from @jonathanstark [https://t.co/oslY8RAm3A](https://t.co/oslY8RAm3A)
+- [T](http://twitter.com/mcpaccard/status/760472099488206852) par [@mcpaccard](https://twitter.com/mcpaccard) #Burnout : les idées reçues, chez @guerirleburnout [https://t.co/olGx6pmdDF](https://t.co/olGx6pmdDF) (merci aux gens ayant proposé leurs idées reçues !)
+- [T](http://twitter.com/n1k0/status/760558213901213696) par [@n1k0](https://twitter.com/n1k0) How to listen when you disagree [https://t.co/iOxzf6EIeK](https://t.co/iOxzf6EIeK) https://t.co/cfIroPTe7E
+- [T](http://twitter.com/iamhiwelo/status/760752793976180736) par [@iamhiwelo](https://twitter.com/iamhiwelo) The Impostor Syndrome: a very interesting video about kings &amp; queens' shit [https://t.co/UKAMktcKzb](https://t.co/UKAMktcKzb)
+
+
+## Divers/Conneries
+- [T](http://twitter.com/CryptoPartyTls/status/758542433835778048) par [@CryptoPartyTls](https://twitter.com/CryptoPartyTls) Pourquoi les "clés d'autorité" qui permettent d'ouvrir toutes les serrures sont des catastrophes en puissance [https://t.co/9UXdQ3OmyB](https://t.co/9UXdQ3OmyB)
+- [T](http://twitter.com/waxzce/status/758938427081359364) par [@waxzce](https://twitter.com/waxzce) New attack bypasses HTTPS protection on Macs, Windows, and Linux [https://t.co/ocDlJTMKw6](https://t.co/ocDlJTMKw6)
+- [T](http://twitter.com/Bouletcorp/status/759050961155452928) par [@Bouletcorp](https://twitter.com/Bouletcorp) [Blog] Cette nouvelle note parle d'apocalypse: [https://t.co/Wkb9P29wXB](https://t.co/Wkb9P29wXB)
+
+
+
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
