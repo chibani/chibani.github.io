@@ -23,7 +23,7 @@ Bonne lecture et bon week-end, Loïc
 
 
 ## Tools
-- [T](http://twitter.com/sam_et_max/status/761525156074426368) par [@sam_et_max](https://twitter.com/sam_et_max) Moving to GitLab! Yes, it's worth it! | GitLab [https://t.co/RG1zzaXrvh](https://t.co/RG1zzaXrvh) Pour les grosses structures, gitlab peut être intéressant
+- [T](http://twitter.com/sam_et_max/status/761525156074426368) par [@sam_et_max](https://twitter.com/sam_et_max) Moving to GitLab! Yes, it's worth it! : GitLab [https://t.co/RG1zzaXrvh](https://t.co/RG1zzaXrvh) Pour les grosses structures, gitlab peut être intéressant
 - [T](http://twitter.com/b01dface/status/761730910907543553) par [@b01dface](https://twitter.com/b01dface) `git push --force-with-lease` Found out about this thanks to internal discussion @ Zendesk [https://t.co/KImsnYjgA0](https://t.co/KImsnYjgA0) https://t.co/CNox6btgLb
 - [T](http://twitter.com/paul_irish/status/761636226243829760) par [@paul_irish](https://twitter.com/paul_irish) List your recent git branches like whoa: `git recent` [https://t.co/evq4VsLxws](https://t.co/evq4VsLxws) https://t.co/txynntffLG
 - [T](http://twitter.com/rudyrigot/status/761895918174175232) par [@rudyrigot](https://twitter.com/rudyrigot) Why we moved from Amazon Web Services to Google Cloud Platform? [https://t.co/CbKmytfCLB](https://t.co/CbKmytfCLB)
