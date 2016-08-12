@@ -1,0 +1,63 @@
+---
+layout: post
+title: "La veille du week-end S1E9"
+date: 2016-08-12 07:30:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.
+
+Cette semaine, j'étais encore en vacances, alors je fais simple :D
+
+Bonne lecture et bon week-end, Loïc
+
+## Dev
+- [T](http://twitter.com/damienalexandre/status/761924659143122944) par [@damienalexandre](https://twitter.com/damienalexandre) Great reference on names around the world. FirstName/lastName fields are bad 👎 [https://t.co/kxIYLzJgZK](https://t.co/kxIYLzJgZK) via @mdarse https://t.co/DtcZz4FK2o
+- [T](http://twitter.com/stauffermatt/status/762655529810419713) par [@stauffermatt](https://twitter.com/stauffermatt) More on Laravel 5.3! Today, take a look at a few directories that you won’t see anymore in your new installs. [https://t.co/uIJWldNJoa](https://t.co/uIJWldNJoa)
+- [T](http://twitter.com/_ericelliott/status/763223406670217216) par [@_ericelliott](https://twitter.com/_ericelliott) Studies show TDD reduces bug density: [https://t.co/qiHiv2VXw8](https://t.co/qiHiv2VXw8) #ES6TDD #JavaScript
+
+
+## Front
+- [T](http://twitter.com/elijahmanor/status/761202667842576384) par [@elijahmanor](https://twitter.com/elijahmanor) 🚀 Super fast &amp; easy Social Media Sharing Buttons. No JavaScript. No tracking. 🔗 [https://t.co/MgmnHHkyAQ](https://t.co/MgmnHHkyAQ) 👏 @mxstbr https://t.co/GgxnqPdJCB
+- [T](http://twitter.com/iamtzi/status/761478895015194625) par [@iamtzi](https://twitter.com/iamtzi) Dans Sass 4, on devrait pouvoir appeler @content() avec des arguments depuis une mixin. [https://t.co/FA0KJxI6k9](https://t.co/FA0KJxI6k9) +1 pour générer des themes !
+- [T](http://twitter.com/SaraSoueidan/status/761640908945260544) par [@SaraSoueidan](https://twitter.com/SaraSoueidan) My extensive, 9500+ words guide to SVG animations (SMIL) published @Real_CSS_Tricks is now available en Français! [https://t.co/hZ9NhnCYJB](https://t.co/hZ9NhnCYJB)
+
+
+## Tools
+- [T](http://twitter.com/sam_et_max/status/761525156074426368) par [@sam_et_max](https://twitter.com/sam_et_max) Moving to GitLab! Yes, it's worth it! | GitLab [https://t.co/RG1zzaXrvh](https://t.co/RG1zzaXrvh) Pour les grosses structures, gitlab peut être intéressant
+- [T](http://twitter.com/b01dface/status/761730910907543553) par [@b01dface](https://twitter.com/b01dface) `git push --force-with-lease` Found out about this thanks to internal discussion @ Zendesk [https://t.co/KImsnYjgA0](https://t.co/KImsnYjgA0) https://t.co/CNox6btgLb
+- [T](http://twitter.com/paul_irish/status/761636226243829760) par [@paul_irish](https://twitter.com/paul_irish) List your recent git branches like whoa: `git recent` [https://t.co/evq4VsLxws](https://t.co/evq4VsLxws) https://t.co/txynntffLG
+- [T](http://twitter.com/rudyrigot/status/761895918174175232) par [@rudyrigot](https://twitter.com/rudyrigot) Why we moved from Amazon Web Services to Google Cloud Platform? [https://t.co/CbKmytfCLB](https://t.co/CbKmytfCLB)
+- [T](http://twitter.com/ThePracticalDev/status/762875366100774916) par [@ThePracticalDev](https://twitter.com/ThePracticalDev) Most commonly used git tips and tricks. [https://t.co/3VuJSHmsAV](https://t.co/3VuJSHmsAV)
+- [T](http://twitter.com/sam_et_max/status/762790277367070720) par [@sam_et_max](https://twitter.com/sam_et_max) JSON.is - Open-source documentation for common JSON formats including bower.json, package.json, and install.json [https://t.co/lVKJ3ksMEo](https://t.co/lVKJ3ksMEo)
+
+
+## Marketing
+- [T](http://twitter.com/WalterStephanie/status/761098348984098820) par [@WalterStephanie](https://twitter.com/WalterStephanie) Explaining Graphic Design to a Five Year Old. Also works for my Dad (Mum is a geek who gets it) and my doctor :D [https://t.co/E8biysMfMR](https://t.co/E8biysMfMR)
+- [T](http://twitter.com/dsampaolo/status/761195371154604032) par [@dsampaolo](https://twitter.com/dsampaolo) Soumettre.fr : on a ajouté des trophées/badges [https://t.co/LjRbTNONli](https://t.co/LjRbTNONli)
+- [T](http://twitter.com/tchret/status/761884045043171328) par [@tchret](https://twitter.com/tchret) Happy to launch Pricing Pages on [https://t.co/jKTFEh9y3S](https://t.co/jKTFEh9y3S) today! A curated directory of the best pricing pages 💸 https://t.co/3Y067DAVtF
+
+## Geek/IOT
+- [T](http://twitter.com/sam_et_max/status/761455840490561536) par [@sam_et_max](https://twitter.com/sam_et_max) DIY internet in spain [https://t.co/9Kkwa48pTO](https://t.co/9Kkwa48pTO)
+
+
+## Développement personnel/RH
+- [T](http://twitter.com/destroytoday/status/761211393823485952) par [@destroytoday](https://twitter.com/destroytoday) 🎉 Ask a Freelancer - Show the Work You Want to Get: [https://t.co/yFqTSVl5pt](https://t.co/yFqTSVl5pt) https://t.co/NdOHZQmdBH
+- [T](http://twitter.com/TheMinimalists/status/761311524166172672) par [@TheMinimalists](https://twitter.com/TheMinimalists) Joshua Fields Millburn. The Physiology of Stress. [https://t.co/3GUB6SFahr](https://t.co/3GUB6SFahr) via @dolectures https://t.co/goQ7W039UN
+- [T](http://twitter.com/manueldiaz/status/761447936530186240) par [@manueldiaz](https://twitter.com/manueldiaz) Multitasking ou l'art de déplacer de l'air [https://t.co/GvdlCm4AW1](https://t.co/GvdlCm4AW1) #marcheoucreve #SelfManagement #SelfQuantified https://t.co/rs1f00uB4J
+- [T](http://twitter.com/LaetitiaPhan/status/761962712368906241) par [@LaetitiaPhan](https://twitter.com/LaetitiaPhan) On ne peut pas ne jamais vivre de moments difficiles, mais on peut apprendre à mieux les gérer. Des rappels sur... [https://t.co/slRP1GajZo](https://t.co/slRP1GajZo)
+- [T](http://twitter.com/vincib/status/762256120908017664) par [@vincib](https://twitter.com/vincib) Conférence à voir et faire voir *absolument*, d'Antonin le Mée pour sortir l'humain du binaire... [https://t.co/JXBsgMAJ95](https://t.co/JXBsgMAJ95) RT!
+- [T](http://twitter.com/KaizenMag/status/762325130248847360) par [@KaizenMag](https://twitter.com/KaizenMag) Pour @NicoleFerroniZeM, méditer provoquerait un malaise économique : [https://t.co/llavnOmIZJ](https://t.co/llavnOmIZJ)
+- [T](http://twitter.com/toggl/status/762998172964777984) par [@toggl](https://twitter.com/toggl) Terrible Clients Explained with Pirates (Infographic): [https://t.co/5u24ZZzImy](https://t.co/5u24ZZzImy) #epic #webdev #design https://t.co/d7PSqJhEKZ
+- [T](http://twitter.com/LaetitiaPhan/status/762634097755914248) par [@LaetitiaPhan](https://twitter.com/LaetitiaPhan) Fabulous read on love/Magnifique texte sur l'amour
+- [T](http://twitter.com/LaetitiaPhan/status/763006107694530561) par [@LaetitiaPhan](https://twitter.com/LaetitiaPhan) Comment explorer le monde * How to be an explorer of the world &lt;3 [https://t.co/Go7sqPfgdw](https://t.co/Go7sqPfgdw) https://t.co/5yPre44Uis [https://t.co/YjKCTnq0ff](https://t.co/YjKCTnq0ff) https://t.co/BynM7ghlff
+
+
+## Divers/Conneries
+- [T](http://twitter.com/YTCreators/status/760958437513723904) par [@YTCreators](https://twitter.com/YTCreators) How does he do it? @TheeNerdwriter looks into @caseyneistat’s flawless style: [https://t.co/sn4752zrnK](https://t.co/sn4752zrnK) https://t.co/H2of2QJLtq
+- [T](http://twitter.com/aemkei/status/761501630470709249) par [@aemkei](https://twitter.com/aemkei) WOW, what a super addictive game by @steike, where you have to return `true` to win! [https://t.co/ATjw0Nq15x](https://t.co/ATjw0Nq15x) eg: x &amp;&amp; x==y &amp;&amp; y==z &amp;&amp; x!=z
+- [T](http://twitter.com/matthewadavid/status/762093400388673537) par [@matthewadavid](https://twitter.com/matthewadavid) This Tool Kit Contains All You Need For A Two-Acre, Off-The-Grid Farm [https://t.co/AVt1EnEazX](https://t.co/AVt1EnEazX)
+- [T](http://twitter.com/Paul_da_Silva/status/763012407409184768) par [@Paul_da_Silva](https://twitter.com/Paul_da_Silva) [https://t.co/paBdsr1JBm](https://t.co/paBdsr1JBm) La NASA publie 1000+ photos HD de Mars (licence public domain).
+
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
