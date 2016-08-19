@@ -1,0 +1,55 @@
+---
+layout: post
+title: "La veille du week-end S1E10"
+date: 2016-08-19 07:30:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.
+
+Humble Bundle propose pour $480 de livre de programmation, au prix que vous voulez, foncez-y :
+
+“[T](http://twitter.com/angustweets/status/765976016191823872) par [@angustweets](https://twitter.com/angustweets) Name your price for $480 worth of fun coding books (including If Hemingway Wrote JS!) and support non-profits!  [https://t.co/ks6pjnnGLr](https://t.co/ks6pjnnGLr)”
+
+
+Bonne lecture et bon week-end, Loïc
+
+## Dev
+- [T](http://twitter.com/JoliCode/status/763665784145055744) par [@JoliCode](https://twitter.com/JoliCode) Aujourd'hui sur le blog, @ThibZ nous raconte la réalisation de son premier module #reactnative Open Source 🎶 📱 [https://t.co/aev8v00DCB](https://t.co/aev8v00DCB)
+- [T](http://twitter.com/waxzce/status/764052573145829377) par [@waxzce](https://twitter.com/waxzce) Indie Hackers [https://t.co/3Bp0dN1HFJ](https://t.co/3Bp0dN1HFJ) // how to make money with side projects // for dev https://t.co/pk1cY6Swc8
+- [T](http://twitter.com/simonw/status/765019722517614593) par [@simonw](https://twitter.com/simonw) This article by @skamille is the smartest piece of writing on microservices I've seen in quite a while [https://t.co/UC948h0sHi](https://t.co/UC948h0sHi)
+
+
+## Front
+- [T](http://twitter.com/FGRibreau/status/763827515907510272) par [@FGRibreau](https://twitter.com/FGRibreau) Integrating HTML/CSS with BEM ( [https://t.co/sUNHhNdkU7](https://t.co/sUNHhNdkU7) ) makes so much sense, love it!
+- [T](http://twitter.com/mpjme/status/764869666221199361) par [@mpjme](https://twitter.com/mpjme) Redefined chart library built with React and D3 [https://t.co/TAeXLhjHDN](https://t.co/TAeXLhjHDN)
+
+
+## Tools
+- [T](http://twitter.com/FGRibreau/status/763984459393699840) par [@FGRibreau](https://twitter.com/FGRibreau) Nice initiative - Peer-to-peer, decentralized and open source file sync. [https://t.co/89E658xsab](https://t.co/89E658xsab)
+- [T](http://twitter.com/addyosmani/status/765556233956757505) par [@addyosmani](https://twitter.com/addyosmani) [New] Offline Storage for Progressive Web Apps: [https://t.co/EGsusccdK0](https://t.co/EGsusccdK0) use Cache API for URL addressable resources, IndexedDB for rest  🔥
+- [T](http://twitter.com/jekyll_fr/status/766018324039884801) par [@jekyll_fr](https://twitter.com/jekyll_fr) Jekyons vous aide à prototyper rapidement dans le navigateur avec @jekyllrb: [https://t.co/p92R1tdIDX](https://t.co/p92R1tdIDX)
+
+
+## Marketing
+- [T](http://twitter.com/DirtyF/status/763247045662633985) par [@DirtyF](https://twitter.com/DirtyF) Les arguments commerciaux en faveur des applications web progressives et pourquoi il faut s’y mettre maintenant : [https://t.co/txGt3kfMaD](https://t.co/txGt3kfMaD)  📱
+
+
+## Geek/IOT
+- [T](http://twitter.com/edasfr/status/764190250419625985) par [@edasfr](https://twitter.com/edasfr) [Commentaire] Limiter le chiffrement [https://t.co/esJ7ydx6xq](https://t.co/esJ7ydx6xq) [blog]
+- [T](http://twitter.com/bluetouff/status/764174161472266241) par [@bluetouff](https://twitter.com/bluetouff) [https://t.co/ZuwJqaRwic](https://t.co/ZuwJqaRwic) : les recommandation du ministère de l'intérieur de l'Internet sur le chiffrement sont en ligne
+
+
+## Développement personnel/RH
+- [T](http://twitter.com/guerirleburnout/status/763820696988487681) par [@guerirleburnout](https://twitter.com/guerirleburnout) I just published “Burnout : je guéris chaque jour” [https://t.co/GJqfNWoLPQ](https://t.co/GJqfNWoLPQ)
+- [T](http://twitter.com/SylvainPaley/status/764767724971102208) par [@SylvainPaley](https://twitter.com/SylvainPaley) 10 jours en van dans les Alpes de Haute-Provence, itinéraire et tips camping sauvage 🐐🚐🌲⛰️🌅 [https://t.co/5ex04JiN9e](https://t.co/5ex04JiN9e) https://t.co/wgMzD6fvwn
+- [T](http://twitter.com/SkyNebula/status/765516874314616832) par [@SkyNebula](https://twitter.com/SkyNebula) “Holacratie: ma vie sans management” Très bon article de Isaline Mülhauser (de chez @liip) [https://t.co/cVPCMnE8jf](https://t.co/cVPCMnE8jf) #hr #management
+
+
+## Divers/Conneries
+- [T](http://twitter.com/TimCohn/status/763857463590293504) par [@TimCohn](https://twitter.com/TimCohn) A New Wireless Hack Can Unlock 100 Million Volkswagens [https://t.co/FS489ANSfD](https://t.co/FS489ANSfD) via @WIRED
+- [T](http://twitter.com/rrhoover/status/763946768333574145) par [@rrhoover](https://twitter.com/rrhoover) The genius of @CaseyNeistat: [https://t.co/kLLtW1zJw5](https://t.co/kLLtW1zJw5)
+- [T](http://twitter.com/herstalle/status/763857057099444224) par [@herstalle](https://twitter.com/herstalle) Le ministère de l’@EducationFrance assigné en #Justice pour son partenariat avec #Microsoft. [https://t.co/nKEBEpOShT](https://t.co/nKEBEpOShT) https://t.co/NOQX2k6JMa
+- [T](http://twitter.com/sam_et_max/status/764888059821297664) par [@sam_et_max](https://twitter.com/sam_et_max) Answer to What is it like to understand advanced mathematics? - Quora [https://t.co/KxMFruvDZt](https://t.co/KxMFruvDZt)
+- [T](http://twitter.com/LaetitiaPhan/status/765814855085527040) par [@LaetitiaPhan](https://twitter.com/LaetitiaPhan) "Art doesn’t fix everything, but it makes a fundamental and significant difference. I want that for you. I’d love... [https://t.co/iVLZkUPi8s](https://t.co/iVLZkUPi8s)
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
