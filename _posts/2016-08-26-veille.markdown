@@ -1,0 +1,59 @@
+---
+layout: post
+title: "La veille du week-end S1E11"
+date: 2016-08-19 07:30:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.
+
+[Laravel](https://twitter.com/laravelphp) 5.3 est désormais disponible : WebSockets, Notifications, Serveur OAuth2, et autres nouveautés... [La release note qui va bien](https://t.co/Xctg1n21zs).  
+Par ailleurs, [Tristant Nitot](https://twitter.com/nitot) est intervenu sur France Inter pour parler chiffrement (un sujet qui soulève beaucoup de méfiance et d'incompréhension chez nos politiques...). En voici la retranscription [https://t.co/cgYj0R4q7K](https://t.co/cgYj0R4q7K).
+
+Bonne lecture et bon week-end, Loïc
+
+## Dev
+- [T](http://twitter.com/patio11/status/767204505578409984) par [@patio11](https://twitter.com/patio11) Pretty brilliant idea: "Imposter Handbook", for teaching self-taught devs what they missed by not doing a CS degree [https://t.co/wnY8cjoKQH](https://t.co/wnY8cjoKQH)
+- [T](http://twitter.com/rudyrigot/status/766103723466645504) par [@rudyrigot](https://twitter.com/rudyrigot) "The traits of a proficient programmer" - Lots of great advice to take the leap from junior/intermediate to senior. [https://t.co/ILpo5OJWQ5](https://t.co/ILpo5OJWQ5)
+- [T](http://twitter.com/FGRibreau/status/766283522575364096) par [@FGRibreau](https://twitter.com/FGRibreau) How to keep a project npm dependencies up-to-date? • [https://t.co/wW86IKz2Gk](https://t.co/wW86IKz2Gk)
+- [T](http://twitter.com/nolanlawson/status/766275330403205122) par [@nolanlawson](https://twitter.com/nolanlawson) Just published `slow-deps` – finds which dependencies are slowing down your `npm install`. 🐌 [https://t.co/tFE0cCoPxV](https://t.co/tFE0cCoPxV) https://t.co/wvdAaz3vU4
+- [T](http://twitter.com/osteel/status/766623540187656192) par [@osteel](https://twitter.com/osteel) composer.json: the difference between caret ^ and tilde ~ [https://t.co/mULQ8yhBgE](https://t.co/mULQ8yhBgE)
+- [T](http://twitter.com/dino_joel/status/766794155922042881) par [@dino_joel](https://twitter.com/dino_joel) This is by far the best functional programming game I've played [https://t.co/HaDDB9WPZk](https://t.co/HaDDB9WPZk) https://t.co/ApmPoHHxqR
+- [T](http://twitter.com/_ericelliott/status/767433613927473152) par [@_ericelliott](https://twitter.com/_ericelliott) The Two Pillars of JavaScript Part Two: Functional Programming - [https://t.co/yntwN55vHU](https://t.co/yntwN55vHU) #js #JavaScript
+- [T](http://twitter.com/poulpita/status/768111008418103301) par [@poulpita](https://twitter.com/poulpita) [web security] 7 HTTP headers to secure your app for the busy web developer [https://t.co/Mq7GYSYoJc](https://t.co/Mq7GYSYoJc)
+
+
+## Front
+- [T](http://twitter.com/FGRibreau/status/766270887167455232) par [@FGRibreau](https://twitter.com/FGRibreau) Recursively defined xhr abort method on #promise for @iAdvize, had a lot of fun writing this! #tdd #iAdvizeTech [https://t.co/hGPikBdJ2Y](https://t.co/hGPikBdJ2Y)
+- [T](http://twitter.com/porteneuve/status/766367941092896768) par [@porteneuve](https://twitter.com/porteneuve) Amazing, interactive article by @jlongster on how React's core tenets/arch are what makes it great / matters — [https://t.co/5g0maiO1UY](https://t.co/5g0maiO1UY)
+- [T](http://twitter.com/jdsteinbach/status/767788107408093184) par [@jdsteinbach](https://twitter.com/jdsteinbach) Quick #a11y tip: put this in your CSS and see how your contrast looks : html { -webkit-filter: grayscale(100%); filter: grayscale(100%); }
+- [T](http://twitter.com/theystolemynick/status/768479606190010368) par [@theystolemynick](https://twitter.com/theystolemynick) Petit comparatif de 4 lazy loader d'images [https://t.co/CRcqhTFVga](https://t.co/CRcqhTFVga)
+
+
+## Tools
+- [T](http://twitter.com/jekyll_fr/status/767492312255586304) par [@jekyll_fr](https://twitter.com/jekyll_fr) Super retour détaillé sur la migration de Disqus vers des commentaires hébergés en statique avec @staticmanapp   [https://t.co/KYNjyQGErp](https://t.co/KYNjyQGErp)
+- [T](http://twitter.com/cheeaun/status/767620578702270464) par [@cheeaun](https://twitter.com/cheeaun) Useful @AtomEditor package of the day: Line Diff Details [https://t.co/I4tgyNOVOF](https://t.co/I4tgyNOVOF)
+- [T](http://twitter.com/gitlab/status/767775719422300161) par [@gitlab](https://twitter.com/gitlab) 8.11 is an exciting release! We can't wait to have you all check out the GitLab Issue Board: [https://t.co/UpNigJFfWo](https://t.co/UpNigJFfWo) https://t.co/aU12vR7Xhy
+- [T](http://twitter.com/SylvainDeaure/status/768532611685900288) par [@SylvainDeaure](https://twitter.com/SylvainDeaure) Une liste/ressource phénoménale d'#outils open source que l'on peut installer sur un serveur à soi au lieu de #SaaS. [https://t.co/NB68yd464F](https://t.co/NB68yd464F)
+
+
+## Marketing
+- [T](http://twitter.com/rik24d/status/768143507789844481) par [@rik24d](https://twitter.com/rik24d) Hopefully this move from Google search will help remove stupid interstitials : [https://t.co/EUsyKrzBGK](https://t.co/EUsyKrzBGK)
+
+
+## Geek/IOT
+- [T](http://twitter.com/MyCozyCloud/status/766163983694958592) par [@MyCozyCloud](https://twitter.com/MyCozyCloud) Why You Should Keep Your Heart Rate, Sleep Patterns, and Other Boring Data to Yourself [https://t.co/GDxNeW41hu](https://t.co/GDxNeW41hu) https://t.co/INE18dN11b
+
+
+## Développement personnel/RH
+- [T](http://twitter.com/iergo/status/766614973091090432) par [@iergo](https://twitter.com/iergo) I just published “Probabilité et psychologie sociale” [https://t.co/XORuxFdSzA](https://t.co/XORuxFdSzA)
+- [T](http://twitter.com/LaetitiaPhan/status/767367041263267840) par [@LaetitiaPhan](https://twitter.com/LaetitiaPhan) Sur la force et les vertus du silence [https://t.co/qjmbT0wSBG](https://t.co/qjmbT0wSBG)
+- [T](http://twitter.com/MauMauFlower/status/768154635609649153) par [@MauMauFlower](https://twitter.com/MauMauFlower) I agree! 👌🏼 Minimalism is Not a Radical Lifestyle [https://t.co/ptkjWdFaEH](https://t.co/ptkjWdFaEH) via @theminimalists
+
+
+## Divers/Conneries
+- [T](http://twitter.com/dhoko_/status/766627822861443073) par [@dhoko_](https://twitter.com/dhoko_) Vertical Video Syndrome [https://t.co/1rSduu1nJ8](https://t.co/1rSduu1nJ8)
+- [T](http://twitter.com/rudyrigot/status/766824825172221952) par [@rudyrigot](https://twitter.com/rudyrigot) "Posio - A geography multiplayer game" - Freaking addictive!!!!! [https://t.co/LtYAJR3rKf](https://t.co/LtYAJR3rKf)
+- [T](http://twitter.com/MarkRRobertson/status/766721350790557697) par [@MarkRRobertson](https://twitter.com/MarkRRobertson) How #production techniques are evolving! WHAT YOU DON'T SEE [https://t.co/tNgawFX1EX](https://t.co/tNgawFX1EX) via @CaseyNeistat &amp; kudos @addictivemobile for head's up
+- [T](http://twitter.com/DavidMTL/status/767385531260993536) par [@DavidMTL](https://twitter.com/DavidMTL) Gratuit : Pathé met en ligne 85 000 films sur YouTube: [https://t.co/RXKBIhssWm](https://t.co/RXKBIhssWm) merci @FlorianP123
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
