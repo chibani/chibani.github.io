@@ -6,7 +6,7 @@ category: veille
 ---
 C’est vendredi et c’est la “veille du week-end”.
 
-Humble Bundle propose pour $480 de livre de programmation, au prix que vous voulez, foncez-y :
+Humble Bundle propose pour $480 de livres de programmation, au prix que vous voulez, foncez-y :
 
 “[T](http://twitter.com/angustweets/status/765976016191823872) par [@angustweets](https://twitter.com/angustweets) Name your price for $480 worth of fun coding books (including If Hemingway Wrote JS!) and support non-profits!  [https://t.co/ks6pjnnGLr](https://t.co/ks6pjnnGLr)”
 
