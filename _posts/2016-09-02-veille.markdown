@@ -1,0 +1,62 @@
+---
+layout: post
+title: "La veille du week-end S1E12"
+date: 2016-09-02 07:30:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.
+
+Cette semaine, c'est la rentrée \o/ (oui, c'est assez banal, mais tant pis :D ).
+
+Bonne lecture et bon week-end, Loïc
+
+## Dev
+- [T](http://twitter.com/FGRibreau/status/768863225874087937) par [@FGRibreau](https://twitter.com/FGRibreau) Second implementation of a facebook messenger #bot that rely on entity extraction! #ia #nl… [https://t.co/rU6U6LiG61](https://t.co/rU6U6LiG61) https://t.co/bmZq1ZvGlK
+- [T](http://twitter.com/FGRibreau/status/769250422263513088) par [@FGRibreau](https://twitter.com/FGRibreau) markdown-it &gt; marked #markdown #nodejs #ecosystem [https://t.co/MqvpLuEJIr](https://t.co/MqvpLuEJIr)
+- [T](http://twitter.com/mpjme/status/770169132478103552) par [@mpjme](https://twitter.com/mpjme) Separation on concerns RANT [https://t.co/lu0sRhdh3s](https://t.co/lu0sRhdh3s) https://t.co/7jJsRfwBk9
+- [T](http://twitter.com/edasfr/status/770238997784170497) par [@edasfr](https://twitter.com/edasfr) La checklist du nouveau développeur [https://t.co/qiXXtXyQrM](https://t.co/qiXXtXyQrM) [blog]
+- [T](http://twitter.com/LinkedInEng/status/771079677129609216) par [@LinkedInEng](https://twitter.com/LinkedInEng) Want to know how to build a recommendation system? Follow our #opensource @photon_ml #MachineLearning tutorial: [https://t.co/MMc19128nV](https://t.co/MMc19128nV)
+
+
+## Front
+- [T](http://twitter.com/dameofr/status/768836386480877568) par [@dameofr](https://twitter.com/dameofr) Très intéressante cette intro aux guidelines de design TV — [https://t.co/wI6E0TUaii](https://t.co/wI6E0TUaii) #UX #TV #design
+- [T](http://twitter.com/Real_CSS_Tricks/status/768993426985672704) par [@Real_CSS_Tricks](https://twitter.com/Real_CSS_Tricks) React Patterns :: [https://t.co/suUv4fUFQZ](https://t.co/suUv4fUFQZ) Very clearly written and explained. 🏆
+- [T](http://twitter.com/WalterStephanie/status/770516574381805568) par [@WalterStephanie](https://twitter.com/WalterStephanie) The New Rules of Form Design [https://t.co/peOihvZBmt](https://t.co/peOihvZBmt)
+
+
+## Tools
+- [T](http://twitter.com/waxzce/status/768763616338251776) par [@waxzce](https://twitter.com/waxzce) NoSQL Databases: a Survey and Decision Guidance — Baqend Blog [https://t.co/yMerLSig6l](https://t.co/yMerLSig6l) https://t.co/etXMPtzedT
+- [T](http://twitter.com/jekyll_fr/status/768902503085801472) par [@jekyll_fr](https://twitter.com/jekyll_fr) Chouette, les themes HTML5 UP convertis pour @jekyllrb : [https://t.co/wjPQPaUpbA](https://t.co/wjPQPaUpbA) par @AndrewBanchich
+- [T](http://twitter.com/Signez/status/769097718174220288) par [@Signez](https://twitter.com/Signez) Chez @captaintrain, on utilise @GitLab du sol au plafond. @pmorinerie l'explique très bien sur le blog en français : [https://t.co/zkZsk6OFVz](https://t.co/zkZsk6OFVz)
+- [T](http://twitter.com/mathrobin/status/769093914062155778) par [@mathrobin](https://twitter.com/mathrobin) Déployer Let’s Encrypt sur Heroku et nom de domaine custom chez [OVH] [https://t.co/LQ1lzlbKSL](https://t.co/LQ1lzlbKSL)
+- [T](http://twitter.com/lifehacker/status/769263224369864704) par [@lifehacker](https://twitter.com/lifehacker) Simplenote, one of the best notes apps around, now supports Markdown: [https://t.co/lULfdWf76b](https://t.co/lULfdWf76b) https://t.co/pFZ1t6lTJb
+- [T](http://twitter.com/fdevillamil/status/769579375306108929) par [@fdevillamil](https://twitter.com/fdevillamil) I just published “An Elasticsearch cheat sheet” [https://t.co/WMorza5TW9](https://t.co/WMorza5TW9)
+- [T](http://twitter.com/journalduhacker/status/770194791833427972) par [@journalduhacker](https://twitter.com/journalduhacker) Libérez vos contenus grâce à Markdown et aux formats texte brut [https://t.co/oqavT5MqUP](https://t.co/oqavT5MqUP) https://t.co/cXINHEFN1c #sauvegarde
+- [T](http://twitter.com/cloudinary/status/770970109594726401) par [@cloudinary](https://twitter.com/cloudinary) How I used Cloudinary to solve responsive image needs in my #Jekyll website &amp; shared the magic in a plugin: [https://t.co/p9n3LsVYcY](https://t.co/p9n3LsVYcY) @nhoizey
+- [T](http://twitter.com/Real_CSS_Tricks/status/770999761801314304) par [@Real_CSS_Tricks](https://twitter.com/Real_CSS_Tricks) Staggered photo layout with flexbox [https://t.co/s6MPsP8ckS](https://t.co/s6MPsP8ckS) Our version with CSS columns https://t.co/AVcGVEM5bS https://t.co/TLJ2p7rYyc
+
+
+## Marketing
+- [T](http://twitter.com/chrishrmnn/status/770621494057508864) par [@chrishrmnn](https://twitter.com/chrishrmnn) Sur le blog d'@InVisionApp, le titre de l'onglet change par "Don't forget to read this…" si l'onglet n'est pas actif [https://t.co/QuLx8l4cBk](https://t.co/QuLx8l4cBk)
+
+
+## Geek/IOT
+- [T](http://twitter.com/slashdot/status/770101323371048960) par [@slashdot](https://twitter.com/slashdot) How Security Experts Are Protecting Their Own Data [https://t.co/QvHPi93Waa](https://t.co/QvHPi93Waa)
+- [T](http://twitter.com/CPUprogramme/status/770276220374310913) par [@CPUprogramme](https://twitter.com/CPUprogramme) Avant, on avait le BIOS. Aujourd'hui, des systèmes d'exploitations qui tournent à votre insu sur votre ordinateur [https://t.co/tzlyAUX4fw](https://t.co/tzlyAUX4fw)
+
+
+## Développement personnel/RH
+- [T](http://twitter.com/fadouce/status/769813379305308161) par [@fadouce](https://twitter.com/fadouce) Cours d'empathie en maternelle. Au pays des enfants les plus heureux, évidemment! By J Alexander #education [https://t.co/QlKWnUGXC6](https://t.co/QlKWnUGXC6)
+- [T](http://twitter.com/nsteinmetz/status/771097176382574593) par [@nsteinmetz](https://twitter.com/nsteinmetz) Quête d'un bureau assis-debout - [https://t.co/Hk3xf9ENYb](https://t.co/Hk3xf9ENYb) #blog
+
+
+## Divers/Conneries
+- [T](http://twitter.com/TeslaMotors/status/770307869975601153) par [@TeslaMotors](https://twitter.com/TeslaMotors) What a Tesla looks like after 100,000 Miles, a 48 State Road trip, 500 Uber Rides, 20 Rentals &amp; more @SteveSasman [https://t.co/e1OrxwK9OV](https://t.co/e1OrxwK9OV)
+- [T](http://twitter.com/eigenbom/status/770461897921589248) par [@eigenbom](https://twitter.com/eigenbom) A procedurally-generated Mario game! [https://t.co/8jUpU3t1Hg](https://t.co/8jUpU3t1Hg) Made by @1bardesign @Cannonbreed @BananaboySam and me! https://t.co/nSwz5i3shG
+- [T](http://twitter.com/AWWWARDS/status/770562971244322816) par [@AWWWARDS](https://twitter.com/AWWWARDS) The "Motion Periodic Table" [https://t.co/SVWx93cJFx](https://t.co/SVWx93cJFx)  #WebDesign #Animation https://t.co/aKDCBnzXrI
+- [T](http://twitter.com/Oatmeal/status/771063197784641536) par [@Oatmeal](https://twitter.com/Oatmeal) What I do for a living, by the @seattletimes.  [https://t.co/Fhjkn4N4ZB](https://t.co/Fhjkn4N4ZB) https://t.co/U0YLAdbBmY
+
+
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
