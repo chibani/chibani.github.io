@@ -1,0 +1,55 @@
+---
+layout: post
+title: "La veille du week-end S1E13"
+date: 2016-09-09 07:30:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.  
+Bonne lecture et bon week-end, Loïc
+
+## Dev
+- [T](http://twitter.com/LinkedInEng/status/771079677129609216) par [@LinkedInEng](https://twitter.com/LinkedInEng) Want to know how to build a recommendation system? Follow our #opensource @photon_ml #MachineLearning tutorial: [https://t.co/MMc19128nV](https://t.co/MMc19128nV)
+- [T](http://twitter.com/waxzce/status/771423134209769476) par [@waxzce](https://twitter.com/waxzce) Essential Electron [https://t.co/Fl0EkGqOfo](https://t.co/Fl0EkGqOfo) https://t.co/loUxyNfaHV
+- [T](http://twitter.com/michaelmior/status/771454585256935424) par [@michaelmior](https://twitter.com/michaelmior) How to steal any developer's local database [https://t.co/HOYGKs7jAn](https://t.co/HOYGKs7jAn)
+- [T](http://twitter.com/FGRibreau/status/771602559345627136) par [@FGRibreau](https://twitter.com/FGRibreau) Using ES2015 Proxy for fun and profit [https://t.co/tb2ziLTQAW](https://t.co/tb2ziLTQAW)
+- [T](http://twitter.com/FGRibreau/status/771604071014772736) par [@FGRibreau](https://twitter.com/FGRibreau) NW.js &amp; Electron Compared (2016 Edition) [https://t.co/0s2GHem42W](https://t.co/0s2GHem42W)
+- [T](http://twitter.com/dsampaolo/status/771688525850902528) par [@dsampaolo](https://twitter.com/dsampaolo) [en] Learning functionnal programming with Javascript [https://t.co/QfvgJyvs2w](https://t.co/QfvgJyvs2w) by @AnjanaVakil
+
+
+## Front
+- [T](http://twitter.com/Real_CSS_Tricks/status/770999761801314304) par [@Real_CSS_Tricks](https://twitter.com/Real_CSS_Tricks) Staggered photo layout with flexbox [https://t.co/s6MPsP8ckS](https://t.co/s6MPsP8ckS) Our version with CSS columns https://t.co/AVcGVEM5bS https://t.co/TLJ2p7rYyc
+- [T](http://twitter.com/WalterStephanie/status/773052224729649152) par [@WalterStephanie](https://twitter.com/WalterStephanie) The Building Blocks Of Progressive Web Apps [https://t.co/nxqW390mkc](https://t.co/nxqW390mkc)
+- [T](http://twitter.com/dameofr/status/773050873840820224) par [@dameofr](https://twitter.com/dameofr) La deuxième partie du "designing for television" - [https://t.co/tnBn47tPGi](https://t.co/tnBn47tPGi) #UX #TV
+
+
+## Tools
+- [T](http://twitter.com/Rich_Harris/status/771327459895734272) par [@Rich_Harris](https://twitter.com/Rich_Harris) TIL you can use &lt;details&gt;...&lt;/details&gt; inside GitHub comments to hide lengthy code blocks/stack traces etc [https://t.co/4pA7EwxW4P](https://t.co/4pA7EwxW4P)
+- [T](http://twitter.com/piwik/status/771612426395537408) par [@piwik](https://twitter.com/piwik) Blog: Piwik 3 Development Update #1 – New UI design, API changes &amp; release date [https://t.co/DoUSN7ht3j](https://t.co/DoUSN7ht3j)  #analytics #platform #data #privacy
+- [T](http://twitter.com/FGRibreau/status/772014030902943745) par [@FGRibreau](https://twitter.com/FGRibreau) DalmatinerDB = 1st place // Top 10 Time Series Databases [https://t.co/sWk9gFOFnc](https://t.co/sWk9gFOFnc)
+- [T](http://twitter.com/k33g_org/status/772317952376844288) par [@k33g_org](https://twitter.com/k33g_org) Indispensable avec #Atom #term3 package [https://t.co/4ScOBJ5pNI](https://t.co/4ScOBJ5pNI)
+- [T](http://twitter.com/changelog/status/772468530121940992) par [@changelog](https://twitter.com/changelog) GridControl – provision and link multiple servers togethers to form a Grid [https://t.co/3Ttv1H9XdD](https://t.co/3Ttv1H9XdD) https://t.co/O4bUE3EUQe
+
+
+## Marketing
+- [T](http://twitter.com/YannDecoopman/status/771600554493480960) par [@YannDecoopman](https://twitter.com/YannDecoopman) 1 Year Old Amazon Affiliate Website Making $3,000 a Month: A Step by Step Case Study - Niche Pursuits [https://t.co/RuF48n2RvL](https://t.co/RuF48n2RvL)
+
+
+## Geek/IOT
+- [T](http://twitter.com/tyrower/status/772500528890802176) par [@tyrower](https://twitter.com/tyrower) Use a @Raspberry_Pi to Keep Track of Who's Home or in the Office [https://t.co/t8sl3lUb7l](https://t.co/t8sl3lUb7l)
+- [T](http://twitter.com/Raspberry_Pi/status/773125222849474560) par [@Raspberry_Pi](https://twitter.com/Raspberry_Pi) New post: PiBakery, a brilliant, foolproof way to set up your SD card from @fergusondavid6. [https://t.co/JUjVDmpi6M](https://t.co/JUjVDmpi6M) https://t.co/xsbEhgX9un
+
+
+## Développement personnel/RH
+- [T](http://twitter.com/0_Sheik_0/status/771448228021755904) par [@0_Sheik_0](https://twitter.com/0_Sheik_0) @chibani Ui 😁 ! C'est pour interpeller ceux qui parlent télétravail &amp; innov. car j'ai un ebook gratuit sur le sujet  [https://t.co/Ewk9ijLBpP](https://t.co/Ewk9ijLBpP)
+- [T](http://twitter.com/seynaeve/status/771612533274750976) par [@seynaeve](https://twitter.com/seynaeve) Avec @TeamKoober j’ai appris plus en 1semaine qu’en 1an, tout les bons livres business y sont résumés [https://t.co/rmTwEneulX](https://t.co/rmTwEneulX)
+- [T](http://twitter.com/CamilleRoux/status/772011900246847488) par [@CamilleRoux](https://twitter.com/CamilleRoux) Le prochain livre de Tim Ferriss sur les bonnes habitudes sort le 6 décembre prochain [https://t.co/JMSBOkAodt](https://t.co/JMSBOkAodt) #ToolsOfTitans
+
+
+## Divers/Conneries
+- [T](http://twitter.com/dascritch/status/771678577557442561) par [@dascritch](https://twitter.com/dascritch) La folie dashcam [https://t.co/C2WGXrKnHG](https://t.co/C2WGXrKnHG)
+- [T](http://twitter.com/dascritch/status/771788704557961216) par [@dascritch](https://twitter.com/dascritch) [https://t.co/L7AWxYnvA8](https://t.co/L7AWxYnvA8) =&gt; Moment SPOILER &lt;= pourquoi Stranger Things est à la fois génial et joue avec notre nostalgie avec ses références
+- [T](http://twitter.com/BlackEco/status/771988169709486080) par [@BlackEco](https://twitter.com/BlackEco) Impressionnant, Pixar sont désormais capables de faire du rendu temps réel ! [https://t.co/W9HD0A7B94](https://t.co/W9HD0A7B94) Et c'est open-source !
+- [T](http://twitter.com/MattAndersonBBC/status/772002757222002688) par [@MattAndersonBBC](https://twitter.com/MattAndersonBBC) Things native English speakers know, but don't know we know: [https://t.co/Ex0Ui9oBSL](https://t.co/Ex0Ui9oBSL)
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
