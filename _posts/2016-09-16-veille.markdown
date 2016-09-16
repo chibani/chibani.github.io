@@ -1,0 +1,68 @@
+---
+layout: post
+title: "La veille du week-end S1E14"
+date: 2016-09-16 07:30:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.  
+
+**Avant de commencer à lire la suite, je dois vous annoncer que CommitStrip a lancé [une belle grande campagne Kickstarter pour leur prochain livre](https://www.kickstarter.com/projects/commitstrip/commitstrip-rise-of-the-coders-a-book-about-the-fu) BACKEZ-LE !!!**
+
+Cette semaine, GitHub a fait de belles annonces :
+
+- Ils ont créé de nouveaux outils (dont un tableau kanban pour gérer les projets) : [Plus d'infos sur leur blog](https://github.com/blog/2256-a-whole-new-github-universe-announcing-new-tools-forums-and-features)
+- Ils ont bougé leur API de REST vers GraphQL : [détails de l'opération sur le blog engineering de GitHub](http://githubengineering.com/the-github-graphql-api/)
+
+
+Bonne lecture et bon week-end, Loïc
+
+## Dev
+- [T](http://twitter.com/sam_et_max/status/773752125423845376) par [@sam_et_max](https://twitter.com/sam_et_max) The 100% correct way to validate email addresses [https://t.co/Mdo3GPhhQV](https://t.co/Mdo3GPhhQV)
+- [T](http://twitter.com/waxzce/status/774052003488104448) par [@waxzce](https://twitter.com/waxzce) JSON Web Tokens vs. Session Cookies: In Practice [https://t.co/ItpFV1WPSv](https://t.co/ItpFV1WPSv) https://t.co/Q3XaFYa5Be
+- [T](http://twitter.com/laravelnews/status/774273439691640832) par [@laravelnews](https://twitter.com/laravelnews) Laravel Spark v2 is now released [https://t.co/z2uBHax563](https://t.co/z2uBHax563) https://t.co/mF451sVcmA
+- [T](http://twitter.com/laravelphp/status/774285625998520320) par [@laravelphp](https://twitter.com/laravelphp) Laravel 5.3.8 released with new fakes for events, jobs, mail, and notifications! Who said testing had to be hard?! [https://t.co/QPFjk2R9op](https://t.co/QPFjk2R9op)
+- [T](http://twitter.com/k33g_org/status/774916258617823232) par [@k33g_org](https://twitter.com/k33g_org) Explain why #mutability is bad with #kebab #bananas #javascript #scala #functional #monad #functor cc @jugsummercamp [https://t.co/h3p7QrgNg5](https://t.co/h3p7QrgNg5)
+- [T](http://twitter.com/tbassetto/status/775344138925510656) par [@tbassetto](https://twitter.com/tbassetto) Using function trees to make it easier to reason about the flow of your application: [https://t.co/gu6eB9IpRw](https://t.co/gu6eB9IpRw)
+- [T](http://twitter.com/numerogeek/status/775386089481699328) par [@numerogeek](https://twitter.com/numerogeek) 🚀 Laracasts offre un tuto complet sur #VueJS pour que vous puissiez commencer à mettre les mains dedans ▶️ [https://t.co/tOXPO6cXiT](https://t.co/tOXPO6cXiT)
+- [T](http://twitter.com/stauffermatt/status/775435404602290176) par [@stauffermatt](https://twitter.com/stauffermatt) My @laravelphp Passport post is now updated for final syntax. OAuth2 server in &lt;15 minutes 🎉 [https://t.co/lV8UKp1L6I](https://t.co/lV8UKp1L6I) https://t.co/FSV8pHqCOe
+- [T](http://twitter.com/Nico3333fr/status/776080830854754304) par [@Nico3333fr](https://twitter.com/Nico3333fr) Écoute la belle voix de @Nazcange qui me parle de Code Reviewztraminer [https://t.co/cPPOwtIDUx](https://t.co/cPPOwtIDUx) :)
+- [T](http://twitter.com/theystolemynick/status/776138890549850112) par [@theystolemynick](https://twitter.com/theystolemynick) #webperf et webfonts : [https://t.co/jedcqsWz5d](https://t.co/jedcqsWz5d)
+
+
+## Front
+- [T](http://twitter.com/Real_CSS_Tricks/status/773940913483620352) par [@Real_CSS_Tricks](https://twitter.com/Real_CSS_Tricks) "Save as eBook (.epub)" [https://t.co/y89PCuucNm](https://t.co/y89PCuucNm)
+- [T](http://twitter.com/Real_CSS_Tricks/status/774317768606748672) par [@Real_CSS_Tricks](https://twitter.com/Real_CSS_Tricks) Wanna see nearly 20 examples of why sizing things in `em` is a good idea? Here you go: [https://t.co/G59ry0S2JL](https://t.co/G59ry0S2JL)
+- [T](http://twitter.com/alsacreations/status/774154997000904704) par [@alsacreations](https://twitter.com/alsacreations) Les vidéos des conférences #kiwiparty 2016 sont désormais en ligne ! [https://t.co/lF5Tl5gePP](https://t.co/lF5Tl5gePP) https://t.co/Sdr46cFxNg
+- [T](http://twitter.com/WalterStephanie/status/775593629821788160) par [@WalterStephanie](https://twitter.com/WalterStephanie) In CSS, set line-height first, padding second - Style for one and multiple lines. [https://t.co/vaDgFa3kBe](https://t.co/vaDgFa3kBe)
+- [T](http://twitter.com/sam_et_max/status/775727511393144832) par [@sam_et_max](https://twitter.com/sam_et_max) gztchan/awesome-design: Best UI/UX Design Resources For Developer &amp; Designer Ever :) [https://t.co/R74cLOEuNd](https://t.co/R74cLOEuNd)
+
+
+## Tools
+- [T](http://twitter.com/maxigaud/status/773815661319561217) par [@maxigaud](https://twitter.com/maxigaud) Mon article sur notre #BI avec #MongoDB chez @Hopwork ! Une belle galère mais on s'en est sorti ! [https://t.co/KSGN679jQr](https://t.co/KSGN679jQr)
+- [T](http://twitter.com/Inateno/status/774242893296959489) par [@Inateno](https://twitter.com/Inateno) #gitproblems [https://t.co/p2DZszzTIa](https://t.co/p2DZszzTIa) #truestory
+- [T](http://twitter.com/WalterStephanie/status/775224951867662338) par [@WalterStephanie](https://twitter.com/WalterStephanie) To bookmark: Compatibility tables for default local fonts. fontfamily.io
+- [T](http://twitter.com/_kud/status/775453507986001920) par [@_kud](https://twitter.com/_kud) Want to try something better than dropbox? [https://t.co/MLlPqIomOK](https://t.co/MLlPqIomOK)
+
+
+## Marketing
+
+_Rien cette semaine..._
+
+## Geek/IOT
+
+_Pas de geekerie, mais vous êtes servis sur le reste ;)_
+
+## Développement personnel/RH
+- [T](http://twitter.com/mab_/status/774190840789004288) par [@mab_](https://twitter.com/mab_) À ceux qui disent que ça coûte trop en charge d'embaucher même à bas salaire montrez leur ça [https://t.co/pIUbB6xwNU](https://t.co/pIUbB6xwNU) https://t.co/thssC2nuQM
+- [T](http://twitter.com/petemosley/status/774283520336363521) par [@petemosley](https://twitter.com/petemosley) The Art of Shouting Quietly - a guide to self promotion for #introverts and #quiet souls [https://t.co/RWVx3erVig](https://t.co/RWVx3erVig) https://t.co/QtkOnskSVZ
+- [T](http://twitter.com/STPo/status/774931500974366720) par [@STPo](https://twitter.com/STPo) Freelance, le temps de travailler autrement... en copiant Amazon pour $3 de l'heure. [https://t.co/blbU8tsOfd](https://t.co/blbU8tsOfd) (Merci @WalterStephanie)
+
+
+## Divers/Conneries
+- [T](http://twitter.com/iergo/status/773921131963228160) par [@iergo](https://twitter.com/iergo) Excellente conférence expliquant les rumeurs, les complots, pourquoi les gens raisonnables ne sont pas majoritaires [https://t.co/7Sffe9d1eO](https://t.co/7Sffe9d1eO)
+- [T](http://twitter.com/sylvainsarrailh/status/774250516100636672) par [@sylvainsarrailh](https://twitter.com/sylvainsarrailh) My Mario Kart mashup is now available in free printable resolution here :  [https://t.co/TalCcNjU3x](https://t.co/TalCcNjU3x) (CC BY-NC-ND) https://t.co/oBsYH4Mtu9
+- [T](http://twitter.com/tuxboard/status/774170774877843456) par [@tuxboard](https://twitter.com/tuxboard) Stranger Things, les superbes illustrations et dessins des fans [https://t.co/YFukic1d0U](https://t.co/YFukic1d0U) https://t.co/NRuX7g34tF
+- [T](http://twitter.com/dhoko_/status/775308796222640128) par [@dhoko_](https://twitter.com/dhoko_) Beatboxer ~ Drum machine in about 100 lines of HTML/JS/CSS [https://t.co/6vW0RvegxB](https://t.co/6vW0RvegxB)
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
