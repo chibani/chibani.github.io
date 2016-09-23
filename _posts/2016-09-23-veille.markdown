@@ -1,0 +1,64 @@
+---
+layout: post
+title: "La veille du week-end S1E15"
+date: 2016-09-23 07:30:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.  
+
+Une belle [heatmap interactive](https://jamesmilneruk.github.io/github-map/) sur la distribution des GitHubers (si on peut les appeler ainsi) sur la planète.
+
+
+Bonne lecture et bon week-end, Loïc
+
+## Dev
+- [T](http://twitter.com/Nico3333fr/status/776080830854754304) par [@Nico3333fr](https://twitter.com/Nico3333fr) Écoute la belle voix de @Nazcange qui me parle de Code Reviewztraminer [https://t.co/cPPOwtIDUx](https://t.co/cPPOwtIDUx) :)
+- [T](http://twitter.com/blendwebmix/status/776472907014868992) par [@blendwebmix](https://twitter.com/blendwebmix) Le voici enfin : LE PROGRAMME de BlendWebMix 2016 ! Vite, c'est par ici &gt;&gt;&gt; [https://t.co/7wtA27Jbw9](https://t.co/7wtA27Jbw9) https://t.co/u6LYbhCLVd
+- [T](http://twitter.com/leplatrem/status/777105926599901185) par [@leplatrem](https://twitter.com/leplatrem) A recap of #fullstackfest + some thoughts [https://t.co/vu3YmUbKV6](https://t.co/vu3YmUbKV6)
+- [T](http://twitter.com/waxzce/status/777873162277122048) par [@waxzce](https://twitter.com/waxzce) Avoid Using COUNT() in #SQL When You Could Use EXISTS() [https://t.co/vcVn95x05H](https://t.co/vcVn95x05H) https://t.co/cxtTg1g5eE
+- [T](http://twitter.com/jBleuzen/status/778314379905433600) par [@jBleuzen](https://twitter.com/jBleuzen) Some interesting tips for Electron… [https://t.co/VKurG9RKyj](https://t.co/VKurG9RKyj)
+
+
+
+## Front
+- [T](http://twitter.com/WalterStephanie/status/776307795335507968) par [@WalterStephanie](https://twitter.com/WalterStephanie) Media Queries support for gmail, YEAHY [https://t.co/cj958GIC4l](https://t.co/cj958GIC4l)
+- [T](http://twitter.com/franckpaul/status/777417030064537600) par [@franckpaul](https://twitter.com/franckpaul) [OT] Police responsive [https://t.co/PxWVpAjGAB](https://t.co/PxWVpAjGAB)
+- [T](http://twitter.com/jergason/status/777858541495414785) par [@jergason](https://twitter.com/jergason) The @ReactRally 2016 talks are all up on youtube. Time to see what the conference was actually like! [https://t.co/iuvqbJhR84](https://t.co/iuvqbJhR84)
+- [T](http://twitter.com/HugoGiraudel/status/778174515880857601) par [@HugoGiraudel](https://twitter.com/HugoGiraudel) A search engine for browser bugs: [https://t.co/fQzVJEo6uh](https://t.co/fQzVJEo6uh).
+- [T](http://twitter.com/alsacreations/status/778136452723052545) par [@alsacreations](https://twitter.com/alsacreations) Les conventions (S)CSS chez Dropbox : [https://t.co/rqaE8ByBMT](https://t.co/rqaE8ByBMT)
+
+
+
+## Tools
+- [T](http://twitter.com/waxzce/status/776332978666479617) par [@waxzce](https://twitter.com/waxzce) Advancing in the Bash Shell – ${me:-whatever} [https://t.co/RkVhxTBzR8](https://t.co/RkVhxTBzR8)
+- [T](http://twitter.com/WalterStephanie/status/777770477540388869) par [@WalterStephanie](https://twitter.com/WalterStephanie) Oh shit, git! Things you want to do in git explained in plain English [https://t.co/OX2kkmT48S](https://t.co/OX2kkmT48S) :D
+- [T](http://twitter.com/jekyll_fr/status/777809783747448832) par [@jekyll_fr](https://twitter.com/jekyll_fr) 💎  Utilisez les plugins Jekyll de votre choix sur GitHub Pages : [https://t.co/XCG2Ckn98v](https://t.co/XCG2Ckn98v) par @DirtyF https://t.co/BNboW5LPbW
+- [T](http://twitter.com/sam_et_max/status/777811130811023360) par [@sam_et_max](https://twitter.com/sam_et_max) Instant.io - Streaming file transfer over WebTorrent [https://t.co/68R76WOcxO](https://t.co/68R76WOcxO)
+- [T](http://twitter.com/jBleuzen/status/778538396964773888) par [@jBleuzen](https://twitter.com/jBleuzen) 🍺 HomeBrew 1.0.0 🍺 [https://t.co/sXqd0woDym](https://t.co/sXqd0woDym)
+
+
+## Marketing
+
+_Rien cette semaine (mais le cœur y est)..._
+
+## Geek/IOT
+- [T](http://twitter.com/nicolargo/status/776376968753344512) par [@nicolargo](https://twitter.com/nicolargo) Dell XPS 13 (7eme génération). Les spécifications. Sortie prévue le 4 octobre. cc: @sam_et_max [https://t.co/krj4p3HNIQ](https://t.co/krj4p3HNIQ)
+
+
+## Développement personnel/RH
+- [T](http://twitter.com/WalterStephanie/status/777212072279044098) par [@WalterStephanie](https://twitter.com/WalterStephanie) “Dis maman, c’est quoi une intelligence normale ?” by @PickMeUpAL [https://t.co/mQ0Da0B4eQ](https://t.co/mQ0Da0B4eQ)
+- [T](http://twitter.com/mariofusco/status/777245530502168577) par [@mariofusco](https://twitter.com/mariofusco) A criticism of Scrum [https://t.co/ShvfwAL3RM](https://t.co/ShvfwAL3RM) https://t.co/BueoEhXShd
+- [T](http://twitter.com/geekcto/status/778182047462461445) par [@geekcto](https://twitter.com/geekcto) La compassion au travail [https://t.co/6KJIv4OctH](https://t.co/6KJIv4OctH)
+
+
+
+## Divers/Conneries
+- [T](http://twitter.com/MrAntoineDaniel/status/777530148749008898) par [@MrAntoineDaniel](https://twitter.com/MrAntoineDaniel) Vidéo importante sur la chaîne principale : Que se passe t-il depuis 2 ans ? [https://t.co/9jdEIADnUy](https://t.co/9jdEIADnUy)
+- [T](http://twitter.com/Wisibility/status/778157534578442241) par [@Wisibility](https://twitter.com/Wisibility) J’écoute la petite playlist du frero @SkyNebula sur Spotify et je découvre quelques petites perles👌[https://t.co/1NKdxYZG6H](https://t.co/1NKdxYZG6H)
+- [T](http://twitter.com/PierreLecourt/status/778233789734682625) par [@PierreLecourt](https://twitter.com/PierreLecourt) Les imprimantes HP refusent désormais les cartouches d’encre non officielles [https://t.co/RDKWZxgTaS](https://t.co/RDKWZxgTaS) https://t.co/uiCZZS9UsZ
+
+
+
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
