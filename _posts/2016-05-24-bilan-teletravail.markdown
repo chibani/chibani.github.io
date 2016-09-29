@@ -47,7 +47,7 @@ Quand j’ai commencé à télétravailler, nous avions convenu que j’irai au 
 Ce rythme de la visite mensuelle a parfois été « un peu » zappé, il y a eu à plusieurs reprises des périodes d’absence de plusieurs mois (2-3 mois max), mais depuis 1 an c’est vraiment régulier.  
 C’est une sorte de rituel désormais :
 
-*   Achat des billets de train (chez les excellentissimes petits gars de [Captain Train](https://www.captaintrain.com/welcome/28da68))
+*   Achat des billets de train (chez les excellentissimes petits gars de [Train Line (ex-Captain train...)](https://www.trainline.fr/welcome/28da68))
 *   Séjour francilien chez des amis (plus convivial que seul dans une chambre d’hôtel)
 
 ### Le daily scrum
