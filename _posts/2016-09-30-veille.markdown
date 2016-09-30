@@ -1,0 +1,63 @@
+---
+layout: post
+title: "La veille du week-end S1E16"
+date: 2016-09-30 07:30:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.  
+
+En ce moment se tient [Paris Web](https://www.paris-web.fr/). Une bien belle conférence du web.  
+Tout est filmé, visible en live, mais aussi à postériori (je mettrai des liens dans la prochaine veille quand les vidéos seront postées).
+
+Aussi, SpaceX a présenté son projet de transport interplanétaire. Leur but est d'envoyer du matériel sur Mars d'ici 2 ans, puis d'envoyer des humains (une centaine) en 2020...  
+OUI, rien que ça :D  
+[Découvrez la vidéo du projet](https://twitter.com/SpaceX/status/780823821838266369) .
+
+Bonne lecture et bon week-end, Loïc
+
+## Dev
+- [T](http://twitter.com/waxzce/status/779215226336059392) par [@waxzce](https://twitter.com/waxzce) Un talk du génial @gcouprie en français : Des parsers sûrs avec #Rust et #nom [https://t.co/o2scMMy8mi](https://t.co/o2scMMy8mi) https://t.co/RR2r9wzSlS
+- [T](http://twitter.com/tyrower/status/779313318091718657) par [@tyrower](https://twitter.com/tyrower) "1, 2, 3… codez !" Un guide pédagogique pour enseigner la science informatique @Fondation_Lamap [https://t.co/ESVbbsFJxV](https://t.co/ESVbbsFJxV) via @framboise314
+- [T](http://twitter.com/waxzce/status/779968093669982208) par [@waxzce](https://twitter.com/waxzce) Debugging Node.js with Chrome DevTools [https://t.co/Jo6eOuSLax](https://t.co/Jo6eOuSLax) https://t.co/L1vnoQOWbe
+- [T](http://twitter.com/alainmi11/status/779970837344612352) par [@alainmi11](https://twitter.com/alainmi11) 60 vidéos pour apprendre à utiliser #Scratch #Code #Programmation [https://t.co/S76PkZv1fy](https://t.co/S76PkZv1fy) https://t.co/4lkZTIJMoY
+- [T](http://twitter.com/bugsnag/status/780830460809273345) par [@bugsnag](https://twitter.com/bugsnag) See what was happening in your #Laravel app prior to an exception with automatic breadcrumbs [https://t.co/wvJt8w066K](https://t.co/wvJt8w066K) @laravelphp
+
+
+## Front
+- [T](http://twitter.com/codepo8/status/780150500423569408) par [@codepo8](https://twitter.com/codepo8) 4 must-know tips for building cross platform Electron apps [https://t.co/IC7tl2ct7A](https://t.co/IC7tl2ct7A)
+- [T](http://twitter.com/francoisz/status/780772487261028352) par [@francoisz](https://twitter.com/francoisz) Building a Game with Three.js, #ReactJS and WebGL. Declarative 3D, yummy! [https://t.co/EDUHznvqRX](https://t.co/EDUHznvqRX)
+
+
+
+## Tools
+- [T](http://twitter.com/igrigorik/status/779012644824948737) par [@igrigorik](https://twitter.com/igrigorik) httpstat looks like a nifty "stats UI wrapper" for curl: [https://t.co/LIz7TckKpS](https://t.co/LIz7TckKpS) https://t.co/KgzwJKK9na
+- [T](http://twitter.com/FGRibreau/status/779261807202562048) par [@FGRibreau](https://twitter.com/FGRibreau) shrinkpack: Fast, resilient, reproducible builds with npm install [https://t.co/7QlN6v3efx](https://t.co/7QlN6v3efx)
+- [T](http://twitter.com/nhoizey/status/779957112512376832) par [@nhoizey](https://twitter.com/nhoizey) Cleanly Handling a Fork on GitHub [https://t.co/lmUtCpT28E](https://t.co/lmUtCpT28E) /via @CleverMarks
+- [T](http://twitter.com/alexisohanian/status/780998531314229249) par [@alexisohanian](https://twitter.com/alexisohanian) Algolia Search for WordPress: Bring instant and relevant search to your WordPress blog [https://t.co/FKOBXFe11J](https://t.co/FKOBXFe11J) https://t.co/x3hdos6DCH
+- [T](http://twitter.com/bloodyowl/status/781174661858066432) par [@bloodyowl](https://twitter.com/bloodyowl) ok, this design tool looks REALLY good [https://t.co/LFP2741TfH](https://t.co/LFP2741TfH)
+
+
+## Marketing
+
+_Rien cette semaine (mais le cœur y est)..._
+
+## Geek/IOT
+- [T](http://twitter.com/hasherezade/status/779972129274101761) par [@hasherezade](https://twitter.com/hasherezade) Master Boot Record visualized in @angealbertini 's style - by Jared Atkinson [https://t.co/BV7kWDWvOE](https://t.co/BV7kWDWvOE)
+
+
+## Développement personnel/RH
+- [T](http://twitter.com/methylbro/status/778928183156572166) par [@methylbro](https://twitter.com/methylbro) “Faire”, c’est bon : mangez-en [https://t.co/MTmijIVg22](https://t.co/MTmijIVg22)
+- [T](http://twitter.com/GeoffreyDorne/status/779227701295001601) par [@GeoffreyDorne](https://twitter.com/GeoffreyDorne) Pourquoi est-ce si difficile de vivre l’instant présent ? [https://t.co/sY5Wm6Glkr](https://t.co/sY5Wm6Glkr) https://t.co/yMUQCpvRzz
+- [T](http://twitter.com/jeuxweb/status/780303844022579200) par [@jeuxweb](https://twitter.com/jeuxweb) Commencer la méditation [https://t.co/YVEkIGeaV8](https://t.co/YVEkIGeaV8) #meditation
+- [T](http://twitter.com/99u/status/780864087001407488) par [@99u](https://twitter.com/99u) If you deprive yourself of breaks, when you finally take one, it’ll need to be longer to have any beneficial effect. [https://t.co/X6l6VWoCwi](https://t.co/X6l6VWoCwi)
+- [T](http://twitter.com/dsampaolo/status/781135667812306949) par [@dsampaolo](https://twitter.com/dsampaolo) "Fais-moi un ticket, steuplé" [https://t.co/rKvZKFblgN](https://t.co/rKvZKFblgN) Pourquoi/comment me faire des tickets efficaces. DEUX articles le même jour, je sais.
+
+
+## Divers/Conneries
+- [T](http://twitter.com/lazyheart/status/778955170042503168) par [@lazyheart](https://twitter.com/lazyheart) Really cool WebGL experience — [https://t.co/4WPMLL9RJV](https://t.co/4WPMLL9RJV) by @active_theory https://t.co/OrXamzbck3 (v/ @gingifruden)
+- [T](http://twitter.com/obstacle_fr/status/778975962012782592) par [@obstacle_fr](https://twitter.com/obstacle_fr) Obstacle arrive sur Youtube ! Découvrez notre première chronique : la course à obstacles est-ce vraiment un sport ? [https://t.co/MWMyY1cdOr](https://t.co/MWMyY1cdOr)
+- [T](http://twitter.com/dirtybiology/status/780039264943742976) par [@dirtybiology](https://twitter.com/dirtybiology) Une petite sélection de clips musicaux particulièrement créatifs et inspirants. [https://t.co/tZHnaCPQdR](https://t.co/tZHnaCPQdR)
+- [T](http://twitter.com/ThierryStoehr/status/780791409326616576) par [@ThierryStoehr](https://twitter.com/ThierryStoehr) C'est en ligne ! Article «Lancement de mon livre Surveillance» de T.@nitot, 345 signes pr annoncer «surveillance://» [https://t.co/6kQcxwP1Oe](https://t.co/6kQcxwP1Oe)
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
