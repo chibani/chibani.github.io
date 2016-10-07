@@ -1,0 +1,85 @@
+---
+layout: post
+title: "La veille du week-end S1E17"
+date: 2016-10-07 07:30:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.  
+
+En fin de semaine dernière, avait lieu ParisWeb, la conférence accessible du web.  
+J'ai donc créé une section ci-dessous pour grouper les quelques éléments que j'ai pu glaner ;)
+
+Bonne lecture et bon week-end, Loïc
+
+## ParisWeb
+
+- [T](http://twitter.com/dascritch/status/781445861641428992) par [@dascritch](https://twitter.com/dascritch) Les slides de ma conférence « Organisez des Cryptoparty » #parisweb [https://t.co/roorFJ7UEn](https://t.co/roorFJ7UEn)
+- [T](http://twitter.com/DirtyF/status/781784807147700224) par [@DirtyF](https://twitter.com/DirtyF) Les slides de notre présentation avec @bertrandkeller @Parisweb sur la génération de site performants et sécurisés : [https://t.co/8bnXUdCpjQ](https://t.co/8bnXUdCpjQ)
+- [T](http://twitter.com/DelicioInsights/status/781871224884518912) par [@DelicioInsights](https://twitter.com/DelicioInsights) Les slides de la présentation de @porteneuve sur Node.js partout ! à #ParisWeb2016 #ParisWeb -&gt; [https://t.co/THUjlLAvZh](https://t.co/THUjlLAvZh) (PDF)
+- [T](http://twitter.com/DirtyF/status/782757338000322560) par [@DirtyF](https://twitter.com/DirtyF) [https://t.co/NApfauZDif](https://t.co/NApfauZDif) en mode texte en attendant la vidéo #parisweb2016
+- [T](http://twitter.com/slig36/status/782868116531449856) par [@slig36](https://twitter.com/slig36) Slides de ma conf #parisweb - Lancer son site à l'international facile ? Oui, si l'on pense à tout ! [https://t.co/OXQ4Ai6CRH](https://t.co/OXQ4Ai6CRH) #parisweb2016
+- [T](http://twitter.com/thibaultj/status/782962253599563776) par [@thibaultj](https://twitter.com/thibaultj) Mis à jour le transcript de ma conf avec les images. [https://t.co/F7kYClummP](https://t.co/F7kYClummP)
+- [T](http://twitter.com/iergo/status/783310975940304900) par [@iergo](https://twitter.com/iergo) Suite à ParisWeb, je vous parle de « Web inclusif, conférence et diversité » par là [https://t.co/SLchMTcd9p](https://t.co/SLchMTcd9p)
+- [T](http://twitter.com/iamvdo/status/783743953749307392) par [@iamvdo](https://twitter.com/iamvdo) Mes slides #experiences de ce soir : «CSS, c'est pas de la science-fiction» et les bonnes pratiques front. [https://t.co/KPDPvVaBEa](https://t.co/KPDPvVaBEa)
+
+
+## Dev
+- [T](http://twitter.com/electronjs/status/781547068330422272) par [@electronjs](https://twitter.com/electronjs) Watch how Slack is making Electron development simpler, more pleasant, and more productive. [https://t.co/P6tVth0Nyj](https://t.co/P6tVth0Nyj) https://t.co/MBVRGmOKCV
+- [T](http://twitter.com/osteel/status/781769231151075328) par [@osteel](https://twitter.com/osteel) "PHP sucks, but not for the obvious reasons” [https://t.co/EjV87Xm1wA](https://t.co/EjV87Xm1wA) // interesting point of view #php
+- [T](http://twitter.com/buraitopengin/status/781827467753377792) par [@buraitopengin](https://twitter.com/buraitopengin) #MonoRepo in #PHP in 1 image big thanks to @epiloic for that great reading [https://t.co/Ion2d2zvzf](https://t.co/Ion2d2zvzf) https://t.co/ngSTblcJG6
+- [T](http://twitter.com/waxzce/status/781932375727013888) par [@waxzce](https://twitter.com/waxzce) Understanding Reactive Programming and RxJS [https://t.co/PMbYDoL4NM](https://t.co/PMbYDoL4NM) #javascript
+- [T](http://twitter.com/Maximebj/status/782842240150503424) par [@Maximebj](https://twitter.com/Maximebj) WordPress utilise l’encodage utf8mb4 au lieu d’utf8 quand il peut. Si ça ne vous parle pas, voici des infos : [https://t.co/ZUubSxBKqW](https://t.co/ZUubSxBKqW)
+- [T](http://twitter.com/laravelphp/status/783340973682069504) par [@laravelphp](https://twitter.com/laravelphp) The Laravel 5.3.16 JS scaffolding is now configured for @vuejs 2.0 out of the box, including single-file components!
+- [T](http://twitter.com/WalterStephanie/status/783690076425449472) par [@WalterStephanie](https://twitter.com/WalterStephanie) How to save the princess in 8 programming languages [https://t.co/Dr0snC8mUP](https://t.co/Dr0snC8mUP)
+
+
+## Front
+- [T](http://twitter.com/iamtzi/status/781468004420820992) par [@iamtzi](https://twitter.com/iamtzi) Pour tester vos feuilles de styles Sass à l'aide de snapshots, vous pouvez utiliser [https://t.co/2ICcrLwamU](https://t.co/2ICcrLwamU)
+- [T](http://twitter.com/waxzce/status/781497010390179840) par [@waxzce](https://twitter.com/waxzce) SVG has more potential  [https://t.co/HL5z4qfVH5](https://t.co/HL5z4qfVH5)
+- [T](http://twitter.com/vuejs/status/781931137937571840) par [@vuejs](https://twitter.com/vuejs) Behold! Vue 2.0 is officially out! [https://t.co/OVgGo4epCO](https://t.co/OVgGo4epCO)
+- [T](http://twitter.com/philogb/status/782760469081624576) par [@philogb](https://twitter.com/philogb) Awesome gallery of timelines (and transitions between those) [https://t.co/k289k4BMl8](https://t.co/k289k4BMl8) https://t.co/cMq5LF45tL
+- [T](http://twitter.com/WalterStephanie/status/782826270513958912) par [@WalterStephanie](https://twitter.com/WalterStephanie) A collection of SVG background patterns [https://t.co/7n1y3efo2h](https://t.co/7n1y3efo2h)
+- [T](http://twitter.com/smashingmag/status/782922484517515264) par [@smashingmag](https://twitter.com/smashingmag) Text spinners, CSS-only inline loading indicators. [https://t.co/I6SAhsRgm8](https://t.co/I6SAhsRgm8) https://t.co/HHjzHImp7Z
+- [T](http://twitter.com/Real_CSS_Tricks/status/783071633800126465) par [@Real_CSS_Tricks](https://twitter.com/Real_CSS_Tricks) The SVG `path` Syntax: An Illustrated Guide :: [https://t.co/s2WML5SUOK](https://t.co/s2WML5SUOK) https://t.co/EkI6L38bIV
+- [T](http://twitter.com/WalterStephanie/status/783199977975734272) par [@WalterStephanie](https://twitter.com/WalterStephanie) For those of you asking for my .PSD style guide, here you go [https://t.co/mCtzlwYEOL](https://t.co/mCtzlwYEOL) #design #process #freebies https://t.co/sgx4RBhJu8
+- [T](http://twitter.com/waxzce/status/783744321958899713) par [@waxzce](https://twitter.com/waxzce) #Javascript Library WebCLGL use #WebGL specification for interpreter the code [https://t.co/geoiAnNKjp](https://t.co/geoiAnNKjp) // Brilliant… https://t.co/5ryAkdNjyc
+- [T](http://twitter.com/HTeuMeuLeu/status/783654317236621312) par [@HTeuMeuLeu](https://twitter.com/HTeuMeuLeu) Un excellent résumé de la mise à jour de Gmail (qui supporte maintenant &lt;style&gt; et media queries presque partout) [https://t.co/yrbgFM9Bxn](https://t.co/yrbgFM9Bxn)
+
+
+
+
+## Tools
+- [T](http://twitter.com/kaelig/status/781254778902814720) par [@kaelig](https://twitter.com/kaelig) “Things you probably didn’t know you could do with Chrome’s Developer Console” by @SwagatSwain_ [https://t.co/COU0hy1QR7](https://t.co/COU0hy1QR7)
+- [T](http://twitter.com/LearnOpenCV/status/781534829347078144) par [@LearnOpenCV](https://twitter.com/LearnOpenCV) Google #Youtube-8M dataset looks pretty awesome for #ComputerVision #MachineLearning #deeplearning ! [https://t.co/G0ymsY1ZDB](https://t.co/G0ymsY1ZDB)
+- [T](http://twitter.com/vvoyer/status/782189594972418048) par [@vvoyer](https://twitter.com/vvoyer) Read any documentation inside Atom with api-docs [https://t.co/BYkBz2lwUn](https://t.co/BYkBz2lwUn) https://t.co/olWxa1AEK5
+
+
+
+## Marketing
+- [T](http://twitter.com/Wisibility/status/781851598213480449) par [@Wisibility](https://twitter.com/Wisibility) Tiens je découvre que Photoshop limite les #Gif animés à 500 Frames… Mais on peut outrepasser ça comme ça [https://t.co/kwxAllWVzi](https://t.co/kwxAllWVzi)
+
+
+## Geek/IOT
+- [T](http://twitter.com/pixelconscient/status/782524798903676928) par [@pixelconscient](https://twitter.com/pixelconscient) .@bortzmeyer démonte l'article de @lemondefr à propos du #blockchain et de la technologie #ethereum cc @IciLondres [https://t.co/wiMbZeLXzv](https://t.co/wiMbZeLXzv)
+- [T](http://twitter.com/olesovhcom/status/783725334495694848) par [@olesovhcom](https://twitter.com/olesovhcom) #Ovh La goutte #DDoS n'a pas fait déborder le VAC [https://t.co/w67Zc4Dmts](https://t.co/w67Zc4Dmts)
+
+
+
+## Développement personnel/RH
+- [T](http://twitter.com/mcpaccard/status/782850903317606400) par [@mcpaccard](https://twitter.com/mcpaccard) "C'est partout pareil" et les mensonges dont on se persuade dans le monde du travail [https://t.co/xQIVVMfEyS](https://t.co/xQIVVMfEyS) #burnout
+- [T](http://twitter.com/codepo8/status/782623790006239232) par [@codepo8](https://twitter.com/codepo8) Things that can’t be copyrighted (Infographic) [https://t.co/cB4SX8tAYe](https://t.co/cB4SX8tAYe)
+- [T](http://twitter.com/Les4_Julien/status/782726993502728192) par [@Les4_Julien](https://twitter.com/Les4_Julien) MANIPULATION par la langue en POLITIQUE ? par @Linguisticae [https://t.co/pBWmc2P9L6](https://t.co/pBWmc2P9L6)
+- [T](http://twitter.com/MeasuringU/status/782558467857022976) par [@MeasuringU](https://twitter.com/MeasuringU) 9 Biases That Affect Survey Responses (MeasuringU) [https://t.co/WJn1JKO4sX](https://t.co/WJn1JKO4sX)
+- [T](http://twitter.com/mariejulien/status/782956414167769089) par [@mariejulien](https://twitter.com/mariejulien) Pour ne pas vous faire subir un "à dérouler" j'ai écrit ça rapidos au sujet des orateurs de conf récurrents : [https://t.co/nejANdywUP](https://t.co/nejANdywUP)
+- [T](http://twitter.com/fredhermelin/status/783508785209966592) par [@fredhermelin](https://twitter.com/fredhermelin) Simon Sinek: Why Leadership is Better 'Together' #Merci [https://t.co/fGs7HaJwCm](https://t.co/fGs7HaJwCm)
+
+
+## Divers/Conneries
+- [T](http://twitter.com/marcedwards/status/782517425753300992) par [@marcedwards](https://twitter.com/marcedwards) An astonishingly comprehensive article. Pixels and voxels, the long answer: [https://t.co/j1rHKtSYyZ](https://t.co/j1rHKtSYyZ) https://t.co/A0jXTZiSQQ /via @vancura
+- [T](http://twitter.com/kyank/status/782651964496764928) par [@kyank](https://twitter.com/kyank) Je pose ça là et je vous souhaite une bonne fin de dimanche :) #Bloqués - Bêtisier : Serge le Mytho.  [https://t.co/273oHhnSWZ](https://t.co/273oHhnSWZ)
+- [T](http://twitter.com/pysanchis/status/782977912702050304) par [@pysanchis](https://twitter.com/pysanchis) La Suède Veut Baisser les Impôts de ceux qui Réparent au lieu de Jeter [https://t.co/GAf4NQd3Fa](https://t.co/GAf4NQd3Fa)
+- [T](http://twitter.com/laurentcalixte/status/783724278609014785) par [@laurentcalixte](https://twitter.com/laurentcalixte) Bio "non autorisée" de Xavier #Niel par @empaquette et @Solwii le 20 octobre [https://t.co/cLjubXYRok](https://t.co/cLjubXYRok)
+- [T](http://twitter.com/waxzce/status/783774768252260352) par [@waxzce](https://twitter.com/waxzce) QRussian Roulette "I had an idea and thought it could be fun to share, possibly a drinking game?" [https://t.co/ysEU3pCaok](https://t.co/ysEU3pCaok) via @gcouprie
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
