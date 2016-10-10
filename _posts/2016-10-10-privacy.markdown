@@ -1,0 +1,73 @@
+---
+layout: post
+title: "Le troc de ta vie (privée)"
+date: 2016-10-10 12:25:00 +0200
+category: autour-dun-cafe
+intro : >#
+  Réflexion/témoignage autour de la vie privée et sa pérennité face aux services en ligne.
+
+---
+
+J'en parle rarement en ligne, mais j'ai une mère. Si, j'vous jure !
+
+Récemment (hier soir), j'étais au téléphone avec elle, et nous parlions de l'installation de son futur PC _(qui sera certainement monté/configuré par votre serviteur qui doit bien ça à sa chère mère)_.
+Pendant la discussion, nous avons évoqué la migration des documents présents sur le PC actuel (dont le HDD est en train de lâcher), qu'elle transfèrera par l'intermédiaire d'un disque externe en USB.
+Puis, j'ai évoqué la question des autres types d'infos, qui ne sont pas des documents à proprement parler :
+
+ - Profils de certains logiciels
+ - Favoris de navigateur
+ - etc...
+
+Concernant les profils dans différents logiciels, il s'avère qu'elle utilise les logiciels tels qu'ils viennent, sans aller bidouiller dans les menus, paramètres, etc... Donc, pas de souci.
+
+En ce qui concerne les favoris de navigation, elle m'indique qu'elle utilise Chrome et que lors de sa précédente migration (vers son PC actuel), tout s'est importé automatiquement quand elle a saisi son adresse Gmail et son mot de passe.
+Et elle ponctue par "d'ailleurs, c'était bien pratique, mais je n'ai pas compris comment ça marchait, ni où se trouvaient mes favoris".
+
+## Simple, pratique, mais ...
+
+Mystère pour elle, "simple" synchro de données vers le cloud de Google pour moi, je lui explique dans les grandes lignes ce qu'il advient de ses favoris.
+S'en suit une discussion autour d'autres mécanismes "pratiques, mais qu'advient il de mes données ?", du genre :
+
+ - le pré-remplissage des formulaires par Chrome (avec adresse, nom, téléphone, ...)
+ - les numéros de CB sauvegardés par certains e-marchands
+
+Ainsi qu'un truc un peu plus pénible : "quand t'as une pub pour un truc que t'as cherché ou acheté", pratique donc je lui donne le nom : le retargeting ("le quoi ?!", me répondra-t-elle d'ailleurs...).
+
+La tournure de la discussion fait immédiatement écho dans mon cerveau avec le [livre ://surveillance](http://standblog.org/blog/pages/Surveillance) publié récemment par Tristan Nitot, que je suis en train de ~~lire~~ dévorer (lisez-le, vraiment).
+
+On troque quotidiennement une part de notre vie-privée, voire notre intimité, contre des services qui ont pour but avoué de nous faciliter la vie.
+
+Sûr, c'est pratique d'avoir des formulaire auto-remplis, éventuellement de ne pas avoir à aller chercher sa CB pour finaliser une commande.
+Toutefois, le prix de toute cette simplification est caché à l'utilisateur lambda.
+Certes, il peut aller lire les CGV/CGU/etc... de chaque service ou page web consulté, mais le fera-t-il ?
+
+Personnellement, je ne le fais pas, malgré mon "éducation" aux pratiques mercantiles de ces services et boutiques, mais j'imagine mal ma mère, Madame Michu parmi tant d'autres le faire.
+
+## Le "cloud"
+
+Le cloud, elle en entend parler à la radio, la TV, parce que quasi toutes les sociétés le mettent en avant.
+Que ce soit les FAIs qui proposent du stockage "pour vos photos et tous vos souvenirs", les banques et assurances qui proposent des applis pour gérer leurs services ou encore les fournisseurs de vidéo ou musique en streaming...
+Le "cloud" est devenu un argument de vente au même titre qu'une garantie décennale ou un bonhomme collé au plafond...
+
+Mais le "cloud", pour ma mère, c'est vaporeux, impalpable... comme un nuage, au final.
+Du coup, je lui explique, en reprenant la célebre phrase "There is no cloud, just other people's computers" (traduction : Il n'y a pas de cloud, juste les ordinateurs d'un autre).
+En somme, je lui explique que les données qui lui échappent, finissent dans les serveurs de Google et ses p'tits potes ...
+
+Elle garde un moment de silence et me répond : "ok, mais ils protègent bien ces données, __mes__ données, n'est-ce pas ?".
+Forcément qu'ils les protègent, ils ont des parefeu, des ingénieurs hyper-qualifiés, une surveillance aux p'tits oignons, mais...
+"Mais quoi ?", me répond-elle
+Mais ça ne fait pas tout, et surtout, ça n'excluera jamais à 100% que des données puissent leur échapper (ça arrive d'ailleurs souvent).
+
+## Education
+
+Maintenant éclairée, éduquée, elle a conscience de la portée que peut avoir sa navigation web et son usage de l'informatique en général.
+Une chance pour elle, son fils est "informaticien" (😭) et s'intéresse un minimum aux notions de vie privée, espionnage et tout le reste.
+Mais elle est un cas isolé, chanceuse ~~de m'avoir comme fils~~ (ok, j'en fais trop), chanceuse de pouvoir être éclairée à cette problématique de la fuite des données personnelles. Du risque qu'elle prend en acceptant qu'on l'aide à remplir un formulaire ou qu'on lui fasse gagner 2 minutes pour ne pas avoir à taper son numéro de CB...
+Malheureusement, la grande majorité des utilisateurs dans le monde n'ont pas conscience de ça. Au mieux, ils pensent que les "GAFA" (sur qui les candidats du moment critiquent la fiscalité...) détruisent des emplois et ruinent le pays, sans soupçonner le fond du modèle économique...
+
+## La suite
+
+La suite, pour ma mère, va être de faire un peu plus attention quand elle s'inscrit sur un site, en ce posant la question "suis-je prête à laisser partir ces infos ?".
+Plus tard, j'évoquerai avec elle tout ce qui concerne la sauvegarde personnelle de ses données (photos, films, textes...), ainsi que le chiffrage.
+
+De votre côté, avez-vous déjà abordé ces thèmes avec vos proches, amis, familles ?
