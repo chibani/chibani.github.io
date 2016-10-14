@@ -1,0 +1,70 @@
+---
+layout: post
+title: "La veille du week-end S1E18"
+date: 2016-10-14 07:30:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.  
+
+Google et Facebook on lancé un gestionnaire de modules pour node : Yarn  
+[T](http://twitter.com/mpjme/status/785863350068666370) par [@mpjme](https://twitter.com/mpjme) Yarn, an npm replacement that works on top of npm by Google and Facebook: [https://t.co/w2dFuqOYxA](https://t.co/w2dFuqOYxA)
+
+Bonne lecture et bon week-end, Loïc
+
+## Dev
+- [T](http://twitter.com/MyCozyCloud/status/784019138192764928) par [@MyCozyCloud](https://twitter.com/MyCozyCloud) How To Save The Princess In 8 Programming Languages: [https://t.co/6HJuYj3e3T](https://t.co/6HJuYj3e3T) https://t.co/LKLHb8J6rn
+- [T](http://twitter.com/jBleuzen/status/784334051876286464) par [@jBleuzen](https://twitter.com/jBleuzen) How To Make Your Electron App Sexy [https://t.co/ufQ3u8Lz35](https://t.co/ufQ3u8Lz35)
+- [T](http://twitter.com/_crev_/status/784254728288935936) par [@_crev_](https://twitter.com/_crev_) “I’m a boring programmer (and proud of it)” — @37svn [https://t.co/uDaRcvNsvP](https://t.co/uDaRcvNsvP)
+- [T](http://twitter.com/waxzce/status/784777271022391296) par [@waxzce](https://twitter.com/waxzce) Understand immutable infrastructure, what? Why? how? - #devopsdday [https://t.co/Pcx7F2exss](https://t.co/Pcx7F2exss) // My slides from yesterday talk
+
+
+## Front
+- [T](http://twitter.com/FGRibreau/status/784440194644738048) par [@FGRibreau](https://twitter.com/FGRibreau) stylelint • modern CSS linter [https://t.co/Flvw8uwPMP](https://t.co/Flvw8uwPMP)
+- [T](http://twitter.com/ReactiveConf/status/784879554691231744) par [@ReactiveConf](https://twitter.com/ReactiveConf) A great intro to #ReactJS UI testing by @arunoda: [https://t.co/lNiQpgDv7H](https://t.co/lNiQpgDv7H) https://t.co/1X48pgGVW9
+- [T](http://twitter.com/Numerama/status/785388714763649024) par [@Numerama](https://twitter.com/Numerama) Google publie une police d'écriture open source pour 800 langues - [https://t.co/IUbYlNbolg](https://t.co/IUbYlNbolg) https://t.co/Gmcw1M0PWk
+- [T](http://twitter.com/end3r/status/786207834778193924) par [@end3r](https://twitter.com/end3r) Current state of #HTML5 game development in 2016 - check out my guest blog post for the @JSKongress conf: [https://t.co/mNchkh5IPg](https://t.co/mNchkh5IPg) #gamedev
+
+
+## Tools
+- [T](http://twitter.com/tut_tuuut/status/784013091868672000) par [@tut_tuuut](https://twitter.com/tut_tuuut) #parisweb Les diapos de "git is choupi" [https://t.co/SUumqQMhpW](https://t.co/SUumqQMhpW)
+- [T](http://twitter.com/mbrehin/status/784327071728185344) par [@mbrehin](https://twitter.com/mbrehin) If you're a #Git user maybe you should contribute to their annual survey and help improve Git [https://t.co/BMgOzG4x27](https://t.co/BMgOzG4x27)
+- [T](http://twitter.com/DirtyF/status/785524881853190144) par [@DirtyF](https://twitter.com/DirtyF) Un petit pense-bête de la syntaxe Markdown en français : [https://t.co/s3jCXmHrZL](https://t.co/s3jCXmHrZL)
+- [T](http://twitter.com/MrRio/status/784841830991007744) par [@MrRio](https://twitter.com/MrRio) macOS QuickLook for Markdown files. Run "brew cask install qlmarkdown" [https://t.co/eZmDFBietg](https://t.co/eZmDFBietg)
+- [T](http://twitter.com/matzatorski/status/785049945783042048) par [@matzatorski](https://twitter.com/matzatorski) 💻 Mac backup with mackup [https://t.co/oL5Kr6kUFk](https://t.co/oL5Kr6kUFk) where was I all this time?! via @mxstbr
+- [T](http://twitter.com/clochix/status/785186294632706048) par [@clochix](https://twitter.com/clochix) Pourquoi et comment utiliser Makefiles pour standardiser la prise en main de vos projets [https://t.co/JzGBJLsEgj](https://t.co/JzGBJLsEgj) /via @m4d_z
+- [T](http://twitter.com/francoisz/status/785831155836784640) par [@francoisz](https://twitter.com/francoisz) nativefier: Make any web page a native (Linux, OSX, Windows) desktop application, thanks to Electron… [https://t.co/hGoVuXZhqr](https://t.co/hGoVuXZhqr)
+
+
+## Marketing
+// rien...
+
+## Geek/IOT
+- [T](http://twitter.com/deudtens/status/784011169132666882) par [@deudtens](https://twitter.com/deudtens) [blog] J'ai recyclé des vieilles liseuses pétées pour afficher les emplois du temps des salles de réunions :… [https://t.co/mwNgUPef5n](https://t.co/mwNgUPef5n)
+- [T](http://twitter.com/epenser/status/784247113693691904) par [@epenser](https://twitter.com/epenser) Pour ceux qui se demandent pourquoi le NTSC est à 29,97fps et pourquoi PAL est un meilleur standard : [https://t.co/tlxxJqLZar](https://t.co/tlxxJqLZar)
+
+
+
+## Développement personnel/RH
+- [T](http://twitter.com/SaraSoueidan/status/784631974975643648) par [@SaraSoueidan](https://twitter.com/SaraSoueidan) "next time u want to interrupt urself for a quick glance at ur inbox,remember that it could literally make u dumber" [https://t.co/mzgBHVg4E3](https://t.co/mzgBHVg4E3)
+- [T](http://twitter.com/Inc/status/784476629921849345) par [@Inc](https://twitter.com/Inc) 15 books these successful executives say inspired them the most @salubriousdish [https://t.co/i7huqc22bR](https://t.co/i7huqc22bR)
+- [T](http://twitter.com/fdevillamil/status/785202086103359494) par [@fdevillamil](https://twitter.com/fdevillamil) I just published “6 simple questions for building a successful team” [https://t.co/j72tRj34Pt](https://t.co/j72tRj34Pt)
+- [T](http://twitter.com/nicosomb/status/785360231039660032) par [@nicosomb](https://twitter.com/nicosomb) Just shut up and let your devs concentrate [https://t.co/UehtkPCY5E](https://t.co/UehtkPCY5E)
+- [T](http://twitter.com/Woodgate/status/785369608882622464) par [@Woodgate](https://twitter.com/Woodgate) Très bon article de @shirleyalmosni à propos des développeurs : pragmatique, juste, et relativement complet. Merci 💪 [https://t.co/WMZFY9hPrV](https://t.co/WMZFY9hPrV)
+- [T](http://twitter.com/MyCozyCloud/status/786095361035210752) par [@MyCozyCloud](https://twitter.com/MyCozyCloud) Not OK, Google [https://t.co/892RL1qgSj](https://t.co/892RL1qgSj) https://t.co/SFW2O0rriT
+- [T](http://twitter.com/codinghorror/status/786259854235009024) par [@codinghorror](https://twitter.com/codinghorror) favicon.ico is a privacy leak [https://t.co/8guC6xwYGE](https://t.co/8guC6xwYGE)
+
+
+
+## Divers/Conneries
+- [T](http://twitter.com/Wisibility/status/786128959012384768) par [@Wisibility](https://twitter.com/Wisibility) Découvrez notre trip en #Mongolie avec le photographe #MaxMuench pour #Disconnect de @fotoliafrance by @AdobeFrance… [https://t.co/csTyTfAtg3](https://t.co/csTyTfAtg3)
+- [T](http://twitter.com/ossouverain/status/784139090023354368) par [@ossouverain](https://twitter.com/ossouverain) Beigbeder fais du racisme anti geek. Nous exigeons des excuses ou nous stoppons la machine à café de @franceinter [https://t.co/ePyHMdnuSr](https://t.co/ePyHMdnuSr)
+- [T](http://twitter.com/CPUprogramme/status/784433573927452672) par [@CPUprogramme](https://twitter.com/CPUprogramme) Excellent article sur le problème du retrogaming en émulation [https://t.co/wZwaGyS4qy](https://t.co/wZwaGyS4qy)
+- [T](http://twitter.com/BoingBoing/status/784711980561080321) par [@BoingBoing](https://twitter.com/BoingBoing) The fascinating history of Benguiat, the 'Stranger Things' font [https://t.co/8HVj3RMPXe](https://t.co/8HVj3RMPXe) https://t.co/KxWxDREecI
+- [T](http://twitter.com/CodePen/status/784850632800870400) par [@CodePen](https://twitter.com/CodePen) Pure CSS Minesweeper! [https://t.co/YPG7Cv5yLM](https://t.co/YPG7Cv5yLM) https://t.co/XH9zvHVcRU
+- [T](http://twitter.com/Capet_Ier/status/785525154516463616) par [@Capet_Ier](https://twitter.com/Capet_Ier) Tout le monde déteste Comic Sans MS, @Hypsoline_ aussi et elle vous dit pk [https://t.co/WfI01FM0LR](https://t.co/WfI01FM0LR)
+- [T](http://twitter.com/claradealberto/status/786198926990925824) par [@claradealberto](https://twitter.com/claradealberto) Tous les sorts d'Harry Potter triés par ordre d'apparition et par occurence dans une #dataviz – via @randal_olson… [https://t.co/ukRK9BgBOQ](https://t.co/ukRK9BgBOQ)
+
+
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
