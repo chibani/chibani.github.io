@@ -1,0 +1,66 @@
+---
+layout: post
+title: "La veille du week-end S1E19"
+date: 2016-10-21 07:30:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.  
+
+Le calendrier de l'Avent du web, [@24joursdeweb](https://twitter.com/24joursdeweb) est de retour pour une cinquième édition, et on a besoin de vous pour y participer ! [https://t.co/AeSpJtVXSh](https://t.co/AeSpJtVXSh) .
+
+Cette semaine, Google et Wikipedia étaient indisponibles depuis une ligne Orange (ADSL, Mobile...) :  
+[T](http://twitter.com/bortzmeyer/status/788108667312799744) par [@bortzmeyer](https://twitter.com/bortzmeyer) Google détourné par Orange vers la place Beauveau [https://t.co/ilMtaxQCoW](https://t.co/ilMtaxQCoW)
+
+Disney a libéré de nombreux outils, en open-source :  
+[T](http://twitter.com/waxzce/status/788332575530057732) par [@waxzce](https://twitter.com/waxzce) Disney Open Source [https://t.co/p25EQxkep8](https://t.co/p25EQxkep8) https://t.co/gYxDt5cqUI
+
+Bonne lecture et bon week-end, Loïc
+
+## Dev
+- [T](http://twitter.com/sam_et_max/status/786474562607206400) par [@sam_et_max](https://twitter.com/sam_et_max) naptha/tesseract.js: Pure Javascript OCR for 62 Languages 📖🎉🖥 [https://t.co/eUZpjxlJ0c](https://t.co/eUZpjxlJ0c)
+- [T](http://twitter.com/end3r/status/786207834778193924) par [@end3r](https://twitter.com/end3r) Current state of #HTML5 game development in 2016 - check out my guest blog post for the @JSKongress conf: [https://t.co/mNchkh5IPg](https://t.co/mNchkh5IPg) #gamedev
+- [T](http://twitter.com/waxzce/status/786866097781866496) par [@waxzce](https://twitter.com/waxzce) Talk de @gcouprie : Sécuriser votre produit, from scratch [https://t.co/cwKcSu3ysV](https://t.co/cwKcSu3ysV) https://t.co/fLsttf5Ipm
+- [T](http://twitter.com/SebastienElet/status/787978531133325312) par [@SebastienElet](https://twitter.com/SebastienElet) A key/value #nosql #database based on redis API with #javascript support ! 🚀  [https://t.co/wZrGZCRlKx](https://t.co/wZrGZCRlKx) #devops cc @nfroidure
+- [T](http://twitter.com/laracasts/status/788093736794386432) par [@laracasts](https://twitter.com/laracasts) I published 3 new episodes in the “How to Accept Payments’ series today! [https://t.co/MGYdzj3uBG](https://t.co/MGYdzj3uBG)
+
+
+## Front
+- [T](http://twitter.com/ffoodd_fr/status/786525767932850176) par [@ffoodd_fr](https://twitter.com/ffoodd_fr) [blog] — « Cache-cache CSS » [https://t.co/zEd1XnLnRk](https://t.co/zEd1XnLnRk) Ou comment masquer un texte et rester accessible. ping @ryuran78 + @thierrykoblentz
+- [T](http://twitter.com/ChromeDevTools/status/786683811199418368) par [@ChromeDevTools](https://twitter.com/ChromeDevTools) A nice 40 min. video on some advanced / experimental DevTools workflows. Thanks @PrashantPalikhe! [https://t.co/apQoeHbL4r](https://t.co/apQoeHbL4r)
+- [T](http://twitter.com/elijahmanor/status/787027810288340993) par [@elijahmanor](https://twitter.com/elijahmanor) ⚡️ Made a responsive SVG for a project at @leankit using this great resource... 🔗 [https://t.co/bkkTjRkXPP](https://t.co/bkkTjRkXPP) 👏… https://t.co/wlUuj5ea8l
+- [T](http://twitter.com/paul_irish/status/788073228732424192) par [@paul_irish](https://twitter.com/paul_irish) What makes your site faster? ⚡️ Bundling or minifying? Let's find out. ⇾ Practical Performance ⇽ w/ @samccone and I [https://t.co/sK9082yyCT](https://t.co/sK9082yyCT)
+- [T](http://twitter.com/WalterStephanie/status/788278509831610368) par [@WalterStephanie](https://twitter.com/WalterStephanie) .@supports will change your life  [https://t.co/TubNEjW8wR](https://t.co/TubNEjW8wR)
+
+
+## Tools
+- [T](http://twitter.com/waxzce/status/786520676450594816) par [@waxzce](https://twitter.com/waxzce) Story of many deps management (CPAN, gem, npm)... very interesting  [https://t.co/nAddv58eaB](https://t.co/nAddv58eaB)
+- [T](http://twitter.com/_md/status/787730633305055232) par [@_md](https://twitter.com/_md) In the latest @phpstorm (EAP 163.6110) you can create @PhpSpec run configurations [https://t.co/BNViZ4bOCv](https://t.co/BNViZ4bOCv). Works re… https://t.co/VSm10qiMLK
+
+
+## Marketing
+- [T](http://twitter.com/FGRibreau/status/788319907293360128) par [@FGRibreau](https://twitter.com/FGRibreau) Finally found a free and nice SaaS for monitoring website Google ranking! [https://t.co/o62B96OqCA](https://t.co/o62B96OqCA)
+
+
+## Geek/IOT
+- [T](http://twitter.com/Pi_Borg/status/787345515621081089) par [@Pi_Borg](https://twitter.com/Pi_Borg) Find out what #FormulaPi is all about: [https://t.co/1rgLSgpvdO](https://t.co/1rgLSgpvdO) #Autonomous #Racing @Raspberry_Pi
+- [T](http://twitter.com/NkL4/status/788494980046327808) par [@NkL4](https://twitter.com/NkL4) Une superbe mini radio sous Raspberry Pi et Arduino [https://t.co/VdCxH43K9z](https://t.co/VdCxH43K9z)
+
+
+## Développement personnel/RH
+- [T](http://twitter.com/lpenou/status/786463938846261249) par [@lpenou](https://twitter.com/lpenou) Your Social Media Fingerprint - [https://t.co/AppH1OnJv5](https://t.co/AppH1OnJv5) https://t.co/7xVT5OstPx
+- [T](http://twitter.com/dascritch/status/786512273116434432) par [@dascritch](https://twitter.com/dascritch) [https://t.co/IbQQZsusjn](https://t.co/IbQQZsusjn) Le Blues du développeur, et pourquoi l'Artisanat Logiciel, avec @AntoineCezar, artisan développeur .
+- [T](http://twitter.com/waxzce/status/786500590364950528) par [@waxzce](https://twitter.com/waxzce) Développeurs, apprendre est notre métier [https://t.co/TMzh8gKevx](https://t.co/TMzh8gKevx) https://t.co/mHXVN9by4v
+- [T](http://twitter.com/LaetitiaPhan/status/788410135748239360) par [@LaetitiaPhan](https://twitter.com/LaetitiaPhan) Replacing detention by meditation *** Remplacer les colles par de la méditation [https://t.co/e4nQIrn7Bs](https://t.co/e4nQIrn7Bs) https://t.co/NYw17N8Q7k
+- [T](http://twitter.com/HTeuMeuLeu/status/788378487765729280) par [@HTeuMeuLeu](https://twitter.com/HTeuMeuLeu) La survie à la crise de milieu de carrière dans le Web, excellente transcription de conférence [https://t.co/zTzMZrfHcb](https://t.co/zTzMZrfHcb) (via @womenofemail)
+
+
+## Divers/Conneries
+- [T](http://twitter.com/CPUprogramme/status/786885618609553408) par [@CPUprogramme](https://twitter.com/CPUprogramme) Wearable robot : un exosquelette pour réapprendre à la main les fonctions motrices [https://t.co/3M7xcvSawW](https://t.co/3M7xcvSawW)
+- [T](http://twitter.com/NotaBeneMovies/status/787698469154816000) par [@NotaBeneMovies](https://twitter.com/NotaBeneMovies) STOP ! Arrêtez tout ! Une carte animée de l'évolution des frontières sur les 200 000 dernières années ! Go RT !!! [https://t.co/7m2iXYLGwQ](https://t.co/7m2iXYLGwQ)
+- [T](http://twitter.com/tyrower/status/787726099639857152) par [@tyrower](https://twitter.com/tyrower) Code Week 2016 : 172 événements pour s'amuser à coder @CodeWeek_FR #CodeEU [https://t.co/7ZM4TBoG3N](https://t.co/7ZM4TBoG3N) via @geekjuniorfr @CodeWeekEU
+- [T](http://twitter.com/dirtybiology/status/787817528504397825) par [@dirtybiology](https://twitter.com/dirtybiology) La réal, l'acting, et la ZIK. [https://t.co/TTSgFHEbbH](https://t.co/TTSgFHEbbH) Grosse dope. #massiveattack #youngfathers
+- [T](http://twitter.com/latelier12/status/787914725996765184) par [@latelier12](https://twitter.com/latelier12) "Un petit Western fait par des animateurs de Pixar pendant leur temps libre" [https://t.co/JeFBcvhkh0](https://t.co/JeFBcvhkh0) #photographie #feedly
+- [T](http://twitter.com/dirtybiology/status/788041472327114752) par [@dirtybiology](https://twitter.com/dirtybiology) Combien vaut la Nature ? Un épisode avec de la philo, de l'écologie, de l'économie et... des pandas. [https://t.co/3ilmVPVi8a](https://t.co/3ilmVPVi8a) cc @Stupid_Eco
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
