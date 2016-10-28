@@ -1,0 +1,61 @@
+---
+layout: post
+title: "La veille du week-end S1E20"
+date: 2016-10-28 07:30:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.  
+
+
+Bonne lecture et bon week-end, Loïc
+
+## Dev
+- [T](http://twitter.com/JoliCode/status/790473590449827840) par [@JoliCode](https://twitter.com/JoliCode) Aujourd'hui sur le blog, @welcoMattic nous présente l'implémentation d'une API REST avec @laravelphp [https://t.co/s0Ln46lkgD](https://t.co/s0Ln46lkgD) #RestIsNotDead
+- [T](http://twitter.com/mpjme/status/790516558149935104) par [@mpjme](https://twitter.com/mpjme) Unit tests vs Integration tests [https://t.co/5JZO74SfXF](https://t.co/5JZO74SfXF) https://t.co/iQQsgjrSyg
+- [T](http://twitter.com/dsampaolo/status/790525299763150851) par [@dsampaolo](https://twitter.com/dsampaolo) Classe ! Utiliser les validators de Laravel en Ajax, sur un formulaire VueJs : [https://t.co/VLItvZY0a7](https://t.co/VLItvZY0a7)
+
+
+## Front
+- [T](http://twitter.com/ManckoFr/status/789406759186108417) par [@ManckoFr](https://twitter.com/ManckoFr) @Nico3333fr Pragmatist's Guide to Service Workers en vidéo [https://t.co/TxK1wF0b4o](https://t.co/TxK1wF0b4o) et sur GitHub https://t.co/0qjoEYxqlH
+- [T](http://twitter.com/iamtzi/status/789423770599645184) par [@iamtzi](https://twitter.com/iamtzi) La Web Share API, qui permet de déclencher le partage natif arrive dans Chrome Beta Android [https://t.co/pZW3GOgKoB](https://t.co/pZW3GOgKoB)
+- [T](http://twitter.com/m4d_z/status/789491178068709376) par [@m4d_z](https://twitter.com/m4d_z) My slides about Functional Web Apps at #TakeOffConf2016 are online [https://t.co/p9HWK5cjbH](https://t.co/p9HWK5cjbH)
+- [T](http://twitter.com/azat_co/status/789662812079550464) par [@azat_co](https://twitter.com/azat_co) A React Introduction For People Who Know Just Enough jQuery To Get By #javascript [https://t.co/AjFZQemCB6](https://t.co/AjFZQemCB6)
+- [T](http://twitter.com/WalterStephanie/status/790455285726978048) par [@WalterStephanie](https://twitter.com/WalterStephanie) Bye, Bye Burger! What we learned from implementing the new Android Bottom Navigation [https://t.co/OWUx7OmykG](https://t.co/OWUx7OmykG)
+- [T](http://twitter.com/iamtzi/status/790977965932806145) par [@iamtzi](https://twitter.com/iamtzi) Next.js - Faire une appli react performante : Pas de configuration, chaque page est simplement un module ES6, rendu… [https://t.co/fUiomVtJnF](https://t.co/fUiomVtJnF)
+
+
+## Tools
+- [T](http://twitter.com/waxzce/status/789469553440980996) par [@waxzce](https://twitter.com/waxzce) Charts, simple as a URL [https://t.co/p4DKZMMUkg](https://t.co/p4DKZMMUkg) // the simplest way to build charts with URL, better than google ch… https://t.co/BWpxNPFMWl
+- [T](http://twitter.com/timbarray/status/789903505200934912) par [@timbarray](https://twitter.com/timbarray) Finalement trouvé un générateur de site static en PHP facile à prendre en main pour faire autre chose qu'un blog : @spress_cms
+- [T](http://twitter.com/jourde/status/789010364411289601) par [@jourde](https://twitter.com/jourde) A la fin du lien d'un Google Doc, changez "/edit" par "/export?format=pdf". Le pdf sera toujours à jour. Idem avec… [https://t.co/i9VkWbaSVF](https://t.co/i9VkWbaSVF)
+- [T](http://twitter.com/rauschma/status/790884159686316037) par [@rauschma](https://twitter.com/rauschma) Book on static site generation by @raymondcamden and @remotesynth: [https://t.co/wN8fmXE33q](https://t.co/wN8fmXE33q)
+- [T](http://twitter.com/dhoko_/status/790962618878025728) par [@dhoko_](https://twitter.com/dhoko_) Mockaroo ~ 1,000 rows of realistic test data in CSV, JSON, SQL, and Excel formats. [https://t.co/JWtgnCbT5J](https://t.co/JWtgnCbT5J) Vraiment pratique comme site.
+- [T](http://twitter.com/sam_et_max/status/791022114950279168) par [@sam_et_max](https://twitter.com/sam_et_max) Git Extras - Introduction on Vimeo [https://t.co/bZUL8xTR0Q](https://t.co/bZUL8xTR0Q) @gordonzaula
+- [T](http://twitter.com/jBleuzen/status/791171503488466946) par [@jBleuzen](https://twitter.com/jBleuzen) Générer un fichier patch à partir d'un commit Git [https://t.co/0h8wWlAVdp](https://t.co/0h8wWlAVdp)
+- [T](http://twitter.com/mpjme/status/791194554187804672) par [@mpjme](https://twitter.com/mpjme) Love this. [https://t.co/P005n1Nuhm](https://t.co/P005n1Nuhm) allows you to paste a shell command and explains the different parts to you.… https://t.co/yQBulTerty
+
+
+## Marketing
+- [T](http://twitter.com/sam_et_max/status/790677435964592129) par [@sam_et_max](https://twitter.com/sam_et_max) Les créateurs de font awesome font un kickstater pour la nouvelle version et ont bien fumé sur leur vidéo de promo [https://t.co/kJyPJqfW3V](https://t.co/kJyPJqfW3V)
+
+
+## Geek/IOT
+- [T](http://twitter.com/sam_et_max/status/789513644711305220) par [@sam_et_max](https://twitter.com/sam_et_max) Adding a phone number to your Google account can make it LESS secure. [https://t.co/z7laVMlXvI](https://t.co/z7laVMlXvI)
+- [T](http://twitter.com/FranckLassagne/status/789826307874062336) par [@FranckLassagne](https://twitter.com/FranckLassagne) Comment créer sa console retrogaming à moins de 100 euros ? [https://t.co/O03TaXCGTg](https://t.co/O03TaXCGTg)
+- [T](http://twitter.com/waxzce/status/790194882711265280) par [@waxzce](https://twitter.com/waxzce) Paypal 2FA Bypass [https://t.co/vIID4LBxPV](https://t.co/vIID4LBxPV)
+- [T](http://twitter.com/ThenotSophie/status/791356723550453760) par [@ThenotSophie](https://twitter.com/ThenotSophie) Comprendre les grands principes de la cryptologie et du chiffrement - Hyper clair !  [https://t.co/Xk3eqocGqj](https://t.co/Xk3eqocGqj)
+
+
+## Développement personnel/RH
+- [T](http://twitter.com/waxzce/status/789057346869788672) par [@waxzce](https://twitter.com/waxzce) Deep work in practice: changing my workflow for radically less distraction [https://t.co/wxDcVK1IRh](https://t.co/wxDcVK1IRh) https://t.co/b20wTyDQ2P
+- [T](http://twitter.com/DirtyF/status/789176701758558209) par [@DirtyF](https://twitter.com/DirtyF) @edasfr Lieke, anciennement chez Cloud9 a changé de vie, pour le meilleur : [https://t.co/hyoxEMwWfR](https://t.co/hyoxEMwWfR) https://t.co/TR8jHDX99d
+
+
+## Divers/Conneries
+- [T](http://twitter.com/dlouapre/status/789484408923418625) par [@dlouapre](https://twitter.com/dlouapre) Nouvelle vidéo ! RÉFORMONS L’ÉLECTION PRÉSIDENTIELLE ! (grâce à la science) Jamais le RT n'aura été aussi important! [https://t.co/FvotOTuRGD](https://t.co/FvotOTuRGD)
+- [T](http://twitter.com/FlorencePorcel/status/790109587546353664) par [@FlorencePorcel](https://twitter.com/FlorencePorcel) Vidéo du dimanche matin : quand Hubble permet de mieux détecter le cancer du sein... [https://t.co/UqACZuSGEb](https://t.co/UqACZuSGEb)
+- [T](http://twitter.com/LeoDiCaprio/status/790611325810536448) par [@LeoDiCaprio](https://twitter.com/LeoDiCaprio) Proud to announce that #BeforetheFlood will be available to stream for free on October 30th! Watch for details. [https://t.co/eYIv9MZKlc](https://t.co/eYIv9MZKlc)
+
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
