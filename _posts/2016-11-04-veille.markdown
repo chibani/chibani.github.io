@@ -1,0 +1,67 @@
+---
+layout: post
+title: "La veille du week-end S1E21"
+date: 2016-11-04 07:30:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.  
+
+Cette semaine avait lieu la conférence BlendWebMix, en voici ma moisson :
+
+- [@mcpaccard](https://twitter.com/mcpaccard) Les slides de "Se réinventer et être soi à l'ère du numérique" [https://t.co/yXbIuHqGy2](https://t.co/yXbIuHqGy2)
+- [@iamtzi](https://twitter.com/iamtzi) Performances de rendu #CSS [https://t.co/RVN6NfG7dh](https://t.co/RVN6NfG7dh)
+- [@geraldcroes](https://twitter.com/geraldcroes) Les microservices [https://t.co/F9owLwi1XB](https://t.co/F9owLwi1XB)
+- [@romsson](https://twitter.com/romsson) Datavisualisation [http://romain.vuillemot.net/talks/blend16-la-data-visualization/](http://romain.vuillemot.net/talks/blend16-la-data-visualization/)
+- [@pyreck](https://twitter.com/pyrech) PHP WTF ??? [https://pyrech.github.io/php-wtf/#/?_k=izu3tz](https://pyrech.github.io/php-wtf/#/?_k=izu3tz)
+- [@TechM6Web](https://twitter.com/TechM6Web) Enquête exclusive au coeur de 6play [http://tech.m6web.fr/blendwebmix-6play-conference/](http://tech.m6web.fr/blendwebmix-6play-conference/)
+- [@WalterStephanie](https://twitter.com/WalterStephanie) Aidez-moi à remplir vos formulaires mobile ! [https://blog.stephaniewalter.fr/aidez-moi-a-remplir-vos-formulaires-mobile/](https://blog.stephaniewalter.fr/aidez-moi-a-remplir-vos-formulaires-mobile/)
+- [@guilhem](https://twitter.com/guilhem) le théorème du (noeud) papillon [https://t.co/hY0nfauYn8](https://t.co/hY0nfauYn8)
+- [@rebolon](https://twitter.com/rebolon) Moderniser vos applications Web (avec VueJs) [https://slides.com/rebolon/modernisez-vos-applications-web#/](http://slides.com/rebolon/modernisez-vos-applications-web#/)
+- [@fredericlb](https://twitter.com/fredericlb) Pourquoi nos applications veulent-elles nous dévorer ? [https://t.co/0U0blPjc1y](https://t.co/0U0blPjc1y)
+
+Bonne lecture et bon week-end, Loïc
+
+## Dev
+- [T](http://twitter.com/hsablonniere/status/791623777457172480) par [@hsablonniere](https://twitter.com/hsablonniere) 📺 La video de mon talk sur les Progressive Web Apps à @bdxio est dispo !!! [https://t.co/c5KGrXW34j](https://t.co/c5KGrXW34j)
+- [T](http://twitter.com/naholyr/status/791891282511659008) par [@naholyr](https://twitter.com/naholyr) "Fun Functional Programming with the Choo Framework" [https://t.co/Kxkmc3hd0V](https://t.co/Kxkmc3hd0V) #nodejs #feedly
+- [T](http://twitter.com/waxzce/status/792791733998350336) par [@waxzce](https://twitter.com/waxzce) How Algolia uses Electron to improve internal productivity [https://t.co/61RpbfPZjy](https://t.co/61RpbfPZjy) https://t.co/KZ3kzKEBd1
+- [T](http://twitter.com/waxzce/status/793470916768522240) par [@waxzce](https://twitter.com/waxzce) A Comparison of Time Series Databases [https://t.co/IA7rEv8PVc](https://t.co/IA7rEv8PVc) // TS DB will be the next #noSQL big thing, look at w… https://t.co/XMdvWdYeNw
+
+
+
+## Front
+- [T](http://twitter.com/geoffrey_crofte/status/791572749319831552) par [@geoffrey_crofte](https://twitter.com/geoffrey_crofte) A dynamic table of content with circular progress bar on each title. [https://t.co/tERz1dysmG](https://t.co/tERz1dysmG)
+- [T](http://twitter.com/waxzce/status/793636017907634177) par [@waxzce](https://twitter.com/waxzce) Why #gitlab Chose Vue.js [https://t.co/7Juzr6FgzK](https://t.co/7Juzr6FgzK) https://t.co/fMdLiAWZlp
+- [T](http://twitter.com/htmlvv/status/793740251609063425) par [@htmlvv](https://twitter.com/htmlvv) Les « do » et les « don’t » de l’accessibilité sont maintenant disponibles en français ! [https://t.co/oQAffUzabI](https://t.co/oQAffUzabI) https://t.co/XwbwE8NFZ4
+
+
+## Tools
+- [T](http://twitter.com/docker/status/792068929724289024) par [@docker](https://twitter.com/docker) Docker networking explained [https://t.co/TdKonFtCPC](https://t.co/TdKonFtCPC) https://t.co/jQDC9597FX
+- [T](http://twitter.com/davR74130/status/791940022454792193) par [@davR74130](https://twitter.com/davR74130) Je viens de découvrir un excellent logiciel de montage vidéo sous GNU/Linux (existe aussi sous Windows et macOS) : [https://t.co/rSJHRd7XmV](https://t.co/rSJHRd7XmV)
+- [T](http://twitter.com/lmorchard/status/792948624686579713) par [@lmorchard](https://twitter.com/lmorchard) My favorite JS console command for almost any how-to video on YouTube: document.getElementsByTagName("video")[0].playbackRate = 3.0
+- [T](http://twitter.com/waxzce/status/793211952092815360) par [@waxzce](https://twitter.com/waxzce) giteveryday(7) man page [https://t.co/68Zs0jwP8P](https://t.co/68Zs0jwP8P) // How cool? This is simple git man page for day to day use and beginners
+- [T](http://twitter.com/jekyll_fr/status/793907951107014656) par [@jekyll_fr](https://twitter.com/jekyll_fr) Jekyll 3.3 est maintenant dispo sur Github Pages 🎉 [https://t.co/VWlYS3rnv8](https://t.co/VWlYS3rnv8)
+
+
+## Marketing
+- [T](http://twitter.com/SaraSoueidan/status/793489789475549184) par [@SaraSoueidan](https://twitter.com/SaraSoueidan) Design Principles: [https://t.co/tWM2wY4kP9](https://t.co/tWM2wY4kP9) by @adactio — lots of wisdom in there to follow. Bookmark it ⭐️ and come back to it regularly. 👌🏻
+
+
+## Geek/IOT
+- [T](http://twitter.com/Numerama/status/791738064074842112) par [@Numerama](https://twitter.com/Numerama) Les MacBook d'Apple qu'il ne faut pas acheter : un anti-guide d'achat - [https://t.co/R2tyI1dhNy](https://t.co/R2tyI1dhNy) https://t.co/zf3Cj7h04o
+- [T](http://twitter.com/lgnap/status/792084596909375488) par [@lgnap](https://twitter.com/lgnap) I just backed Mooltipass Mini - Your Passwords On The Go! on @Kickstarter [https://t.co/AGTogLlmBE](https://t.co/AGTogLlmBE) @alexlec mon portefeuille te boude ;-)
+- [T](http://twitter.com/Jalopnik/status/792423123014545408) par [@Jalopnik](https://twitter.com/Jalopnik) The Feds were right to question the safety of the $999 self-driving kit [https://t.co/MnwvqO7Uch](https://t.co/MnwvqO7Uch) https://t.co/PWMvMt6UEN
+- [T](http://twitter.com/recalbox/status/792745799071391744) par [@recalbox](https://twitter.com/recalbox) @tyrower superbe intervention sur le #RaspberryPi sur @LCI :) [https://t.co/3sfqpA8kgt](https://t.co/3sfqpA8kgt) Merci d'avoir cité #recalbox ! A bientot :)
+
+
+## Développement personnel/RH
+- [T](http://twitter.com/RushDamage/status/793434553041825794) par [@RushDamage](https://twitter.com/RushDamage) Reboot/Remise à  niveau/Pourquoi j'en  suis arriver à l’hôpital / Faire le  pour et le contre pour ma santé  [https://t.co/oiTS4yDF8B](https://t.co/oiTS4yDF8B)
+
+
+## Divers/Conneries
+- [T](http://twitter.com/ptondereau1/status/793183351846952960) par [@ptondereau1](https://twitter.com/ptondereau1) Toutes ces choses que vous ne connaissiez pas sur l'Unicode [https://t.co/ajN2OLTaGU](https://t.co/ajN2OLTaGU)
+- [T](http://twitter.com/lesinrocks/status/793408499036327936) par [@lesinrocks](https://twitter.com/lesinrocks) "Before the flood", le docu écolo de Leonardo DiCaprio est disponible gratuitement en intégralité… [https://t.co/60LQN0wYcv](https://t.co/60LQN0wYcv)
+- [T](http://twitter.com/valvert/status/793519516668030976) par [@valvert](https://twitter.com/valvert) La méthode scientifique: L’énigme du manuscrit de Voynich face aux avancées de la cryptologie [https://t.co/PGZkTAS7BD](https://t.co/PGZkTAS7BD)
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
