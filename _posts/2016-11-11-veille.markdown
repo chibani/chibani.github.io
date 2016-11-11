@@ -1,0 +1,70 @@
+---
+layout: post
+title: "La veille du week-end S1E22"
+date: 2016-11-11 07:30:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.  
+
+Cette semaine, Trump est devenu le 45ème président des Etats-Unis (je l'écris ici pour tenter d'en faire une réalité dans mon esprit) :
+
+ - [T](http://twitter.com/cybergrunge/status/796322515610124288) par [@cybergrunge](https://twitter.com/cybergrunge) Si pas déjà fait, désactivez le partage de vos infos Google avec l’administration Trump. (Dans un premier temps.) [https://t.co/RtnrjnpV5Z](https://t.co/RtnrjnpV5Z)
+
+Par ailleurs, j'ai un reste de slides de BlendWebMix :
+
+- [T](http://twitter.com/TechM6Web/status/794161590337736704) par [@TechM6Web](https://twitter.com/TechM6Web) Enquête exclusive au coeur de 6play, les slides : [https://t.co/EzK3roPkbR](https://t.co/EzK3roPkbR) #blendwebmix #6play https://t.co/cmVMqtCjbH
+- [T](http://twitter.com/bastnic/status/794128907947692032) par [@bastnic](https://twitter.com/bastnic) Les slides de ma conférence « to patch or not to patch » sur la dette technique au @blendwebmix sont en ligne : [https://t.co/ge9kuE0oZX](https://t.co/ge9kuE0oZX)
+- [T](http://twitter.com/WalterStephanie/status/794161226318278656) par [@WalterStephanie](https://twitter.com/WalterStephanie) C’était dense, voilà les slides de ma conférence “ Aidez-moi à remplir vos formulaires mobile ! “… [https://t.co/NQe8wmNbqo](https://t.co/NQe8wmNbqo)
+
+Cette semaine, avait lieur ScalaIO, une conférence autour de Scala :
+
+- [T](http://twitter.com/ScalaIO_FR/status/796090393372852224) par [@ScalaIO_FR](https://twitter.com/ScalaIO_FR) All the #ScalaIO2016 video will be published as they are completed in the youtube playlist [https://t.co/FowO4Mf5Es](https://t.co/FowO4Mf5Es) :)
+
+
+Bonne lecture et bon week-end, Loïc
+
+## Dev
+- [T](http://twitter.com/j0k/status/794088317650399232) par [@j0k](https://twitter.com/j0k) Pornhub Bypasses Ad Blockers with WebSockets [https://t.co/ZogfXzKCCo](https://t.co/ZogfXzKCCo)
+- [T](http://twitter.com/theystolemynick/status/794242226847154176) par [@theystolemynick](https://twitter.com/theystolemynick) Headers HTTP et sécurité   [https://t.co/eDau4duR7m](https://t.co/eDau4duR7m)
+- [T](http://twitter.com/jkup/status/796445132849610763) par [@jkup](https://twitter.com/jkup) cool list of free books for developers [https://t.co/31o0tWyHYM](https://t.co/31o0tWyHYM)
+
+
+## Front
+- [T](http://twitter.com/zellwk/status/794225386041311232) par [@zellwk](https://twitter.com/zellwk) Rem vs EM – the great debate. Do you know when to use them? [https://t.co/QZ0vlWMqvr](https://t.co/QZ0vlWMqvr) https://t.co/eZjOP6hPGL
+- [T](http://twitter.com/HTeuMeuLeu/status/794479217312432131) par [@HTeuMeuLeu](https://twitter.com/HTeuMeuLeu) html parser quiz, un quiz très intéressant pour comprendre les parsers de HTML (J'ai eu 6/20 \o/) [https://t.co/L5AnEdNOuj](https://t.co/L5AnEdNOuj)
+- [T](http://twitter.com/wesbos/status/794534626828185601) par [@wesbos](https://twitter.com/wesbos) Proposal to replace CSS with PCP (Paint-Can Precedence): [https://t.co/hSsXowYG6o](https://t.co/hSsXowYG6o) *makes PCP stickers, writes CSS is dead blog post*
+
+
+## Tools
+- [T](http://twitter.com/motherfuton/status/794327242734116864) par [@motherfuton](https://twitter.com/motherfuton) I’m switching to Sketch. [https://t.co/7ql10EGf3E](https://t.co/7ql10EGf3E)
+- [T](http://twitter.com/InVisionApp/status/794237894105899009) par [@InVisionApp](https://twitter.com/InVisionApp) Imagine never wrestling with smart objects ever again. Master Sketch with 8 free videos: [https://t.co/o3TgImsbYb](https://t.co/o3TgImsbYb) https://t.co/c8BABZ1KVj
+- [T](http://twitter.com/rudyrigot/status/794407316024152065) par [@rudyrigot](https://twitter.com/rudyrigot) GitStats, a beta analytics product for data pulled from GitHub. Keep a close eye on this project!! [https://t.co/lXnNgbVjzk](https://t.co/lXnNgbVjzk)
+- [T](http://twitter.com/OpenPony/status/794593198706397184) par [@OpenPony](https://twitter.com/OpenPony) Excellent partage d'expérience sur l'enfer de Docker et pourquoi en prod c'est vraiment pas une bonne idée [https://t.co/yvLMkZAT9B](https://t.co/yvLMkZAT9B)
+- [T](http://twitter.com/codylindley/status/794581050642939904) par [@codylindley](https://twitter.com/codylindley) Webpack — The Confusing Parts - [https://t.co/HD9X07OOQ0](https://t.co/HD9X07OOQ0)
+- [T](http://twitter.com/borisschapira/status/794633550599454720) par [@borisschapira](https://twitter.com/borisschapira) Encore une très bonne traduction de @DirtyF pour @jekyll_fr [https://t.co/8RgTK0vZEE](https://t.co/8RgTK0vZEE)
+- [T](http://twitter.com/maboa/status/795937103884550144) par [@maboa](https://twitter.com/maboa) “2017’s Generation of Static Site Generators” by @balupton [https://t.co/frJTeSd0BB](https://t.co/frJTeSd0BB)
+- [T](http://twitter.com/dsampaolo/status/796313665075081221) par [@dsampaolo](https://twitter.com/dsampaolo) DBeaver, Free Universal SQL Client : [https://t.co/BeyUg2W8M2](https://t.co/BeyUg2W8M2) - testé et approuvé
+
+
+## Marketing
+- [T](http://twitter.com/geoffrey_crofte/status/794135087361196032) par [@geoffrey_crofte](https://twitter.com/geoffrey_crofte) I just published “Le premier qui donne un prix a perdu !” [https://t.co/IdMYuvRDiN](https://t.co/IdMYuvRDiN)
+
+
+## Geek/IOT
+- [T](http://twitter.com/tyrower/status/794558118994657280) par [@tyrower](https://twitter.com/tyrower) François "@Framboise314" @framboise314 lance la nouvelle édition de son livre en français sur le #RaspberryPi ! #Lot…[https://t.co/D6TQhBUc3k](https://t.co/D6TQhBUc3k)
+
+
+## Développement personnel/RH
+- [T](http://twitter.com/tyrower/status/796041227535876097) par [@tyrower](https://twitter.com/tyrower) Sensibilisez les enfants au #Code et à l’#Écologie avec #SuperCodeurs ! de @SimplonCo &amp; @Orange #CodeEU… [https://t.co/SDlo05m0XK](https://t.co/SDlo05m0XK)
+
+
+## Divers/Conneries
+- [T](http://twitter.com/Bouletcorp/status/794231763388141568) par [@Bouletcorp](https://twitter.com/Bouletcorp) Repost du #GifduJour Source: "Unsatisfying" par Parallel Studio: [https://t.co/D4DWaeAfLQ](https://t.co/D4DWaeAfLQ) https://t.co/E61HkQIZa4
+- [T](http://twitter.com/newsycombinator/status/794509906443468805) par [@newsycombinator](https://twitter.com/newsycombinator) H.264 is Magic: A technical walkthrough of how video compression works [https://t.co/DJRqqFA2KT](https://t.co/DJRqqFA2KT)
+- [T](http://twitter.com/Snowden/status/795424579715940352) par [@Snowden](https://twitter.com/Snowden) Researchers just demonstrated how to hack the official vote count with a $30 card. Details: [https://t.co/uhcLVd0yPg](https://t.co/uhcLVd0yPg) https://t.co/uIFOQVb5uu
+- [T](http://twitter.com/feross/status/795718213103480833) par [@feross](https://twitter.com/feross) Apple’s great GPL purge [https://t.co/01ZKz93XyV](https://t.co/01ZKz93XyV) 10.5 (47 pkgs) -> 10.6 (44 pkgs) -> 10.7 (29 pkgs) -> 10.8 (22 pkgs) -> 10.9 (19 pkgs) -> 10.10 (18 pkgs)
+
+
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
