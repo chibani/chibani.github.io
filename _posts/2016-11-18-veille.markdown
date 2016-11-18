@@ -1,0 +1,75 @@
+---
+layout: post
+title: "La veille du week-end S1E23"
+date: 2016-11-18 07:30:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.  
+
+Les DNS d'Orange sont dans les choux (du moins, ils ont vraiment du mal en ce moment).  
+Vous pouvez trouver des DNS libres, non-menteurs, etc..., lancez la commande : ``host mondns.eu.org``, qui vous en retournera une belle liste ;)
+
+Cette semaine, la veille est assez fournie. J'en profite par ailleurs pour réorganiser légèrement les catégories, et pour en créer une nouvelle concernant la sécurité (informatique...) et les questions de vie privée (et sa protection).  
+N'hésitez pas à me dire si vous trouvez que c'est un peu (plus ou moins) le bordel :D
+
+Bonne lecture et bon week-end, Loïc
+
+## Dev / backend / Code
+- [T](http://twitter.com/rauschma/status/798142080719712256) par [@rauschma](https://twitter.com/rauschma) The new homepage for my JavaScript books is online. All of them are free to read online! [https://t.co/nI0meq4N2R](https://t.co/nI0meq4N2R)
+- [T](http://twitter.com/methylbro/status/798491147056386048) par [@methylbro](https://twitter.com/methylbro) La video du talk de @_jails_ à propos de la Programmation Orientée Aspect lors du dernier apéro de @Afup_Mtp [https://t.co/u7ypizc6Ce](https://t.co/u7ypizc6Ce)
+- [T](http://twitter.com/nfroidure/status/798500505865560064) par [@nfroidure](https://twitter.com/nfroidure) [Blog] Designing HTTP REST APIs with NodeJS [https://t.co/PxLa8wsVnR](https://t.co/PxLa8wsVnR)
+- [T](http://twitter.com/wesbos/status/798544648310497280) par [@wesbos](https://twitter.com/wesbos) Four new JavaScript String methods you should know about: .startsWith(), .endsWith(), .includes() and .repeat()… [https://t.co/qX0NLBdmxC](https://t.co/qX0NLBdmxC)
+- [T](http://twitter.com/wesbos/status/798579690575462400) par [@wesbos](https://twitter.com/wesbos) Wrap curly brackets around your console.log arguments to see the variable name when logged. This takes advantage… [https://t.co/Dlfl7I6GOr](https://t.co/Dlfl7I6GOr)
+- [T](http://twitter.com/ESnextNews/status/798571268861636609) par [@ESnextNews](https://twitter.com/ESnextNews) turbo.js – massively parallel computations via GPGPU @GoTurboOfficial [https://t.co/ttXFsKaPrE](https://t.co/ttXFsKaPrE)
+
+
+## Front
+- [T](http://twitter.com/HTeuMeuLeu/status/798108265246822400) par [@HTeuMeuLeu](https://twitter.com/HTeuMeuLeu) J'ai mis en ligne la vidéo de ma conférence "Thinking Outside the &lt;table&gt;" à Londres cet été. Enjoy ! [https://t.co/9uIypKUNkc](https://t.co/9uIypKUNkc)
+
+
+## Tooling
+- [T](http://twitter.com/philogb/status/796764268574162944) par [@philogb](https://twitter.com/philogb) Today we're publishing @UberEng's secret sauce for large-scale web-based data visualizations:… [deck.gl](https://uber.github.io/deck.gl/#/)
+- [T](http://twitter.com/jekyll_fr/status/797391249216913408) par [@jekyll_fr](https://twitter.com/jekyll_fr) Un exemple de workflow pour designer un portfolio avec Jekyll et GitHub Pages par @katfukui : [https://t.co/HYhyN21vyh](https://t.co/HYhyN21vyh)
+- [T](http://twitter.com/jBleuzen/status/798198377175465984) par [@jBleuzen](https://twitter.com/jBleuzen) Finally a Secret Santa bot for Slack…[https://t.co/36l6sWomTN](https://t.co/36l6sWomTN)
+- [T](http://twitter.com/bmathus/status/798638532113956864) par [@bmathus](https://twitter.com/bmathus) Using the shell sometimes? Autojump is cool. Just made a 50 seconds video demo. So simple, so useful. [https://t.co/lLwS48UCF6](https://t.co/lLwS48UCF6) thanks @waxzce
+- [T](http://twitter.com/pylapp/status/798564983688728581) par [@pylapp](https://twitter.com/pylapp) "16 Prototyping Tools &amp; How Each Can Be Used"... A lire avant le @SWSaintBrieuc :-) #swsb2016 [https://t.co/SXK9Pp4bAK](https://t.co/SXK9Pp4bAK)
+- [T](http://twitter.com/todoist/status/798898243870588928) par [@todoist](https://twitter.com/todoist) Introducing Smart Schedule, a more intelligent way to plan your day: [https://t.co/6IoilsgBT7](https://t.co/6IoilsgBT7) #productivity #todoist #ai
+- [T](http://twitter.com/jeffrey_way/status/799010950158438401) par [@jeffrey_way](https://twitter.com/jeffrey_way) Okay, tired, but done. “Setup a Mac Dev Machine From Scratch Series” - [https://t.co/qx5IBMQrT5](https://t.co/qx5IBMQrT5) - All free.
+
+
+## Marketing / Comportement
+- [T](http://twitter.com/dotmariusz/status/798600205935349760) par [@dotmariusz](https://twitter.com/dotmariusz) Design principles for reducing cognitive load [https://t.co/k4f57etkvz](https://t.co/k4f57etkvz)
+
+
+## Sécurité / Vie privée
+- [T](http://twitter.com/CryptoPartyTls/status/798496144292577282) par [@CryptoPartyTls](https://twitter.com/CryptoPartyTls) Dans les écoles britanniques, des spywares installés systématiquement et en douce pour espionner les élèves. [https://t.co/V8gTksqsVy](https://t.co/V8gTksqsVy)
+- [T](http://twitter.com/Sniperovitch/status/798520210894503936) par [@Sniperovitch](https://twitter.com/Sniperovitch) I just published “et si … ?” [https://t.co/rrznWCun1T](https://t.co/rrznWCun1T) // Sur la vie privée et sa protection
+- [T](http://twitter.com/EricScherer/status/797893094695956480) par [@EricScherer](https://twitter.com/EricScherer) “How to encrypt your entire life in less than an hour” [https://t.co/NNzyNtMF6K](https://t.co/NNzyNtMF6K)
+- [T](http://twitter.com/Korben/status/798821192287170561) par [@Korben](https://twitter.com/Korben) Un smartphone Android acheté, une backdoor chinoise offerte [https://t.co/CJAEkvx6Re](https://t.co/CJAEkvx6Re)
+
+
+
+## Geek / IOT / Électronique
+- [T](http://twitter.com/Limportant_fr/status/796772696742854657) par [@Limportant_fr](https://twitter.com/Limportant_fr) Obsolescence non programmée: un lave-linge conçu pour durer 50 ans [https://t.co/GlP8iCfMW8](https://t.co/GlP8iCfMW8) #planète https://t.co/iDAcedXf3K
+- [T](http://twitter.com/tyrower/status/797479811841224704) par [@tyrower](https://twitter.com/tyrower) #Etcher by @resin_io an awesome new way to write SD cards. Now V1 Beta16. Give it a shot and you'll never go back! [https://t.co/rsoPoH3DJY](https://t.co/rsoPoH3DJY)
+- [T](http://twitter.com/World_of_GZ/status/798645554309988352) par [@World_of_GZ](https://twitter.com/World_of_GZ) A relire-&gt; #Arduino et #Raspberry dans le milieu industriel [https://t.co/5QgtyJBZLk](https://t.co/5QgtyJBZLk)
+
+
+
+## Humain / Développement personnel / Santé
+- [T](http://twitter.com/LaetitiaPhan/status/796796461065338880) par [@LaetitiaPhan](https://twitter.com/LaetitiaPhan) Pour de meilleures nuits, plus paisibles, quelque soit la journée qu'on a passée [https://t.co/Juu1u8ZZKB](https://t.co/Juu1u8ZZKB)
+- [T](http://twitter.com/lgnap/status/798254306940035072) par [@lgnap](https://twitter.com/lgnap) “Le minimalisme: nouvel eldorado des gens heureux” by @TimBssrdn [https://t.co/hZzpfssADk](https://t.co/hZzpfssADk)
+- [T](http://twitter.com/Limportant_fr/status/798375875662188544) par [@Limportant_fr](https://twitter.com/Limportant_fr) Le corps humain passé au crible par IRM et rayons X [https://t.co/H8z4eEbqny](https://t.co/H8z4eEbqny) @futurasciences https://t.co/25q0JBabqf
+- [T](http://twitter.com/auremoser/status/798577186852597760) par [@auremoser](https://twitter.com/auremoser) great collection of resources for taking care of yourself in tech/otherwise: [https://t.co/pAKLWmQ1Yn](https://t.co/pAKLWmQ1Yn)
+- [T](http://twitter.com/SkyNebula/status/798508214702706690) par [@SkyNebula](https://twitter.com/SkyNebula) Work + Family = Guilt? Great #BurningQuestions by @JamesVictore [https://t.co/L35AUu7Fbq](https://t.co/L35AUu7Fbq) /cc dudes @Fran6 @Cabaroc @Wisibility @allfordesign
+- [T](http://twitter.com/CamilleRoux/status/798873456880324608) par [@CamilleRoux](https://twitter.com/CamilleRoux) Entreprendre en France, c'est...  [https://t.co/ly9H9QtS6c](https://t.co/ly9H9QtS6c)
+- [T](http://twitter.com/LaetitiaPhan/status/798900576448720896) par [@LaetitiaPhan](https://twitter.com/LaetitiaPhan) Fiou, ça m'aura demandé du temps, et du lâcher prise, mais voilà mon second article :) [https://t.co/abv1VqJq64](https://t.co/abv1VqJq64) https://t.co/7k0sosmNgj // Elle y aborde le "pourquoi" existentiel
+
+
+## Divers / Conneries
+- [T](http://twitter.com/dirtybiology/status/797384746858745856) par [@dirtybiology](https://twitter.com/dirtybiology) Je lance une playlist des vidéos de danse les plus originales / cools / autres. [https://t.co/w56F6GSPu7](https://t.co/w56F6GSPu7) Lâchez les… https://t.co/5D0Z9qPih8
+- [T](http://twitter.com/Bouletcorp/status/798614747620851712) par [@Bouletcorp](https://twitter.com/Bouletcorp) A very nice analysis of the sub-text of Jurassic Park: [https://t.co/LJGKCzWhNT](https://t.co/LJGKCzWhNT) (in English)
+- [T](http://twitter.com/LamHua/status/798593664100532229) par [@LamHua](https://twitter.com/LamHua) Vous devez regarder "A Voix Haute", le concours d'orateurs du 93. Visible en intégralité ici: [https://t.co/1vUrMvSOPj](https://t.co/1vUrMvSOPj)
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
