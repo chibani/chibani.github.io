@@ -1,0 +1,59 @@
+---
+layout: post
+title: "Laravel 5.3 sur un (vieil) OVH mutualisé"
+date: 2016-11-21 08:25:00 +0200
+category: dev
+intro : >#
+  Résumé d'un problème rencontré lors du déploiement d'un site en Laravel 5.3 sur un hébergement OVH mutualisé.
+
+---
+
+_TL;DR : pwd (en cli) et dirname(\_\_FILE\_\_) (en HTTP) ne sortent pas le même chemin..._
+
+La semaine dernière, j'ai livré l'appli web d'un client.  
+L'appli est conçu en PHP avec Laravel, et côté hébergement, j'étais contraint à une offre OVH Mutualisé.  
+L'offre en question était un 90plan, qui a priori n'avait pas bougé depuis la souscription.
+
+## PHP --version
+
+Le PHP de base était un 4.4.9, je n'avais pas accès à l'admin pour le changer de manière globale, mais un petit coup de [.ovhconfig](https://docs.ovh.com/fr/fr/web/hosting/configurer-le-php-sur-son-hebergement-web-mutu-2014/) est le tour était joué.
+
+```
+app.engine=php
+app.engine.version=7.0
+environment=production
+```
+
+Seul bémol, je ne peux choisir la version de PHP en cli, qui reste par défaut en 4.4.9...  
+Toutefois, je peux facilement utiliser PHP7, ainsi :
+
+``/usr/local/php7.0/bin/php``
+
+C'est un poil plus long, faut pas oublier (sinon, on reste en PHP 4.4), mais ça fait parfaitement le job.
+
+## Déploiement (cli)
+
+J'ai ensuite uploadé mon code (rsync, pour faire simple), créé le fichier ``.env`` qui va bien (avec identifiants MySQL, etc...).  
+Pour composer, j'ai uploadé ``composer.phar`` qui a parfaitement fait son job (composer install...) et j'ai pu lancer la migration Laravel (avec la bonne version de PHP) : ``/usr/local/php7.0/bin/php artisan migrate``.  
+Je check en BDD (via PHPMyAdmin), tout semble OK.
+
+Ensuite : ``/usr/local/php7.0/bin/php laravel optimize`` (histoire d'optimiser les routes et fichiers de config).
+
+## Erreur 500 :/
+
+J'ouvre le site dans un navigateur, et j'ai droit à une erreur 500.
+Les logs m'indiquent que Laravel n'arrive pas à trouver le fichier de vue de la page d'accueil.
+
+Je check, le fichier existe bien, ses droits sont OK, les droits du dossier de cache sont également OK. Je ne vois pas ce qui peut clocher.
+
+Après une bonne demi-heure de recherches et tentatives diverses, je finis par obtenir un site fonctionnel en HTTP (et en CLI) en supprimant le fichier ``bootstrap/cache/config.php``.
+
+Je poursuis mes investigations pour découvrir ceci : les paths ne sont pas les mêmes selon qu'on soit en CLI ou en HTTP...
+
+![Résultat de la commande pwd](/assets/posts/ovh-path/pwd.jpg)  
+vs  
+![Résultat de dirname en HTTP/PHP](/assets/posts/ovh-path/dirname.jpg)
+
+Du coup, forcément, Laravel ne retrouvait pas ses petits d'un environnement à l'autre...
+
+Je trouve l'erreur dommageable, elle ne me permet pas d'optimiser pleinement le site (le gain reste somme toute assez négligeable sur le fichier de config)...
