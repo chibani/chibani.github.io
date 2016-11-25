@@ -1,0 +1,81 @@
+---
+layout: post
+title: "La veille du week-end S1E24"
+date: 2016-11-25 07:30:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.  
+
+Cette semaine, la section "sécurité / vie privée" est bien remplie, mais je ne sais pas si c'est pour me rassurer :/  
+Mais je crois que pour mon bien, et celui de mes proches, je vais devoir commencer à m'y mettre plus sérieusement (et je vous conseille d'en faire autant).
+
+Sur ces belles paroles, emplies d'enthousiasme, je vous souhaite une bonne lecture et bon week-end, Loïc
+
+## Dev / backend / Code
+- [T](http://twitter.com/Fasterize/status/799158131234250752) par [@Fasterize](https://twitter.com/Fasterize) [Etude] Third Parties et #webperf : quel  réel impact ? [https://t.co/hg66nRRg9O](https://t.co/hg66nRRg9O) #DSI #IT #perfmatters cc… https://t.co/bRaOLtJgoe
+- [T](http://twitter.com/methylbro/status/799171263260401664) par [@methylbro](https://twitter.com/methylbro) La Programmation Orientée Aspect en PHP par @_jails_ lors du dernier meetup de l'@Afup_Mtp [https://t.co/u7ypizc6Ce](https://t.co/u7ypizc6Ce)
+- [T](http://twitter.com/sam_et_max/status/799172043736576000) par [@sam_et_max](https://twitter.com/sam_et_max) We’re not paid to write code, we’re paid to add value (or reduce cost) to the business.  [https://t.co/CJo28Kx4Hp](https://t.co/CJo28Kx4Hp)
+- [T](http://twitter.com/mozhacks/status/800761260728078336) par [@mozhacks](https://twitter.com/mozhacks) into_rust() — get up to speed with Rust programming via bite-sized screencast-tutorials by @nikomatsakis &amp; co.! ⚙✨… [https://t.co/aMlvU9Z7Nh](https://t.co/aMlvU9Z7Nh)
+- [T](http://twitter.com/bastnic/status/800754800568705024) par [@bastnic](https://twitter.com/bastnic) La vidéo de ma conférence « to patch or not to patch » sur la dette technique à @blendwebmix est en ligne : [https://t.co/IkWJkWz5wE](https://t.co/IkWJkWz5wE)
+- [T](http://twitter.com/HTeuMeuLeu/status/801373631678922752) par [@HTeuMeuLeu](https://twitter.com/HTeuMeuLeu) Un site web pour liseuse, la chouette conférence de @tut_tuuut à @blendwebmix (avec des explications au topinambour) [https://t.co/gpQhxDRZzx](https://t.co/gpQhxDRZzx)
+
+
+## Front
+- [T](http://twitter.com/MaxCRoser/status/799199747487793152) par [@MaxCRoser](https://twitter.com/MaxCRoser) I like the fill patterns in this map: Roofing materials in different parts of France (via [https://t.co/Qsonxjimpm](https://t.co/Qsonxjimpm)) https://t.co/vUmaOgIZJr
+- [T](http://twitter.com/ddrivegeorge/status/799318762763628544) par [@ddrivegeorge](https://twitter.com/ddrivegeorge) Tips for Creating and Exporting Better SVGs for the Web via @SaraSoueidan [https://t.co/7DMcNoDk03](https://t.co/7DMcNoDk03) https://t.co/Z4FatLYWfX
+- [T](http://twitter.com/smashingmag/status/799403673440894976) par [@smashingmag](https://twitter.com/smashingmag) ⌘ You Aren’t An Imposter: Fighting Front-End Fatigue. [https://t.co/MABBqAdFYz](https://t.co/MABBqAdFYz) on @smashingmag https://t.co/Qv39IbLZir
+- [T](http://twitter.com/changelog/status/800565153808916481) par [@changelog](https://twitter.com/changelog) Useful YouTube channels for JavaScript developers and web designers. [https://t.co/K4q3xSDUcO](https://t.co/K4q3xSDUcO)
+- [T](http://twitter.com/MichelPoulain/status/801154489797541889) par [@MichelPoulain](https://twitter.com/MichelPoulain) Accéléromètre, gravité &amp; html5. [https://t.co/DU15y9tpuN](https://t.co/DU15y9tpuN) https://t.co/7o61vId6Dh
+
+
+
+## Tooling
+- [T](http://twitter.com/waxzce/status/799704488521203713) par [@waxzce](https://twitter.com/waxzce) The Joy of Linux Desktop Environments [https://t.co/EzEL2NIEn1](https://t.co/EzEL2NIEn1) https://t.co/W9hDMTXinr
+- [T](http://twitter.com/n1k0/status/800996261935644672) par [@n1k0](https://twitter.com/n1k0) Portier is an email-based, passwordless authentication service that you can host yourself [https://t.co/rpbEh8lbGS](https://t.co/rpbEh8lbGS) /via @mr_goodwin
+- [T](http://twitter.com/waxzce/status/801546870040489985) par [@waxzce](https://twitter.com/waxzce) An Intro to Monkey Testing with Gremlins.js [https://t.co/wI0uJeJkCc](https://t.co/wI0uJeJkCc) #havascript #html5 #css https://t.co/2aoryS0X5O
+- [T](http://twitter.com/andrestaltz/status/801346779686010881) par [@andrestaltz](https://twitter.com/andrestaltz) Medium without Medium, and the possibility to be anonymous, by Telegram creators: [https://t.co/ciZpWUPBic](https://t.co/ciZpWUPBic)
+
+
+
+## Marketing / SEO / Comportement
+- [T](http://twitter.com/waxzce/status/799434204262047744) par [@waxzce](https://twitter.com/waxzce) A guide to using the Facebook Pixel [https://t.co/ILskcZdHDa](https://t.co/ILskcZdHDa) https://t.co/nGFo6sV0u4
+
+
+## Sécurité / Vie privée
+- [T](http://twitter.com/dhoko_/status/799256815473192960) par [@dhoko_](https://twitter.com/dhoko_) État d'urgence, fichier TES: l'attaque contre nos libertés [https://t.co/RVfpuYZpec](https://t.co/RVfpuYZpec) Bah on est pas dans la merde.
+- [T](http://twitter.com/CryptoPartyTls/status/799616397542326272) par [@CryptoPartyTls](https://twitter.com/CryptoPartyTls) Le business de la Peur : Le vendeur de fourniture Office Depot diagnostique des virus inexistant sur des pc sains p… [https://t.co/3y0qLlnVvQ](https://t.co/3y0qLlnVvQ)
+- [T](http://twitter.com/waxzce/status/799581709671002112) par [@waxzce](https://twitter.com/waxzce) Britain has passed the 'most extreme surveillance law ever passed in a democracy'  [https://t.co/vTzwOpsHFV](https://t.co/vTzwOpsHFV) https://t.co/OuVgxrYQQL
+- [T](http://twitter.com/waxzce/status/799631528364044288) par [@waxzce](https://twitter.com/waxzce) iPhones Secretly Send Call History to Apple, Security Firm Says [https://t.co/ZjjAKBaOPH](https://t.co/ZjjAKBaOPH) https://t.co/sBSz53KueP
+- [T](http://twitter.com/trevortimm/status/799642261160153088) par [@trevortimm](https://twitter.com/trevortimm) The encrypted calls and texts app Signal—which everyone should download!—has seen 400% growth since the election… [https://t.co/K4VezxxVTp](https://t.co/K4VezxxVTp)
+- [T](http://twitter.com/andrestaltz/status/800417544502919168) par [@andrestaltz](https://twitter.com/andrestaltz) Impressive. Chrome doesn't work at all if it can't access Google services. "Don't be evil" yeah right [https://t.co/9KSTrMyJGP](https://t.co/9KSTrMyJGP)
+- [T](http://twitter.com/m4d_z/status/800643336184983553) par [@m4d_z](https://twitter.com/m4d_z) Hop, "la Crypto pour les devs" mise à jour [https://t.co/MnID2cgcW5](https://t.co/MnID2cgcW5) (merci @aeris22 &amp; @OpenPony pour les retours :))
+- [T](http://twitter.com/ThePracticalDev/status/801165642451783680) par [@ThePracticalDev](https://twitter.com/ThePracticalDev) git-also — prints files that are most often committed together [https://t.co/ldGFRiyVh6](https://t.co/ldGFRiyVh6) https://t.co/NJlHSN3vJs
+
+
+
+## Geek / IOT / Électronique
+- [T](http://twitter.com/tyrower/status/799484303646212096) par [@tyrower](https://twitter.com/tyrower) « 1, 2, 3… codez ! » Un guide pédagogique pour enseigner la science informatique - [https://t.co/9cQ8LfxeND](https://t.co/9cQ8LfxeND) @ludomag
+- [T](http://twitter.com/mathrobin/status/799489514708303872) par [@mathrobin](https://twitter.com/mathrobin) Pièces détachées par milliers et conseils en réparation et diagnostic pour lutter contre l'obsolescence programmée [https://t.co/VzCCU2CHVy](https://t.co/VzCCU2CHVy)
+- [T](http://twitter.com/tyrower/status/801079218486579200) par [@tyrower](https://twitter.com/tyrower) Mini #MagPi @TheMagP1 maintenant en Français pour les fans de @Raspberry_Pi cc @cedric @RazakParis @JBellicaud [https://t.co/stFmsZVvo5](https://t.co/stFmsZVvo5)
+
+
+
+## Humain / Développement personnel / Santé
+- [T](http://twitter.com/DirtyF/status/799230148499349505) par [@DirtyF](https://twitter.com/DirtyF) [https://t.co/sYLxCne0Hr](https://t.co/sYLxCne0Hr)  De l’importance du comportement au travail @github pour être plus efficace. La vision en interne de @benbalter
+- [T](http://twitter.com/fdevillamil/status/800095964765753345) par [@fdevillamil](https://twitter.com/fdevillamil) “The 3 Minutes It Takes To Read This Will Improve Your Conversations Forever” — @jspector [https://t.co/owYbs6KS7C](https://t.co/owYbs6KS7C) https://t.co/ssV5XoiD5U
+
+
+
+## Divers / Conneries
+- [T](http://twitter.com/newsycombinator/status/799538014947069955) par [@newsycombinator](https://twitter.com/newsycombinator) WikipediaP2P [https://t.co/MxLpicqm8S](https://t.co/MxLpicqm8S)
+- [T](http://twitter.com/SoleneSosoa/status/799535906046754817) par [@SoleneSosoa](https://twitter.com/SoleneSosoa) Le joli projet de l’ami @daghostprod  est à backer : E.N.D - graphic novel. [https://t.co/GiGQeBrZ9y](https://t.co/GiGQeBrZ9y) https://t.co/VXznDe8Yl6
+- [T](http://twitter.com/tprstly/status/800238774894653440) par [@tprstly](https://twitter.com/tprstly) #Hipster and #Millennials Nativity Set... [https://t.co/y1J1cT8tM6](https://t.co/y1J1cT8tM6)
+- [T](http://twitter.com/echinoblog/status/800465291448844291) par [@echinoblog](https://twitter.com/echinoblog) Simple and Elegant guide to Know your Cephalopods by @KetrinaYim [https://t.co/4IfgxXVuOK](https://t.co/4IfgxXVuOK) https://t.co/s1g08FY9L1
+- [T](http://twitter.com/dirtybiology/status/801098225092435969) par [@dirtybiology](https://twitter.com/dirtybiology) Un épisode de datagueule passé au crible, ou les limites du militantisme... Aoutch. [https://t.co/Cef5KhfvXw](https://t.co/Cef5KhfvXw)
+- [T](http://twitter.com/framasoft/status/801337033969074176) par [@framasoft](https://twitter.com/framasoft) 10 trucs que j’ignorais sur Internet et mon ordi (avant de m’y intéresser…) [https://t.co/l97seVuG4w](https://t.co/l97seVuG4w) (quand @pouhiou se lâche !)
+- [T](http://twitter.com/lobs/status/801350858990637060) par [@lobs](https://twitter.com/lobs) "La Classe américaine" : histoire d'un film culte [https://t.co/pjQduvVOkF](https://t.co/pjQduvVOkF) https://t.co/nqGphPINIR
+
+
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
