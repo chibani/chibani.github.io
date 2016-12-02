@@ -1,0 +1,76 @@
+---
+layout: post
+title: "La veille du week-end S1E25"
+date: 2016-12-02 07:30:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.  
+
+Bonne lecture et bon week-end, Loïc
+
+## Dev / backend / Code
+- [T](http://twitter.com/waxzce/status/801909260636581888) par [@waxzce](https://twitter.com/waxzce) Let your logs help you - Clever Cloud Blog [https://t.co/YjwUXbo7qn](https://t.co/YjwUXbo7qn) https://t.co/WOHcisHd8B
+- [T](http://twitter.com/theystolemynick/status/801726896337780736) par [@theystolemynick](https://twitter.com/theystolemynick) Le design de la performance [https://t.co/QM12IuOEW7](https://t.co/QM12IuOEW7)
+- [T](http://twitter.com/clochix/status/802436924069777408) par [@clochix](https://twitter.com/clochix) Article réjouissant si vous êtes aigri et n'aimez plus les effets de mode en informatique : Hype Driven Development [https://t.co/Jp0vGfwxLW](https://t.co/Jp0vGfwxLW)
+- [T](http://twitter.com/clems_to_clems/status/803176153796280320) par [@clems_to_clems](https://twitter.com/clems_to_clems) Dette technique : ce qui comptera demain - JoliCampus [https://t.co/fxL4pGOjdN](https://t.co/fxL4pGOjdN)
+- [T](http://twitter.com/DelicioInsights/status/803908940014698496) par [@DelicioInsights](https://twitter.com/DelicioInsights) La vidéo et les slides du 1er #DeliciousMeetups sur PM2 et Keymetrics dans Node.js sont là ! — [https://t.co/lTDA6zjlRp](https://t.co/lTDA6zjlRp)
+
+
+
+## Front
+- [T](http://twitter.com/gdsteam/status/803267438913720320) par [@gdsteam](https://twitter.com/gdsteam) Use the correct HTML headings, use alt text, avoid italics. How to make blog posts more accessible:… [https://t.co/SMlRlKmM76](https://t.co/SMlRlKmM76)
+- [T](http://twitter.com/iamtzi/status/803889734892343296) par [@iamtzi](https://twitter.com/iamtzi) Les résultats de l'enquête sur l'usage et les connaissances front-end sont arrivés ! [https://t.co/ql5E5CHIaT](https://t.co/ql5E5CHIaT) Et c'est intéressant :)
+
+
+
+
+## Tooling
+- [T](http://twitter.com/ThePracticalDev/status/801165642451783680) par [@ThePracticalDev](https://twitter.com/ThePracticalDev) git-also — prints files that are most often committed together [https://t.co/ldGFRiyVh6](https://t.co/ldGFRiyVh6) https://t.co/NJlHSN3vJs
+- [T](http://twitter.com/phpstorm/status/801773170244120576) par [@phpstorm](https://twitter.com/phpstorm) PhpStorm 2016.3 is out! W/ Docker Remote Interpreters, phpspec support, multiple project in one frame and more… [https://t.co/xfDYQCoyP8](https://t.co/xfDYQCoyP8)
+- [T](http://twitter.com/gitlab/status/801155353606049792) par [@gitlab](https://twitter.com/gitlab) GitLab 8.14 has been released and it's our biggest yet: Time Tracking, Review Apps, ChatOps &amp; more… [https://t.co/Crx0riCAD4](https://t.co/Crx0riCAD4)
+- [T](http://twitter.com/Wisibility/status/802231547097186304) par [@Wisibility](https://twitter.com/Wisibility) Il commence à être bien cool le service de #Favoris Twitter créé par @Monsieur_Hiboux ! Bien Pratique :) [https://t.co/hQEBXBbgv6](https://t.co/hQEBXBbgv6)
+- [T](http://twitter.com/dhoko_/status/803181138403532800) par [@dhoko_](https://twitter.com/dhoko_) A babel plugin that adds a console.warn statement to the functions annotated with @ deprecated tag. [https://t.co/7lLSkKGuzX](https://t.co/7lLSkKGuzX) #JavaScript
+- [T](http://twitter.com/slimerjs/status/803161550626373634) par [@slimerjs](https://twitter.com/slimerjs) SlimerJS 0.10.2 has been released [https://t.co/LJH2DSr6SY](https://t.co/LJH2DSr6SY) \0/ Compatibility with Fx50, and OFFICIAL NPM package ;-)
+- [T](http://twitter.com/FGRibreau/status/803533063657521152) par [@FGRibreau](https://twitter.com/FGRibreau) Oh boy! Disk space usage leak in docker for mac [https://t.co/8DCC6NRPj5](https://t.co/8DCC6NRPj5) /via @jcare44 https://t.co/3G0RNY7CS3
+- [T](http://twitter.com/laravelphp/status/803626965362163712) par [@laravelphp](https://twitter.com/laravelphp) Envoyer: you can now easily cancel a deployment that is in progress! ✋  Easy zero-downtime deployments!… [https://t.co/awwPi5Q9fx](https://t.co/awwPi5Q9fx)
+
+
+
+
+## Marketing / SEO / Comportement
+- [T](http://twitter.com/theystolemynick/status/801731121339920384) par [@theystolemynick](https://twitter.com/theystolemynick) La plateforme-isation du Web (ou : un site web est il encore utile ?) en vidéo [https://t.co/84q2q9iJvv](https://t.co/84q2q9iJvv) et slides https://t.co/y5hkghtWMX
+- [T](http://twitter.com/WalterStephanie/status/803879306921410560) par [@WalterStephanie](https://twitter.com/WalterStephanie) Does twitter need a “read later” function? I use favs (well, now likes) + pocket for that, what do you use? [https://t.co/hOQ8xWAqcr](https://t.co/hOQ8xWAqcr)
+
+
+
+## Sécurité / Vie privée
+- [T](http://twitter.com/Numerama/status/803176391630012416) par [@Numerama](https://twitter.com/Numerama) Les tramways de San Francisco victimes d'un piratage massif - [https://t.co/TA6TU0X8r2](https://t.co/TA6TU0X8r2) https://t.co/kaFaboAmOf
+- [T](http://twitter.com/igrigorik/status/803650232634540038) par [@igrigorik](https://twitter.com/igrigorik) XSS game area, courtesy of Google's security team: [https://t.co/x9UyrgLvF0](https://t.co/x9UyrgLvF0) - great way to level up your security kn… https://t.co/nTqQ5gPtg5
+- [T](http://twitter.com/mikko/status/803489489066803200) par [@mikko](https://twitter.com/mikko) Privacy eyeglasses use reflective material to avoid surveillance cameras. [https://t.co/8YTyF0Y2iF](https://t.co/8YTyF0Y2iF) https://t.co/KRsyqL3At7
+
+
+
+
+## Geek / IOT / Électronique
+- [T](http://twitter.com/MKBHD/status/803723696141635588) par [@MKBHD](https://twitter.com/MKBHD) NEW VIDEO - Google Home Review: Assistant in a Box! [https://t.co/6Ldkn6q0lA](https://t.co/6Ldkn6q0lA) - RT! https://t.co/G2WiJCGoQ9
+- [T](http://twitter.com/Raspberry_Pi/status/803948577877880832) par [@Raspberry_Pi](https://twitter.com/Raspberry_Pi) New post: Details of some of the security changes we have made to our Raspbian image [https://t.co/ihk8SDJP5J](https://t.co/ihk8SDJP5J) https://t.co/EWMLUAX1T8
+
+
+
+
+## Humain / Développement personnel / Santé
+- [T](http://twitter.com/LaetitiaPhan/status/803296742661832704) par [@LaetitiaPhan](https://twitter.com/LaetitiaPhan) The art of condolence *** L'art d'exprimer ses condoléances [https://t.co/xceIunZ9mb](https://t.co/xceIunZ9mb)
+- [T](http://twitter.com/PatrickFaramaz/status/803905976294395905) par [@PatrickFaramaz](https://twitter.com/PatrickFaramaz) I just published “Des recruteurs dans vos contacts linkedin ?” [https://t.co/8bWbIIUljD](https://t.co/8bWbIIUljD)
+
+
+
+
+## Divers / Conneries
+- [T](http://twitter.com/Wisibility/status/801798981923799040) par [@Wisibility](https://twitter.com/Wisibility) "Les bruit du silence" mon article à propos de notre trip #Disconnect au #Canada sur @MediumFrance… [https://t.co/D8XCYLJcKe](https://t.co/D8XCYLJcKe)
+- [T](http://twitter.com/jedisct1/status/802286958898716672) par [@jedisct1](https://twitter.com/jedisct1) RT @mathemaniac: The geometry of a perfect parallel park. [https://t.co/2RquAgtur0](https://t.co/2RquAgtur0)
+- [T](http://twitter.com/WalterStephanie/status/803174744057057280) par [@WalterStephanie](https://twitter.com/WalterStephanie) Everything you need to know about lorem ipsum [https://t.co/WSfaYKaP8i](https://t.co/WSfaYKaP8i) :)
+- [T](http://twitter.com/astropierre/status/804055521942732801) par [@astropierre](https://twitter.com/astropierre) Le saviez-vous? Dérouler un rouleau de Scotch (dans le vide) produit assez de rayons X pour radiographier 1 doigt..… [https://t.co/Xir7kjAarY](https://t.co/Xir7kjAarY)
+
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
