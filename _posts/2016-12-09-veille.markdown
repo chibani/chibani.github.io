@@ -1,0 +1,84 @@
+---
+layout: post
+title: "La veille du week-end S1E26"
+date: 2016-12-02 07:30:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.  
+
+Ma citation de la semaine :
+
+> If someone on your team is working remotely, you are working remotely. If you don't feel that way then your team member is feeling left out.  
+par [@jrusbatch](https://twitter.com/jrusbatch) ([T](http://twitter.com/jrusbatch/status/804545910034362368))
+
+La Thym SudWeb a annoncé les dates de l'édition 2017 de ses conférences.  
+Elle a également lancé l'appel à sujets :
+
+- [T](http://twitter.com/SudWeb/status/805817031023067136) par [@SudWeb](https://twitter.com/SudWeb) L’appel à propositions de sujets  de 5 minutes est ouvert jusqu’au 12 février : [https://t.co/sJRjiJTAxm](https://t.co/sJRjiJTAxm) https://t.co/WDA6fAUGfU
+
+
+Le mois de décembre est bien entamé, et les calendriers de l'avent émergent également.  
+En voici une sélection :
+
+ - [T](http://twitter.com/MyCozyCloud/status/804231656647360513) par [@MyCozyCloud](https://twitter.com/MyCozyCloud) 🎁 Pour bien attendre Noël, nous vous avons préparé un calendrier de l'avent pour contrôler votre vie numérique ! 🎁… [https://t.co/G6fqpTNQ9y](https://t.co/G6fqpTNQ9y)
+ - [T](http://twitter.com/qwantcom/status/804289649598464000) par [@qwantcom](https://twitter.com/qwantcom) Voici le ❄️ 🎁 #CalendrierDeLavent @QwantJunior ❄️ 🎁 → [https://t.co/38cTOVKlck](https://t.co/38cTOVKlck) ● Crée ton propre jeu avec… https://t.co/483MkKXimV
+ - [T](http://twitter.com/newick/status/805085147968237568) par [@newick](https://twitter.com/newick) Merci @methylbro de regrouper tous les #nowwwel à un endroit [https://t.co/HY5oN6030x](https://t.co/HY5oN6030x) &lt;3
+ - Le ["Performance calendar"](http://calendar.perfplanet.com/2016/)
+ - [T](http://twitter.com/waxzce/status/805895550830841856) par [@waxzce](https://twitter.com/waxzce) 24 days of #Rust - rayon Blog [https://t.co/ZA3G08mBq9](https://t.co/ZA3G08mBq9) https://t.co/SbjGvSExPs
+
+Bonne lecture et bon week-end, Loïc
+
+## Dev / backend / Code
+- [T](http://twitter.com/waxzce/status/804704949825372161) par [@waxzce](https://twitter.com/waxzce) Lockfiles should be committed on all projects  Yarn Blog [https://t.co/VJZX7Nkg2J](https://t.co/VJZX7Nkg2J) // for all packages manager https://t.co/XLW3RMCmQB
+- [T](http://twitter.com/waxzce/status/805148905251995649) par [@waxzce](https://twitter.com/waxzce) Installing web apps on phones (for real) [https://t.co/dVs5bhlNDh](https://t.co/dVs5bhlNDh) https://t.co/gIT27bGNRR
+- [T](http://twitter.com/theystolemynick/status/805358524981190656) par [@theystolemynick](https://twitter.com/theystolemynick) HTTP/2 Push en NodeJS   [https://t.co/XQH1aXTKeQ](https://t.co/XQH1aXTKeQ)
+- [T](http://twitter.com/ESnextNews/status/805493763359522816) par [@ESnextNews](https://twitter.com/ESnextNews) Things You Can Do In ES6 That Can’t Be Done In ES5 [24min video] @DanShappir [https://t.co/417KXEyE5x](https://t.co/417KXEyE5x) ^ar
+- [T](http://twitter.com/nolanlawson/status/805745532807352320) par [@nolanlawson](https://twitter.com/nolanlawson) Slides for my @dotJS talk on "Service worker and the appification of the web" are up! Thanks for an amazing crowd. 😁 [https://t.co/zYIxZlFCF4](https://t.co/zYIxZlFCF4)
+- [T](http://twitter.com/igrigorik/status/806203486937300992) par [@igrigorik](https://twitter.com/igrigorik) fascinating analysis of "half-life of code": [https://t.co/UOpCeQKG9v](https://t.co/UOpCeQKG9v) - would love to see this as a tool that we can… https://t.co/h1VYtWi1v1
+- [T](http://twitter.com/jdecool/status/806415217366278144) par [@jdecool](https://twitter.com/jdecool) Upgrading to PHP 7.1 is easy : [https://t.co/si2Zq1Qed2](https://t.co/si2Zq1Qed2)
+- [T](http://twitter.com/elijahmanor/status/806525316067893252) par [@elijahmanor](https://twitter.com/elijahmanor) 🆕 Develop Web Apps with Vue.js course 📹 [https://t.co/S4Pp6ijMyx](https://t.co/S4Pp6ijMyx) 👏 @GearUp3D @eggheadio https://t.co/5AMXIl9Ln1
+
+
+## Front
+ - [T](http://twitter.com/owencm/status/804388873899888640) par [@owencm](https://twitter.com/owencm) The Web Share API now lets sites use Android's native sharing system! Try it out, way better than using social APIs… [https://t.co/5egMRlbS1Y](https://t.co/5egMRlbS1Y)
+ - [T](http://twitter.com/m4d_z/status/806141778827116545) par [@m4d_z](https://twitter.com/m4d_z) #CozyCloud Pourquoi réécrire le frontend ? Why revamp our front stack? [https://t.co/0bZd5rwGSV](https://t.co/0bZd5rwGSV)
+
+
+## Tooling
+- [T](http://twitter.com/tut_tuuut/status/804350368398397440) par [@tut_tuuut](https://twitter.com/tut_tuuut) Du coup j'ai codé un visualisateur d'échéancier de prêt [https://t.co/xQzvDBo1tN](https://t.co/xQzvDBo1tN) (Il est laid et il dit des NaNeries, je sais.)
+- [T](http://twitter.com/waxzce/status/804445980997353472) par [@waxzce](https://twitter.com/waxzce) hartator/wayback-machine-downloader Download an entire website from the Wayback Machine. [https://t.co/4HiloiB5X2](https://t.co/4HiloiB5X2) https://t.co/Kzj68gcjqX
+- [T](http://twitter.com/jamstatic_fr/status/805828406063538176) par [@jamstatic_fr](https://twitter.com/jamstatic_fr) Evaluer la qualité et la performance d’un site statique sous GitHub Pages avec WebpageTest et @opquast : [https://t.co/FPNlvsbb7K](https://t.co/FPNlvsbb7K)
+
+
+## Marketing / SEO / Comportement
+- [T](http://twitter.com/webrankinfo/status/804582354878545920) par [@webrankinfo](https://twitter.com/webrankinfo) Supprimez enfin le spam referrer et le ghost spam de Google Analytics ! Dossier complet à partager :-)… [https://t.co/T8R2TKfWUJ](https://t.co/T8R2TKfWUJ)
+
+
+
+## Sécurité / Vie privée
+- [T](http://twitter.com/waxzce/status/804272045936742400) par [@waxzce](https://twitter.com/waxzce) Fixing an SVG Animation Vulnerability / Mozilla Security Blog [https://t.co/ajAc1Kk0Mx](https://t.co/ajAc1Kk0Mx)
+- [T](http://twitter.com/doctorow/status/805432040120164352) par [@doctorow](https://twitter.com/doctorow) Crooks can guess Visa card details in six seconds by querying lots of websites at once [https://t.co/5WXQXJMMRx](https://t.co/5WXQXJMMRx) https://t.co/uStoT7u6qz
+- [T](http://twitter.com/waxzce/status/805733294033801216) par [@waxzce](https://twitter.com/waxzce) SQL injections vulnerabilities in Stack Overflow PHP questions [https://t.co/0G4wLuN1Ns](https://t.co/0G4wLuN1Ns) https://t.co/MijXDYuhQv
+ - [T](http://twitter.com/FGRibreau/status/806044508278390784) par [@FGRibreau](https://twitter.com/FGRibreau) The SaaS CTO Security Checklist [https://t.co/qcCe5cxgAC](https://t.co/qcCe5cxgAC)
+- [T](http://twitter.com/theystolemynick/status/806417292707987457) par [@theystolemynick](https://twitter.com/theystolemynick) Oh oui! failles de sécurité + violation de privacy dans les jouets Vidéo (EN): [https://t.co/jPA0VpArMx](https://t.co/jPA0VpArMx) Article (FR): https://t.co/O2Ii0sBh4X
+
+
+## Geek / IOT / Électronique
+ - [T](http://twitter.com/outadoc/status/805504496277274624) par [@outadoc](https://twitter.com/outadoc) Linkindle - Affichez votre consommation électrique sur une liseuse [https://t.co/xvFKR3neYC](https://t.co/xvFKR3neYC) https://t.co/Asd5JUpJ55
+
+
+
+## Humain / Développement personnel / Santé
+- [T](http://twitter.com/barbara_prose/status/806447340391464960) par [@barbara_prose](https://twitter.com/barbara_prose) Management collaboratif : les bonnes pratiques de la PME @JoliCode [https://t.co/EkA5JLqMEu](https://t.co/EkA5JLqMEu) via @Chef_entreprise #PME #dev #NTIC
+- [T](http://twitter.com/alex_gibson/status/804285743610941440) par [@alex_gibson](https://twitter.com/alex_gibson) 5 lessons from working at Mozilla remotely [https://t.co/FSKeePgHze](https://t.co/FSKeePgHze)
+- [T](http://twitter.com/pzeups/status/804371441831514113) par [@pzeups](https://twitter.com/pzeups) Et si vous en avez marre de vous faire pomper du temps online, un article de @GeoffreyDorne sur l’hygiène numérique. [https://t.co/nLRmnqqcT6](https://t.co/nLRmnqqcT6)
+
+
+
+## Divers / Conneries
+- [T](http://twitter.com/vvoyer/status/804810819791949824) par [@vvoyer](https://twitter.com/vvoyer) Music for programming: [https://t.co/9tAjndwwWe](https://t.co/9tAjndwwWe)
+- [T](http://twitter.com/DrNozman/status/806533514703290369) par [@DrNozman](https://twitter.com/DrNozman) L'assemblage et l'évolution de l'ISS depuis 1998, c'est fou [https://t.co/PcPjDa2DgZ](https://t.co/PcPjDa2DgZ)
+- [T](http://twitter.com/YouTube/status/806559335274971138) par [@YouTube](https://twitter.com/YouTube) The Ultimate 2016 Challenge is here. Bring it. [https://t.co/wlB1JsEWhA](https://t.co/wlB1JsEWhA)   #YouTubeRewind https://t.co/Pzz5IblqK1
+ - [T](http://twitter.com/LOKKILUCK/status/806447262310219776) par [@LOKKILUCK](https://twitter.com/LOKKILUCK) Le google map de l'empire Romain : énorme ! #Juliomagus #Angers [https://t.co/0zAj2CJ7uO](https://t.co/0zAj2CJ7uO) https://t.co/aFqFvs3i44
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
