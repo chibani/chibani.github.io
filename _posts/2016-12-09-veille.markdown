@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "La veille du week-end S1E26"
-date: 2016-12-02 07:30:00 +0200
+date: 2016-12-09 07:30:00 +0200
 category: veille
 ---
 C’est vendredi et c’est la “veille du week-end”.  
