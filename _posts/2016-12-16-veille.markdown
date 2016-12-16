@@ -1,0 +1,75 @@
+---
+layout: post
+title: "La veille du week-end S1E27"
+date: 2016-12-16 07:30:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.  
+
+Bonne lecture et bon week-end, Loïc
+
+## Dev / backend / Code
+- [T](http://twitter.com/algolia/status/806815762526699520) par [@algolia](https://twitter.com/algolia) Harnessing API’s with React: a different approach [https://t.co/krcZ2ZLItJ](https://t.co/krcZ2ZLItJ) by @bobylito https://t.co/lbdKuQO4Bb
+- [T](http://twitter.com/waxzce/status/806829451854094336) par [@waxzce](https://twitter.com/waxzce) Fun hacks for faster content [https://t.co/bR3n9bEWe4](https://t.co/bR3n9bEWe4) https://t.co/rqyLf6y9AK
+- [T](http://twitter.com/iam_preethi/status/806919028338032640) par [@iam_preethi](https://twitter.com/iam_preethi) I'm writing a 4-part post on "Why use static types in JavaScript?" Part 1: [https://t.co/lYaPY6U40I](https://t.co/lYaPY6U40I)
+- [T](http://twitter.com/adactio/status/808705320851767296) par [@adactio](https://twitter.com/adactio) I wrote a web book. It’s called Resilient Web Design. It’s yours for free. I hope you like it. [https://t.co/1KTkudqZ5V](https://t.co/1KTkudqZ5V)
+
+
+
+## Front
+- [T](http://twitter.com/edasfr/status/807615372937416706) par [@edasfr](https://twitter.com/edasfr) Attribuer une citation en HTML [https://t.co/NoAtehJuqT](https://t.co/NoAtehJuqT) [blog]
+- [T](http://twitter.com/aemkei/status/807946668234641408) par [@aemkei](https://twitter.com/aemkei) // VOID [https://t.co/x6mWXnsEJj](https://t.co/x6mWXnsEJj) A quine that hides JavaScript using zero-width variables and invisible code. (… https://t.co/sK0Ut2Z3pf
+- [T](http://twitter.com/addyosmani/status/807608316532756480) par [@addyosmani](https://twitter.com/addyosmani) This is huge. Automatically determine what Babel plugins you need based on browsers you're supporting:… [https://t.co/x4u49LOX1t](https://t.co/x4u49LOX1t)
+- [T](http://twitter.com/umaar/status/807242006061809664) par [@umaar](https://twitter.com/umaar) Dev Tips: Slides are published! DevTools Optimise your Web Development Workflow 2016: [https://t.co/TRncBg5dLv](https://t.co/TRncBg5dLv) Inclu… https://t.co/8sBUvdKlaj
+- [T](http://twitter.com/htmlvv/status/808426840205520896) par [@htmlvv](https://twitter.com/htmlvv) Quelques bonnes bases pour utiliser SVG, exemple à l’appui. 15 minutes. [https://t.co/sQ1UL1Leay](https://t.co/sQ1UL1Leay)
+- [T](http://twitter.com/img4rwd/status/808750953138712576) par [@img4rwd](https://twitter.com/img4rwd) L’ordre des media queries dans l’attribut sizes est important, oui ! [https://t.co/esTbV8Tm84](https://t.co/esTbV8Tm84)
+
+
+
+## Tooling
+- [T](http://twitter.com/damienalexandre/status/806806800607514624) par [@damienalexandre](https://twitter.com/damienalexandre) Les slides de ma conférence sur les Emoji 🍕 dans #Elasticsearch au meetup @ElasticFR : [https://t.co/SQindukq4j](https://t.co/SQindukq4j) Faite mieux que Twitter ! 🔎
+- [T](http://twitter.com/glacasa/status/806785084778889216) par [@glacasa](https://twitter.com/glacasa) #nowwwel Retour d'expérience sur le déploiement automatique de sites web [https://t.co/Hd1v2QydHI](https://t.co/Hd1v2QydHI)
+- [T](http://twitter.com/jamstatic_fr/status/808311203193819136) par [@jamstatic_fr](https://twitter.com/jamstatic_fr) Des commentaires statiques dans Jekyll avec @staticmanapp, par l’exemple avec l’implémentation de @mmistakes [https://t.co/psTFZRdFY5](https://t.co/psTFZRdFY5)
+
+
+
+## Marketing / SEO / Comportement
+- [T](http://twitter.com/Mar1e/status/806764964270600192) par [@Mar1e](https://twitter.com/Mar1e) StatusBrew [https://t.co/xVqmQYpNFr](https://t.co/xVqmQYpNFr) et Crowdfire https://t.co/QzmN3Y1GMC 2 outils pour gérer son compte Twitter
+- [T](http://twitter.com/OhowSEO/status/808302669580398592) par [@OhowSEO](https://twitter.com/OhowSEO) @Mar1e you can prevent most of the spam no matter how it shows with a couple of well-placed filters :) [https://t.co/DDBGVg6GX3](https://t.co/DDBGVg6GX3)
+
+
+
+## Sécurité / Vie privée
+- [T](http://twitter.com/PierreAllee/status/806806749365735424) par [@PierreAllee](https://twitter.com/PierreAllee) Quand les renseignements britanniques espionnaient Octave Klaba (@olesovhcom), PDG d'OVH : [https://t.co/OpI9Jsymze](https://t.co/OpI9Jsymze)
+
+
+
+
+## Geek / IOT / Électronique
+- [T](http://twitter.com/CPUprogramme/status/807139374844547072) par [@CPUprogramme](https://twitter.com/CPUprogramme) La taxe eye-cnady : Comment les animations du Finder ralentissent le Mac [https://t.co/64aRa1WGUk](https://t.co/64aRa1WGUk)
+- [T](http://twitter.com/sindresorhus/status/808014014706028544) par [@sindresorhus](https://twitter.com/sindresorhus) I just published “Fabulous macOS Tips &amp; Tricks” [https://t.co/2aocB3glXW](https://t.co/2aocB3glXW)
+- [T](http://twitter.com/dequaliter/status/809148599657517056) par [@dequaliter](https://twitter.com/dequaliter) Oh ! Mais que voyons-nous débouler tranquillement sur iTunes ? Le Log de @LamHua ! [https://t.co/mhNoMBSGpI](https://t.co/mhNoMBSGpI)
+
+
+
+
+## Humain / Développement personnel / Santé
+- [T](http://twitter.com/DavidPollet_/status/806850407477772288) par [@DavidPollet_](https://twitter.com/DavidPollet_) #nowwwel dans 17 dodos ! :-) Comment je gère le rapport humain avec mes clients pour éviter de devenir exécutant [https://t.co/oi5LUoWnLw](https://t.co/oi5LUoWnLw)
+- [T](http://twitter.com/Cite_Loches/status/806904792031358976) par [@Cite_Loches](https://twitter.com/Cite_Loches) Découvrez notre premier tuto Cuisine Médiévale par @NotaBeneMovies ! Voici le Pasté de Char : 🍗🎄[https://t.co/IjgaIFmGN4](https://t.co/IjgaIFmGN4) #NoelRoyal #Loches
+- [T](http://twitter.com/Hubert_edu/status/807725370199908353) par [@Hubert_edu](https://twitter.com/Hubert_edu) Découvrez comment une enseignante utilise les Lego dans l'apprentissage des mathématiques [https://t.co/Mfa1juWOQX](https://t.co/Mfa1juWOQX) v/ @Edupronet
+- [T](http://twitter.com/wef/status/808380428549767169) par [@wef](https://twitter.com/wef) Our brains deliberately procrastinate. Here's why it's a good thing [https://t.co/tvi14exDO6](https://t.co/tvi14exDO6) https://t.co/58Yr2meA3n
+- [T](http://twitter.com/JoliCampus/status/808580581281898496) par [@JoliCampus](https://twitter.com/JoliCampus) Pourquoi écrire un guide projet ?🗒 [https://t.co/m4mENa7FQW](https://t.co/m4mENa7FQW)
+- [T](http://twitter.com/waxzce/status/808641943030865920) par [@waxzce](https://twitter.com/waxzce) Joue la comme Clever Cloud : comment nous avons survécu à un redressement judiciaire [https://t.co/BxD0rP3ChG](https://t.co/BxD0rP3ChG) https://t.co/xWPVmUJxe7
+
+
+
+
+## Divers / Conneries
+- [T](http://twitter.com/LOKKILUCK/status/806447262310219776) par [@LOKKILUCK](https://twitter.com/LOKKILUCK) Le google map de l'empire Romain : énorme ! #Juliomagus #Angers [https://t.co/0zAj2CJ7uO](https://t.co/0zAj2CJ7uO) https://t.co/aFqFvs3i44
+- [T](http://twitter.com/Bouletcorp/status/807279833596104704) par [@Bouletcorp](https://twitter.com/Bouletcorp) Mario Bros, the movie made in France. Par @Yesvousaime [https://t.co/Suo9MrxxT6](https://t.co/Suo9MrxxT6)
+- [T](http://twitter.com/j0k/status/808659568121249796) par [@j0k](https://twitter.com/j0k) Ken Block dans Londres &lt;3 [https://t.co/oPB6v6X0Lx](https://t.co/oPB6v6X0Lx)
+- [T](http://twitter.com/CaseyNeistat/status/809099374609440769) par [@CaseyNeistat](https://twitter.com/CaseyNeistat) Check out my friend @ohboyson incredible youtube video -- [https://t.co/6yJv9O8pd0](https://t.co/6yJv9O8pd0)
+
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
