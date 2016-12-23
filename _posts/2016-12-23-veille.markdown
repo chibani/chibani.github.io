@@ -1,0 +1,75 @@
+---
+layout: post
+title: "La veille du week-end S1E28"
+date: 2016-12-23 07:00:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.  
+
+Bonne lecture et passez de bonnes fêtes, Loïc
+
+## Dev / backend / Code
+- [T](http://twitter.com/porteneuve/status/810793918128410624) par [@porteneuve](https://twitter.com/porteneuve) Most excellent comparison of #Flow vs. #TypeScript 2 by @DJCordhose. Must-read for JS/TS devs: [https://t.co/BbpKSeroMY](https://t.co/BbpKSeroMY)
+- [T](http://twitter.com/s_hulard/status/810966221868986368) par [@s_hulard](https://twitter.com/s_hulard) Les slides de mon talk sur @laravelphp et les #WebSockets sont dispos en ligne: [https://t.co/RCruWrcQKB](https://t.co/RCruWrcQKB) Merci à @AFUP_lyon !!
+- [T](http://twitter.com/clementd/status/811132237672566784) par [@clementd](https://twitter.com/clementd) [https://t.co/kTIh9MUt1I](https://t.co/kTIh9MUt1I) one function-per-file, immutable by default. I'm sold.
+
+
+
+
+## Front
+- [T](http://twitter.com/adactio/status/808705320851767296) par [@adactio](https://twitter.com/adactio) I wrote a web book. It’s called Resilient Web Design. It’s yours for free. I hope you like it. [https://t.co/1KTkudqZ5V](https://t.co/1KTkudqZ5V)
+- [T](http://twitter.com/zralokh3/status/810093643365306368) par [@zralokh3](https://twitter.com/zralokh3) I've just finished watchig this very good talk by @SaraSoueidan about #svg [https://t.co/69WagnhxG5](https://t.co/69WagnhxG5) Learned a few things. Totally recommended
+- [T](http://twitter.com/nfroidure/status/810418563399946240) par [@nfroidure](https://twitter.com/nfroidure) A deep dive into what VDOM really is [https://t.co/eZa7Y3TbZG](https://t.co/eZa7Y3TbZG) #JavaScript #preact
+- [T](http://twitter.com/nfroidure/status/810761768259686401) par [@nfroidure](https://twitter.com/nfroidure) Learning progressive web apps [https://t.co/3aLcJOSTPD](https://t.co/3aLcJOSTPD) #javascript #pwa
+- [T](http://twitter.com/geoffrey_crofte/status/810839957271150592) par [@geoffrey_crofte](https://twitter.com/geoffrey_crofte) The (Not So) Secret Powers Of The Mobile Browser [https://t.co/ZSPqYJHl1C](https://t.co/ZSPqYJHl1C)
+- [T](http://twitter.com/WalterStephanie/status/811113935055257600) par [@WalterStephanie](https://twitter.com/WalterStephanie) 10 New Features of HTML 5.1 &amp; How to Use Them IRL [https://t.co/Fsa5l9uQDx](https://t.co/Fsa5l9uQDx)
+- [T](http://twitter.com/theystolemynick/status/811698007737561088) par [@theystolemynick](https://twitter.com/theystolemynick) Pour #nowwwel🎄 un double article sur les coûts cachés des tiers gratuits  [https://t.co/RqRFCg51GX](https://t.co/RqRFCg51GX) et les pubs 💰 https://t.co/kQtSkGIxDk
+
+
+
+
+## Tooling
+- [T](http://twitter.com/evolix/status/811605372322594817) par [@evolix](https://twitter.com/evolix) Après HowtoMySQL, HowtoGit ! [https://t.co/z4ZG8rzV6Z](https://t.co/z4ZG8rzV6Z) : une grosse #DocDeLaSemaine qui couvre tous nos cas d'utilisa… https://t.co/j0m22z90yC
+- [T](http://twitter.com/waxzce/status/809366158868697088) par [@waxzce](https://twitter.com/waxzce) cloudson/gitql: A #git query language [https://t.co/A5QHx46ZGj](https://t.co/A5QHx46ZGj) // so fun https://t.co/izjD1WD7ze
+- [T](http://twitter.com/mxstbr/status/809757114264649728) par [@mxstbr](https://twitter.com/mxstbr) 🎉 The official @image_optim API! 💯 Never block a page load with images ever again; no manual optimizing needed!… [https://t.co/XDuD2iHSnb](https://t.co/XDuD2iHSnb)
+- [T](http://twitter.com/bepsays/status/810941295095070721) par [@bepsays](https://twitter.com/bepsays) Hugo 0.18 Released: Everything Now a Page, and Twice as Fast! [https://t.co/AQqW9qOmoL](https://t.co/AQqW9qOmoL) #gohugo #golang @spf13 https://t.co/faJmxnRnbU
+
+
+
+## Marketing / SEO / Comportement
+// Rien cette semaine...
+
+
+
+## Sécurité / Vie privée
+- [T](http://twitter.com/Slatefr/status/809717738771988480) par [@Slatefr](https://twitter.com/Slatefr) Les hackers ne sont pas le problème, ils sont la solution, par @manhack [https://t.co/ipBV8Jgt56](https://t.co/ipBV8Jgt56)
+- [T](http://twitter.com/Simon_Dry_/status/809721536273874944) par [@Simon_Dry_](https://twitter.com/Simon_Dry_) Je pensais pas que ça puisse être si simple de mettre un téléphone sur écoute :o [https://t.co/VWpgkJ8VW9](https://t.co/VWpgkJ8VW9)
+- [T](http://twitter.com/waxzce/status/811178093301923840) par [@waxzce](https://twitter.com/waxzce) macOS FileVault2 Password Retrieval [https://t.co/j5pcqqdRs8](https://t.co/j5pcqqdRs8) // :-( FEAR https://t.co/6DgCiPqWgY
+
+
+
+## Geek / IOT / Électronique
+- [T](http://twitter.com/theystolemynick/status/809819417857114112) par [@theystolemynick](https://twitter.com/theystolemynick) Quelques informations glanées par Mozilla sur les capacités hardware des machines   [https://t.co/uhMb4wGw3i](https://t.co/uhMb4wGw3i)
+- [T](http://twitter.com/MKBHD/status/810173246146494465) par [@MKBHD](https://twitter.com/MKBHD) NEW VIDEO - Dope Tech: Custom LED Clock! [https://t.co/NMgWn5cKcY](https://t.co/NMgWn5cKcY) - RT! https://t.co/tj7QzBHaG8
+- [T](http://twitter.com/framboise314/status/810451781599825920) par [@framboise314](https://twitter.com/framboise314) Donnez un vieux @Raspberry_Pi pour les enfants du #Mali il sera reconditionné par #MalinuxTélé et servira de nouvea… [https://t.co/yS0wNPoK1e](https://t.co/yS0wNPoK1e)
+
+
+
+## Humain / Développement personnel / Santé
+- [T](http://twitter.com/pierrekerner/status/809287030324727808) par [@pierrekerner](https://twitter.com/pierrekerner) "Leveling up" Les compétences acquises pendant les premières années d'un humain, via @eleanor_lutz… [https://t.co/Ih2Yt5eu8W](https://t.co/Ih2Yt5eu8W)
+- [T](http://twitter.com/slashdot/status/810229655366238208) par [@slashdot](https://twitter.com/slashdot) RIP Dr. Henry Heimlich, Inventor of the Heimlich Maneuver [https://t.co/jQg98kaRHC](https://t.co/jQg98kaRHC)
+- [T](http://twitter.com/mpjme/status/810934586968510464) par [@mpjme](https://twitter.com/mpjme) Hate-driven development [https://t.co/SVlZSgXhPM](https://t.co/SVlZSgXhPM) https://t.co/FVqe8BLcUj
+- [T](http://twitter.com/methylbro/status/811246693668835330) par [@methylbro](https://twitter.com/methylbro) La revue de code bienveillante de @GillesRoustan en vidéo #nowwwel [https://t.co/pZj1VtTFCV](https://t.co/pZj1VtTFCV)
+
+
+## Divers / Conneries
+- [T](http://twitter.com/mpjme/status/809345425895526400) par [@mpjme](https://twitter.com/mpjme) If you're looking for a reeeeeeally good song to keep on loop while coding today... [https://t.co/dtb7oJAQ2F](https://t.co/dtb7oJAQ2F)
+- [T](http://twitter.com/LamHua/status/809669754336198656) par [@LamHua](https://twitter.com/LamHua) Le 2nd pilote de mon podcast Tech est dispo sur SoundCloud/iTunes, bonne écoute et merci pour vos retours ! #lelog [https://t.co/u1DQ9PdPKT](https://t.co/u1DQ9PdPKT)
+- [T](http://twitter.com/GeoffreyDorne/status/809792031249825792) par [@GeoffreyDorne](https://twitter.com/GeoffreyDorne) Avec @AdrienRahier on a mis à jour [https://t.co/Ve9fVKgkmM](https://t.co/Ve9fVKgkmM) pour savoir combien de députés votent nos lois 🤔 https://t.co/4iJTCHTgd0
+- [T](http://twitter.com/epenser/status/810544165994004480) par [@epenser](https://twitter.com/epenser) Nouvel épisode !! On attaque l'informatique, en partant du degré zéro :) [https://t.co/PBRyk17sdw](https://t.co/PBRyk17sdw) Ensuite, c'est binaire : vous RT, ou pas.
+- [T](http://twitter.com/CaseyNeistat/status/811196848786567168) par [@CaseyNeistat](https://twitter.com/CaseyNeistat) Watch My New Movie!!!!!    HUMAN FLYING DRONE -- [https://t.co/TWUd9mO1hO](https://t.co/TWUd9mO1hO) https://t.co/YFQ9obOXlV
+- [T](http://twitter.com/Lamenade_/status/811579443756072960) par [@Lamenade_](https://twitter.com/Lamenade_) Rétablissons la vérité : les vraies titres D'Harry Potter #TeamHermione [https://t.co/stCmDkjry6](https://t.co/stCmDkjry6)
+
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
