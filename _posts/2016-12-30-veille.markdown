@@ -1,0 +1,76 @@
+---
+layout: post
+title: "La veille du week-end S1E29"
+date: 2016-12-30 07:00:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.  
+
+La citation de la semaine :
+- [T](http://twitter.com/t_magennis/status/813446534423396352) par [@t_magennis](https://twitter.com/t_magennis) Valuable part of "software estimation" might be the conversation of what can go wrong and why. Much more important than the story points.
+
+
+Bonne lecture et passez de bonnes fêtes, Loïc
+
+## Dev / backend / Code
+- [T](http://twitter.com/crapougnax/status/812621560196562944) par [@crapougnax](https://twitter.com/crapougnax) “REST in Peace: Microservices vs monoliths in real-life examples” by @rdsubhas [https://t.co/wboFM0jjYb](https://t.co/wboFM0jjYb)
+- [T](http://twitter.com/codinghorror/status/812703790897905664) par [@codinghorror](https://twitter.com/codinghorror) Shut your face hole and read the greatest, most best article on web performance of all time. ALL TIME [https://t.co/nRuQQ7Xu9s](https://t.co/nRuQQ7Xu9s)
+- [T](http://twitter.com/SammyK/status/812342136247058432) par [@SammyK](https://twitter.com/SammyK) Add docblocks to your @laravelphp Eloquent models to get that fancy syntax highlighting on properties and local sco… [https://t.co/ZqZlOBwruG](https://t.co/ZqZlOBwruG)
+
+
+
+## Front
+- [T](http://twitter.com/IAmNotCyril/status/811939667977314304) par [@IAmNotCyril](https://twitter.com/IAmNotCyril) [Blog] Quelque conseils à donner aux débutants en intégration [https://t.co/XzrUfbVGQk](https://t.co/XzrUfbVGQk) #nowwwel
+- [T](http://twitter.com/WalterStephanie/status/811832414251208709) par [@WalterStephanie](https://twitter.com/WalterStephanie) Front-End Performance Checklist 2017 (PDF, Apple Pages)  [https://t.co/McDnY0GVDg](https://t.co/McDnY0GVDg)
+- [T](http://twitter.com/WalterStephanie/status/811843719238254593) par [@WalterStephanie](https://twitter.com/WalterStephanie) Les super pouvoirs des navigateurs mobiles : notifications, offline, geoloc, Service Workers, PWA, …  #nowwwel… [https://t.co/PzzqBU679E](https://t.co/PzzqBU679E)
+- [T](http://twitter.com/alsacreations/status/811858638788825088) par [@alsacreations](https://twitter.com/alsacreations) Bootstrap laisse tomber IE9 et devient full Flexbox (ce n'est plus une option) : [https://t.co/EgcARvc17r](https://t.co/EgcARvc17r)
+- [T](http://twitter.com/WalterStephanie/status/812219970742603776) par [@WalterStephanie](https://twitter.com/WalterStephanie) Fun with Staggered Transitions, nice little demo [https://t.co/haTR77G8Nx](https://t.co/haTR77G8Nx)
+- [T](http://twitter.com/waxzce/status/813352388664954880) par [@waxzce](https://twitter.com/waxzce) Offline First – A better HTML5 User Experience - by @joelambert [https://t.co/3d3IQ8m1ih](https://t.co/3d3IQ8m1ih)
+- [T](http://twitter.com/mcpaccard/status/813476742098722816) par [@mcpaccard](https://twitter.com/mcpaccard) #nowwwel : l'UX des newsletters [https://t.co/Q8suMAGFcx](https://t.co/Q8suMAGFcx) #uxdesign (Comment ça, je suis en retard ?)
+- [T](http://twitter.com/pierrechoffe/status/814090826615754753) par [@pierrechoffe](https://twitter.com/pierrechoffe) CSS : n'oubliez pas l'impression papier! Quelqu'un quelque part essaiera un jour d'imprimer une de vos pages... [https://t.co/Td94E3zAaP](https://t.co/Td94E3zAaP) #css
+- [T](http://twitter.com/PatrickFaramaz/status/814102655580639232) par [@PatrickFaramaz](https://twitter.com/PatrickFaramaz) @chibani c’est ce que je me dis aussi. J’ai trouvé cet article [https://t.co/KZ06FRsNuo](https://t.co/KZ06FRsNuo) c’est intéressant // Performance et web-fonts
+
+
+
+## Tooling
+- [T](http://twitter.com/FGRibreau/status/811842710621528064) par [@FGRibreau](https://twitter.com/FGRibreau) How Twitter Handles 3,000 Images Per Second [https://t.co/htvlScngl9](https://t.co/htvlScngl9)
+- [T](http://twitter.com/gitlab/status/812006128733274112) par [@gitlab](https://twitter.com/gitlab) GitLab 8.15 released with Auto Deploy, Web terminal, Slack ChatOps, and tons of awesomeness! Happy holidays! 🙌💥🎅  [https://t.co/ZRMgv6h1mK](https://t.co/ZRMgv6h1mK)
+- [T](http://twitter.com/ProductHunt/status/812810107495006208) par [@ProductHunt](https://twitter.com/ProductHunt) Expressions is a Mac app to play with regular expressions. Easily and nicely. 💫 [https://t.co/4SF06T1DKt](https://t.co/4SF06T1DKt) https://t.co/75x26jfMvE
+- [T](http://twitter.com/sam_et_max/status/813694276274098176) par [@sam_et_max](https://twitter.com/sam_et_max) arachnys/cabot: Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty [https://t.co/XM9ahBxO7E](https://t.co/XM9ahBxO7E)
+
+
+
+## Marketing / SEO / Comportement
+- [T](http://twitter.com/mwichary/status/813484569554874369) par [@mwichary](https://twitter.com/mwichary) Your tweet archive from Twitter doesn’t contain your images. I wrote a script that downloads all images locally.… [https://t.co/6FHT9a1CGy](https://t.co/6FHT9a1CGy)
+
+
+
+## Sécurité / Vie privée
+- [T](http://twitter.com/weichsel/status/811890894051819520) par [@weichsel](https://twitter.com/weichsel) Apple released a Tech Note about the changes to ssh and ssh-agent in macOS 10.12.2 [https://t.co/D9XuC3RUHM](https://t.co/D9XuC3RUHM)
+- [T](http://twitter.com/pea53/status/812391739306688513) par [@pea53](https://twitter.com/pea53) hat tip to @searls on this one keep your secret dotfiles safe in an encrypted disk image --&gt; [https://t.co/hfpBjKzWbu](https://t.co/hfpBjKzWbu)
+
+
+
+## Geek / IOT / Électronique
+- [T](http://twitter.com/edasfr/status/814194472888061952) par [@edasfr](https://twitter.com/edasfr) Disque NAS et système de backup [https://t.co/p3p3XbWhQH](https://t.co/p3p3XbWhQH) [blog]
+
+
+
+## Humain / Développement personnel / Santé
+- [T](http://twitter.com/SylvainePascual/status/813273195260350464) par [@SylvainePascual](https://twitter.com/SylvainePascual) #viepro télétravail, freelance, #coworking, nomadisme, horaires décalés.... Le métro-boulot-dodo se réinvente… [https://t.co/ubyPOYwQ6V](https://t.co/ubyPOYwQ6V)
+- [T](http://twitter.com/methylbro/status/813747668400951296) par [@methylbro](https://twitter.com/methylbro) “Si vos réponses permettent au recruteur de vous cerner, ses questions vous permettent de le cerner” — @libellule [https://t.co/taaxQtTu1p](https://t.co/taaxQtTu1p)
+- [T](http://twitter.com/funkatron/status/814101997343412224) par [@funkatron](https://twitter.com/funkatron) Folks who code all the time, work late hours, don't sleep much, should check this thread. Take care of yourself. [https://t.co/9oeywpgpAG](https://t.co/9oeywpgpAG)
+- [T](http://twitter.com/lifehacker/status/814229713916952577) par [@lifehacker](https://twitter.com/lifehacker) I'm Jason Fried, CEO of Basecamp, and this is how I work: [https://t.co/UuRqsi87iP](https://t.co/UuRqsi87iP) https://t.co/a9YriMRxLU
+
+
+
+## Divers / Conneries
+- [T](http://twitter.com/Deuklo/status/811884956641296388) par [@Deuklo](https://twitter.com/Deuklo) " Pour te paluche , ta fait un trou dans la peluche" [https://t.co/YAza39xDx9](https://t.co/YAza39xDx9)
+- [T](http://twitter.com/epenser/status/812345608824569856) par [@epenser](https://twitter.com/epenser) NOUVEL EPISODE : on se paye enfin le Spin des particules. [https://t.co/NdfTLW5d7C](https://t.co/NdfTLW5d7C) J'ai tout donné, j'espère qu'il vous plaira au point d'RT
+- [T](http://twitter.com/UlycesEditions/status/812284126690680832) par [@UlycesEditions](https://twitter.com/UlycesEditions) Cet album fusionne Daft Punk et les Beastie Boys et le résultat est mortel [https://t.co/40j0waphAW](https://t.co/40j0waphAW) https://t.co/eNO5qHJRwJ
+- [T](http://twitter.com/hellgy/status/812634337258651648) par [@hellgy](https://twitter.com/hellgy) Sur le blog : Des cartes de voeux à imprimer [https://t.co/fcSm0EmBiJ](https://t.co/fcSm0EmBiJ) https://t.co/JcrdJqR168
+
+
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
