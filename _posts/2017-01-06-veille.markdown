@@ -1,0 +1,81 @@
+---
+layout: post
+title: "La veille du week-end S1E30"
+date: 2017-01-06 07:00:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.  
+
+Tout d'abord,  
+BONNE ANNEE !!  
+
+Et bonne santé, la famille, les amis, tout ça. Mais surtout la santé, hein. C'est important la santé.
+
+Bref, éclatez-vous, faites-vous plaisir et prenez soin de vous :)
+
+
+## Dev / backend / Code
+- [T](http://twitter.com/waxzce/status/814489408338534400) par [@waxzce](https://twitter.com/waxzce) Even Faster Images using HTTP2 and Progressive JPEGs [https://t.co/0UAr1itqWg](https://t.co/0UAr1itqWg) https://t.co/JVBsterU09
+- [T](http://twitter.com/waxzce/status/815681738118668289) par [@waxzce](https://twitter.com/waxzce) The memory models that underlie programming languages [https://t.co/IjA3EUM7l8](https://t.co/IjA3EUM7l8) https://t.co/P3anrwSqlO
+- [T](http://twitter.com/clever_cloud/status/815914263097249792) par [@clever_cloud](https://twitter.com/clever_cloud) How I Write Tests by @nelhage [https://t.co/TUM8Ec1rWe](https://t.co/TUM8Ec1rWe)
+- [T](http://twitter.com/mxstbr/status/816220545796730880) par [@mxstbr](https://twitter.com/mxstbr) 🔥 eslint-plugin-compat is so awesome 💯 Lint your JS code for browser compatibility 💯 [https://t.co/fHx1uv7QEx](https://t.co/fHx1uv7QEx) by… https://t.co/2h32Bb0DxW
+
+
+
+## Front
+- [T](http://twitter.com/katyaprigara/status/814473474643202049) par [@katyaprigara](https://twitter.com/katyaprigara) Made a report about JavaScript and frontend conferences in 2016. Total number of events in the list: 96.… [https://t.co/LtUFUIQxDY](https://t.co/LtUFUIQxDY)
+- [T](http://twitter.com/atomrc/status/814488334466711553) par [@atomrc](https://twitter.com/atomrc) The video of my lightning talk "UI as Pure Functions of Time" I gave at #dotJS is out :) #FRP @cyclejs [https://t.co/LqIbuPlZhn](https://t.co/LqIbuPlZhn)
+
+
+
+## Tooling
+- [T](http://twitter.com/L_Demontiers/status/814729695300321280) par [@L_Demontiers](https://twitter.com/L_Demontiers) Le plugin "Auto Layout" pour gérer le responsive avec Sketch App c'est une tuerie. Quel gain de temps ! Demo ici =&gt; [https://t.co/njRWxf04AS](https://t.co/njRWxf04AS)
+- [T](http://twitter.com/tecmint/status/815095555562930177) par [@tecmint](https://twitter.com/tecmint) How to Trace Execution of Commands in Shell Script with Shell Tracing [https://t.co/ybMwS3buXm](https://t.co/ybMwS3buXm) RT @linuxtoday #Linux https://t.co/GpU8cdiU4O
+- [T](http://twitter.com/rauschma/status/815230108533407744) par [@rauschma](https://twitter.com/rauschma) Unfortunately, macOS doesn’t detect/remove files (caches, prefs, …) left behind by deleted apps. These apps help: [https://t.co/43hvLVFa1t](https://t.co/43hvLVFa1t)
+- [T](http://twitter.com/b0rk/status/816739733158187017) par [@b0rk](https://twitter.com/b0rk) visualize your git history: [https://t.co/bb4YxPSXgO](https://t.co/bb4YxPSXgO) (a fun project i made 3 years ago :) :)) here's mine: https://t.co/EbwNbG68w3
+- [T](http://twitter.com/atomrc/status/816566925643882496) par [@atomrc](https://twitter.com/atomrc) Finding an Alternative to Mac OS X [https://t.co/tJ5sNoClbR](https://t.co/tJ5sNoClbR)
+
+
+
+## Marketing / SEO / Comportement
+- [T](http://twitter.com/YannDecoopman/status/815991883340058624) par [@YannDecoopman](https://twitter.com/YannDecoopman) Monétiser son site avec Amazon : les règles du jeu [https://t.co/kOUeh7wHSH](https://t.co/kOUeh7wHSH)
+
+
+
+## Sécurité / Vie privée
+- [T](http://twitter.com/CiPHPerCoder/status/814552202693984256) par [@CiPHPerCoder](https://twitter.com/CiPHPerCoder) @SwiftOnSecurity More important, in my mind, is keeping code and data separate and knowing when/how they operate: [https://t.co/88f5sEM0ll](https://t.co/88f5sEM0ll)
+- [T](http://twitter.com/Zythom/status/815863006458417153) par [@Zythom](https://twitter.com/Zythom) Log-in/sign-up – Attaques courantes : mass user creation [https://t.co/ovYhk8SAh3](https://t.co/ovYhk8SAh3)
+- [T](http://twitter.com/_SToto98/status/816269734358421504) par [@_SToto98](https://twitter.com/_SToto98) Test your Web Security knowledge with @owasp exam questions: [https://t.co/OLpZiF1Vg4](https://t.co/OLpZiF1Vg4) by @robin_linus
+- [T](http://twitter.com/clacote/status/816595616608514049) par [@clacote](https://twitter.com/clacote) Get your loved ones off Facebook: [https://t.co/SPWd7rhrbo](https://t.co/SPWd7rhrbo) All the dirty practices of Facebook, and their scary consequences on you.
+- [T](http://twitter.com/CryptoPartyTls/status/816686178405584896) par [@CryptoPartyTls](https://twitter.com/CryptoPartyTls) L'Université de Normandie propose un MOOC sur la sécurité informatique pour tous [https://t.co/npY7Oc5vSj](https://t.co/npY7Oc5vSj) Compte @MOOC_SSI
+
+
+
+## Geek / IOT / Électronique
+- [T](http://twitter.com/DiegoCerdan/status/814336944507383809) par [@DiegoCerdan](https://twitter.com/DiegoCerdan) Epic talk on how to run Linux on a PlayStation 4 with support for all hardware. GPU included! #CCC #33C3… [https://t.co/JNt3fu5bbl](https://t.co/JNt3fu5bbl)
+- [T](http://twitter.com/pimterry/status/814892752215404545) par [@pimterry](https://twitter.com/pimterry) Made a FB photo frame for my gf this Christmas (with @resin_io!). Now open source, so you can build your own too:… [https://t.co/RQGltfMxdS](https://t.co/RQGltfMxdS)
+- [T](http://twitter.com/MKBHD/status/815017365163352064) par [@MKBHD](https://twitter.com/MKBHD) NEW VIDEO: USB-C ALL the Things! [https://t.co/T81QZ3ZDag](https://t.co/T81QZ3ZDag) - RT! https://t.co/5BEFF8GSu0
+
+
+
+## Humain / Développement personnel / Santé
+- [T](http://twitter.com/dotmariusz/status/814747439592861696) par [@dotmariusz](https://twitter.com/dotmariusz) The Touch Bar, cognitive load and usability [https://t.co/E4vp1NcAgi](https://t.co/E4vp1NcAgi)
+- [T](http://twitter.com/iergo/status/814864359998521344) par [@iergo](https://twitter.com/iergo) Mon paradoxe Instagram [https://t.co/on4jPYmguC](https://t.co/on4jPYmguC) https://t.co/2wxcnEc9cp
+- [T](http://twitter.com/ybereziat/status/816412110116843521) par [@ybereziat](https://twitter.com/ybereziat) Travail: vous avez désormais le droit de vous déconnecter [https://t.co/NuBU25p1ea](https://t.co/NuBU25p1ea) via @Figaro_Economie
+- [T](http://twitter.com/osteel/status/816758332379774982) par [@osteel](https://twitter.com/osteel) Une I.A. remplace 34 employés d’une assurance au Japon [https://t.co/rM2509uDDS](https://t.co/rM2509uDDS)
+
+
+
+## Divers / Conneries
+- [T](http://twitter.com/NawakNawak/status/815150501482364928) par [@NawakNawak](https://twitter.com/NawakNawak) L'année 2016 en une petite minute. Voici mon récap de l'année en vidéo et en dessins ! Bon réveillon [https://t.co/eZJYvmbYTp](https://t.co/eZJYvmbYTp)
+- [T](http://twitter.com/baekdal/status/815300939401805824) par [@baekdal](https://twitter.com/baekdal) ⚡️ “Chris Hadfield's review of 2016” --- absolutely worth a look [https://t.co/PtIq2ZlFgc](https://t.co/PtIq2ZlFgc)
+- [T](http://twitter.com/edasfr/status/816025659029876743) par [@edasfr](https://twitter.com/edasfr) Seconde intercalaire et délires temporels [https://t.co/Psom7sW4Yi](https://t.co/Psom7sW4Yi) [blog]
+- [T](http://twitter.com/NotaBeneMovies/status/816692857511837696) par [@NotaBeneMovies](https://twitter.com/NotaBeneMovies) Histoire de la reconstruction en chirurgie par Primum Non Nocere - Montbazon 2016: [https://t.co/isf3JdWOD6](https://t.co/isf3JdWOD6) via @YouTube
+- [T](http://twitter.com/zigazou/status/816393096795660289) par [@zigazou](https://twitter.com/zigazou) L'évolution de l'industrie informatique selon @waxzce [https://t.co/NEH5F114XO](https://t.co/NEH5F114XO)
+
+
+
+
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
