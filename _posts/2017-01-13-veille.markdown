@@ -1,0 +1,82 @@
+---
+layout: post
+title: "La veille du week-end S1E31"
+date: 2017-01-13 07:00:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.  
+
+
+Bonne lecture, et bon week-end :)
+
+
+## Dev / backend / Code
+- [T](http://twitter.com/b0rk/status/816878999687335936) par [@b0rk](https://twitter.com/b0rk) wrote a tiny post about programming experiments [https://t.co/C7J2tWdsLK](https://t.co/C7J2tWdsLK)
+- [T](http://twitter.com/pascal_martin/status/817278784051277825) par [@pascal_martin](https://twitter.com/pascal_martin) « How PHP Executes – from Source Code to Render », by @tpunt94 — [https://t.co/XhfVte2SIi](https://t.co/XhfVte2SIi)
+- [T](http://twitter.com/addyosmani/status/817806293763178496) par [@addyosmani](https://twitter.com/addyosmani) [https://t.co/ExBjp1cuzV](https://t.co/ExBjp1cuzV) has been a *huge* time-saver rewriting my ES5 code to ES2015 for me. 👌 work by @mohebifar https://t.co/JE5VCbShrA
+- [T](http://twitter.com/waxzce/status/818242137083039749) par [@waxzce](https://twitter.com/waxzce) Service Workers: an Introduction  [https://t.co/zPGbtY8ivN](https://t.co/zPGbtY8ivN) https://t.co/pQhKN6ZYa3
+- [T](http://twitter.com/taylorotwell/status/818483473358917633) par [@taylorotwell](https://twitter.com/taylorotwell) 🌟 Blogged: framework code complexity comparison, comparing Laravel, Symfony, Zend, Cake, Slim, Doctrine, Eloquent... [https://t.co/4Z7MPcZ1ZZ](https://t.co/4Z7MPcZ1ZZ)
+- [T](http://twitter.com/osteel/status/819142391282147328) par [@osteel](https://twitter.com/osteel) PHP 5: Active Support Ends. Now what? [https://t.co/actNAUKmj9](https://t.co/actNAUKmj9)
+- [T](http://twitter.com/PatrickFaramaz/status/819223517698867201) par [@PatrickFaramaz](https://twitter.com/PatrickFaramaz) hop, my universal app example has fake data now. Simple blog app with #react #redux #i18next #js #dev #jesuisdispo [https://t.co/bKFgkPBCkC](https://t.co/bKFgkPBCkC)
+- [T](http://twitter.com/mgattozzi/status/817933787480915975) par [@mgattozzi](https://twitter.com/mgattozzi) Rust::from(lang) an initiative to help users transition from other languages to @rustlang and teach best practices! [https://t.co/JyLt9HMYgb](https://t.co/JyLt9HMYgb)
+- [T](http://twitter.com/jeffrey_way/status/818911839551635456) par [@jeffrey_way](https://twitter.com/jeffrey_way) 26 episodes and counting (all free) in this Vue 2 series. We’re getting into SPAs now! [https://t.co/giaF7dUGsh](https://t.co/giaF7dUGsh)
+
+
+
+## Front
+- [T](http://twitter.com/HTeuMeuLeu/status/816890364728643585) par [@HTeuMeuLeu](https://twitter.com/HTeuMeuLeu) flexbox zombies, une newsletter pour apprendre Flexbox avec des zombies [https://t.co/IHVH7ENKNz](https://t.co/IHVH7ENKNz) (via @SaraSoueidan) https://t.co/XWH32LlnpM
+- [T](http://twitter.com/theystolemynick/status/817429776923316225) par [@theystolemynick](https://twitter.com/theystolemynick) Joli hack : sauver dans le cache local le html généré côté client pour un 2nd affichage instantané   [https://t.co/cEYCGqrJEm](https://t.co/cEYCGqrJEm)
+- [T](http://twitter.com/Real_CSS_Tricks/status/817764774440300545) par [@Real_CSS_Tricks](https://twitter.com/Real_CSS_Tricks) In which `background-blend-mode` was _quite_ rough on scrolling performance: [https://t.co/ag5PyM3aKh](https://t.co/ag5PyM3aKh) https://t.co/OgiqoIETaP
+
+
+
+## Tooling / OS
+- [T](http://twitter.com/newsycombinator/status/817808214788022272) par [@newsycombinator](https://twitter.com/newsycombinator) “Reclaim Windows 10” Powershell Script [https://t.co/wMoRyoMzIV](https://t.co/wMoRyoMzIV)
+- [T](http://twitter.com/waxzce/status/817301700604207104) par [@waxzce](https://twitter.com/waxzce) shellcheck, a static analysis tool for shell scripts [https://t.co/BYqgfZAAYt](https://t.co/BYqgfZAAYt) // \o/ https://t.co/6PSgbyScN8
+- [T](http://twitter.com/n1k0/status/818110967833919488) par [@n1k0](https://twitter.com/n1k0) [blog] From OSX to Ubuntu [https://t.co/9FEfk9tkRo](https://t.co/9FEfk9tkRo)
+- [T](http://twitter.com/marcan42/status/818160789471100928) par [@marcan42](https://twitter.com/marcan42) I realized nobody knows how the Linux kernel init (initrd, initramfs, mounts, etc) works, so I rewrote it in bash: [https://t.co/187drobILG](https://t.co/187drobILG)
+- [T](http://twitter.com/amyrrich/status/818492920873578497) par [@amyrrich](https://twitter.com/amyrrich) Priceless guide to "oh shit" moments with git and how to fix them: [https://t.co/rhO4JEQjdQ](https://t.co/rhO4JEQjdQ)
+- [T](http://twitter.com/laravelphp/status/818547942369984517) par [@laravelphp](https://twitter.com/laravelphp) 😍 WPTavern has a nice article on Forge &amp; WordPress today: [https://t.co/UxB8b1T497](https://t.co/UxB8b1T497)
+
+
+
+## Marketing / SEO / Comportement
+- [T](http://twitter.com/letagparfait/status/817077316895510529) par [@letagparfait](https://twitter.com/letagparfait) Le site @Pornhub dévoile ses très gros chiffres pour 2016 [https://t.co/33XuC7OTMs](https://t.co/33XuC7OTMs) https://t.co/FiuyY01kcF
+
+
+
+## Sécurité / Vie privée
+- [T](http://twitter.com/nmartignole/status/816912578341457920) par [@nmartignole](https://twitter.com/nmartignole) Cryptography terms and concepts for Developers [https://t.co/f3Ych3Uymi](https://t.co/f3Ych3Uymi)
+- [T](http://twitter.com/hackaday/status/817045636923146240) par [@hackaday](https://twitter.com/hackaday) Check out portable pen-testing hack box on #Hackadayio: [https://t.co/UpyO8ZkodE](https://t.co/UpyO8ZkodE) #CyberSecurity https://t.co/b3zUgC57T6
+- [T](http://twitter.com/amaelle_g/status/817480958207201281) par [@amaelle_g](https://twitter.com/amaelle_g) Cute: la clé de chiffrement des luthiers fr au 19e pour garder leurs marges confidentielles [https://t.co/6duj0EYaaT](https://t.co/6duj0EYaaT) https://t.co/6duj0EYaaT
+- [T](http://twitter.com/waxzce/status/818425849510772736) par [@waxzce](https://twitter.com/waxzce) Let’s Encrypt 2016 In Review - Let's Encrypt - Free SSL/TLS Certificates [https://t.co/yrorN1NKJD](https://t.co/yrorN1NKJD) https://t.co/VDzhHVUPDm
+- [T](http://twitter.com/CryptoPartyTls/status/818712831583547392) par [@CryptoPartyTls](https://twitter.com/CryptoPartyTls) Oh non.... Intel commercialise des processeurs en mode debug, ils sont piratable via l'interface USB [https://t.co/lcx1oY7QaN](https://t.co/lcx1oY7QaN)?
+
+
+
+## Geek / IOT / Électronique
+- [T](http://twitter.com/waxzce/status/817026185293086721) par [@waxzce](https://twitter.com/waxzce) TensorKart: self-driving MarioKart with TensorFlow [https://t.co/eVPKf5Ycjh](https://t.co/eVPKf5Ycjh) https://t.co/XxisOrLCda
+- [T](http://twitter.com/sfouille/status/817029576790568960) par [@sfouille](https://twitter.com/sfouille) 🆕 Kit #Lego Boost qui permet aux enfants de 7 à 12 ans de construire un #robot tout en apprenant à #coder. #CES2017… [https://t.co/P72BHD9zl6](https://t.co/P72BHD9zl6)
+- [T](http://twitter.com/ben_nuttall/status/816794630167691264) par [@ben_nuttall](https://twitter.com/ben_nuttall) Control a robot remotely using guizero, gpiozero and remote pins! [https://t.co/XElFphuPNP](https://t.co/XElFphuPNP)
+
+
+
+## Humain / Développement personnel / Santé
+- [T](http://twitter.com/SudWeb/status/816909670392668160) par [@SudWeb](https://twitter.com/SudWeb) Rédiger une bonne proposition de sujet et avoir davantage de chances d'être sélectionné·e dans une conférence… [https://t.co/E1NYj3dr4s](https://t.co/E1NYj3dr4s)
+- [T](http://twitter.com/Rue89/status/816967406941851648) par [@Rue89](https://twitter.com/Rue89) Tout le monde se souvient de ce film. Mais il n’a jamais existé [https://t.co/YMm8R90frA](https://t.co/YMm8R90frA) https://t.co/Jvdla439Qj
+- [T](http://twitter.com/newsycombinator/status/817113763774140421) par [@newsycombinator](https://twitter.com/newsycombinator) LEDs may cause retinal toxicity at occupational domestic illuminance [https://t.co/KG5H1SxWzJ](https://t.co/KG5H1SxWzJ)
+- [T](http://twitter.com/waxzce/status/817461462906105859) par [@waxzce](https://twitter.com/waxzce) The Reality of Developer Burnout [https://t.co/Jd1Ug2EKkc](https://t.co/Jd1Ug2EKkc) https://t.co/vQDHUrzYE4
+
+
+
+## Divers / Conneries
+- [T](http://twitter.com/Trazou/status/817849090713288706) par [@Trazou](https://twitter.com/Trazou) Sur imgur, petit thread sur les techniques d'effets spéciaux dans les films muets. [https://t.co/1gs2x03WhG](https://t.co/1gs2x03WhG) https://t.co/GRFqcHcCf4
+- [T](http://twitter.com/MKBHD/status/816884414894329856) par [@MKBHD](https://twitter.com/MKBHD) NEW VIDEO - Self Driving Mercedes: Behind the Wheel! [https://t.co/RFynytIZyG](https://t.co/RFynytIZyG) - RT! https://t.co/6amYGfrffb
+- [T](http://twitter.com/dirtybiology/status/816992195265720320) par [@dirtybiology](https://twitter.com/dirtybiology) 2ème FAQ ! Le futur de la chaîne, les projets en cours et des dauphins. [https://t.co/yzqv4UPfnR](https://t.co/yzqv4UPfnR) #dirtyfaq https://t.co/yFGpb7Xpek
+- [T](http://twitter.com/ALoevenbruck/status/817409392786161665) par [@ALoevenbruck](https://twitter.com/ALoevenbruck) Nouvel épisode de CinéPratique ! Apprenez-en plus sur la température de couleur (avec un peu de sciences) [https://t.co/BXPyb7nav4](https://t.co/BXPyb7nav4)
+- [T](http://twitter.com/fdevillamil/status/817699556435644416) par [@fdevillamil](https://twitter.com/fdevillamil) Don't say covers can't beat the original before you've listened to this. [https://t.co/pXhhnyfGjI](https://t.co/pXhhnyfGjI)
+- [T](http://twitter.com/Bouletcorp/status/818431082450350080) par [@Bouletcorp](https://twitter.com/Bouletcorp) Mes amis de Inglenook ont un clip superbe en stop-motion (+2500 figurines imprimées en 3D!) par Gilles Deschaud [https://t.co/7iPEjOmGjA](https://t.co/7iPEjOmGjA)
+
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
