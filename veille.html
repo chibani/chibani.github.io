@@ -1,0 +1,28 @@
+---
+title: "La veille du week-end"
+layout: default
+---
+
+<div class="veille-archive">
+
+  <h1 class="page-heading">Archive de la veille du week-end : </h1>
+
+  <p>Chaque semaine, je compile les ressources que j'ai pu glâner sur la toile (principalement via Twitter).</p>
+  <p><em>Cette veille peut vous être envoyée directement par email : <a href="/newsletter.html">inscrivez-vous</a></em>.</p>
+
+  <ul class="post-list">
+    {% for post in site.categories["veille"] %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%d/%m/%Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        {% if post.intro %}
+            <p>{{ post.intro }}</p>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>
