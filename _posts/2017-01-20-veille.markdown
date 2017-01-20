@@ -1,0 +1,87 @@
+---
+layout: post
+title: "La veille du week-end S1E32"
+date: 2017-01-20 07:00:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.  
+
+Aujourd'hui, les Etats Unis d'Amérique changent de président... Espérons que ça ne se passera pas (trop) mal pour eux, et pour le reste du Monde...  
+Sur ces belles paroles, place à la Veille du Week-end \\o/
+
+Bonne lecture, et bon week-end :)
+
+
+## Dev / backend / Code
+- [T](http://twitter.com/theystolemynick/status/819451069629603840) par [@theystolemynick](https://twitter.com/theystolemynick) Introduction au machine learning, niveau 1 (FR)  [https://t.co/kIh1G4c2P4](https://t.co/kIh1G4c2P4)
+- [T](http://twitter.com/crapougnax/status/819847180995461120) par [@crapougnax](https://twitter.com/crapougnax) Data, Learning and Modeling [https://t.co/e3cqHScCRu](https://t.co/e3cqHScCRu) via @TeachTheMachine
+- [T](http://twitter.com/packagist/status/819953794578583552) par [@packagist](https://twitter.com/packagist) Private Packagist mirrors open-source packages &amp; has a fallback, so composer works if GitHub is down - try it at [https://t.co/GRdLjludsh](https://t.co/GRdLjludsh)
+- [T](http://twitter.com/pascal_martin/status/819891244826558464) par [@pascal_martin](https://twitter.com/pascal_martin) Mais tellement ! « Les meilleurs commentaires ne s'écrivent pas », par @MindsersIT — [https://t.co/xc6vefd6pw](https://t.co/xc6vefd6pw)
+- [T](http://twitter.com/mariofusco/status/819959719297159168) par [@mariofusco](https://twitter.com/mariofusco) FP vs. OO: Simplicity — Fighting complexity at all costs [https://t.co/S9VCCNVC2E](https://t.co/S9VCCNVC2E)
+- [T](http://twitter.com/waxzce/status/820629121168474112) par [@waxzce](https://twitter.com/waxzce) From ReactJS to React-Native, what are the main differences between both? [https://t.co/e43UfImsYx](https://t.co/e43UfImsYx) https://t.co/aTB9iNZ9Q5
+- [T](http://twitter.com/blendwebmix/status/821318654918819841) par [@blendwebmix](https://twitter.com/blendwebmix) Pour revoir toutes les conférences de #BlendWebMix édition 2016, rendez-vous sur notre chaîne #YouTube ! [https://t.co/J9zqOBRcL6](https://t.co/J9zqOBRcL6)
+- [T](http://twitter.com/matthieunapoli/status/821701751153819650) par [@matthieunapoli](https://twitter.com/matthieunapoli) New blog post: Using anonymous classes in PHP to write simpler tests[https://t.co/6dwZuGrI5I](https://t.co/6dwZuGrI5I) Feedback and ideas are welcome :)
+
+
+## Front
+- [T](http://twitter.com/MonsieurNebo/status/820550835612581888) par [@MonsieurNebo](https://twitter.com/MonsieurNebo) Une multitude de fonctionnalités inconnues de la Google Dev Console [https://t.co/lCuENZMQ7A](https://t.co/lCuENZMQ7A) #webDev #debug #chrome #js
+- [T](http://twitter.com/mozhacks/status/821005161602646016) par [@mozhacks](https://twitter.com/mozhacks) &lt;input type="date"&gt; and co. are coming to Firefox! 📅 Try them in @FirefoxNightly (about:config ➡ dom.forms.datetime… [https://t.co/Z2f5VYAcQx](https://t.co/Z2f5VYAcQx)
+- [T](http://twitter.com/brad_frost/status/821451930341871617) par [@brad_frost](https://twitter.com/brad_frost) This is a fantastic, in-depth piece on date pickers on the web by @ppk: [https://t.co/Bkn8KilAzf](https://t.co/Bkn8KilAzf)
+- [T](http://twitter.com/gelnior/status/821363921487560704) par [@gelnior](https://twitter.com/gelnior) Flatpickr, the datetime picker we were all waiting for: [https://t.co/vJ3mqvrHSM](https://t.co/vJ3mqvrHSM) #vanillajs #component #cleanApi #simpleAndPretty
+
+
+
+
+## Tooling / OS
+- [T](http://twitter.com/felixrieseberg/status/819353853560700928) par [@felixrieseberg](https://twitter.com/felixrieseberg) 🎉 We introduced @electronjs to the Windows Store - and here's the super-cool, live-tile-featuring result! 🛍 … [https://t.co/FSN2Wiw1qL](https://t.co/FSN2Wiw1qL)
+- [T](http://twitter.com/crapougnax/status/819854680926945280) par [@crapougnax](https://twitter.com/crapougnax) Everyday Hacks for Docker - Codefresh [https://t.co/wiv426bh6E](https://t.co/wiv426bh6E) via @alexeiled
+- [T](http://twitter.com/xanda/status/820868700626558977) par [@xanda](https://twitter.com/xanda) Internet Archive Launches Chrome Extension That Replaces 404 Pages With Archived Copies [https://t.co/PG1MZ9Qbvc](https://t.co/PG1MZ9Qbvc)
+- [T](http://twitter.com/fdevillamil/status/820908952590413825) par [@fdevillamil](https://twitter.com/fdevillamil) I just published “15 Mac applications I can’t live without, 2017 edition” [https://t.co/ju42r8t0G6](https://t.co/ju42r8t0G6)
+- [T](http://twitter.com/Korben/status/821272631164825600) par [@Korben](https://twitter.com/Korben) Windows 10 consomme tout le CPU de votre machine ? Voici une astuce pour régler le problème. [https://t.co/4iGIAGRwWp](https://t.co/4iGIAGRwWp)
+- [T](http://twitter.com/osteel/status/821758223535501316) par [@osteel](https://twitter.com/osteel) I wrote a follow-up to my article about using Docker for local web development 🐳😱 [https://t.co/AOyUgGKNR3](https://t.co/AOyUgGKNR3) #docker… https://t.co/pZ51nvXTDl
+
+
+
+
+## Marketing / SEO / Comportement
+- [T](http://twitter.com/edasfr/status/821785997029490689) par [@edasfr](https://twitter.com/edasfr) Blogs et RSS, je sais que ça fait vieux jeu mais… [https://t.co/CoNSkmKNAt](https://t.co/CoNSkmKNAt) [blog]
+
+
+
+
+## Sécurité / Vie privée
+- [T](http://twitter.com/MyCozyCloud/status/819499679503237120) par [@MyCozyCloud](https://twitter.com/MyCozyCloud) C'est l'histoire de deux cochons qui prenaient leur porcherie pour un hôtel-restaurant : Les cochons du numérique -… [https://t.co/H8TeOwpFSK](https://t.co/H8TeOwpFSK)
+- [T](http://twitter.com/bearstech/status/819802606667055104) par [@bearstech](https://twitter.com/bearstech) How to set up your #Android phone for ultimate #privacy [https://t.co/vVuwC5hJoh](https://t.co/vVuwC5hJoh) via @networkworld
+- [T](http://twitter.com/bearstech/status/821308425002975234) par [@bearstech](https://twitter.com/bearstech) #WordPress to get secure, cryptographic updates [https://t.co/oxxtyyQu8h](https://t.co/oxxtyyQu8h) via @mattiasgeniar
+
+
+## Geek / IOT / Électronique
+- [T](http://twitter.com/TouitTouit/status/820932511106797568) par [@TouitTouit](https://twitter.com/TouitTouit) Pourquoi vous ne devriez pas utiliser de résolveurs #DNS publics (et quoi faire à la place). Par @bortzmeyer [https://t.co/dZsYjJum70](https://t.co/dZsYjJum70)
+
+
+
+
+## Humain / Développement personnel / Santé
+- [T](http://twitter.com/fdevillamil/status/819988226869968896) par [@fdevillamil](https://twitter.com/fdevillamil) “Restoring Sanity to the Office” — @jasonfried [https://t.co/jnNpPJtInQ](https://t.co/jnNpPJtInQ)
+- [T](http://twitter.com/fdevillamil/status/821273740407357440) par [@fdevillamil](https://twitter.com/fdevillamil) I just published “Dads are great at parenting too (and they love it)” [https://t.co/Ao4u4qyRkW](https://t.co/Ao4u4qyRkW)
+
+
+
+## Divers / Conneries
+- [T](http://twitter.com/lagrottedubarbu/status/819438556661841920) par [@lagrottedubarbu](https://twitter.com/lagrottedubarbu) Fabrication d’un cyclone / système d’aspiration pour ma scie à ruban – CycloneARuban – Ep172 [https://t.co/KzrqJbZduZ](https://t.co/KzrqJbZduZ)
+- [T](http://twitter.com/jeremiemaire/status/819595830818697217) par [@jeremiemaire](https://twitter.com/jeremiemaire) Cette page Giphy de gifs politiques par @franceinfoplus est une mine d’or &lt;3 [https://t.co/JJ2v2FpKQj](https://t.co/JJ2v2FpKQj) https://t.co/742YpwbNXR
+- [T](http://twitter.com/kek_zanorg/status/820312541616340992) par [@kek_zanorg](https://twitter.com/kek_zanorg) Saurez-vous différencier un mp3 d'un format non-compressé ? [https://t.co/q0E2lur8Ip](https://t.co/q0E2lur8Ip)
+- [T](http://twitter.com/rabbitandcoffee/status/819906384917446656) par [@rabbitandcoffee](https://twitter.com/rabbitandcoffee) Life Accordion To Trump [https://t.co/srw44SKbfL](https://t.co/srw44SKbfL)
+- [T](http://twitter.com/nhoizey/status/821484291968430080) par [@nhoizey](https://twitter.com/nhoizey) &gt; Every shot in Piper is composed of millions of grains of sand, each one of them around 5000 polygons. —[https://t.co/fSwgLo9mkR](https://t.co/fSwgLo9mkR) Wow. 😳
+
+
+
+
+
+
+
+
+
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
