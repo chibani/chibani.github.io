@@ -8,19 +8,22 @@ layout: default
 
   <ul class="post-list">
     {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%d/%m/%Y" }}</span>
+      {% if post.category == "veille" %}
+      {% else if %}
+        <li>
+          <span class="post-meta">{{ post.date | date: "%d/%m/%Y" }}</span>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        {% if post.intro %}
-            <p>{{ post.intro }}</p>
-        {% endif %}
-        {% if post.thumbnail %}
-            <img src="{{ post.thumbnail }}" alt="Illustration pour {{ post.title }}" />
-        {% endif %}
-      </li>
+          <h2>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h2>
+          {% if post.intro %}
+              <p>{{ post.intro }}</p>
+          {% endif %}
+          {% if post.thumbnail %}
+              <img src="{{ post.thumbnail }}" alt="Illustration pour {{ post.title }}" />
+          {% endif %}
+        </li>
+      {% endif %}
     {% endfor %}
   </ul>
 
