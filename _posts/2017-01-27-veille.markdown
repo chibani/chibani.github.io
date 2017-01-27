@@ -1,0 +1,72 @@
+---
+layout: post
+title: "La veille du week-end S1E33"
+date: 2017-01-26 07:00:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.  
+
+Bonne lecture, et bon week-end :)
+
+
+## Dev / backend / Code
+- [T](http://twitter.com/matthieunapoli/status/821701751153819650) par [@matthieunapoli](https://twitter.com/matthieunapoli) New blog post: Using anonymous classes in PHP to write simpler tests [https://t.co/6dwZuGrI5I](https://t.co/6dwZuGrI5I) Feedback and ideas are welcome :)
+- [T](http://twitter.com/waxzce/status/823229751657689089) par [@waxzce](https://twitter.com/waxzce) The state of #PHP in 2017 - The Zend Blog [https://t.co/FpSoF6Ndrg](https://t.co/FpSoF6Ndrg) https://t.co/5LIuSg5fPK
+- [T](http://twitter.com/laravelphp/status/823928902947049472) par [@laravelphp](https://twitter.com/laravelphp) 🎉 Laravel 5.4 has been released! Here are the release notes: [https://t.co/mfhwVKdc2z](https://t.co/mfhwVKdc2z) ... Enjoy and build something amazing! 🎉
+
+
+## Front
+- [T](http://twitter.com/codepo8/status/823953285216436229) par [@codepo8](https://twitter.com/codepo8) WebGL 2 lands in Firefox [https://t.co/U30DX11hLC](https://t.co/U30DX11hLC)
+- [T](http://twitter.com/jeffposnick/status/824347042898178048) par [@jeffposnick](https://twitter.com/jeffposnick) Part 2 of Offline-first for Templated Sites (e.g. blogs) dives into options for service worker caching and serving: [https://t.co/NzzKthS6w1](https://t.co/NzzKthS6w1)
+
+
+
+
+
+## Tooling / OS
+- [T](http://twitter.com/Suchablog/status/823620140000571393) par [@Suchablog](https://twitter.com/Suchablog) Apple releases macOS 10.12.3 with MacBook Pro GPU and battery fixes [https://t.co/hoNkzU6LP9](https://t.co/hoNkzU6LP9) (cc @gonzague)
+- [T](http://twitter.com/waxzce/status/823911507427753984) par [@waxzce](https://twitter.com/waxzce) Learn TensorFlow and deep learning, without a Ph.D. [https://t.co/M6BxpLkofl](https://t.co/M6BxpLkofl) // I want to take the time to follow it… https://t.co/fg5mbYjuXI
+- [T](http://twitter.com/waxzce/status/824224058556481536) par [@waxzce](https://twitter.com/waxzce) Lane Following Autopilot with Keras &amp; Tensorflow. [https://t.co/oyCU6g4vEW](https://t.co/oyCU6g4vEW) https://t.co/qJSh4Iulim
+- [T](http://twitter.com/nhoizey/status/823821140195942400) par [@nhoizey](https://twitter.com/nhoizey) Lister des contenus similaires avec Jekyll [https://t.co/GGc0Z04gtr](https://t.co/GGc0Z04gtr) #blog
+
+
+
+## Marketing / SEO / Comportement
+// RIEN :/
+
+
+## Sécurité / Vie privée
+- [T](http://twitter.com/bearstech/status/822055488263168000) par [@bearstech](https://twitter.com/bearstech) Newly discovered Mac malware found in the wild also works well on Linux [https://t.co/JIT9J32A9M](https://t.co/JIT9J32A9M)
+- [T](http://twitter.com/CryptoPartyTls/status/823433284206137344) par [@CryptoPartyTls](https://twitter.com/CryptoPartyTls) Qui que vous soyez, si vous allez aux USA, toute votre électronique peut être confisquée en douane sans explications [https://t.co/QYcuDzcLeh](https://t.co/QYcuDzcLeh)
+- [T](http://twitter.com/degooglisons/status/824277574805319685) par [@degooglisons](https://twitter.com/degooglisons) Une avocate réécrit les conditions d'utilisation d'Instagram comme si elles étaient expliquées à un enfant de 8 ans… [https://t.co/5EEAbuWmsW](https://t.co/5EEAbuWmsW)
+
+
+
+## Geek / IOT / Électronique
+// RIEN :/
+
+
+## Humain / Développement personnel / Santé
+- [T](http://twitter.com/GCerez/status/823454030932361216) par [@GCerez](https://twitter.com/GCerez) Selon la psychologue pour enfants Sabine Duflo, les tablettes nuisent au développement cognitif des enfants. [https://t.co/NLv17T4G0N](https://t.co/NLv17T4G0N)
+- [T](http://twitter.com/AssigneeGarcon/status/823878473215254528) par [@AssigneeGarcon](https://twitter.com/AssigneeGarcon) "Rendons normale l'idée qu'un garçon peut exprimer ses sentiments et montrer ses émotions sans recourir à la violence [https://t.co/oRiHj9e59D](https://t.co/oRiHj9e59D)
+- [T](http://twitter.com/waxzce/status/823984506717798400) par [@waxzce](https://twitter.com/waxzce) If you don’t trust your employees to work remotely, you shouldn’t have hired them in the first place… [https://t.co/qsqsqgw7mV](https://t.co/qsqsqgw7mV)
+
+
+
+## Divers / Conneries
+- [T](http://twitter.com/dirtybiology/status/823685328787664896) par [@dirtybiology](https://twitter.com/dirtybiology) Danse de ouf + réal de ouf + musique de ouf = "Black man in a white world" [https://t.co/40HChBdpv9](https://t.co/40HChBdpv9)
+- [T](http://twitter.com/LamHua/status/823783898341441536) par [@LamHua](https://twitter.com/LamHua) Comment certains milliardaires de la Silicon Valley se préparent pour le possible effondrement de notre société [https://t.co/QTedYZPbnL](https://t.co/QTedYZPbnL)
+- [T](http://twitter.com/LamHua/status/822324027180126208) par [@LamHua](https://twitter.com/LamHua) *série photo* Se couper de tout pour se perdre dans la beauté de l'Auvergne. [https://t.co/dWsAUAie5e](https://t.co/dWsAUAie5e) https://t.co/qa0SpPRXJC
+- [T](http://twitter.com/LamHua/status/822156170244882432) par [@LamHua](https://twitter.com/LamHua) Deux des mecs les plus intelligents de l'Esport vous apprennent Dota 2. Même si vous ne vous y mettez pas, regardez [https://t.co/qc42D0cPmO](https://t.co/qc42D0cPmO)
+- [T](http://twitter.com/waxzce/status/822565384754708480) par [@waxzce](https://twitter.com/waxzce) A Trip Down The League of Legend Graphics Pipeline [https://t.co/rSY5bSS8bC](https://t.co/rSY5bSS8bC) https://t.co/7v9vUaiCvG
+- [T](http://twitter.com/osteel/status/823227170227187714) par [@osteel](https://twitter.com/osteel) Cette année, on est partis faire le nouvel an à Goa ☀️⛱ [https://t.co/6syeTB7Xxv](https://t.co/6syeTB7Xxv) https://t.co/JmA5bqdbce
+
+
+
+
+
+
+
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
