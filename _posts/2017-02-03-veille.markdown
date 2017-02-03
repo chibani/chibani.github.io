@@ -1,0 +1,71 @@
+---
+layout: post
+title: "La veille du week-end S1E34"
+date: 2017-02-03 07:00:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.  
+
+Bonne lecture, et bon week-end :)
+
+
+## Dev / backend / Code
+- [T](http://twitter.com/beep/status/824650867727101953) par [@beep](https://twitter.com/beep) Recently, I’ve worked with a few orgs who’ve been evaluating off-the-shelf website themes. I learned a few things. [https://t.co/Nf0BsvKAon](https://t.co/Nf0BsvKAon)
+- [T](http://twitter.com/kosamari/status/824767128825896962) par [@kosamari](https://twitter.com/kosamari) "It returns a Promise 💁" …is a surprisingly hard thing to explain in plain english ‼ I tried to do it by ordering… [https://t.co/ppEdgIi2Qh](https://t.co/ppEdgIi2Qh)
+- [T](http://twitter.com/jeffrey_way/status/825074996863184896) par [@jeffrey_way](https://twitter.com/jeffrey_way) Both Laravel 5.4 From Scratch and What’s New in Laravel 5.4 are 100% free to all. [https://t.co/zHwU4V5U8S](https://t.co/zHwU4V5U8S) https://t.co/E7PXu28Orj
+- [T](http://twitter.com/borisschapira/status/826742643598188545) par [@borisschapira](https://twitter.com/borisschapira) (Web) Apps : il n'y a pas de balle en argent [https://t.co/CAOcui1suJ](https://t.co/CAOcui1suJ)
+
+
+
+## Front
+- [T](http://twitter.com/theystolemynick/status/824671698767187971) par [@theystolemynick](https://twitter.com/theystolemynick) Cache-control : immutable   [https://t.co/aJu3xASONf](https://t.co/aJu3xASONf)
+- [T](http://twitter.com/waxzce/status/824709388048994304) par [@waxzce](https://twitter.com/waxzce) Understanding the Critical Rendering Path [https://t.co/qWMCs0EaYg](https://t.co/qWMCs0EaYg) // understand the rendering of a web page https://t.co/kSuQxaXVbI
+- [T](http://twitter.com/yoksel_en/status/824985772109529088) par [@yoksel_en](https://twitter.com/yoksel_en) Made for myself Flexbox cheat sheet with live demos and definitions from spec [https://t.co/vgDI2jmHUG](https://t.co/vgDI2jmHUG) https://t.co/5YxkK8tmN3
+- [T](http://twitter.com/Una/status/824657027691610112) par [@Una](https://twitter.com/Una) I implemented service workers to allow for saving blog posts offline, and then wrote about it 😄… [https://t.co/7rAdwdZ6eK](https://t.co/7rAdwdZ6eK)
+- [T](http://twitter.com/jprivet_dev/status/825411103182163968) par [@jprivet_dev](https://twitter.com/jprivet_dev) #ThreeJs on my @CodePen ! Play with ☀️🌎🌖✨. Change 77 params : lens flares, bump mapping, animations, shadows, etc ;… [https://t.co/liockNF1MC](https://t.co/liockNF1MC)
+- [T](http://twitter.com/yoksel_en/status/826103695070916608) par [@yoksel_en](https://twitter.com/yoksel_en) Just discovered that stroke-linecap=round + stroke-linejoin=round + stroke-dasharray make stroke looks like beads… [https://t.co/5lydIQhf0q](https://t.co/5lydIQhf0q)
+- [T](http://twitter.com/DasSurma/status/826450842140155904) par [@DasSurma](https://twitter.com/DasSurma) 🖥 MicroTip: Chrome DevTools’ Animation Slowdown + Layer Inspector is 💯 to analyzing how layers are animated. [https://t.co/UUDgTasnDy](https://t.co/UUDgTasnDy)
+- [T](http://twitter.com/AntoinePlu/status/826914319183073280) par [@AntoinePlu](https://twitter.com/AntoinePlu) iTyped.js : Dead simple Javascript animated typing, with no dependencies. [https://t.co/GVv0POa9L0](https://t.co/GVv0POa9L0) https://t.co/WB1zKcClRc
+
+
+## Tooling / OS
+- [T](http://twitter.com/Netlify/status/824699981483429888) par [@Netlify](https://twitter.com/Netlify) Site of the Week: Kinto - the @Mozilla answer to @ParseIt and @Firebase  [https://t.co/UCFc1Nygfi](https://t.co/UCFc1Nygfi) https://t.co/nX6TOBie3w
+- [T](http://twitter.com/waxzce/status/825398311909785601) par [@waxzce](https://twitter.com/waxzce) mas-cli/mas 📦 Mac App Store command line interface [https://t.co/e4PBnDeCuQ](https://t.co/e4PBnDeCuQ) // Thx for the tip @gcouprie this is a… https://t.co/poHV2JFzj8
+- [T](http://twitter.com/addyosmani/status/826580065764859904) par [@addyosmani](https://twitter.com/addyosmani) @addyosmani Short and sweet demo of the --headless Chrome flag for running Chrome in headless mode by @skyostil: [https://t.co/mEELrmVEbq](https://t.co/mEELrmVEbq)
+- [T](http://twitter.com/_kud/status/826847109425090560) par [@_kud](https://twitter.com/_kud) I did a mess in my branch but thanks to git, I was able to find again the commit lost: I used this cmd: [https://t.co/rY5z32sXNA](https://t.co/rY5z32sXNA)
+
+
+## Marketing / SEO / Comportement
+- [T](http://twitter.com/gcouprie/status/826488263053541376) par [@gcouprie](https://twitter.com/gcouprie) Twitter Profile Analyzer [https://t.co/h4J382S3jy](https://t.co/h4J382S3jy) https://t.co/izZxavMOsw
+- [T](http://twitter.com/OlivierReynaud/status/826913487901319171) par [@OlivierReynaud](https://twitter.com/OlivierReynaud) Best wine app UX ever @vivino 🍷voici une photo du menu des vins avant/après. Juste parfait ;-) #wine #ux #ui [https://t.co/UWN1DNkDqN](https://t.co/UWN1DNkDqN)
+
+
+## Sécurité / Vie privée
+- [T](http://twitter.com/degooglisons/status/824277574805319685) par [@degooglisons](https://twitter.com/degooglisons) Une avocate réécrit les conditions d'utilisation d'Instagram comme si elles étaient expliquées à un enfant de 8 ans… [https://t.co/5EEAbuWmsW](https://t.co/5EEAbuWmsW)
+- [T](http://twitter.com/jeremieberduck/status/824643241593147392) par [@jeremieberduck](https://twitter.com/jeremieberduck) 😱 Look before you paste from a website to terminal… [https://t.co/WupmoV3jH9](https://t.co/WupmoV3jH9) https://t.co/p8ZPsqCCEF
+- [T](http://twitter.com/github/status/826206514167681025) par [@github](https://twitter.com/github) There's a new way to recover your GitHub account in 2FA lockout scenarios, available January 31.… [https://t.co/F2ldqIUJq0](https://t.co/F2ldqIUJq0)
+- [T](http://twitter.com/karlyeurl/status/826015640498610176) par [@karlyeurl](https://twitter.com/karlyeurl) Beware: these balloons requesting notification access are legit ONLY if they cross the URL border. It is spam other… [https://t.co/9g2tOySoOl](https://t.co/9g2tOySoOl)
+- [T](http://twitter.com/taziden/status/826751963274543104) par [@taziden](https://twitter.com/taziden) On vous parle de Signal, vous avez entendu parler de Silence, vous ne comprenez pas la différence ? Je vous explique [https://t.co/a5TZJgtyhX](https://t.co/a5TZJgtyhX)
+
+
+## Geek / IOT / Électronique
+- [T](http://twitter.com/pimoroni/status/824702501035397122) par [@pimoroni](https://twitter.com/pimoroni) Robot beats "I am not a Robot" CAPTCHA: [https://t.co/rtHVVlBLEr](https://t.co/rtHVVlBLEr)
+- [T](http://twitter.com/waxzce/status/826521216328597504) par [@waxzce](https://twitter.com/waxzce) Raspberry Pi 3 based home automation with NodeJS and React Native. [https://t.co/NSi2FMLWT8](https://t.co/NSi2FMLWT8) // cool demo, very cool https://t.co/U4WUwRWlC3
+
+
+## Humain / Développement personnel / Santé
+- [T](http://twitter.com/mcpaccard/status/825410031835299841) par [@mcpaccard](https://twitter.com/mcpaccard) “How I Got My Attention Back” by @craigmod [https://t.co/0NCYqxwU1R](https://t.co/0NCYqxwU1R)
+
+
+## Divers / Conneries
+- [T](http://twitter.com/kamuirobotics/status/824553403137294336) par [@kamuirobotics](https://twitter.com/kamuirobotics) Le remontage de Visiteurs 3 en drame historique par les dudes de Calmos est par-fait. [https://t.co/omeEaaXtIg](https://t.co/omeEaaXtIg)
+- [T](http://twitter.com/NotaBeneMovies/status/824575217477492737) par [@NotaBeneMovies](https://twitter.com/NotaBeneMovies) Envie de rire un bon coup avec Loki et ses embrouilles mélangeant barbecue, géante et duel avec une chèvre ? RT = &lt;3 [https://t.co/sQXN7UiETz](https://t.co/sQXN7UiETz)
+- [T](http://twitter.com/gchampeau/status/824934115489234945) par [@gchampeau](https://twitter.com/gchampeau) L'excellent François Morel a encore joué une merveille de billet d'humeur sur l'affaire Fillon, sur @franceinter [https://t.co/HkErE8MgfP](https://t.co/HkErE8MgfP)
+- [T](http://twitter.com/alchymi/status/826353427718488064) par [@alchymi](https://twitter.com/alchymi) Sympa le motion design de ces gars [https://t.co/SDCeMxjb5W](https://t.co/SDCeMxjb5W)
+- [T](http://twitter.com/Chronique_NEXUS/status/826461542489137158) par [@Chronique_NEXUS](https://twitter.com/Chronique_NEXUS) LE VOILÀ! Nouvel épisode sur : STARSHIP TROOPERS ! Le RT dérouille du parasite Citoyennes et Citoyens! ENGAGEZ-VOUS! [https://t.co/pgyTznYYNz](https://t.co/pgyTznYYNz)
+
+
+
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
