@@ -1,0 +1,73 @@
+---
+layout: post
+title: "La veille du week-end S1E35"
+date: 2017-02-10 07:00:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.  
+
+Fabien ([@frosty77](https://twitter.com/frostys77)) a créé une web app pour lire cette veille.  
+La présentation y est bien moins austère qu'ici, et vous permet d'avoir plus facilement la veille dans votre poche ;)  
+Découvrez sa web app, [ici](https://v.loicg.net/) .
+
+Bonne lecture, et bon week-end :)
+
+
+## Dev / backend / Code
+- [T](http://twitter.com/methylbro/status/827104648251240448) par [@methylbro](https://twitter.com/methylbro) Outils de QA - Mon Couteau Suisse QA by @briceatwork [https://t.co/Ho8FUQycYF](https://t.co/Ho8FUQycYF)
+- [T](http://twitter.com/waxzce/status/829088350749466629) par [@waxzce](https://twitter.com/waxzce) Refactoring to #PHP 7 [https://t.co/NAHq7Okkk0](https://t.co/NAHq7Okkk0)
+- [T](http://twitter.com/mnt_io/status/827489366624837632) par [@mnt_io](https://twitter.com/mnt_io) Hello, Rust! — An overview, [https://t.co/td8vGeogWi](https://t.co/td8vGeogWi) Slides I have presented yesterday at @TupperRust
+- [T](http://twitter.com/waxzce/status/829347321930457088) par [@waxzce](https://twitter.com/waxzce) What #Rust Can Do That Other Languages Can't, In Six Short Lines [https://t.co/L8RaqUEtwN](https://t.co/L8RaqUEtwN) https://t.co/TrV7RU4sfO
+
+
+
+## Front / Web Apps
+- [T](http://twitter.com/waxzce/status/827173001670119424) par [@waxzce](https://twitter.com/waxzce) Introducing Lottie – open-source tool makes adding animation to native apps by @airbnbeng [https://t.co/o1RGYBblZ4](https://t.co/o1RGYBblZ4) https://t.co/7EGCaKabhU
+- [T](http://twitter.com/rauschma/status/827188423299571714) par [@rauschma](https://twitter.com/rauschma) “Front-end Developer Handbook 2017” by @CodyLindley [https://t.co/i0Bvu9eA5J](https://t.co/i0Bvu9eA5J)
+- [T](http://twitter.com/dascritch/status/827404493964746752) par [@dascritch](https://twitter.com/dascritch) La police de WipeOut, le clip de Björk par Chris Cunnigham... décodez des vidéos à l'ancienne, au logiciel, en JS ! [https://t.co/ITZyIp7TVt](https://t.co/ITZyIp7TVt)
+- [T](http://twitter.com/reactjs/status/828787289035665408) par [@reactjs](https://twitter.com/reactjs) We love this: a free inclusive audio guide for the Warhol Museum – built in React Native and completely open source! [https://t.co/nZ1LnGHwgP](https://t.co/nZ1LnGHwgP)
+
+
+
+## Tooling / OS
+- [T](http://twitter.com/waxzce/status/827444774055575552) par [@waxzce](https://twitter.com/waxzce) htop Explained Visually · Code Ahoy [https://t.co/2NmtPBJSjn](https://t.co/2NmtPBJSjn) https://t.co/PK9QuslwG4
+- [T](http://twitter.com/verge/status/827557531803324416) par [@verge](https://twitter.com/verge) Google is finally making web apps first-class citizens on Android [https://t.co/zZ76jEU7nH](https://t.co/zZ76jEU7nH) https://t.co/bQolw6pX1G
+- [T](http://twitter.com/changelog/status/828261164731744258) par [@changelog](https://twitter.com/changelog) wuzz – an interactive CLI tool for HTTP inspection [https://t.co/shA9UMzYS8](https://t.co/shA9UMzYS8) https://t.co/9MePYqzdOo
+- [T](http://twitter.com/waxzce/status/828622535025709056) par [@waxzce](https://twitter.com/waxzce) “Using tmux Properly” [https://t.co/CzjzQDT6iz](https://t.co/CzjzQDT6iz) // what do you think about @Keruspe @juuduu @BlackYoup and @clementd https://t.co/bXuc5QZIVL
+- [T](http://twitter.com/_kud/status/828641767671078916) par [@_kud](https://twitter.com/_kud) If you want a clean(er) gmail: [https://t.co/xpbI7ahSEg](https://t.co/xpbI7ahSEg)
+- [T](http://twitter.com/b0rk/status/829147713375596544) par [@b0rk](https://twitter.com/b0rk) I put my new networking zine online so you can read it! :D   [https://t.co/Wl5ODRJkGt](https://t.co/Wl5ODRJkGt) https://t.co/iHobFnCQOQ
+- [T](http://twitter.com/JoliCode/status/829271745311940608) par [@JoliCode](https://twitter.com/JoliCode) Découvrez notre analyse "french" 🇫🇷 revisitée pour #Elasticsearch et apprenez en plus sur la recherche full-text 📰 [https://t.co/FXeya8dXW0](https://t.co/FXeya8dXW0) 🔎
+
+
+
+## Marketing / SEO / Comportement
+- [T](http://twitter.com/tuf/status/829065326419656709) par [@tuf](https://twitter.com/tuf) Today I got my first "Position 0". Here is how I did it. [https://t.co/mRLC08SITs](https://t.co/mRLC08SITs)
+
+
+
+## Sécurité / Vie privée
+- [T](http://twitter.com/studio404/status/829264606736556032) par [@studio404](https://twitter.com/studio404) Même si vous surfez de façon privée ou anonyme, on sait que c'est vous. [https://t.co/j40CVvVIcR](https://t.co/j40CVvVIcR)
+
+
+
+## Geek / IOT / Électronique
+ - [T](https://twitter.com/tyrower/status/828939196882632704) par [@tyrower](https://twitter.com/tyrower) Brand new @Kickstarter : MeArm Pi - Build your own Pi powered robot arm!  Mime Industries [http://kck.st/2jXvTHz](http://kck.st/2jXvTHz)
+
+
+## Humain / Développement personnel / Santé
+- [T](http://twitter.com/Inc/status/827170767355904000) par [@Inc](https://twitter.com/Inc) Casey Neistat: Why Great Entrepreneurs Aren’t Made in Classrooms @caseyneistat [https://t.co/PlnoiOhbnI](https://t.co/PlnoiOhbnI)
+- [T](http://twitter.com/ComSciComCa/status/827625278184763393) par [@ComSciComCa](https://twitter.com/ComSciComCa) #ff @MatiereGrise_ les copains suisses, les rois de #PremierePro ! [https://t.co/IsvxGAwRJ7](https://t.co/IsvxGAwRJ7)
+- [T](http://twitter.com/lecairn/status/828932462617251841) par [@lecairn](https://twitter.com/lecairn) “Je n’embauche jamais de poisson pané. Alors arrêtez de vous présenter comme tel.” @waxzce [https://t.co/YkQlRDK1sh](https://t.co/YkQlRDK1sh)
+
+
+
+## Divers / Conneries
+- [T](http://twitter.com/dascritch/status/827489745689251840) par [@dascritch](https://twitter.com/dascritch) Petite découverte musicale : Kero Kero Bonito [https://t.co/DuWyK8F1za](https://t.co/DuWyK8F1za) cc @enflammee
+- [T](http://twitter.com/Limportant_fr/status/828151844207722496) par [@Limportant_fr](https://twitter.com/Limportant_fr) Expérience : ils ont mis un miroir au milieu de la jungle [https://t.co/FJgLLNeDh0](https://t.co/FJgLLNeDh0) @Learn_Things https://t.co/uiYV0TAiFy
+- [T](http://twitter.com/Thinker_View/status/828670981006835713) par [@Thinker_View](https://twitter.com/Thinker_View) "DATAGUEULE - Sans Filtre" : [https://t.co/EJVmlpSpNe](https://t.co/EJVmlpSpNe) via @YouTube
+- [T](http://twitter.com/epenser/status/829105534620024834) par [@epenser](https://twitter.com/epenser) Une magnifique visualisation de la mécanique quantique. Je suis totalement jaloux, là ! [https://t.co/OaJz0ei5eA](https://t.co/OaJz0ei5eA)
+
+
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
