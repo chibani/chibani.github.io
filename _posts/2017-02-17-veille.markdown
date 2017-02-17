@@ -1,0 +1,76 @@
+---
+layout: post
+title: "La veille du week-end S1E36"
+date: 2017-02-17 07:00:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.  
+
+
+Bonne lecture, et bon week-end :)
+
+
+## Dev / backend / Code
+- [T](http://twitter.com/porteneuve/status/829720350204256256) par [@porteneuve](https://twitter.com/porteneuve) Super-duper infographic summary of @seldo's talk: "10 things everybody knows except you". Must-browse for any dev -&gt; [https://t.co/LBsY4cEUre](https://t.co/LBsY4cEUre)
+- [T](http://twitter.com/nodejs/status/831276773795102725) par [@nodejs](https://twitter.com/nodejs) 🌍Spacewalks, NASA, and Node.js. A story for this galaxy and beyond: [https://t.co/pt1MT31Grr](https://t.co/pt1MT31Grr)
+- [T](http://twitter.com/mrspeaker/status/831533371335524354) par [@mrspeaker](https://twitter.com/mrspeaker) "Writing code is an act of communication between the author and a future reader of unknown skill level” [https://t.co/jpxbScIXmh](https://t.co/jpxbScIXmh)
+- [T](http://twitter.com/alsacreations/status/831440940585852928) par [@alsacreations](https://twitter.com/alsacreations) Tour d’horizon sur HTTPS et les en-têtes de sécurité, par @Nico3333fr : [https://t.co/PZ5KsxbPB2](https://t.co/PZ5KsxbPB2) https://t.co/jaO8C8kE59
+- [T](http://twitter.com/LearnOpenCV/status/831904695337627648) par [@LearnOpenCV](https://twitter.com/LearnOpenCV) Object tracking - BOOSTING, MIL, KCF, MEDIANFLOW, TLD using  #OpenCV 3  : #AI #MachineLearning #ComputerVision [https://t.co/PUrjvu7x7v](https://t.co/PUrjvu7x7v)
+- [T](http://twitter.com/osteel/status/831962086183927809) par [@osteel](https://twitter.com/osteel) "Microservices vs SOA" [https://t.co/MMmsM0x6Kf](https://t.co/MMmsM0x6Kf) // looks like a cheap video but turns out to be quite informative
+
+
+
+## Front / Web Apps
+- [T](http://twitter.com/_developit/status/829824563085242369) par [@_developit](https://twitter.com/_developit) Hot damn, this Preact+Redux PWA is a single 9kb HTML file. Never seen anything load faster (600ms uncached on 3G/5x… [https://t.co/JlcTeYdBzU](https://t.co/JlcTeYdBzU)
+- [T](http://twitter.com/codylindley/status/831526407134027777) par [@codylindley](https://twitter.com/codylindley) Between cssreference.io and now [https://t.co/zaOs8uSCh0](https://t.co/zaOs8uSCh0) you should be covered!
+- [T](http://twitter.com/WalterStephanie/status/831756206742044672) par [@WalterStephanie](https://twitter.com/WalterStephanie) Creating Non-Rectangular Headers &lt;3 [https://t.co/Lltsm0vAvC](https://t.co/Lltsm0vAvC)
+- [T](http://twitter.com/sarah_edo/status/831180247726964736) par [@sarah_edo](https://twitter.com/sarah_edo) I made a pool ripple effect in SVG, pretty fun: [https://t.co/Zo6zx8OZ2g](https://t.co/Zo6zx8OZ2g) https://t.co/WMxBsbMkxJ
+- [T](http://twitter.com/waxzce/status/831793439666761732) par [@waxzce](https://twitter.com/waxzce) #javascript #React’s Five Fingers of Death. Master these five concepts, then master React. [https://t.co/tsv5R3Y2JT](https://t.co/tsv5R3Y2JT) https://t.co/MlFX7ffwYN
+- [T](http://twitter.com/Loran750/status/830727785341734914) par [@Loran750](https://twitter.com/Loran750) Mauvaises pratiques UI : "dois-je utiliser... ?" carrousel, popover, masonry, infinite scroll, musique, ...… [https://t.co/KdDeSxwblb](https://t.co/KdDeSxwblb)
+- [T](http://twitter.com/alsacreations/status/831119987691646976) par [@alsacreations](https://twitter.com/alsacreations) Les alignements en CSS3 : passez-moi deux doliprane SVP [https://t.co/gb2AoOIDv9](https://t.co/gb2AoOIDv9) https://t.co/FKNdsYpmhO
+- [T](http://twitter.com/JoliCode/status/831460394136911872) par [@JoliCode](https://twitter.com/JoliCode) Sur notre blog, le récit d'une refonte d'@angular vers @reactjs ⚛️ par @shinework [https://t.co/Qc3idE59dk](https://t.co/Qc3idE59dk) 🖥️ avec du @reactnative 📲 !
+
+
+
+## Tooling / OS
+ - [T](http://twitter.com/dascritch/status/829590058139316224) par [@dascritch](https://twitter.com/dascritch) Facebook libère l'algo qui leur permet de décrire des photos. Et quelques intelligences entrainées  [https://t.co/bgSd1i66OT](https://t.co/bgSd1i66OT)
+ - [T](http://twitter.com/bahmutov/status/829372894526455808) par [@bahmutov](https://twitter.com/bahmutov) TIL `npm run script -s` option silences npm own output. Perfect to remove extra lines and just have the command outp… [https://t.co/QdKGWdvbhA](https://t.co/QdKGWdvbhA)
+ - [T](http://twitter.com/naholyr/status/829814705925550080) par [@naholyr](https://twitter.com/naholyr) byteclubfr/mailbot is born from the idea that uploading a file may be harder than sending an email on some platform [https://t.co/yhuC8YdmhQ](https://t.co/yhuC8YdmhQ)
+ - [T](http://twitter.com/CryptoPartyTls/status/831396367855734784) par [@CryptoPartyTls](https://twitter.com/CryptoPartyTls) Tant que MacOS peut installer des logiciels qui ne viennent pas de l'Apple App Store... [https://t.co/HYTifdkpJK](https://t.co/HYTifdkpJK) ... pour combien de temps ?
+
+
+## Marketing / SEO / Comportement
+- [T](http://twitter.com/semrush_fr/status/829693606432747520) par [@semrush_fr](https://twitter.com/semrush_fr) VIDÉO #interviewFLASH 📽 avec @cree1site et @dsampaolo est déjà disponible sur notre nouvelle chaine YouTube ➡️… [https://t.co/B4COE2TxNq](https://t.co/B4COE2TxNq)
+- [T](http://twitter.com/waxzce/status/830531679898988544) par [@waxzce](https://twitter.com/waxzce) Microsoft miracle: How Satya Nadella revived tech giant in just three years [https://t.co/LgtI9lpVaM](https://t.co/LgtI9lpVaM) https://t.co/F6WgXZa6DX
+
+
+## Sécurité / Vie privée
+- [T](http://twitter.com/slashdot/status/829948175536513024) par [@slashdot](https://twitter.com/slashdot) Attacks On WordPress Sites Intensify As Hackers Deface Over 1.5 Million Pages [https://t.co/IFtr6kgEHh](https://t.co/IFtr6kgEHh)
+- [T](http://twitter.com/Sniperovitch/status/831553922456240130) par [@Sniperovitch](https://twitter.com/Sniperovitch) VeraCrypt : comment chiffrer et cacher un OS complet [https://t.co/UtGICg2rOj](https://t.co/UtGICg2rOj)
+
+
+
+## Geek / IOT / Électronique
+- [T](http://twitter.com/MisteraiR/status/829682386090733569) par [@MisteraiR](https://twitter.com/MisteraiR) Connecter son smartphone Android à son GNU/Linux (sans KDEconnect): [https://t.co/FFkKMGMMFS](https://t.co/FFkKMGMMFS) #Android #GNUlinux https://t.co/79sKSZpwgz
+
+
+## Humain / Développement personnel / Santé
+- [T](http://twitter.com/bruitsilencieux/status/831528193475612672) par [@bruitsilencieux](https://twitter.com/bruitsilencieux) 7 raisons pour lesquelles tant d’hommes ne comprennent pas le consentement sexuel, article très intéressant ! [https://t.co/ak3CjgpT3H](https://t.co/ak3CjgpT3H)
+- [T](http://twitter.com/fdevillamil/status/830536559812341761) par [@fdevillamil](https://twitter.com/fdevillamil) “12 Tools That Will Help You Build a Powerful Morning Routine” — @ProductHunt [https://t.co/q8uBe5JTLM](https://t.co/q8uBe5JTLM) https://t.co/prMka6yVal
+- [T](http://twitter.com/fdevillamil/status/830537042618617859) par [@fdevillamil](https://twitter.com/fdevillamil) “I like to automate repetitive tasks to save me time so I can concentrate on other stuff.” — @ScottDevTweets [https://t.co/19YqdQ6qvC](https://t.co/19YqdQ6qvC)
+- [T](http://twitter.com/Learn_Things/status/830615160423264256) par [@Learn_Things](https://twitter.com/Learn_Things) This is how the human face evolved [https://t.co/9iCSOUdJlE](https://t.co/9iCSOUdJlE)
+- [T](http://twitter.com/waxzce/status/830892486222610433) par [@waxzce](https://twitter.com/waxzce) GitLab's Secret to Managing 160 Employees in 160 Locations [https://t.co/gjndT8Z2Fq](https://t.co/gjndT8Z2Fq) // full distributed company FTW
+- [T](http://twitter.com/laurentmeurisse/status/831062027003187200) par [@laurentmeurisse](https://twitter.com/laurentmeurisse) Les salariés peuvent-ils être autonomes ? — via @lemondefr [https://t.co/8KQY6aK09l](https://t.co/8KQY6aK09l)
+
+
+
+## Divers / Conneries
+ - [T](http://twitter.com/j0k/status/829948015838371840) par [@j0k](https://twitter.com/j0k) Carnet de voyage: L'ascension du Stromboli et les paisibles îles Éoliennes [https://t.co/UJz4X9FStE](https://t.co/UJz4X9FStE) https://t.co/UsDHAUSqWx
+ - [T](http://twitter.com/waxzce/status/830714818550173696) par [@waxzce](https://twitter.com/waxzce) How New York City Gets Its Electricity [https://t.co/EEblgl1f3L](https://t.co/EEblgl1f3L) https://t.co/pawyMaoJ4j
+ - [T](http://twitter.com/waxzce/status/830863297243119616) par [@waxzce](https://twitter.com/waxzce) Ultrasound Ages Liquor Two Years in Just Three Days — NOVA Next - PBS [https://t.co/JqslC29vo0](https://t.co/JqslC29vo0) https://t.co/VKiFxtaQWL
+ - [T](http://twitter.com/SuperSaf/status/830916250515668993) par [@SuperSaf](https://twitter.com/SuperSaf) Interesting results, MacBook Pro vs Windows Laptops (using Premiere Pro). Great video from @theunlockr 👍 [https://t.co/vrJHYSV0Xe](https://t.co/vrJHYSV0Xe)
+ - [T](http://twitter.com/waxzce/status/831594773945409536) par [@waxzce](https://twitter.com/waxzce) Build Your Own Code Poster with Elixir [https://t.co/2CzL7RgGp9](https://t.co/2CzL7RgGp9) https://t.co/arvIfvQ9Z9
+
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
