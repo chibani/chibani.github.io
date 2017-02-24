@@ -1,0 +1,67 @@
+---
+layout: post
+title: "La veille du week-end S1E37"
+date: 2017-02-24 07:00:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.  
+
+Hier, Google a dévoilé avoir réussi à créer une collision de hash de fichier avec SHA1.  
+En clair, ils ont réussi à obtenir le même hash pour 2 fichiers différents, mettant ainsi en doute la pérennité de la fonction de hash (qui est au cœur de git...).  
+[Décodage par Numérama](http://www.numerama.com/tech/235436-shattered-google-a-casse-la-methode-de-chiffrement-sha-1.html) et [page du projet "SHAttered"](https://shattered.io/).
+
+Bonne lecture, et bon week-end :)
+
+
+## Dev / backend / Code
+- [T](http://twitter.com/nfroidure/status/832113908194353152) par [@nfroidure](https://twitter.com/nfroidure) [Blog] Presentation: Projects Webservices at 7Digital [https://t.co/3sX07D6ee0](https://t.co/3sX07D6ee0)
+- [T](http://twitter.com/waxzce/status/833431220021231617) par [@waxzce](https://twitter.com/waxzce) #JavaScript Without Loops [https://t.co/SyG9OhJXaR](https://t.co/SyG9OhJXaR) https://t.co/blKlHS9hr6
+- [T](http://twitter.com/DelicioInsights/status/833990908731412482) par [@DelicioInsights](https://twitter.com/DelicioInsights) 10 bonnes pratiques en JavaScript - un bon gros article détaillé 100% bio avec des vrais morceaux dedans ! [https://t.co/6Oyh8OYBPI](https://t.co/6Oyh8OYBPI)
+- [T](http://twitter.com/_developit/status/834287387484229632) par [@_developit](https://twitter.com/_developit) 🎉 It's here! A 500 byte fetch() polyfill. Supports headers, json/text/xml/blob bodies, etc. Five. hundo. bytes. 🌯… [https://t.co/wkWxQkWBNY](https://t.co/wkWxQkWBNY)
+
+
+## Front / Web Apps
+- [T](http://twitter.com/dsampaolo/status/832405195950809089) par [@dsampaolo](https://twitter.com/dsampaolo) VueJS v2 : vm.$forceUpdate() - you'll thank me later. [https://t.co/br5wRfSSMV](https://t.co/br5wRfSSMV)
+- [T](http://twitter.com/jaffathecake/status/832162885413515264) par [@jaffathecake](https://twitter.com/jaffathecake) Complex SVG will get a huge speed boost in Chrome in the next few months. Test by forcing chrome://flags/#enable-gp… [https://t.co/E63gwi9Izl](https://t.co/E63gwi9Izl)
+- [T](http://twitter.com/dhoko_/status/832527122270928896) par [@dhoko_](https://twitter.com/dhoko_) Rough.js • Create graphics with a hand-drawn, sketchy, appearance [https://t.co/eJDWlAPlPe](https://t.co/eJDWlAPlPe) #JavaScript Pratique pour faire genre https://t.co/DiW2GRKoq1
+- [T](http://twitter.com/dotJS/status/832549292934045697) par [@dotJS](https://twitter.com/dotJS) New @dotJS 2016 by Maxime Thirouin @moox - A static website with React? Really? [https://t.co/RcGccmqpvS](https://t.co/RcGccmqpvS) https://t.co/ZZpouvbwDW
+- [T](http://twitter.com/jaffathecake/status/832575566800904193) par [@jaffathecake](https://twitter.com/jaffathecake) 📝 TIL mouse events don't fire on disabled form elements. Here are some workarounds &amp; more weirdness: [https://t.co/RBQCSMS5Mh](https://t.co/RBQCSMS5Mh)
+
+
+## Tooling / OS
+- [T](http://twitter.com/vadimdemedes/status/832323909756264448) par [@vadimdemedes](https://twitter.com/vadimdemedes) 🚦Trevor - Your own mini Travis CI to run tests targeting multiple Node.js versions locally, using a .travis.yml.… [https://t.co/DlXVmmAPkV](https://t.co/DlXVmmAPkV)
+- [T](http://twitter.com/clochix/status/833241208038232064) par [@clochix](https://twitter.com/clochix) Interface graphique créant des scripts CasperJS pour automatiser l'aspiration des données d'un site Web [https://t.co/Pu359paoaB](https://t.co/Pu359paoaB)
+- [T](http://twitter.com/waxzce/status/834305000788619265) par [@waxzce](https://twitter.com/waxzce) J'ai donné un talk très immutable infrastructure à @toulousedevops la semaine dernière [https://t.co/s8QlVrsIeT](https://t.co/s8QlVrsIeT)
+
+
+
+## Marketing / SEO / Comportement
+- [T](http://twitter.com/WalterStephanie/status/833584485312692225) par [@WalterStephanie](https://twitter.com/WalterStephanie) Cheat Sheet: All Facebook Chatbot Interactions [https://t.co/fuiUvprq9c](https://t.co/fuiUvprq9c)
+
+
+
+## Sécurité / Vie privée
+- [T](http://twitter.com/SkyNebula/status/832246443515711488) par [@SkyNebula](https://twitter.com/SkyNebula) “I’ll never bring my phone on an international flight again. Neither should you.” /by @ossia #privacy #surveillance [https://t.co/oY4m7YmoXu](https://t.co/oY4m7YmoXu)
+
+
+## Geek / IOT / Électronique
+- [T](http://twitter.com/dascritch/status/834004540210950145) par [@dascritch](https://twitter.com/dascritch) NVidia reverse son Drive Design Studio à la lib QT, et devient donc QT 3D Studio [https://t.co/ENB26i4cnJ](https://t.co/ENB26i4cnJ) . Énorme !
+- [T](http://twitter.com/julien_lafont/status/834307971488292864) par [@julien_lafont](https://twitter.com/julien_lafont) Expérimentation #arduino : couper/réactiver l'alim des videocam quand mon smartphone est appairé/désappairé au wifi [https://t.co/2ZV7JGarFf](https://t.co/2ZV7JGarFf)
+
+
+## Humain / Développement personnel / Santé
+- [T](http://twitter.com/studio404/status/833976689436798976) par [@studio404](https://twitter.com/studio404) Hacking de l’attention, jeu sur canapé, qualified self et revolution de l’éducation... Voilà ENFIN la 46e émission [https://t.co/lpKphvnGwz](https://t.co/lpKphvnGwz)
+
+
+
+## Divers / Conneries
+- [T](http://twitter.com/franceinnyc/status/831924567170043916) par [@franceinnyc](https://twitter.com/franceinnyc) Tu or Vous? Here's a handy (and roundabout) chart to help clarify the distinction. #FrenchExpressions… [https://t.co/GjtM8ps1kV](https://t.co/GjtM8ps1kV)
+- [T](http://twitter.com/NotaBeneMovies/status/832547591372075009) par [@NotaBeneMovies](https://twitter.com/NotaBeneMovies) "La colonisation, y a aussi du positif non" ? Ma chronique actu à RT sans modération ;) [https://t.co/zoGVDP2e5o](https://t.co/zoGVDP2e5o)
+- [T](http://twitter.com/KatSpi/status/832665272439894019) par [@KatSpi](https://twitter.com/KatSpi) La larme du vendredi soir... RT @fayewestlakex: Wentworth Miller is incredible [https://t.co/VvJtOIAUfo](https://t.co/VvJtOIAUfo)
+- [T](http://twitter.com/ttguweiz/status/833694933244448768) par [@ttguweiz](https://twitter.com/ttguweiz) Super cool 3D animation by Neil Tolman based on my color sketch! I'm really touched T.T His website/works:… [https://t.co/66vFI4euwE](https://t.co/66vFI4euwE)
+- [T](http://twitter.com/Turblog/status/834519781596356613) par [@Turblog](https://twitter.com/Turblog) J'viens de passer une heure délicieuse sur la conf gesticulée de @caronclaire625 sur la (des)orientation #merci [https://t.co/LJhZq4KslD](https://t.co/LJhZq4KslD)
+
+
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
