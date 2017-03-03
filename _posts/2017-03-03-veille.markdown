@@ -1,0 +1,70 @@
+---
+layout: post
+title: "La veille du week-end S1E38"
+date: 2017-03-03 07:00:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.  
+
+Cette semaine, Raspberry a présenté un nouveau Pi Zero, avec Bluetooth et WiFi (une sorte d'hybride entre le Pi Zero et le Pi 3...) :  
+- [T](http://twitter.com/Raspberry_Pi/status/836501297872384002) par [@Raspberry_Pi](https://twitter.com/Raspberry_Pi) New product! The brand-new Raspberry Pi Zero W has wireless LAN and Bluetooth for only $10. [https://t.co/T3yvK4M5Qj](https://t.co/T3yvK4M5Qj) https://t.co/Bmf1FnDwlr
+
+
+Bonne lecture, et bon week-end :)
+
+
+## Dev / backend / Code
+- [T](http://twitter.com/FGRibreau/status/835086660123623424) par [@FGRibreau](https://twitter.com/FGRibreau) The Seven Circles of Developer Hell [Infographic] [https://t.co/cnnQou07Zp](https://t.co/cnnQou07Zp) https://t.co/bqX3QxsT04
+- [T](http://twitter.com/mnt_io/status/835043109276905472) par [@mnt_io](https://twitter.com/mnt_io) PHP-ML, Machine Learning library for PHP, [https://t.co/iMy1s22w6u](https://t.co/iMy1s22w6u).
+- [T](http://twitter.com/JBellicaud/status/835552722439000064) par [@JBellicaud](https://twitter.com/JBellicaud) Code informatique ou algorithmie ? #Programmation en ULIS Activités branchées / débranchées @BancsDEcole… [https://t.co/fvEk0RbxFX](https://t.co/fvEk0RbxFX)
+- [T](http://twitter.com/pascal_martin/status/836484592324526080) par [@pascal_martin](https://twitter.com/pascal_martin) J'ai publié mes slides du double-meetup « PHP 7.x » de la semaine dernière, avec @AFUP_Marseille et @Afup_Mtp —… [https://t.co/YCe6GpOhhf](https://t.co/YCe6GpOhhf)
+
+
+## Front / Web Apps
+- [T](http://twitter.com/meulta/status/834831048764694529) par [@meulta](https://twitter.com/meulta) Can you take 5 minutes and help us improve @VorlonJS ? :) Here is a small survey: [https://t.co/8ynzGCDKjR](https://t.co/8ynzGCDKjR) Thanks! https://t.co/VWKfjhG3Ld
+- [T](http://twitter.com/ElliotGeno/status/835195989199892480) par [@ElliotGeno](https://twitter.com/ElliotGeno) @SaraSoueidan @sarah_edo @dirkschulze I created a tutorial to show designers how to quickly trace vector shapes. [https://t.co/L2pteAY9gx](https://t.co/L2pteAY9gx)
+- [T](http://twitter.com/linclark/status/836607881315246080) par [@linclark](https://twitter.com/linclark) Why is WebAssembly fast? I explain with cartoons [https://t.co/xmvaBBDPla](https://t.co/xmvaBBDPla) https://t.co/3I9dlzr9Qg
+- [T](http://twitter.com/csswizardry/status/836960832789565440) par [@csswizardry](https://twitter.com/csswizardry) The simplest way I’ve found (so far) to distill/explain `srcset` and `sizes`: [https://t.co/I6YW0AqKfM](https://t.co/I6YW0AqKfM)
+
+
+## Tooling / OS
+- [T](http://twitter.com/_developit/status/836098433639403523) par [@_developit](https://twitter.com/_developit) Live markdown editor using Snarkdown &amp; Preact. 40 LOC, 6kb, scroll sync, edits are just diffs.… [https://t.co/jJG3FWCChw](https://t.co/jJG3FWCChw)
+
+
+
+## Marketing / SEO / Comportement
+// Rien cette semaine, mais c'est pas de la négligence personnelle :D
+
+
+## Sécurité / Vie privée
+- [T](http://twitter.com/nextinpact/status/835044888441868290) par [@nextinpact](https://twitter.com/nextinpact) Un pirate sur des serveurs « oubliés » d'OVH, Octave Klaba reconnait une négligence [https://t.co/7XVLNX5fev](https://t.co/7XVLNX5fev)
+- [T](http://twitter.com/andywingo/status/835132154749272064) par [@andywingo](https://twitter.com/andywingo) hahahahahahahahahahahaha they added a test for the shattered.io vuln to webkit and it broke git :-)… [https://t.co/bmKerVL7ZH](https://t.co/bmKerVL7ZH)
+- [T](http://twitter.com/Snowden/status/835997058465206272) par [@Snowden](https://twitter.com/Snowden) Who watches the watchers? Your TV. [https://t.co/IvS52ppgQ3](https://t.co/IvS52ppgQ3) https://t.co/2IPS9cxxLK
+- [T](http://twitter.com/seoxis/status/836017673498673154) par [@seoxis](https://twitter.com/seoxis) Superbe conf BlackHat sur les Recaptcha [https://t.co/8prbOWc3G1](https://t.co/8prbOWc3G1)
+- [T](http://twitter.com/zigazou/status/836247543675781121) par [@zigazou](https://twitter.com/zigazou) SQL Injection et XSS par CMS (CVE), à vous d’interpréter ;o) [https://t.co/9S1Y4OgHUo](https://t.co/9S1Y4OgHUo)
+- [T](http://twitter.com/jasonhiner/status/836677692061802501) par [@jasonhiner](https://twitter.com/jasonhiner) #ProTip... Find out when someone accesses your #MacBook camera [https://t.co/wc0Y3CaJE1](https://t.co/wc0Y3CaJE1) #cybersecurity https://t.co/BFzU1avkmT
+- [T](http://twitter.com/paulgreg/status/836669673361985537) par [@paulgreg](https://twitter.com/paulgreg) Les conséquences techniques de l'interception HTTPS en entreprise [https://t.co/PpswOJ3BKb](https://t.co/PpswOJ3BKb) via @bortzmeyer #tls #interception #sécurité
+
+
+## Geek / IOT / Électronique
+- [T](http://twitter.com/sam_et_max/status/834830605959495680) par [@sam_et_max](https://twitter.com/sam_et_max) Vos pires expériences avec les utilisateurs informatique : france [https://t.co/ZLSNoyBPjB](https://t.co/ZLSNoyBPjB)
+- [T](http://twitter.com/crapougnax/status/835078446078382084) par [@crapougnax](https://twitter.com/crapougnax) Diapo : 25 projets géniaux créés avec un Raspberry Pi [https://t.co/foigZbzOg9](https://t.co/foigZbzOg9) via @tomshardware_fr
+
+
+## Humain / Développement personnel / Santé
+- [T](http://twitter.com/theystolemynick/status/836217216504893440) par [@theystolemynick](https://twitter.com/theystolemynick) Travailler à distance :)  [https://t.co/EntboE36s7](https://t.co/EntboE36s7)
+- [T](http://twitter.com/todoist/status/836435449367441408) par [@todoist](https://twitter.com/todoist) "It’s not up to other people to know how busy you are." - Learning how to say no: [https://t.co/vUpFJVzoLK](https://t.co/vUpFJVzoLK) #todoist #productivity
+- [T](http://twitter.com/LaetitiaPhan/status/837034070806839296) par [@LaetitiaPhan](https://twitter.com/LaetitiaPhan) Sur les bienfaits de lire des histoires aux enfants [https://t.co/wa9bFeZgFB](https://t.co/wa9bFeZgFB)
+
+
+
+## Divers / Conneries
+- [T](http://twitter.com/devcolororg/status/835210221144457217) par [@devcolororg](https://twitter.com/devcolororg) For all the freelancers out there: This could be a great new tool to make setting up those contracts easier.… [https://t.co/wqwCqvAlrJ](https://t.co/wqwCqvAlrJ)
+- [T](http://twitter.com/rapportaucorps/status/835178878834458624) par [@rapportaucorps](https://twitter.com/rapportaucorps) Corps et tabous [https://t.co/Dp57JWVUXV](https://t.co/Dp57JWVUXV)
+- [T](http://twitter.com/Bouletcorp/status/836237842665758720) par [@Bouletcorp](https://twitter.com/Bouletcorp) Mes amis Reno &amp; Melaka sont fans de @JLMelenchon et on fait une chouette BD pour expliquer pourquoi: [https://t.co/67lwhAx085](https://t.co/67lwhAx085)
+- [T](http://twitter.com/NotaBeneMovies/status/836536355790413825) par [@NotaBeneMovies](https://twitter.com/NotaBeneMovies) La conférence de @dirtybiology (sur la prédiction de l'histoire) de l'édition 2016 de @LesHistoriques est enfin dispo sur ma chaîne bonus :) [https://t.co/2fW6b4hO50](https://t.co/2fW6b4hO50)
+
+
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
