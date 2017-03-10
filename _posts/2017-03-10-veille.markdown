@@ -1,0 +1,65 @@
+---
+layout: post
+title: "La veille du week-end S1E39"
+date: 2017-03-10 07:00:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.  
+
+SudWeb vient de publier le programme de son [édition 2017](https://sudweb.fr/2017/programme/).  
+J'y serai (mais pas orateur), alors n'hésitez pas à venir me saluer :)
+
+Bonne lecture, et bon week-end :)
+
+
+## Dev / backend / Code
+- [T](http://twitter.com/mpjme/status/837658522154332160) par [@mpjme](https://twitter.com/mpjme) What exactly is a "unit" in "unit testing" ? [https://t.co/tF0a0CDDiO](https://t.co/tF0a0CDDiO)
+- [T](http://twitter.com/adamwathan/status/837667280003674112) par [@adamwathan](https://twitter.com/adamwathan) 🎉 New Test-Driven Laravel lessons are coming today! Right now early access is 40% off, but won't last much longer 👍 [https://t.co/BIZD13EHyn](https://t.co/BIZD13EHyn)
+- [T](http://twitter.com/nfroidure/status/837703335906017280) par [@nfroidure](https://twitter.com/nfroidure) [Blog] Normalisation des retours JSON [https://t.co/OabdGwr0QF](https://t.co/OabdGwr0QF) #REST #API #JSON
+- [T](http://twitter.com/nfroidure/status/838313815737511937) par [@nfroidure](https://twitter.com/nfroidure) Ahaha just can't do without Snapshot Testing anymore [https://t.co/o24enF7N6H](https://t.co/o24enF7N6H) 😍
+- [T](http://twitter.com/DelicioInsights/status/838690628431196160) par [@DelicioInsights](https://twitter.com/DelicioInsights) 26 modules Node que j'utilise tout le temps -&gt; [https://t.co/G1rb0TdNz6](https://t.co/G1rb0TdNz6)
+- [T](http://twitter.com/j0k/status/839544431795666944) par [@j0k](https://twitter.com/j0k) [https://t.co/g5wyVm6xyN](https://t.co/g5wyVm6xyN) c’est vraiment une tuerie pour manager vos fonctions Lambda en Node et tout le bouzin autour ! Bluffant. // Serverless Framework
+- [T](http://twitter.com/seldaek/status/839521170911342596) par [@seldaek](https://twitter.com/seldaek) Composer v1.4 is out with memory usage improvements and a couple minor additions [https://t.co/t9Nd1nJ1M6](https://t.co/t9Nd1nJ1M6) #composerphp
+- [T](http://twitter.com/KNPLabs/status/839486366203301889) par [@KNPLabs](https://twitter.com/KNPLabs) Une collection de 10 outils pour tester vos projets #PHP  #LikeABoss [https://t.co/RMyIHQbshx](https://t.co/RMyIHQbshx) https://t.co/dzq7NoJi5b
+
+
+## Front / Web Apps
+- [T](http://twitter.com/Real_CSS_Tricks/status/838005822596726786) par [@Real_CSS_Tricks](https://twitter.com/Real_CSS_Tricks) Use :not to Save Time and Lines of Code [https://t.co/wNO26mnY9I](https://t.co/wNO26mnY9I) https://t.co/HQshVZwJtl
+
+
+## Tooling / OS
+- [T](http://twitter.com/tarkasteve/status/837243614359085056) par [@tarkasteve](https://twitter.com/tarkasteve) .@waxzce on how to move from shipping jars to providing cloud services... [https://t.co/96UdaOmceR](https://t.co/96UdaOmceR)
+- [T](http://twitter.com/LearnOpenCV/status/839483964079276032) par [@LearnOpenCV](https://twitter.com/LearnOpenCV) #ComputerVision post on Automatic Red Eye Removal. #OpenCV code written in #Python and #CPP .… [https://t.co/pvCqvKtsgn](https://t.co/pvCqvKtsgn)
+
+
+## Marketing / SEO / Comportement
+- [T](http://twitter.com/tameverts/status/837409234824224769) par [@tameverts](https://twitter.com/tameverts) 9% permanent abandonment rate for sites that go down vs. 28% abandonment for slow sites. [https://t.co/gfHJSd9JUt](https://t.co/gfHJSd9JUt)… https://t.co/NyIL1zW03p
+- [T](http://twitter.com/cree1site/status/838514356556005376) par [@cree1site](https://twitter.com/cree1site) Un article optimisé pour 5 euros ? Ah oui vraiment ? [https://t.co/uMDK6uxsMK](https://t.co/uMDK6uxsMK) via @Cree1site
+- [T](http://twitter.com/jeremymarc/status/838867849854730240) par [@jeremymarc](https://twitter.com/jeremymarc) How Emojis Can Boost Push Notification Opens [https://t.co/QhPNm5199y](https://t.co/QhPNm5199y)
+
+
+## Sécurité / Vie privée
+- [T](http://twitter.com/edasfr/status/837753013041266688) par [@edasfr](https://twitter.com/edasfr) Parce que visiblement certains croient encore sans savoir : Vote électronique [https://t.co/ZYvqqwMlhe](https://t.co/ZYvqqwMlhe)
+
+
+## Geek / IOT / Électronique
+- [T](http://twitter.com/BoingBoing/status/837552027739680770) par [@BoingBoing](https://twitter.com/BoingBoing) USG: an open source anti-BadUSB hardware firewall for your USB port [https://t.co/rKylHb5opp](https://t.co/rKylHb5opp) https://t.co/I4C1hGrFdA
+- [T](http://twitter.com/CPUprogramme/status/838720438880595968) par [@CPUprogramme](https://twitter.com/CPUprogramme) [https://t.co/CFPfc5Sb7s](https://t.co/CFPfc5Sb7s) Pourquoi votre wi-fi semble si lent, et comment vous pourriez y remédier.
+
+
+## Humain / Développement personnel / Santé
+- [T](http://twitter.com/pascal_martin/status/837303226663763968) par [@pascal_martin](https://twitter.com/pascal_martin) Ce matin, j'ai publié sur mon blog : « Speaker : pour une bonne conférence, répétez ! » — [https://t.co/JD3apRtCmV](https://t.co/JD3apRtCmV)
+- [T](http://twitter.com/fdevillamil/status/838033964703100929) par [@fdevillamil](https://twitter.com/fdevillamil) I just published “Writing Personal Postmortems” [https://t.co/Bc4BWTCFZ1](https://t.co/Bc4BWTCFZ1)
+- [T](http://twitter.com/DirtyF/status/838933939041488896) par [@DirtyF](https://twitter.com/DirtyF) Pas facile de garder sa santé mentale face au succès de ses projets open source. @nolanlawson rompt le silence. [https://t.co/eygN8gfYfD](https://t.co/eygN8gfYfD)
+
+
+## Divers / Conneries
+- [T](http://twitter.com/Bouletcorp/status/838229694021521408) par [@Bouletcorp](https://twitter.com/Bouletcorp) [Blog]Tout le monde connait la peur de la page blanche. Voici une  méthode simple en 40étapes pour passer ce blocag… [https://t.co/7uxcWB4hgM](https://t.co/7uxcWB4hgM)
+- [T](http://twitter.com/73steven/status/838444558623064064) par [@73steven](https://twitter.com/73steven) 💩💩💩💩 Nettoyez votre YouTube de toutes les chaines que vous ne voulez plus jamais voir, avec cette extension :… [https://t.co/NudcmZluL8](https://t.co/NudcmZluL8)
+- [T](http://twitter.com/CPUprogramme/status/838709154227367936) par [@CPUprogramme](https://twitter.com/CPUprogramme) Les fablabs ruraux sont-ils des maréchaux-ferrants modernes ? Pour nous, oui [https://t.co/dmHK6LriaH](https://t.co/dmHK6LriaH)
+- [T](http://twitter.com/donttrythis/status/838999655442755584) par [@donttrythis](https://twitter.com/donttrythis) Need faith in humanity restored? Watch John @iamjohnoliver's sweet yet deep, delightful interview with @DalaiLama [https://t.co/MCBJhKJMhG](https://t.co/MCBJhKJMhG)
+
+
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
