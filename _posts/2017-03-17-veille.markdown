@@ -1,0 +1,83 @@
+---
+layout: post
+title: "La veille du week-end S1E40"
+date: 2017-03-17 07:00:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.  
+
+
+Bonne lecture, et bon week-end :)
+
+
+## Dev / backend / Code
+- [T](http://twitter.com/LesKendall/status/840280095143141380) par [@LesKendall](https://twitter.com/LesKendall) 20 Awesome PHP Libraries For Early 2017 [https://t.co/9ei6oCgmxd](https://t.co/9ei6oCgmxd)
+- [T](http://twitter.com/newtang/status/839635178670575616) par [@newtang](https://twitter.com/newtang) Blog post: "💩".length === 2 [https://t.co/jic79cLKF2](https://t.co/jic79cLKF2) #javascript #unicode
+- [T](http://twitter.com/jboner/status/841336433981939712) par [@jboner](https://twitter.com/jboner) Rewriting Duolingo. Language: Python to Scala. Latency: 750ms to 14ms. Uptime: 99.9% to 100% [https://t.co/Lt2ejhtUiU](https://t.co/Lt2ejhtUiU)
+- [T](http://twitter.com/frostys77/status/841600758680281088) par [@frostys77](https://twitter.com/frostys77) Avec les nouvelles Cloud Functions dans Firebase, plus besoin de maintenir un backend ❤️ [https://t.co/z9vnUrCbQr](https://t.co/z9vnUrCbQr)
+- [T](http://twitter.com/epiloic/status/841569782906400768) par [@epiloic](https://twitter.com/epiloic) JWT (JSON Web Tokens) is a bad standard that everyone should avoid: [https://t.co/0NqGoR5vwF](https://t.co/0NqGoR5vwF)
+- [T](http://twitter.com/ydarias/status/841713103079383041) par [@ydarias](https://twitter.com/ydarias) Understanding cyclomatic complexity better [https://t.co/47EyqaJLYm](https://t.co/47EyqaJLYm)
+- [T](http://twitter.com/humancoders/status/841914457664163840) par [@humancoders](https://twitter.com/humancoders) Classement des événements français pour développeurs les plus suivis sur Meetup [https://t.co/QYCUNw2aDU](https://t.co/QYCUNw2aDU)
+
+
+
+## Front / Web Apps
+- [T](http://twitter.com/jamstatic_fr/status/841187330966867969) par [@jamstatic_fr](https://twitter.com/jamstatic_fr) Un exemple d'installation de Service Worker pour gérer le mode offline avec @GoHugoIO [https://t.co/cNUEdsTdnI](https://t.co/cNUEdsTdnI) https://t.co/ofddJ3IALs
+- [T](http://twitter.com/_kud/status/842041208725753857) par [@_kud](https://twitter.com/_kud) How to setup react-intl for translating your app [https://t.co/5etzTmEYoj](https://t.co/5etzTmEYoj) #reactjs https://t.co/rVcOuLfPPY
+
+
+
+## Tooling / OS / Hosting
+- [T](http://twitter.com/gandi_net/status/839774544755838976) par [@gandi_net](https://twitter.com/gandi_net) La bonne nouvelle du jeudi : les filtres, règles et répondeurs sont désormais disponibles sur Gandi Mail !… [https://t.co/QHLVJmHefQ](https://t.co/QHLVJmHefQ)
+- [T](http://twitter.com/waxzce/status/840291971470090246) par [@waxzce](https://twitter.com/waxzce) The Basics of Package.json in Node.js and npm [https://t.co/KwesNeUjzh](https://t.co/KwesNeUjzh) #javascript https://t.co/9Iz4mrlWzR
+- [T](http://twitter.com/sam_et_max/status/840526982794362883) par [@sam_et_max](https://twitter.com/sam_et_max) Cycles Turbocharged: how we made rendering 10x faster - Blog — Blender Cloud [https://t.co/IV9JyZMtQR](https://t.co/IV9JyZMtQR)
+- [T](http://twitter.com/rauschma/status/840953475886395402) par [@rauschma](https://twitter.com/rauschma) An Interview With Electron Creator @jllord (on @theIntialCommit) [https://t.co/Fzp26K0Scj](https://t.co/Fzp26K0Scj)
+- [T](http://twitter.com/plugfr/status/840923256911728640) par [@plugfr](https://twitter.com/plugfr) La vidéo de la soirée Ansible est disponible en HD sur [https://t.co/QrRQ02GVir](https://t.co/QrRQ02GVir)
+- [T](http://twitter.com/fdevillamil/status/841211019460562944) par [@fdevillamil](https://twitter.com/fdevillamil) I just published “Introducing: Engineering Weekly” [https://t.co/U3ndlZlGun](https://t.co/U3ndlZlGun)
+- [T](http://twitter.com/j0k/status/841703901158096896) par [@j0k](https://twitter.com/j0k) Sympa ce p'tit projet pour gérer plusieurs identités Git sur une même machine 👌 [https://t.co/Xs1Yg2FXcA](https://t.co/Xs1Yg2FXcA)
+- [T](http://twitter.com/waxzce/status/841961327606259718) par [@waxzce](https://twitter.com/waxzce) Did you notice our new tutorials on youtube? with @clever_cloud  [https://t.co/MzdY1VVnzw](https://t.co/MzdY1VVnzw) // and we need subscribers to choose our name too
+- [T](http://twitter.com/vvoyer/status/841988171760037888) par [@vvoyer](https://twitter.com/vvoyer) “What it takes to send you realtime push notifications” by N26 [https://t.co/FNJZRtto4P](https://t.co/FNJZRtto4P)
+- [T](http://twitter.com/captainsafia/status/841985967158378496) par [@captainsafia](https://twitter.com/captainsafia) I made goops, a CLI tool that automagically adds the best gitignore to your project or recommends good options!… [https://t.co/bbd4YFr8Qi](https://t.co/bbd4YFr8Qi)
+
+
+
+## Marketing / SEO / Comportement
+- [T](http://twitter.com/theystolemynick/status/841771455822102531) par [@theystolemynick](https://twitter.com/theystolemynick) Avoir un bon score Google Page Speed influence t il le référencement  [https://t.co/fMVBzLIJrD](https://t.co/fMVBzLIJrD) (non)
+
+
+
+## Sécurité / Vie privée
+- [T](http://twitter.com/_SToto98/status/840407325542367232) par [@_SToto98](https://twitter.com/_SToto98) Password rules are bullshit [https://t.co/7UpBUQDeN7](https://t.co/7UpBUQDeN7)
+- [T](http://twitter.com/boiteweb/status/840580978062028800) par [@boiteweb](https://twitter.com/boiteweb) Apache : une faille zero-day largement exploitée [https://t.co/VyyJnaz2gn](https://t.co/VyyJnaz2gn)
+- [T](http://twitter.com/mozilla_fr/status/841182037327273984) par [@mozilla_fr](https://twitter.com/mozilla_fr) Plus les sondés possèdent d’appareils moins ils pensent avoir de contrôle s/ la protection de leurs données… [https://t.co/AjtCFbcJZW](https://t.co/AjtCFbcJZW)
+- [T](http://twitter.com/MyCozyCloud/status/841338575471927296) par [@MyCozyCloud](https://twitter.com/MyCozyCloud) Pourquoi Facebook est-il interdit aux moins de 13 ans ? [https://t.co/hION4gUN2w](https://t.co/hION4gUN2w) https://t.co/BMYoB7rjbo
+- [T](http://twitter.com/VengeurMasK/status/841880362238283776) par [@VengeurMasK](https://twitter.com/VengeurMasK) Pourquoi les gens ne protègent pas leurs données en ligne ? Mozilla a fait un sondage: [https://t.co/RK431wYm4N](https://t.co/RK431wYm4N)
+
+
+
+## Geek / IOT / Électronique
+- [T](http://twitter.com/tweetsauce/status/840256547938807808) par [@tweetsauce](https://twitter.com/tweetsauce) The Albert Clock displays time using +, -, ×, and ÷. lt's also available as a free app: [https://t.co/Dqi0ki37BJ](https://t.co/Dqi0ki37BJ) https://t.co/ARAO4Syoph
+- [T](http://twitter.com/tyrower/status/841216716298428416) par [@tyrower](https://twitter.com/tyrower) Construis ta propre machine à calcul universelle ... en papier - [https://t.co/gX9Yj0idli](https://t.co/gX9Yj0idli) via @pixees_fr
+
+
+
+## Humain / Développement personnel / Santé
+- [T](http://twitter.com/LaetitiaPhan/status/841015346849054721) par [@LaetitiaPhan](https://twitter.com/LaetitiaPhan) Arrêter d'apprendre, commencer à appliquer #procrastination [https://t.co/bId5cnNlxk](https://t.co/bId5cnNlxk)
+- [T](http://twitter.com/LaetitiaPhan/status/841712117858349057) par [@LaetitiaPhan](https://twitter.com/LaetitiaPhan) Anti perfectionnisme : comment lâcher prise sur notre besoin de perfection *** How to let go of perfectionism [https://t.co/k1AIq7tr6V](https://t.co/k1AIq7tr6V)
+- [T](http://twitter.com/mariejulien/status/841946739934429188) par [@mariejulien](https://twitter.com/mariejulien) Si vous l'avez raté hier, voici mon billet sur la procrastination, le perfectionnisme et le syndrome de l'imposteur. [https://t.co/EEmt2ssMMQ](https://t.co/EEmt2ssMMQ)
+- [T](http://twitter.com/vinchbat/status/842055397435424768) par [@vinchbat](https://twitter.com/vinchbat) Hiring without whiteboards 🙌 [https://t.co/5mzGvXqLpr](https://t.co/5mzGvXqLpr)
+
+
+
+## Divers / Conneries
+- [T](http://twitter.com/aurelievache/status/839937443688251392) par [@aurelievache](https://twitter.com/aurelievache) La NASA donne la possibilité de télécharger gratuitement un nombre important de leurs logiciels [https://t.co/K6KtYl0xEE](https://t.co/K6KtYl0xEE)
+- [T](http://twitter.com/NawakNawak/status/840976437477810176) par [@NawakNawak](https://twitter.com/NawakNawak) Plus de 190 pages pour se moquer des homophobes à coup de dessins et de textes. Bénéfices pour @SOShomophobie &gt;&gt;… [https://t.co/m1ctxMSc0e](https://t.co/m1ctxMSc0e)
+- [T](http://twitter.com/edasfr/status/842012772426686465) par [@edasfr](https://twitter.com/edasfr) Et si je me lançais en indépendant ? [https://t.co/R2WMxPB6Ww](https://t.co/R2WMxPB6Ww) [blog]
+- [T](http://twitter.com/wintergatan/status/842095860548804608) par [@wintergatan](https://twitter.com/wintergatan) Wintergatan live [https://t.co/BAhh7IljYh](https://t.co/BAhh7IljYh) // Le groupe qui avait fabriqué un instrument mécanique avec des billes en acier.
+- [T](http://twitter.com/mollyclare/status/841798594965458948) par [@mollyclare](https://twitter.com/mollyclare) Having trouble understanding your American friends or colleagues? Maybe I can help: [https://t.co/7Xsdv4LG5q](https://t.co/7Xsdv4LG5q)
+
+
+
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
