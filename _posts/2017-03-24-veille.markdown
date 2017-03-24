@@ -1,0 +1,74 @@
+---
+layout: post
+title: "La veille du week-end S1E41"
+date: 2017-03-20 07:00:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.  
+
+
+Bonne lecture, et bon week-end :)
+
+
+## Dev / backend / Code
+- [T](http://twitter.com/oncletom/status/842372106746765312) par [@oncletom](https://twitter.com/oncletom) TIL `node --inspect-brk script.js` to break on first line with Node debugger for Chrome (from NodeJS &gt;= 7)… [https://t.co/3b9OOWwHVT](https://t.co/3b9OOWwHVT)
+- [T](http://twitter.com/htwj/status/842715118655979521) par [@htwj](https://twitter.com/htwj) How to unit test your Facebook login site [https://t.co/C2dfoazTla](https://t.co/C2dfoazTla) https://t.co/znAuhXdISf
+- [T](http://twitter.com/mathrobin/status/842659020129419264) par [@mathrobin](https://twitter.com/mathrobin) Viendez nombreux, j'y présenterai @Cypress_io "Testing, the way it should be" [https://t.co/jxINVyMAOV](https://t.co/jxINVyMAOV)
+- [T](http://twitter.com/editoile/status/843145641106771969) par [@editoile](https://twitter.com/editoile) Retrouvez la prez de Julio Potier @BoiteAWeb @SecuPress sur la sécurité Wordpress [https://t.co/tZNlSEUqR0](https://t.co/tZNlSEUqR0)  #wcbordeaux
+- [T](http://twitter.com/geekjuniorfr/status/843413027592519681) par [@geekjuniorfr](https://twitter.com/geekjuniorfr) Apprendre à coder : quels ateliers pendant les vacances de Printemps? [https://t.co/q7KlN5syrB](https://t.co/q7KlN5syrB) #coding… https://t.co/v5D3kNEpNh
+- [T](http://twitter.com/methylbro/status/843818601446563841) par [@methylbro](https://twitter.com/methylbro) Avec #PHP 7.1 même les extensions ne jettent plus des erreurs mais elles lèvent des exceptions. @afup… [https://t.co/TIWaVztUJv](https://t.co/TIWaVztUJv)
+- [T](http://twitter.com/mgreau/status/844119806714548225) par [@mgreau](https://twitter.com/mgreau) Let your logs help you [https://t.co/ycOLFt2u1H](https://t.co/ycOLFt2u1H) via @clever_cloud
+- [T](http://twitter.com/methylbro/status/844641154406776832) par [@methylbro](https://twitter.com/methylbro) Le Spaceship Operator de #PHP7 expliqué par @pascal_martin [https://t.co/LlDfnM4SHm](https://t.co/LlDfnM4SHm) https://t.co/ygGt1nuGOX
+
+
+
+## Front / Web Apps
+- [T](http://twitter.com/_kud/status/842419712332058625) par [@_kud](https://twitter.com/_kud) A Dummy’s Guide to Redux and Thunk in React
+[https://t.co/UlBDDrQLJX](https://t.co/UlBDDrQLJX) https://t.co/i92P1YpIps
+- [T](http://twitter.com/reactjs/status/842446743568506880) par [@reactjs](https://twitter.com/reactjs) React Conf 2017 videos are now live! Thank you to our speakers, attendees, contributors, and the React community! [https://t.co/gvbTxt0qIH](https://t.co/gvbTxt0qIH)
+- [T](http://twitter.com/waxzce/status/842705869007732738) par [@waxzce](https://twitter.com/waxzce) Animista: a tool to create CSS annimation easily [https://t.co/qEwuGwEsgb](https://t.co/qEwuGwEsgb) https://t.co/fyzvbMjDJr
+- [T](http://twitter.com/wesbos/status/844198126592430080) par [@wesbos](https://twitter.com/wesbos) 🔥 Use the Firefox dev tools fonts panel to figure out if your fonts are being loaded from your system or a webfont [https://t.co/TBRO7p9htN](https://t.co/TBRO7p9htN)
+- [T](http://twitter.com/rauschma/status/844219644655423490) par [@rauschma](https://twitter.com/rauschma) Using isomorphic React for static site generation was a breakthrough for me: [https://t.co/3ghW1Z094v](https://t.co/3ghW1Z094v)
+- [T](http://twitter.com/HTeuMeuLeu/status/844557104191078403) par [@HTeuMeuLeu](https://twitter.com/HTeuMeuLeu) Nouveau ! Outlook​.com rajoute des &lt;button&gt; et des &lt;div&gt; n'importe comment autour d'&lt;img&gt; sans lien. [https://t.co/UAopvTNUIN](https://t.co/UAopvTNUIN)
+
+
+
+## Tooling / OS / Hosting
+- [T](http://twitter.com/igrigorik/status/842473290618748928) par [@igrigorik](https://twitter.com/igrigorik) Guetzli is a new open source JPEG encoder: [https://t.co/bAxOx3QVOQ](https://t.co/bAxOx3QVOQ) — sporting a cool 35% filesize reduction.. hoora… https://t.co/ocaSxIjSAb
+- [T](http://twitter.com/github/status/842502122004398080) par [@github](https://twitter.com/github) Now you'll see a quick overview of a project's open source license on its license page, just above the full text. [https://t.co/JboP2J8TGl](https://t.co/JboP2J8TGl)
+- [T](http://twitter.com/fdevillamil/status/843058102282854400) par [@fdevillamil](https://twitter.com/fdevillamil) Engineering Weekly Vol. 1, a free newsletter for system engineers goes out tomorrow. It's still time to register. [https://t.co/UZOhfW1PFp](https://t.co/UZOhfW1PFp)
+- [T](http://twitter.com/j0k/status/843066118411640832) par [@j0k](https://twitter.com/j0k) 🔒 Memorable site for testing clients against bad SSL configs [https://t.co/3wZFfUCZkF](https://t.co/3wZFfUCZkF) https://t.co/enuLaJqYhA
+- [T](http://twitter.com/sam_et_max/status/843177343288074240) par [@sam_et_max](https://twitter.com/sam_et_max) hzeller/timg: A terminal image viewer [https://t.co/XnqnqF7nTX](https://t.co/XnqnqF7nTX)
+- [T](http://twitter.com/lespacedunmatin/status/843726702786306048) par [@lespacedunmatin](https://twitter.com/lespacedunmatin) Is your shell secured against #git branches names ? [https://t.co/REGCemaaAZ](https://t.co/REGCemaaAZ)
+
+
+
+## Marketing / SEO / Comportement
+- [T](http://twitter.com/ArnaultChatel/status/844499858878861313) par [@ArnaultChatel](https://twitter.com/ArnaultChatel) Les formats publicitaires les plus détestés et les plus acceptés sur #mobile et sur #desktop [https://t.co/ckRpJusrrS](https://t.co/ckRpJusrrS) https://t.co/7fo4UYKyJd
+
+
+
+## Sécurité / Vie privée
+- [T](http://twitter.com/Turblog/status/844635715887607813) par [@Turblog](https://twitter.com/Turblog) Encore un chouette papier de @bortzmeyer ! [https://t.co/8OJEWhOcVp](https://t.co/8OJEWhOcVp)
+
+
+
+## Geek / IOT / Électronique
+- [T](http://twitter.com/waxzce/status/843793016494133248) par [@waxzce](https://twitter.com/waxzce) Building a Hackintosh Pro [https://t.co/9udgNbharN](https://t.co/9udgNbharN) https://t.co/LnnQKkzlON
+
+
+
+## Humain / Développement personnel / Santé
+- [T](http://twitter.com/MGAsso/status/842315638764912641) par [@MGAsso](https://twitter.com/MGAsso) « Compétition = Rémunération » : notre nouvelle initiative contre le #travailgratuit chez les créatifs. Partagez ! [https://t.co/rnVLK7QPMz](https://t.co/rnVLK7QPMz)
+- [T](http://twitter.com/LaetitiaPhan/status/842461170460180481) par [@LaetitiaPhan](https://twitter.com/LaetitiaPhan) Tips and breathing exercise for crisis *** Des pistes et un exercice de respiration pour se calmer en cas de panique [https://t.co/pFFzSjiXmN](https://t.co/pFFzSjiXmN)
+- [T](http://twitter.com/karinesabatier/status/843568447627890689) par [@karinesabatier](https://twitter.com/karinesabatier) Magic of Neurogenesis: Help Your Body Make New Brain Cells [https://t.co/t9UZ0PUC2Y](https://t.co/t9UZ0PUC2Y)
+
+
+
+## Divers / Conneries
+- [T](http://twitter.com/decodeurs/status/842558476354228224) par [@decodeurs](https://twitter.com/decodeurs) Comprendre la laïcité en France en trois minutes [https://t.co/EpC9SuSOfH](https://t.co/EpC9SuSOfH)
+- [T](http://twitter.com/Dame_Fanny/status/843495931093893125) par [@Dame_Fanny](https://twitter.com/Dame_Fanny) Super vidéo sur les représentations du sexe et du plaisir chez les jeunes femmes (en anglais) : [https://t.co/y0bQrhnTDH](https://t.co/y0bQrhnTDH) via @TEDTalks
+- [T](http://twitter.com/dhoko_/status/844473408238817280) par [@dhoko_](https://twitter.com/dhoko_) Fantasy Map Generator [https://t.co/lT5SsaaJ5N](https://t.co/lT5SsaaJ5N) https://t.co/sHlS0hqFdH
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
