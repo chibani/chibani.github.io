@@ -1,0 +1,76 @@
+---
+layout: post
+title: "La veille du week-end S1E42"
+date: 2017-03-31 07:00:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.  
+
+
+Bonne lecture, et bon week-end :)
+
+
+## Dev / backend / Code
+- [T](http://twitter.com/michaelhaeu/status/845003383153025024) par [@michaelhaeu](https://twitter.com/michaelhaeu) Not only is declarative code more readable, it also produces beautiful byte code and is therefore faster. Thanks… [https://t.co/hI7UPrlCyD](https://t.co/hI7UPrlCyD)
+- [T](http://twitter.com/waxzce/status/846073524443926532) par [@waxzce](https://twitter.com/waxzce) Modern #JavaScript for Ancient Web Developers – Track Changes [https://t.co/kflv29l1Sw](https://t.co/kflv29l1Sw) https://t.co/QYeHz95uiS
+- [T](http://twitter.com/nfroidure/status/846245325576818688) par [@nfroidure](https://twitter.com/nfroidure) Nice fw to work with AWS Lambda [https://t.co/nki84QRdP3](https://t.co/nki84QRdP3)
+- [T](http://twitter.com/ThePracticalDev/status/846350355789234176) par [@ThePracticalDev](https://twitter.com/ThePracticalDev) Logging done right, makes your life bright! { author: @grhegde09 } [https://t.co/cgTF6Z3dwz](https://t.co/cgTF6Z3dwz)
+- [T](http://twitter.com/waxzce/status/846467884561805312) par [@waxzce](https://twitter.com/waxzce) An Introduction to GraphQL via the GitHub API [https://t.co/8OpLdWO8rE](https://t.co/8OpLdWO8rE) https://t.co/0xRptm3sng
+- [T](http://twitter.com/waxzce/status/847039398327828480) par [@waxzce](https://twitter.com/waxzce) Common Async/Await Design Patterns in Node.js [https://t.co/q6njnLtgZ7](https://t.co/q6njnLtgZ7)
+
+
+## Front / Web Apps
+- [T](http://twitter.com/AMPhtml/status/845025194729259009) par [@AMPhtml](https://twitter.com/AMPhtml) So your #webpage is already fast. Why go @AMPhtml and why can't you be in the elusive carousel without it? Watch:… [https://t.co/SOMzQIVvCq](https://t.co/SOMzQIVvCq)
+- [T](http://twitter.com/umaar/status/844875263238455296) par [@umaar](https://twitter.com/umaar) Accessibility Style Guide for the Web - [https://t.co/f5qsUApwAu](https://t.co/f5qsUApwAu) - Covers best practices for various site components… https://t.co/8nslWsvyK0
+- [T](http://twitter.com/Real_CSS_Tricks/status/845726998471282688) par [@Real_CSS_Tricks](https://twitter.com/Real_CSS_Tricks) Grid *overrides* other layout. You can float, then as soon as grid applies, it's a grid item. Helps with fallbacks! [https://t.co/MymNxmeA6q](https://t.co/MymNxmeA6q)
+- [T](http://twitter.com/mdo/status/846080586414358528) par [@mdo](https://twitter.com/mdo) Ever run into flexbug #11 w/ wrapping flex items? Turns out a border can fix your Safari issues, too.… [https://t.co/CpbeGivsM3](https://t.co/CpbeGivsM3)
+- [T](http://twitter.com/WalterStephanie/status/846255505345593344) par [@WalterStephanie](https://twitter.com/WalterStephanie) "Need to Catch Up on the AMP Debate?" a must read on @Real_CSS_Tricks [https://t.co/dAEHsECwjI](https://t.co/dAEHsECwjI)
+- [T](http://twitter.com/addyosmani/status/846491532177768448) par [@addyosmani](https://twitter.com/addyosmani) New: Loading performance pro-tips for &lt;link rel="preload"&gt;, prefetch &amp; priorities in Chrome:… [https://t.co/D6hQrxFBk0](https://t.co/D6hQrxFBk0)
+
+
+
+## Tooling / OS / Hosting
+- [T](http://twitter.com/DelicioInsights/status/845228704297078784) par [@DelicioInsights](https://twitter.com/DelicioInsights) Git reset est mystérieux ? Maxime démystifie tout ça -&gt; [https://t.co/1gvlAjWwan](https://t.co/1gvlAjWwan)
+- [T](http://twitter.com/b0rk/status/845872025860296704) par [@b0rk](https://twitter.com/b0rk) did you know that there's a linter for bash scripts called shellcheck?!  [https://t.co/S9GtTqDXOV](https://t.co/S9GtTqDXOV)
+- [T](http://twitter.com/b0rk/status/846203979403083776) par [@b0rk](https://twitter.com/b0rk) bash tips (attached blog post: [https://t.co/EPmt7BTP98](https://t.co/EPmt7BTP98)) https://t.co/S1lpNsjADI
+- [T](http://twitter.com/fdevillamil/status/845815573892255744) par [@fdevillamil](https://twitter.com/fdevillamil) Engineering Weekly Vol. 2: Streaming with Kafka, Garbage Collection and [https://t.co/Ssc18MXxRM](https://t.co/Ssc18MXxRM)
+- [T](http://twitter.com/clever_cloud/status/846790475336036352) par [@clever_cloud](https://twitter.com/clever_cloud) We've just open-sourced "Lapin": an #AMQP client library in #Rust [https://t.co/jTy6qqwx53](https://t.co/jTy6qqwx53) https://t.co/CgrrTudlC2
+- [T](http://twitter.com/laravelphp/status/847136865371242499) par [@laravelphp](https://twitter.com/laravelphp) Forge: tutorial on how to get Free SSL with Cloudflare and Forge [https://t.co/3oYXwhxFRV](https://t.co/3oYXwhxFRV) ✌️
+- [T](http://twitter.com/b0rk/status/846918668026044417) par [@b0rk](https://twitter.com/b0rk) how https is often faster than http, via @errorinn [https://t.co/u4SwaaItS4](https://t.co/u4SwaaItS4)
+
+
+
+## Marketing / SEO / Comportement
+- [T](http://twitter.com/soumettrefr/status/844955739361816576) par [@soumettrefr](https://twitter.com/soumettrefr) Suite à l'article de @eseoref, on aurait pu dire "bien d'accord". On a préféré développer, peut-être trop. :D [https://t.co/Hekxl75UtT](https://t.co/Hekxl75UtT) #seo
+- [T](http://twitter.com/vvoyer/status/846069669685551105) par [@vvoyer](https://twitter.com/vvoyer) “How to create awesome animated GIFs of your app — in 7 easy steps” by @plehoux [https://t.co/A3msRASzJK](https://t.co/A3msRASzJK)
+
+
+
+## Sécurité / Vie privée / Libre
+- [T](http://twitter.com/JBellicaud/status/847205963652304897) par [@JBellicaud](https://twitter.com/JBellicaud) Quels sont les logiciels libres que l'État conseille via le SILL 2017 (Socle Interministériel de Logiciels Libres)? [https://t.co/EKHRqFeV4t](https://t.co/EKHRqFeV4t)
+
+
+
+## Geek / IOT / Électronique
+- [T](http://twitter.com/pimoroni/status/844900388402860032) par [@pimoroni](https://twitter.com/pimoroni) Make your @Raspberry_Pi #ZeroW  into a USB stick on #BilgeTank 084 in about 100mins. [https://t.co/OxtNxm0LA7](https://t.co/OxtNxm0LA7) https://t.co/vuXq8eheZ8
+- [T](http://twitter.com/winkleink/status/845341733974106113) par [@winkleink](https://twitter.com/winkleink) If you need a bunch of Raspberry Pi GPIO pin identifiers. Here's a link to an  A4 printable one with 16 per page. [https://t.co/vOcbbPgnYO](https://t.co/vOcbbPgnYO)
+
+
+## Humain / Développement personnel / Santé
+- [T](http://twitter.com/reesmarc/status/845370105982828545) par [@reesmarc](https://twitter.com/reesmarc) "Retards dans la finalisation d’un site : le client a manqué à son obligation de collaboration" [https://t.co/vXlfMgBHcd](https://t.co/vXlfMgBHcd)
+- [T](http://twitter.com/FGRibreau/status/846263863637135360) par [@FGRibreau](https://twitter.com/FGRibreau) [Blog] Mon opération laser des yeux (#LASIK) sur Nantes [https://t.co/2B0aKsteqg](https://t.co/2B0aKsteqg) https://t.co/i4bvIpibMG
+- [T](http://twitter.com/CodeClubAus/status/846483295839830016) par [@CodeClubAus](https://twitter.com/CodeClubAus) How kids benefit from explaining their #mathematical learning: [https://t.co/9LIAqOnwZj](https://t.co/9LIAqOnwZj) #aussieed #getkidscoding via @MindShiftKQED
+
+
+## Divers / Conneries
+- [T](http://twitter.com/LeoAuteur/status/846133904335626245) par [@LeoAuteur](https://twitter.com/LeoAuteur) La connerie expliquée par Hubert Reeves, ça vaut le détour 😀 Version longue 👉[https://t.co/cRpk9KKGMB](https://t.co/cRpk9KKGMB) https://t.co/JdWZVcEeNh
+- [T](http://twitter.com/craigmod/status/846337506400354304) par [@craigmod](https://twitter.com/craigmod) This is amazing — transferring the "style" of one photo to another: [https://t.co/x5lma0rr1V](https://t.co/x5lma0rr1V) (input &gt; style guide… https://t.co/yET6kmNjOZ
+- [T](http://twitter.com/jmnl/status/847117140855603200) par [@jmnl](https://twitter.com/jmnl) NOUVELLE VIDÉO - Pourquoi les mecs urinent sur la cuvette ? Problème, explications, solutions #PavéDansLaFlaque [https://t.co/HjuqTfu2Hj](https://t.co/HjuqTfu2Hj)
+
+
+
+
+
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
