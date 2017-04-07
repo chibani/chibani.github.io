@@ -1,0 +1,76 @@
+---
+layout: post
+title: "La veille du week-end S1E43"
+date: 2017-04-07 07:00:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.  
+
+La semaine dernière, le blog avait quelques difficultés techniques (souci de déclaration DNS), de plus, j'étais en déplacement.  
+Par conséquent, la veille avait été un peu perturbée :/
+
+Cette semaine, on repart propre, avec le temps suffisant, et un blog en état de marche.
+
+Par ailleurs, j'ai un ami qui __recrute__.  
+Il cherche un dessinateur (ou une dessinatrice) en architecture, pour venir compléter sa petite équipe.  
+La société, Studeo, se situe à St Père en Retz (44).
+Voici son annonce, n'hésitez pas à la faire tourner : [Offre emploi dessinateur](https://www.facebook.com/studeo44320/photos/a.877953565646280.1073741829.732999156808389/1170500659724901/?type=3&theater)
+
+Bonne lecture, et bon week-end :)
+
+
+## Dev / backend / Code
+- [T](http://twitter.com/cree1site/status/847660502360571904) par [@cree1site](https://twitter.com/cree1site) 3 plugins pour perdre vos kilos en trop sous #WordPress avant l’été [https://t.co/Pst3w5FZ7a](https://t.co/Pst3w5FZ7a) via @Cree1site
+- [T](http://twitter.com/mpjme/status/848994268983197700) par [@mpjme](https://twitter.com/mpjme) Standard deviation - Data science in JavaScript [https://t.co/auA5ls9TNX](https://t.co/auA5ls9TNX) https://t.co/SQ3nhjtkIZ
+- [T](http://twitter.com/fabpot/status/848795775803043840) par [@fabpot](https://twitter.com/fabpot) #Symfony4 Compose your Applications — first blog post of a series of 8 #php [https://t.co/GCbbnENG9Q](https://t.co/GCbbnENG9Q)
+- [T](http://twitter.com/francoisz/status/848901421919596544) par [@francoisz](https://twitter.com/francoisz) 0.1 + 0.2 = 0.30000000000000004 in pretty much every programming language. Wonder why? Floating Point Math [https://t.co/GF7oiwBzkE](https://t.co/GF7oiwBzkE)
+
+
+## Front / Web Apps
+- [T](http://twitter.com/nihaux/status/849003414830841858) par [@nihaux](https://twitter.com/nihaux) CodeSandbox - An online React editor with a focus on easy sharing and reusability [https://t.co/jEgfD5aeB8](https://t.co/jEgfD5aeB8)
+- [T](http://twitter.com/WalterStephanie/status/849503570193940480) par [@WalterStephanie](https://twitter.com/WalterStephanie) Grid Garden - A game for learning CSS grid &gt;&gt; I love those kind of fun sites where your learn and have fun [https://t.co/zlHXOJYrD2](https://t.co/zlHXOJYrD2)
+
+
+## Tooling / OS / Hosting
+- [T](http://twitter.com/FGRibreau/status/847341626494140417) par [@FGRibreau](https://twitter.com/FGRibreau) entr - A utility for running arbitrary commands when files change [https://t.co/c6dRHNX3WI](https://t.co/c6dRHNX3WI)
+- [T](http://twitter.com/waxzce/status/847401787682193408) par [@waxzce](https://twitter.com/waxzce) CDNs, HTTP/2, TLS, Browser Caching — A Survey of Web Performance Techniques [https://t.co/mVYWW5S7ys](https://t.co/mVYWW5S7ys) https://t.co/7Gf907UESk
+- [T](http://twitter.com/waxzce/status/847723396049780737) par [@waxzce](https://twitter.com/waxzce) "Can I install Clever Cloud on my own infrastructure? Like private cloud stuff?"  YES :-) 🙌 [https://t.co/hbODTdtYt9](https://t.co/hbODTdtYt9) https://t.co/CGJ1aGBnGo
+- [T](http://twitter.com/clever_cloud/status/848800515504951296) par [@clever_cloud](https://twitter.com/clever_cloud) [youtube] #RabbitMQ 101 by @waxzce, CEO @Clever Cloud [https://t.co/vStKLSNBB8](https://t.co/vStKLSNBB8)
+- [T](http://twitter.com/ericlaw/status/848990620374847491) par [@ericlaw](https://twitter.com/ericlaw) Build Chrome extensions? You should read this from @taviso: [https://t.co/87tdKlEb0E](https://t.co/87tdKlEb0E)
+
+
+
+## Marketing / SEO / Comportement
+- [T](http://twitter.com/NCCGroupWebperf/status/847743369979715585) par [@NCCGroupWebperf](https://twitter.com/NCCGroupWebperf) The hidden cost of A/B &amp; multivariate testing - [https://t.co/MFo0zqLBjH](https://t.co/MFo0zqLBjH) #webperf #perfmatters #martech
+- [T](http://twitter.com/demarcq/status/849635140938682371) par [@demarcq](https://twitter.com/demarcq) Les moyens de paiements préférés des français en ligne... [https://t.co/N39U6HuU1Z](https://t.co/N39U6HuU1Z)
+
+
+
+## Sécurité / Vie privée / Libre
+- [T](http://twitter.com/Pamela_Poole/status/847823991284801537) par [@Pamela_Poole](https://twitter.com/Pamela_Poole) #GetSafe guide to protecting your privacy: [https://t.co/g3XypAjntw](https://t.co/g3XypAjntw) https://t.co/z9xFeGIGG1
+- [T](http://twitter.com/x0rz/status/849025186192134145) par [@x0rz](https://twitter.com/x0rz) A vulnerability found in a DILDO during a "PENETRATION TEST", not a joke 🙄 [https://t.co/uTH5eWowZR](https://t.co/uTH5eWowZR) #IoT… https://t.co/g43sB6m3Pc
+
+
+
+## Geek / IOT / Électronique
+- [T](http://twitter.com/seynaeve/status/848632124290846721) par [@seynaeve](https://twitter.com/seynaeve) Android Auto vs Apple CarPlay REAL WORLD TEST [https://t.co/SfxT8Y58av](https://t.co/SfxT8Y58av)
+- [T](http://twitter.com/gonzague/status/848802933118513152) par [@gonzague](https://twitter.com/gonzague) Ecran LG 5K UltraFine : petit essai / présentation - [https://t.co/RM1P6uNISv](https://t.co/RM1P6uNISv) https://t.co/Mj4tPCOosS
+- [T](http://twitter.com/tyrower/status/849120041664749569) par [@tyrower](https://twitter.com/tyrower) Making Ethernet Cables - Tricks of the Trade [https://t.co/lpmncQ2Wgs](https://t.co/lpmncQ2Wgs)
+- [T](http://twitter.com/baDotNet/status/848468308277985280) par [@baDotNet](https://twitter.com/baDotNet) Si comme moi vous branchez votre ESP8266 et que votre mac fait un kernel panic, voici la solution :… [https://t.co/PeeOpxLg7n](https://t.co/PeeOpxLg7n) // NDLG : J'avais ce problème avec des copies de Arduino nano (même contrôleur)
+
+
+## Humain / Développement personnel / Santé
+- [T](http://twitter.com/pascal_martin/status/847342132444635137) par [@pascal_martin](https://twitter.com/pascal_martin) Il y a deux ans, j'ai posté « Des réunions sans ordinateur ni téléphone ? C'est possible ! » sur mon blog —… [https://t.co/Oxso42D4Oi](https://t.co/Oxso42D4Oi)
+- [T](http://twitter.com/waxzce/status/848785932316803072) par [@waxzce](https://twitter.com/waxzce) Dévelop-PEURS [https://t.co/WNgCKKFYbN](https://t.co/WNgCKKFYbN) https://t.co/NOoQXXfbQk
+
+
+## Divers / Conneries
+- [T](http://twitter.com/enflammee/status/848773734332870657) par [@enflammee](https://twitter.com/enflammee) #CoffeePorn les Cafetières ❤ [https://t.co/atk4SJvxxk](https://t.co/atk4SJvxxk)
+- [T](http://twitter.com/VuFrance2/status/849629935023136768) par [@VuFrance2](https://twitter.com/VuFrance2) "Nous quand on est convoqué devant la police on a pas d'immunité ouvrière, désolé" [https://t.co/tnYNBZPh3b](https://t.co/tnYNBZPh3b)
+
+
+
+
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
