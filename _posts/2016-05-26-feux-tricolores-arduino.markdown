@@ -15,7 +15,7 @@ Le système est assez simple, composé de 2 paires de feux, comprenant chacun 3 
 
 
 ## L'idée
-J'ai repris cette idée d'une conf présentée au DevoxxFR de cette années.  
+J'ai repris cette idée d'une conf présentée au DevoxxFR 2016.  
 La vidéo en question : [La  vidéo](https://youtu.be/T_nrD3E5qD0?t=13m24s).
 
 Cette vidéo était également intéressante pour les différents outils qu'elle présentait. Chaque outil permettant une découverte de la programmation selon l'âge.
@@ -24,7 +24,7 @@ Voici donc un mini-tuto pour réaliser cette construction :
 ![Les feux, installés sur le tapis](/assets/posts/redlights/car_with_lights.jpg)
 
 ## Conception
-Pour simplifier le montage, et l'explication à fournir aux enfants, les 4 feux marchent par paires.
+Pour simplifier le montage, et l'explication à fournir aux enfants, les 4 feux marchent par paires (groupe A et groupe B).
 Sur notre croisement, les feux qui se font face fonctionnent ensemble.  
 
 Ensuite, avec les enfants, nous avons préparé les séquences d'allumage :  
@@ -55,11 +55,11 @@ Voici le premier prototype fonctionnel, avec 2 feux complets :
 ### Matériel
 Je suis parti sur ce que j'avais en réserve :
 
- * 1 arduino nano (enfin, une copie asiatique...)
+ * 1 Arduino nano (ou une copie asiatique...)
  * 4 LEDs vertes
  * 4 LEDs jaunes
  * 4 LEDs rouges
- * du fil, idéalement 4 couleurs différentes (pour le vert, jaune, rouge et la masse)
+ * du fil électrique, idéalement 4 couleurs différentes (pour le vert, jaune, rouge et la masse)
  * 1 boite de dérivation (pour protéger le montage)
  * (optionnellement) de quoi souder, si vous souhaitez un montage plus solide
 
@@ -70,11 +70,11 @@ Mais si vous avez la chance d'avoir accès à une imprimante 3D, il y a moyen de
 
 J'ai installé tout ça dans un tapis de jeu illustré de routes (venant d'un célèbre designer suédois).  
 Le tapis a pris 5 bons coups de cutter (1 pour chaque feu, et un dernier sous la boite de dérivation), pour pouvoir glisser les fils.
-Les feux ont été fixés avec du schotch double-face, mais au final, ce n'est peut être pas la meilleure option (niveau solidité).
+Les feux ont été fixés avec de l'adhésif double-face, mais au final, ce n'est peut être pas la meilleure option (niveau solidité).
 
 ## Code et schéma
-Le code tient dans un simple fichier ino (le format de l'éditeur Arduino).
-Il est partagé le code pour Arduino sur Github : [ici](https://gist.github.com/chibani/ecc079ce30894ff5434bbb0690af7b68)  
+Le code tient dans un simple fichier ino (le format de l'éditeur Arduino).  
+Il est partagé sur Github : [ici](https://gist.github.com/chibani/ecc079ce30894ff5434bbb0690af7b68)  
 Ainsi, vous pourrez le copier, modifier, améliorer, etc...
 
 Concernant le schéma, je n'ai pas trouvé de solution simple pour le faire (sans me prendre trop la tête...), d'ailleurs si vous avez, je suis preneur (mon mail et mon Twitter sont dans le footer).  
