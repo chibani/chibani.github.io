@@ -1,0 +1,59 @@
+---
+layout: post
+title: "La veille du week-end S1E44"
+date: 2017-04-16 07:00:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.  
+
+OK, ok, la semaine dernière, j'avais une excuse d'ordre technique...  
+Mais cette semaine, je suis en vacances, alors, hein !
+
+Bref, voici, quand même votre dose de lecture hebdomadaire ;)
+
+
+## Dev / backend / Code
+- [T](http://twitter.com/_kud/status/850314344017670144) par [@_kud](https://twitter.com/_kud) How to make a simple loop is jsx [https://t.co/TcNzaP76rg](https://t.co/TcNzaP76rg)
+- [T](http://twitter.com/housecor/status/850510391004102657) par [@housecor](https://twitter.com/housecor) PropTypes and React.createClass are now in their own package. React Addons is no longer actively supported. [https://t.co/337n61YcfF](https://t.co/337n61YcfF)
+- [T](http://twitter.com/_kud/status/852168484234694656) par [@_kud](https://twitter.com/_kud) Why and How to Use PureComponent in React.js [https://t.co/5xOHm8LcuU](https://t.co/5xOHm8LcuU) #reactjs https://t.co/O485MjYpdY
+- [T](http://twitter.com/Anahkiasen/status/851706478578864129) par [@Anahkiasen](https://twitter.com/Anahkiasen) $PHP = 💩; – Fuzz – Medium [https://t.co/JoaJPXu1Fd](https://t.co/JoaJPXu1Fd)
+- [T](http://twitter.com/rocallahan/status/849490088333594624) par [@rocallahan](https://twitter.com/rocallahan) Rust Optimizations That C++ Can't Do (Version 2) [https://t.co/tZrpVVSdZK](https://t.co/tZrpVVSdZK) (addressing the error in my previous post)
+- [T](http://twitter.com/FGRibreau/status/851844293614608384) par [@FGRibreau](https://twitter.com/FGRibreau) rustlings - Small exercises to get you used to reading and writing #Rust code [https://t.co/4UiTCuYp58](https://t.co/4UiTCuYp58)
+
+
+## Front / Web Apps
+ - [T](http://twitter.com/TwitterEng/status/849865672221904896) par [@TwitterEng](https://twitter.com/TwitterEng) We’re excited to introduce Twitter Lite, a Progressive Web App at [https://t.co/8NfwZpdplk](https://t.co/8NfwZpdplk). Here's how we built it 🛠  https://t.co/n8BMqpqdW6
+ - [T](http://twitter.com/ghoullier/status/852163176024223745) par [@ghoullier](https://twitter.com/ghoullier) Twitter Lite and High Performance #React Progressive Web Apps at Scale [https://t.co/o4pkxhHPM6](https://t.co/o4pkxhHPM6)
+
+## Tooling / OS / Hosting
+ - [T](http://twitter.com/sam_et_max/status/850731168794279936) par [@sam_et_max](https://twitter.com/sam_et_max) Robert Haas: New Features Coming in PostgreSQL 10 [https://t.co/bayLATDgO8](https://t.co/bayLATDgO8)
+
+
+## Marketing / SEO / Comportement
+- [T](http://twitter.com/thuroot/status/851730952464343041) par [@thuroot](https://twitter.com/thuroot) Quand l'analyse de logs montre que 80% de ton crawl est consommé pour AMP et que cela te rapporte 0.1% d'audience !…
+
+
+
+## Sécurité / Vie privée / Libre
+- [T](http://twitter.com/axellelemaire/status/851890104192913408) par [@axellelemaire](https://twitter.com/axellelemaire) Comment expliquer le #chiffrement à vos parents? C'est l'histoire d'Axelle, Bernard et François...  😉 [https://t.co/5SdQbzjPuQ](https://t.co/5SdQbzjPuQ) via @nextinpact
+
+
+
+## Geek / IOT / Électronique
+- [T](http://twitter.com/binitamshah/status/851068770474917888) par [@binitamshah](https://twitter.com/binitamshah) whereami : Uses WiFi signals and machine learning to predict where you are. Even works for distances like 2-10 mt :  [https://t.co/f4fXudUe94](https://t.co/f4fXudUe94)
+
+
+## Humain / Développement personnel / Santé
+- [T](http://twitter.com/CPUprogramme/status/850352561207029760) par [@CPUprogramme](https://twitter.com/CPUprogramme) [https://t.co/AlL23l3xBK](https://t.co/AlL23l3xBK) « Pour être génial, pensez comme si vous aviez 94 ans. » Ode contre le jeunisme
+- [T](http://twitter.com/LaetitiaPhan/status/851844828707082240) par [@LaetitiaPhan](https://twitter.com/LaetitiaPhan) How wanting too badly to be happy makes us profoundly unhappy.  [https://t.co/yAyNeZaFP4](https://t.co/yAyNeZaFP4)
+
+
+## Divers / Conneries
+- [T](http://twitter.com/Golem_13/status/850301462915805185) par [@Golem_13](https://twitter.com/Golem_13) Un site rassemble 150 films pour enfants en accès libre, gratuit et légal [https://t.co/dVg16hLYqQ](https://t.co/dVg16hLYqQ) https://t.co/qzT7YC8vVm
+- [T](http://twitter.com/nhoizey/status/850618454075899904) par [@nhoizey](https://twitter.com/nhoizey) Wow wow wow, l'intégrale de Space Adventure Cobra en HD sur YouTube !!! via @Thanh #fb [https://t.co/BpcNMtKveb](https://t.co/BpcNMtKveb)
+- [T](http://twitter.com/Golem_13/status/851485082749730817) par [@Golem_13](https://twitter.com/Golem_13) "I Am Heath Ledger", le documentaire hommage [https://t.co/Cd5IBgUZKK](https://t.co/Cd5IBgUZKK) https://t.co/l9d47OKj7p
+- [T](http://twitter.com/sam_et_max/status/851794473231282177) par [@sam_et_max](https://twitter.com/sam_et_max) Software that can generate photos from paintings, turn horses into zebras, perform style transfer... [https://t.co/7nbJI7JjJz](https://t.co/7nbJI7JjJz) #holyshit
+- [T](http://twitter.com/CNES/status/852111644343795712) par [@CNES](https://twitter.com/CNES) Consultez notre chronologie interactive des mises en orbites de #satellites🛰 par le @CNES depuis les années 1960… [https://t.co/wsCYiZASvr](https://t.co/wsCYiZASvr)
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
