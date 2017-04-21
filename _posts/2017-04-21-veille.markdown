@@ -1,0 +1,66 @@
+---
+layout: post
+title: "La veille du week-end S1E45"
+date: 2017-04-21 07:00:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.  
+
+Bonne lecture, et bon week-end.
+
+## Dev / backend / Code
+- [T](http://twitter.com/waxzce/status/852960416783364097) par [@waxzce](https://twitter.com/waxzce) Mastering the Node.js CLI &amp; Command Line Options  [https://t.co/Dtbv55fOWU](https://t.co/Dtbv55fOWU) https://t.co/D2q6IjTTOe
+- [T](http://twitter.com/rauschma/status/852978765932244993) par [@rauschma](https://twitter.com/rauschma) This is how you use headless Chrome from Node.js. [https://t.co/UW13g7EmiI](https://t.co/UW13g7EmiI)
+- [T](http://twitter.com/b0rk/status/854193047525052416) par [@b0rk](https://twitter.com/b0rk) i wrote a tiny snake game in Rust this evening, it was fun! [https://t.co/TD7cpBakzZ](https://t.co/TD7cpBakzZ)
+- [T](http://twitter.com/WalterStephanie/status/854214698853703680) par [@WalterStephanie](https://twitter.com/WalterStephanie) "So what’s this GraphQL thing I keep hearing about?" @SachaGreif is really good at explaining complex things :) [https://t.co/ydJUXADyNr](https://t.co/ydJUXADyNr)
+- [T](http://twitter.com/oncletom/status/854269530658537473) par [@oncletom](https://twitter.com/oncletom) "if you want to spend any time polishing you'll need twice as much time" [https://t.co/cELEDEBg9m](https://t.co/cELEDEBg9m) https://t.co/4EvIllvY2Y
+
+
+
+## Front / Web Apps
+- [T](http://twitter.com/waxzce/status/853591603868520449) par [@waxzce](https://twitter.com/waxzce) barba.js : Create badass, fluid and smooth transition between your website's pages when pushState is triggerd. [https://t.co/6hhIkq6oWz](https://t.co/6hhIkq6oWz)
+- [T](http://twitter.com/waxzce/status/853974599029190657) par [@waxzce](https://twitter.com/waxzce) Under 1KB each! Super Tiny Social Icons are miniscule SVG versions of your favourite logos [https://t.co/XVhVoXg41B](https://t.co/XVhVoXg41B) https://t.co/8AVxK7EwQN
+- [T](http://twitter.com/meulta/status/854008728474886144) par [@meulta](https://twitter.com/meulta) Wondering how to setup push notifications on a #bot web chat using service workers? Read this:… [https://t.co/0Q1hURaTiA](https://t.co/0Q1hURaTiA)
+- [T](http://twitter.com/gonzague/status/854002250359996416) par [@gonzague](https://twitter.com/gonzague) How Vice Media cut page-load time by 50 percent in six months - Digiday [https://t.co/aAdwecnXJE](https://t.co/aAdwecnXJE)
+- [T](http://twitter.com/DelicioInsights/status/853895816934830080) par [@DelicioInsights](https://twitter.com/DelicioInsights) 12 libs JS pour le web front que j'utilise tout le temps : [https://t.co/A2KVI7YmfW](https://t.co/A2KVI7YmfW)
+- [T](http://twitter.com/WalterStephanie/status/854575247881883648) par [@WalterStephanie](https://twitter.com/WalterStephanie) PWA Stats, news and stats related to Progressive Web Apps [https://t.co/2RujDvgEqo](https://t.co/2RujDvgEqo)
+- [T](http://twitter.com/waxzce/status/854287140410281984) par [@waxzce](https://twitter.com/waxzce) SlateJS is a completely customizable framework for building rich text editors [https://t.co/extIXbMSXV](https://t.co/extIXbMSXV) // #javascript
+
+
+
+## Tooling / OS / Hosting
+- [T](http://twitter.com/taylorotwell/status/853978332345643010) par [@taylorotwell](https://twitter.com/taylorotwell) I just published “Properly Deploying Queues On Forge” [https://t.co/1J5ZqYkDAe](https://t.co/1J5ZqYkDAe)
+- [T](http://twitter.com/epiloic/status/854137480265773056) par [@epiloic](https://twitter.com/epiloic) Makefile: usability tips: [https://t.co/Wqm5yL9BIP](https://t.co/Wqm5yL9BIP) // useful for the upcoming Symfony 4 / Flex
+
+
+## Marketing / SEO / Comportement
+- [T](http://twitter.com/reybango/status/854018298115219457) par [@reybango](https://twitter.com/reybango) If ur interested in jumping into Mastodon but not 100% clear on what it is @rauschma wrote a great post on the topic [https://t.co/hzwlFxs1eL](https://t.co/hzwlFxs1eL)
+- [T](http://twitter.com/Wisibility/status/854264410701008896) par [@Wisibility](https://twitter.com/Wisibility) Fort intéressant cet article sur les Personas… souvent un truc que j’explique à mes clients ! [https://t.co/68J3oZXUYD](https://t.co/68J3oZXUYD)
+- [T](http://twitter.com/WalterStephanie/status/854647862839455744) par [@WalterStephanie](https://twitter.com/WalterStephanie) Timing is everything: what our data says about the best time to send a message [https://t.co/nVoaHAKKAM](https://t.co/nVoaHAKKAM) https://t.co/JGUREetEAm
+
+
+
+## Sécurité / Vie privée / Libre
+- [T](http://twitter.com/homakov/status/853172736776163329) par [@homakov](https://twitter.com/homakov) [https://t.co/Yv9nZupQ5h](https://t.co/Yv9nZupQ5h) - unicode in domain names is very dumb idea, unlimited phishing opportunities and useless f… https://t.co/YdiGpM88Sd
+
+
+## Geek / IOT / Électronique
+- [T](http://twitter.com/SnazzyQ/status/853278185399566336) par [@SnazzyQ](https://twitter.com/SnazzyQ) NEW VIDEO! I benchmarked a lot of eGPUs. How do they fair on the Mac? Find out now! [https://t.co/4UKMeo4Ohv](https://t.co/4UKMeo4Ohv) https://t.co/KGGY0KCIvy
+- [T](http://twitter.com/sam_et_max/status/853544696236445698) par [@sam_et_max](https://twitter.com/sam_et_max) HP Labs developed a new rewritable printing techno.. [https://t.co/LbdnYEPmqi](https://t.co/LbdnYEPmqi)
+- [T](http://twitter.com/gonzague/status/854223568586104832) par [@gonzague](https://twitter.com/gonzague) Test : Caméra IP Foscam FI9928P - [https://t.co/oxHYobFVHm](https://t.co/oxHYobFVHm) https://t.co/QMwRwZdm6w
+- [T](http://twitter.com/BoingBoing/status/854224030102151169) par [@BoingBoing](https://twitter.com/BoingBoing) Independent repair guy on the planned obsolescence of Apple products [https://t.co/UQUyHe2Akd](https://t.co/UQUyHe2Akd)
+
+
+
+## Humain / Développement personnel / Santé
+Rien cette semaine :/
+
+
+## Divers / Conneries
+- [T](http://twitter.com/Bouletcorp/status/853894865914036225) par [@Bouletcorp](https://twitter.com/Bouletcorp) Le dernier @LastWeekTonight sur nos élections avec @iamjohnoliver qui parle (essaye de parler) français! :D [https://t.co/CpxK4mcAhy](https://t.co/CpxK4mcAhy)
+
+
+
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
