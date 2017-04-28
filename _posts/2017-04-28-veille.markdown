@@ -1,0 +1,78 @@
+---
+layout: post
+title: "La veille du week-end S1E46"
+date: 2017-04-28 07:00:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.  
+
+La citation de la semaine :  
+
+- [T](http://twitter.com/geddski/status/857276117895401473) par [@geddski](https://twitter.com/geddski) I'm a 10x developer: everything takes 10x longer than I planned.  
+
+
+Plus sérieusement, les [vidéos des confs Devoxx France 2017](https://www.youtube.com/playlist?list=PLTbQvx84FrASpPvTGt_0BzttHUvMEvXyP) sont sorties, dévorez-les !
+
+Bonne lecture, et bon week-end.
+
+## Dev / backend / Code
+- [T](http://twitter.com/frostys77/status/855290773373296641) par [@frostys77](https://twitter.com/frostys77) “A roadmap to becoming a web developer in 2017” by @ossia [https://t.co/hYX5y9bBGs](https://t.co/hYX5y9bBGs)
+- [T](http://twitter.com/clementd/status/856621027278950401) par [@clementd](https://twitter.com/clementd) Pour oublier les fachos et les insoumis abstentionnistes, vous pouvez m'écouter parler de microservices: [https://t.co/Z2pT23uJ2a](https://t.co/Z2pT23uJ2a)
+
+
+
+
+## Front / Web Apps
+- [T](http://twitter.com/EricVicenti/status/855190090770898945) par [@EricVicenti](https://twitter.com/EricVicenti) I'm excited to publish my "Intro to React" workshop that I presented at F8 this year! [https://t.co/mjz3IZ5leD](https://t.co/mjz3IZ5leD)
+- [T](http://twitter.com/WalterStephanie/status/854960324868427778) par [@WalterStephanie](https://twitter.com/WalterStephanie) Vous pouvez désormais télécharger les slides de mes cours d'Initiation au #HTML et #CSS sur mon blog :) #debutant… [https://t.co/bZqVl6ZqWT](https://t.co/bZqVl6ZqWT)
+- [T](http://twitter.com/smashingmag/status/855077883974483968) par [@smashingmag](https://twitter.com/smashingmag) So what exactly is a WebView? A good introduction. [https://t.co/rzlKcjjcSj](https://t.co/rzlKcjjcSj)
+- [T](http://twitter.com/theystolemynick/status/855344320576184321) par [@theystolemynick](https://twitter.com/theystolemynick) Utiliser sur son site la police de l'OS (façon github et medium) : [https://t.co/oOpotYIQrS](https://t.co/oOpotYIQrS) 0 chargement et ça change de Arial
+- [T](http://twitter.com/sw12/status/855469206724370432) par [@sw12](https://twitter.com/sw12) If you like testing Web permissions UX, you'll love [https://t.co/Zx8cKJmYoc](https://t.co/Zx8cKJmYoc) ht @lgarron https://t.co/bVt64HhUI9
+- [T](http://twitter.com/waxzce/status/855856225472458752) par [@waxzce](https://twitter.com/waxzce) tinytime A straightforward #javascript time and time formatter in &lt;1kb
+[https://t.co/wWV5MzwDNy](https://t.co/wWV5MzwDNy)
+- [T](http://twitter.com/_ericelliott/status/856162028133769218) par [@_ericelliott](https://twitter.com/_ericelliott) Magic JS spell to get better (not perfect) character counts for i18n/emoji. Use the iterator: '🍣🍕🍦'.length; // 6 vs [...'🍣🍕🍦'].length; // 3
+- [T](http://twitter.com/waxzce/status/856314007870943233) par [@waxzce](https://twitter.com/waxzce) chroma.js is a tiny #JavaScript library (14kB) for dealing with colors! [https://t.co/WpAzIfHV1u](https://t.co/WpAzIfHV1u) https://t.co/pjEAcGVGs6
+- [T](http://twitter.com/ssstofff/status/857287972823191559) par [@ssstofff](https://twitter.com/ssstofff) Need a better insight on SVG and its ViewBox? This Visual Tool of @SaraSoueidan: [https://t.co/K5k9R8MVsK](https://t.co/K5k9R8MVsK) #frontend https://t.co/esh9a7i2ey
+
+
+
+
+## Tooling / OS / Hosting
+- [T](http://twitter.com/waxzce/status/855318166121046017) par [@waxzce](https://twitter.com/waxzce) Happy dev ... &amp; ops [https://t.co/P0m9rnpYp1](https://t.co/P0m9rnpYp1) // Les slides de ma conf à Nantes et Toulouse durant le #devopsTour
+- [T](http://twitter.com/nfroidure/status/856412287124590592) par [@nfroidure](https://twitter.com/nfroidure) “Building a static website generator with React, AWS Lambda and Terraform” by @_jschr [https://t.co/MdpCLAhQSh](https://t.co/MdpCLAhQSh)
+- [T](http://twitter.com/waxzce/status/856399573903978496) par [@waxzce](https://twitter.com/waxzce) Pourquoi utiliser un gestionnaire d’abréviation ? – by @slecache [https://t.co/zAercQhgdj](https://t.co/zAercQhgdj)
+- [T](http://twitter.com/edenpulse/status/856531698326044673) par [@edenpulse](https://twitter.com/edenpulse) Ma liste de plugins Sketch + comment les sync entre plusieurs machines. [https://t.co/uJQ9JpDoFt](https://t.co/uJQ9JpDoFt) #sketch #plugins https://t.co/zveExlHoBS
+
+
+
+## Marketing / SEO / Comportement
+- [T](http://twitter.com/theystolemynick/status/855002944147771394) par [@theystolemynick](https://twitter.com/theystolemynick) Étude d'un groupement de publicitaires sur les formats les moins aimés [https://t.co/NN4NaOQKNZ](https://t.co/NN4NaOQKNZ) https://t.co/BRvMVBKQ9j
+
+
+## Sécurité / Vie privée / Libre
+- [T](http://twitter.com/MyCozyCloud/status/855094253646512128) par [@MyCozyCloud](https://twitter.com/MyCozyCloud) Bose headphones spy on listeners: lawsuit | Reuters [https://t.co/pFAScMlA4B](https://t.co/pFAScMlA4B) https://t.co/UH5bSlP6PQ
+
+
+
+## Geek / IOT / Électronique
+- [T](http://twitter.com/b0rk/status/856874325420453889) par [@b0rk](https://twitter.com/b0rk) "we built an arcade cabinet in a weekend!" by @ertyseidohl &amp; team [https://t.co/0v0cGxp9Y9](https://t.co/0v0cGxp9Y9)
+
+
+
+
+
+## Humain / Développement personnel / Santé
+- [T](http://twitter.com/couac/status/855398002097360897) par [@couac](https://twitter.com/couac) I just published my slides about #remotework and working in a remote-first company: [https://t.co/YQ0PpGXn2n](https://t.co/YQ0PpGXn2n). #mixit17
+- [T](http://twitter.com/NawakNawak/status/855785500543774720) par [@NawakNawak](https://twitter.com/NawakNawak) Insultes, menaces, racisme, homophobie et misère intellectuelle : quand la France qui vote #FN m'écrit. La réalité ! [https://t.co/vXW1wBxkx4](https://t.co/vXW1wBxkx4)
+- [T](http://twitter.com/AFEcreation/status/856440222732701696) par [@AFEcreation](https://twitter.com/AFEcreation) Les tabous de l'argent et du business chez les entrepreneures de TPE sont réels et conséquents… [https://t.co/W7sipqCpM7](https://t.co/W7sipqCpM7)
+- [T](http://twitter.com/borisschapira/status/857264008767967234) par [@borisschapira](https://twitter.com/borisschapira) Entretien d'embauche : évaluer les savoir-être [https://t.co/zbrgNYkLcI](https://t.co/zbrgNYkLcI)
+
+
+
+## Divers / Conneries
+- [T](http://twitter.com/BoingBoing/status/855801888905846787) par [@BoingBoing](https://twitter.com/BoingBoing) You can make a swimming pool out of a shipping container. [https://t.co/PJrGzYjGZr](https://t.co/PJrGzYjGZr) https://t.co/1YghedpvnU
+- [T](http://twitter.com/studio404/status/857206988647911424) par [@studio404](https://twitter.com/studio404) Pour les curieux, voici la liste des 14 jeux de la collection du @MuseumModernArt [https://t.co/rmPjlTdVsM](https://t.co/rmPjlTdVsM) https://t.co/8MtWCVZx6X
+- [T](http://twitter.com/amonute_/status/857239232112455680) par [@amonute_](https://twitter.com/amonute_) Slt je lance ma newsletter vendredi, ça parle de PODCASTS et si ça vous intéresse vous pouvez vous inscrire ici [https://t.co/RX5Oo557YA](https://t.co/RX5Oo557YA)
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
