@@ -1,0 +1,56 @@
+---
+layout: post
+title: "La veille du week-end S1E47"
+date: 2017-05-05 06:00:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.  
+
+Une veille légère cette semaine, avec un long week-end, c'est parfait, non ? :D
+
+Bonne lecture, et bon week-end.
+
+## Dev / backend / Code
+- [T](http://twitter.com/Jeyg/status/857547556670328832) par [@Jeyg](https://twitter.com/Jeyg) Working with JSON in MySQL [https://t.co/frUJUd7qQs](https://t.co/frUJUd7qQs)
+- [T](http://twitter.com/waunakeesoccer1/status/857648109480030208) par [@waunakeesoccer1](https://twitter.com/waunakeesoccer1) 🔥 @laravelphp 5.4.20 allows you to add prefixes to your queues to help prevent that pesky crosstalk [https://t.co/3r0yc8GXrj](https://t.co/3r0yc8GXrj)
+- [T](http://twitter.com/waxzce/status/857870257326891009) par [@waxzce](https://twitter.com/waxzce) #PostgreSQL 9.6: Parallel Queries [https://t.co/e06wEig5n4](https://t.co/e06wEig5n4) #SQL https://t.co/RCTumJPq7l
+- [T](http://twitter.com/WordPressTV/status/858258309551468544) par [@WordPressTV](https://twitter.com/WordPressTV) Lucy Beer: Solving Your Own WordPress Problems [https://t.co/IwVXoqWovD](https://t.co/IwVXoqWovD)
+- [T](http://twitter.com/CamilleRoux/status/859301505278631936) par [@CamilleRoux](https://twitter.com/CamilleRoux) Six programming paradigms that will change how you think about coding [https://t.co/LhWDXDufLU](https://t.co/LhWDXDufLU) https://t.co/AdkZy478b0
+
+
+## Front / Web Apps
+- [T](http://twitter.com/sam_et_max/status/857678014758477828) par [@sam_et_max](https://twitter.com/sam_et_max) Fathom: a framework for understanding web pages ★ Mozilla Hacks – the Web developer blog [https://t.co/3M2CAC5bGc](https://t.co/3M2CAC5bGc)
+- [T](http://twitter.com/ykob0123/status/859597658314256385) par [@ykob0123](https://twitter.com/ykob0123) reposted my glsl glitch demo into CodePen. [https://t.co/oilxlgIffJ](https://t.co/oilxlgIffJ) @CodePen #glsl #threejs https://t.co/jGmUJX35ce
+
+
+
+## Tooling / OS / Hosting
+- [T](http://twitter.com/ebidel/status/859070516719529984) par [@ebidel](https://twitter.com/ebidel) “Getting Started With Headless Chrome” - [https://t.co/cbrISCk1mv](https://t.co/cbrISCk1mv) 🚫👱🏼Screenshots, printing DOM, create PDF, debugging, using w/ Node, Docker.
+- [T](http://twitter.com/MikeMcQuaid/status/859133352422539264) par [@MikeMcQuaid](https://twitter.com/MikeMcQuaid) I'm proud to announce the release of Homebrew 1.2.0: [https://t.co/COkGIOZVKt](https://t.co/COkGIOZVKt)
+- [T](http://twitter.com/gonzague/status/859321868171476993) par [@gonzague](https://twitter.com/gonzague) Sauvegarder en Rsync / SSH vers C14 d’Online [https://t.co/IXGoS009eT](https://t.co/IXGoS009eT) https://t.co/Nu8UjILnmA
+- [T](http://twitter.com/nhoizey/status/859405627503804421) par [@nhoizey](https://twitter.com/nhoizey) Automatiser l'installation des applications sur un nouveau Mac [https://t.co/Z1ibVl3cxI](https://t.co/Z1ibVl3cxI) #blog
+
+## Marketing / SEO / Comportement
+// Rien cette semaine :D
+
+## Sécurité / Vie privée / Libre
+- [T](http://twitter.com/binitamshah/status/857888719906512896) par [@binitamshah](https://twitter.com/binitamshah) 15 ways to break RSA Security : [https://t.co/ObnRSxhrMh](https://t.co/ObnRSxhrMh) (Slides) https://t.co/ZGP3rP351t
+- [T](http://twitter.com/MyCozyCloud/status/859709649838276608) par [@MyCozyCloud](https://twitter.com/MyCozyCloud) That Fingerprint Sensor on Your Phone Is Not as Safe as You Think [https://t.co/YakoMS8QUA](https://t.co/YakoMS8QUA) https://t.co/UZEbFCczsL
+
+
+
+## Geek / IOT / Électronique
+- [T](http://twitter.com/BoingBoing/status/857680054763085825) par [@BoingBoing](https://twitter.com/BoingBoing) Nintendo programmer coded Game Boy classic without using a keyboard [https://t.co/Mgeupds1zA](https://t.co/Mgeupds1zA) https://t.co/kFoHCiGlBC
+
+
+## Humain / Développement personnel / Santé
+- [T](http://twitter.com/Numerama/status/857706425434476545) par [@Numerama](https://twitter.com/Numerama) 📺 Vous partagez peut-être des vidéos des mouvances néo-fascistes d’Alain Soral sans même le savoir : plus d'infos 👉… [https://t.co/dywNMLBCMM](https://t.co/dywNMLBCMM)
+
+
+## Divers / Conneries
+- [T](http://twitter.com/amonute_/status/857239232112455680) par [@amonute_](https://twitter.com/amonute_) Slt je lance ma newsletter vendredi, ça parle de PODCASTS et si ça vous intéresse vous pouvez vous inscrire ici [https://t.co/RX5Oo557YA](https://t.co/RX5Oo557YA)
+- [T](http://twitter.com/BoingBoing/status/858399261607833601) par [@BoingBoing](https://twitter.com/BoingBoing) Interview with Alan Moore about science, imagination, and time [https://t.co/mnfYwg69gN](https://t.co/mnfYwg69gN) https://t.co/aW9sMGpS8H
+
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
