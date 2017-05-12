@@ -1,0 +1,67 @@
+---
+layout: post
+title: "La veille du week-end S1E48"
+date: 2017-05-12 06:00:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.  
+
+
+Bonne lecture, et bon week-end.
+
+## Dev / backend / Code
+- [T](http://twitter.com/kosamari/status/859958929484337152) par [@kosamari](https://twitter.com/kosamari) HTTP what? : I drew what HTTP is &amp; how HTTP1.x and HTTP2 are different✨ (tweetzine, drawsplainer, codedoodles…I do… [https://t.co/Yp7amJQE7D](https://t.co/Yp7amJQE7D)
+- [T](http://twitter.com/dhoko_/status/860160474087907328) par [@dhoko_](https://twitter.com/dhoko_) Arithmetic with JavaScript Arrays A Astonishing Adventure [https://t.co/3zPJyhFJUV](https://t.co/3zPJyhFJUV) haha magique, c'est génial.
+- [T](http://twitter.com/waxzce/status/861387426257940480) par [@waxzce](https://twitter.com/waxzce) Why does Google prepend while(1); to their JSON responses? [https://t.co/jMuaVA13FG](https://t.co/jMuaVA13FG) // BRILLANT
+- [T](http://twitter.com/dsampaolo/status/861922979269292034) par [@dsampaolo](https://twitter.com/dsampaolo) Le tool indispensable pour bosser sur une API : [https://t.co/0uDR4lYbj0](https://t.co/0uDR4lYbj0)
+- [T](http://twitter.com/christianmaioli/status/862054087726182400) par [@christianmaioli](https://twitter.com/christianmaioli) How To Create A Neural Network In JavaScript [Video] [https://t.co/CuFc1MRdOY](https://t.co/CuFc1MRdOY) https://t.co/ABfz8h3cNA
+
+
+## Front / Web Apps
+- [T](http://twitter.com/ykob0123/status/859597658314256385) par [@ykob0123](https://twitter.com/ykob0123) reposted my glsl glitch demo into CodePen. [https://t.co/oilxlgIffJ](https://t.co/oilxlgIffJ) @CodePen #glsl #threejs https://t.co/jGmUJX35ce
+- [T](http://twitter.com/auchenberg/status/860536944127647744) par [@auchenberg](https://twitter.com/auchenberg) Electrino — reduces your Electron app size by 99.9% with platform provided web runtimes (WebKit, EdgeHTML). [https://t.co/ABOlpOcx8D](https://t.co/ABOlpOcx8D)
+- [T](http://twitter.com/DasSurma/status/860905844820586498) par [@DasSurma](https://twitter.com/DasSurma) Now that we have static module loading in browsers, we can polyfill dynamic module loading quite easily (not ideal… [https://t.co/Azf8lXgtw1](https://t.co/Azf8lXgtw1)
+- [T](http://twitter.com/_kud/status/862293092858245120) par [@_kud](https://twitter.com/_kud) Want to learn #reactjs? or even relearn? ➡ [https://t.co/ZNpcTDhsaU](https://t.co/ZNpcTDhsaU)
+
+
+## Tooling / OS / Hosting
+- [T](http://twitter.com/happyjaxx/status/860437271731941377) par [@happyjaxx](https://twitter.com/happyjaxx) Mac user ? @_matthewpalmer has made two amazing must-have jewels, Rocket ( [https://t.co/HNN4026sIj](https://t.co/HNN4026sIj) ) and Vanilla ( https://t.co/TorbkgYhoc )
+- [T](http://twitter.com/changelog/status/860891155856322561) par [@changelog](https://twitter.com/changelog) Build yourself a Linux 👌 [https://t.co/3sKzg9sUdn](https://t.co/3sKzg9sUdn)
+- [T](http://twitter.com/systemdump/status/861632725215825920) par [@systemdump](https://twitter.com/systemdump) SSL on @github pages with a custom domain, for free! [https://t.co/u3oxjDj6VP](https://t.co/u3oxjDj6VP) thanks to @OVH #SSL Gateway
+- [T](http://twitter.com/newsycombinator/status/862140699348783104) par [@newsycombinator](https://twitter.com/newsycombinator) Git 2.13 has been released [https://t.co/7LMdWwOJwy](https://t.co/7LMdWwOJwy)
+
+
+## Marketing / SEO / Comportement
+- [T](http://twitter.com/theystolemynick/status/860487012276719616) par [@theystolemynick](https://twitter.com/theystolemynick) Temps de chargement des sites de presse en ligne éclatés par FAI, pays francophone + différence métropole / outremer [https://t.co/GzOqXuYDn1](https://t.co/GzOqXuYDn1)
+
+
+## Sécurité / Vie privée / Libre
+- [T](http://twitter.com/geoffrey_crofte/status/861550717609414656) par [@geoffrey_crofte](https://twitter.com/geoffrey_crofte) Encrypto - Chiffrez vos fichiers sur Mac et Windows  [https://t.co/MoZrNfMkOQ](https://t.co/MoZrNfMkOQ) #outil #chiffrement #crypto
+- [T](http://twitter.com/amaelle_g/status/862260453405315072) par [@amaelle_g](https://twitter.com/amaelle_g) Ça y est : on a officiellement le droit de refuser numérisation &amp; versement de ses empreintes au #FichierTES [https://t.co/S6ejiLPY9I](https://t.co/S6ejiLPY9I)
+
+
+## Geek / IOT / Électronique
+- [T](http://twitter.com/WiredUK/status/860144863995723776) par [@WiredUK](https://twitter.com/WiredUK) Build your own AI voice assistant with @Raspberry_Pi's new board [https://t.co/N3eE2VABCD](https://t.co/N3eE2VABCD) https://t.co/mM7mMsUQCr
+- [T](http://twitter.com/SwiftOnSecurity/status/860955090559127557) par [@SwiftOnSecurity](https://twitter.com/SwiftOnSecurity) How L1 and L2 CPU caches work, and why they're an essential part of modern chips - @ExtremeTech [https://t.co/NggjKNQR1Y](https://t.co/NggjKNQR1Y)
+- [T](http://twitter.com/SwiftOnSecurity/status/860955674695655424) par [@SwiftOnSecurity](https://twitter.com/SwiftOnSecurity) .@ExtremeTech The difference between L2 and L3 cache [https://t.co/IklMRtMQuB](https://t.co/IklMRtMQuB)
+
+
+
+## Humain / Développement personnel / Santé
+- [T](http://twitter.com/borisschapira/status/861847722218971136) par [@borisschapira](https://twitter.com/borisschapira) Un·e salarié·e au forfait jours ne peut pas se voir imposer ses horaires de travail. Il ou elle doit être libre [https://t.co/yFRix9B1fh](https://t.co/yFRix9B1fh)
+- [T](http://twitter.com/edasfr/status/862243086549762048) par [@edasfr](https://twitter.com/edasfr) Je créé un mouvement citoyen transpartisan et apolitique [https://t.co/jcJgyXAjze](https://t.co/jcJgyXAjze) [blog]
+- [T](http://twitter.com/edasfr/status/861984135010697217) par [@edasfr](https://twitter.com/edasfr) Punir, une passion contemporaine [https://t.co/KPoqrenhGc](https://t.co/KPoqrenhGc) [blog]
+
+
+
+## Divers / Conneries
+- [T](http://twitter.com/frostys77/status/861956650185437187) par [@frostys77](https://twitter.com/frostys77) J'ai recodé en Javascript un jeu auquel je jouais quand j'étais petit :) PS: Il faut tuer le dragon… [https://t.co/UBYPq5GDZT](https://t.co/UBYPq5GDZT)
+- [T](http://twitter.com/HTeuMeuLeu/status/862018039709130752) par [@HTeuMeuLeu](https://twitter.com/HTeuMeuLeu) "The Aesthetics of Cute", une conférence pleine de trucs mignons sur ce qui rend un jeu mignon… [https://t.co/pcXS9edjbN](https://t.co/pcXS9edjbN)
+- [T](http://twitter.com/Rainmaker1973/status/862344555399704576) par [@Rainmaker1973](https://twitter.com/Rainmaker1973) What happens if you roll a circle inside a circle that’s 4, 3 &amp; 2 times as big? Astroid, deltoid &amp;... Straight line… [https://t.co/EyMLsNMMar](https://t.co/EyMLsNMMar)
+- [T](http://twitter.com/mgiraldo/status/862009561816977408) par [@mgiraldo](https://twitter.com/mgiraldo) open Terminal and type: telnet mapscii.me (arrow keys to move, a/z to zoom) 🗺 [https://t.co/eJknLF6sIP](https://t.co/eJknLF6sIP)
+
+
+
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
