@@ -1,0 +1,67 @@
+---
+layout: post
+title: "La veille du week-end S1E49"
+date: 2017-05-19 06:00:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.  
+
+Aujourd'hui début [Sud Web](https://www.sudweb.fr/), et c'est cool :)
+
+Bonne lecture, et bon week-end.
+
+## Dev / backend / Code
+- [T](http://twitter.com/kwiky/status/862559918108405760) par [@kwiky](https://twitter.com/kwiky) Scaling Mobile Messaging at Airbnb [https://t.co/ue4d9fFrYz](https://t.co/ue4d9fFrYz) https://t.co/gAmi38ZgTr
+- [T](http://twitter.com/francoisz/status/864484112337383426) par [@francoisz](https://twitter.com/francoisz) AnyProxy: A local http &amp; https proxy for inspecting/altering your web trafic. Powered by #NodeJs, via @_kud  [https://t.co/WmMLbHmAoh](https://t.co/WmMLbHmAoh)
+
+
+## Front / Web Apps
+- [T](http://twitter.com/WalterStephanie/status/862564192490049536) par [@WalterStephanie](https://twitter.com/WalterStephanie) Inclusiveness in illustration for WordPress, really nice article and cute illustrations 😍 [https://t.co/KpvYsCsxVM](https://t.co/KpvYsCsxVM)
+- [T](http://twitter.com/AirbnbEng/status/864170074558439425) par [@AirbnbEng](https://twitter.com/AirbnbEng) Learn about how we rearchitected our Airbnb's Frontend! [https://t.co/Xc7s59gpve](https://t.co/Xc7s59gpve)
+- [T](http://twitter.com/matzatorski/status/864145295105511424) par [@matzatorski](https://twitter.com/matzatorski) 🔥Happy to announce Create Reason React App. Very early so more like "easy get started" with @reasonml Hope it helps… [https://t.co/N94uDAVhWM](https://t.co/N94uDAVhWM)
+- [T](http://twitter.com/missCarrieMah/status/864204742695817221) par [@missCarrieMah](https://twitter.com/missCarrieMah) Structuring, Grouping, and Referencing in SVG — The &lt;g&gt;, &lt;use&gt;, &lt;defs&gt; &amp; &lt;symbol&gt; Elements @SaraSoueidan… [https://t.co/6RSUzFQl0T](https://t.co/6RSUzFQl0T)
+- [T](http://twitter.com/mpjme/status/864205256258879491) par [@mpjme](https://twitter.com/mpjme) React + d3 = vx
+[https://t.co/HYGYo7uTop](https://t.co/HYGYo7uTop) https://t.co/dBxONSeDNY
+- [T](http://twitter.com/yuichiroharaiEN/status/864159140934852608) par [@yuichiroharaiEN](https://twitter.com/yuichiroharaiEN) Optical flow was added to my experiment of fluid. #webgl #threejs #glsl #fluid #webcam #opticalflow… [https://t.co/ONbmN2Nd3h](https://t.co/ONbmN2Nd3h)
+- [T](http://twitter.com/philogb/status/864128732449173505) par [@philogb](https://twitter.com/philogb) My @OpenVisConf talk is out: Using [https://t.co/pznsXJLBPs](https://t.co/pznsXJLBPs) for WebGL-based data visualization… https://t.co/jFwZAYaCGF
+- [T](http://twitter.com/HTeuMeuLeu/status/864379614755475457) par [@HTeuMeuLeu](https://twitter.com/HTeuMeuLeu) Excellent article d'Apple qui présente "@​media (prefers-reduced-motion)" pour s'adapter aux troubles vestibulaires [https://t.co/DdUMKhHWSW](https://t.co/DdUMKhHWSW)
+
+
+## Tooling / OS / Hosting
+- [T](http://twitter.com/borisschapira/status/862698715898945538) par [@borisschapira](https://twitter.com/borisschapira) Mise à jour quotidienne des apps, par script, à partir du projet macos-init de @nhoizey. J'adore.… [https://t.co/uhOEJCRerB](https://t.co/uhOEJCRerB)
+- [T](http://twitter.com/FGRibreau/status/863078328797990912) par [@FGRibreau](https://twitter.com/FGRibreau) Using Chrome (headless) // speedracer - Collect performance metrics for your library/application [https://t.co/PQArgiM6Nh](https://t.co/PQArgiM6Nh)
+- [T](http://twitter.com/rauchg/status/864143744949403648) par [@rauchg](https://twitter.com/rauchg) As of Now, static websites and *asset files* are instant and free to upload, share, publish 🚀… [https://t.co/aQVh7OzjRK](https://t.co/aQVh7OzjRK)
+
+
+## Marketing / SEO / Comportement
+// Rien de particulier cette semaine :/
+
+## Sécurité / Vie privée / Libre
+- [T](http://twitter.com/MyCozyCloud/status/863066761398288384) par [@MyCozyCloud](https://twitter.com/MyCozyCloud) Moi ministre du numérique, par Benjamin Bayart: reprendre tout dans le bon sens [https://t.co/CQ7FVHGU6m](https://t.co/CQ7FVHGU6m) https://t.co/mlSqE65lbf
+- [T](http://twitter.com/daringfireball/status/863068761863139330) par [@daringfireball](https://twitter.com/daringfireball) HP Laptops Covertly Log User Keystrokes, Researchers Warn: [https://t.co/MER9jLCevL](https://t.co/MER9jLCevL)
+- [T](http://twitter.com/rands/status/863437642909663232) par [@rands](https://twitter.com/rands) Turn on 2FA before it’s too late: [https://t.co/fkBl8KNTaJ](https://t.co/fkBl8KNTaJ)
+- [T](http://twitter.com/malwareunicorn/status/863841835562614784) par [@malwareunicorn](https://twitter.com/malwareunicorn) Finally here is my #WCry/#WanaCry Ransomware Technical Analysis @EndgameInc [https://t.co/ef49EgyK4M](https://t.co/ef49EgyK4M) https://t.co/EMonFweVR0
+
+
+## Geek / IOT / Électronique
+- [T](http://twitter.com/jberrebi/status/862535350769639425) par [@jberrebi](https://twitter.com/jberrebi) Must Watch: Incredible video from Microsoft. Finally, a real *useful* use case of technology [https://t.co/cNkfYW3KNF](https://t.co/cNkfYW3KNF) Thx @NicolasCatard
+- [T](http://twitter.com/prostheticknowl/status/864133121431793666) par [@prostheticknowl](https://twitter.com/prostheticknowl) SketchAR with @projecttango Tech: App to create Augmented Reality stencils for larger scale drawings… [https://t.co/jWFXekey1X](https://t.co/jWFXekey1X)
+- [T](http://twitter.com/Raspberry_Pi/status/864802460564680704) par [@Raspberry_Pi](https://twitter.com/Raspberry_Pi) New post: open-source energy monitoring using Raspberry Pi, from @Openenergymon [https://t.co/DzEQyaZOBY](https://t.co/DzEQyaZOBY)… https://t.co/3CPYeYhspr
+
+
+
+## Humain / Développement personnel / Santé
+- [T](http://twitter.com/ClementineHahn/status/863056873670537217) par [@ClementineHahn](https://twitter.com/ClementineHahn) "There are 1000 different ways to be a man. Don't let treating women like shit be one of them."Just parfect @xtotl ! [https://t.co/i275VcoR8B](https://t.co/i275VcoR8B)
+- [T](http://twitter.com/chaimhaas/status/864141456293994496) par [@chaimhaas](https://twitter.com/chaimhaas) New research shows your mean boss is secretly miserable [https://t.co/hyVtBxfQCH](https://t.co/hyVtBxfQCH) #jobs #workplace https://t.co/GbxOLuiz2t
+- [T](http://twitter.com/ExpertDefense1/status/864730534324449280) par [@ExpertDefense1](https://twitter.com/ExpertDefense1) 🔵 Le sexisme ordinaire au sein de l’armée dénoncé dans le Tumblr 'Paye ton treillis' ⏩ [https://t.co/xsqMbZEV0R](https://t.co/xsqMbZEV0R) https://t.co/Z8POh5hhx4
+
+
+
+## Divers / Conneries
+- [T](http://twitter.com/tanurai/status/862699143499833344) par [@tanurai](https://twitter.com/tanurai) Internets! See me talk tech with my robot dinosaur, narrate a spying octopus, and insult my Scottish colleague. [https://t.co/iLE9jXbJJu](https://t.co/iLE9jXbJJu)
+- [T](http://twitter.com/catsuka/status/862773835921272837) par [@catsuka](https://twitter.com/catsuka) Gorillaz: 10-Episode Animated Series in the Works [https://t.co/vP4sO8cYvx](https://t.co/vP4sO8cYvx) https://t.co/PjtlxGb2b0
+
+
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
