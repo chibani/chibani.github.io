@@ -1,0 +1,174 @@
+---
+layout: post
+title:  Sud Web 2017
+date:   2017-05-23 21:33:00 +0200
+categories: developpement-personnel
+intro: >#
+  Résumé de mon expérience à Sud Web 2017  
+
+
+---
+
+Les 19 et 20 mai 2017, était organisé Sud Web 2017, à Aix-en-Provence.  
+Personnellement, c'était ma troisième participation, et comme à chaque fois, j'ai tenté de profiter au mieux de cet évènement humain.
+
+Contrairement à d'autres conférences, comme Paris Web, Sud Web n'est absolument pas orienté technique, mais humain(s), relations et bienveillance.
+
+## Des conférences
+
+Voici un court résumé de ce que j'ai retenu de chaque conférence.
+
+### "Du web et des histoires"
+__Adeline Fradet__
+
+Adeline (et son équipe) produit des histoires jeunesse.  
+On peut le voir comme des livres interactifs, consultables sur tablette.
+
+Pendant le temps de sa conférence, elle nous a immergé dans son approche du métier d'éditeur, et sa relation avec les auteurs (dont certains sont également illustrateurs).
+
+A l'issue de cette présentation, un participant a levé une question essentielle : Quid du devenir de ces ouvrages si la société d'Adeline venait à disparaitre (ou dans 10-20-100 ans...) ? Ses lecteurs pourront-ils les transmettre ? En avoir une version hors-ligne ?
+
+### "A journey in India"
+__Marie Terrier__
+
+Marie nous a fait un retour d'expérience très vivant et imagé sur sa vie d'expatriée Française en Inde.  
+En effet, elle travaille au quotidien avec une équipe de développeurs Indiens.
+
+Dans le métier du développement, on connait tous la réputation de ce genre d'équipe "off-shore", notamment les Indiens ou les "Nords-Africains"...  
+Pourtant, Marie, après être passée sur les clichés, a élégamment démontré que ce sont des développeurs comme les autres, avec leurs qualités et leurs défauts.
+
+Pour autant, tout n'est pas simple, mais elle nous a témoigné d'être grandie par cette immersion.
+
+### "How being a developper makes me a better designer"
+__Rafael Conde__
+
+Rafael est designer, mais il est également curieux de savoir comment ses designs vont "prendre vie" quand ils passeront dans les mains d'un développeur.  
+Ainsi, il s'est mis à la programmation, notamment sur des sites et apps mobiles.
+
+Aujourd'hui, il collabore plus efficacement, avec la conscience de ce qui est raisonnable en terme de design pour ne pas impacter trop fortement le développement.  
+Pour autant, il nous a indiqué ne pas se mettre trop de limites sur ses designs, car il travaille avec des équipes de qualité.
+
+### "Epopée d'une fusiodemande"
+__Bruno Heridet__
+
+C'était un peu la comic-lighting-conf de ce Sud Web.  
+Bruno a mis en scène une conversation téléphonique avec un client imaginaire.  
+Ce client avait un problème urgent en production, et Bruno s'efforçait de décortiquer le problème et le résoudre, tout en évitant les anglicismes.
+
+Une mini-conf bien amusante, pleine de jeux de mots tous plus capilotractés les uns que les autres.
+
+### "Ouvrir des données publiques, c'est politique"
+__Joël Gombin__
+
+Joël a lancé une société spécialisée dans l'accompagnement à l'ouverture des données.  
+Au quotidien, il aide les entreprises et différents organismes à rendre l'ouverture de leurs données plus efficace.
+
+Il a passé en revue les avantages et usages liées aux données ("Big Data", etc...), mais également les impératifs légaux imposés à certains organismes concernant l'ouverture de leurs données.
+
+### "Drupal : qu'on lui coupe la tête"
+__Sylvain Achard et Etienne Voilliot__
+
+Mini-conf sur une évolution d'une plateforme 100% Drupal, qui a été splitée plusieurs services applicatifs.  
+Le partie Drupal a été conservée en tant que back-office.
+
+Un retour d'expérience intéressant, puisqu'il montre qu'il n'est pas forcément nécessaire de tout refaire dans un projet quand certaines parties conviennent.
+
+### "Héberger ses données en 2017"
+__Cyril Baÿ et Nicolas Ferrari__
+
+Hébergeurs de métier, Cyril et Nicolas sont venus faire un topo sur les bonnes pratiques, ou du moins, les risques liés à l'hébergement.  
+Que ce soit le piratage, le blocage de données (on était au lendemain de Wannacry), les collectes ~~"Big Data"~~ commerciales ou encore les perquisitions administratives, ils ont fait un tour très intéressant des problématiques rencontrables et les questions à se poser avant de poser ses fichiers où que ce soit.
+
+### "L'UX Testing, sans les galères"
+__Lucas Cerdan__  
+"Sans les galères"... ou presque, car le pauvre Lucas a eu droit à une belle coupure de courant pendant sa présentation :/
+
+Malgré ce souci technique, Lucas nous a présenté brièvement les bonnes pratiques en matière de test d'usabilité (Usability test).  
+Lucas organise et supervise ce genre de test chez son employeur, Algolia.  
+Ces tests ont pour but de faire essayer des nouveautés ou variation de design (et fonctionnalités) à (au choix) des clients, des prospects ou des personnes ne connaissant pas leur plateforme.
+
+Cette conférence a donné lieu à un atelier le samedi matin, auquel j'ai participé.
+
+### "DesignCity : Itinéraire d'un designer gâté"
+__Jean-Philippe Cabaroc__
+
+Jean-Philippe, designer basé à St-Etienne, est venu nous parler clichés, région et belles histoires.  
+La région stéphanoise n'est pas spécialement réputée pour sa modernité, et on pourrait croire qu'un designer n'aurait pas grand chose à se mettre sous la dent.
+
+Pour autant, Jean-Philippe nous a présenté quelques unes de ses réalisations locales.  
+De belles histoires, rencontres et réalisations.
+
+### "Comment je m'organise grâce à mon bullet journal"
+__Valérie Galassi__
+
+Valérie nous a brièvement présenté sa méthode d'organisation sur bullet journal.  
+Cette méthode permet de faire d'un simple carnet, un log complet avec agenda, notes, todo-list etc... Le tout, agrémenté de croquis et autres coloriages.
+
+### "Creativopolis"
+__Lucie Barratte__
+
+Lucie, créatrice graphique, nous a parlé de sa méthode de brainstorming créatif et participatif, tel qu'elle le pratique avec ses clients.  
+Sur un principe d'itération, elle va dans un premier temps recueillir les besoins et envies de ses clients.  
+Sur cette base d'informations, elle va préparer plusieurs propositions, qu'elle soumettra à son client.  
+Ensuite, elle fera un atelier d'échange et création avec lui, laissant cours à l'imagination de celui-ci.  
+Suite à quoi, elle reprendra ses premières créations, pour les retravailler.  
+Ce travail d'atelier co-créatif pourra être renouvelé si besoin (et si le client peut se le permettre, financièrement), pour aboutir sur un design co-créé, qui conviendra mieux au client.
+
+### "Vers un design de la vie privée"
+__Geoffrey Dorne__
+
+Geoffrey a axé sa présentation sur l'éthique du design, et le respect de la vie privée.  
+A une époque où les données deviennent aussi précieuses que l'or ou le pétrole, il est crucial de mettre de l'éthique au cœur de nos métiers et de présenter aux visiteurs une interface honnête qui reflète le respect que nous leur portons.
+
+### "Parce que vous le valez bien"
+__Hélène Schapira__
+
+Hélène est ~~responsable du personnel~~ DRH dans un EPAD, mais ce n'est pas dans le contexte du salariat qu'elle est venue parler.  
+En effet, elle nous a fait une courte présentation concernant le calcul du TJM pour un entrepreneur (ou freelance).  
+En partant de ce qu'on souhaite toucher (sorte de "net"), elle a décrit les différents prélèvements et taux de cotisation à prévoir, pour aboutir sur un tarif minimal à facturer.
+
+C'était clair, concret et bien amené, avec une touche d'humour.
+
+### "Semer du bonheur au quotidien"
+__Rozenn Bodin__
+
+Rozenn est CHO (Chief Happiness Officer), ou responsable joie et bien-être chez JoliCode.  
+Elle nous a expliqué brièvement en quoi consiste son rôle, son travail, mais également ce que la joie peut apporter à une entreprise.  
+Résultat (pas forcément surprenant) : les salariés heureux travaillent plus efficacement, sont plus impliqués dans leur mission et souhaitent rester.
+
+Cette joie, les collègues de Rozenn la transposent au quotidien, que ce soit dans leur bureau ou chez leurs clients.
+
+Une belle approche du travail, des ~~ressources~~ relations humaines qu'on souhaiterait voir appliquer partout.
+
+### "Indigestion d'étoiles"
+__Sabine Safi__
+
+Sabine, ex-co-fondatrice et de 1001 pharmacies, nous a conté son aventure dans l'univers des startups, allant de l'euphorie du lancement, aux difficultés liées à la croissance de la compagnie.
+
+La principale friction, celle qui a poussé Sabine a partir concernait l'organisation managériale.  
+Son ex-associé était plutôt "ancienne école", à savoir un système pyramidal (chef, sous-chef, sous-sous-chef, etc...), alors que Sabine souhaitait mettre en place un système horizontal.  
+Forcément, ça a coincé, et elle a préféré quitter le navire, plutôt que d'aller à l'encontre de ses convictions.
+
+## Des rencontres et retrouvailles
+
+Comme à chaque édition, Sud Web est l'occasion de rencontrer des gens, comme à toute conférence, à la différence près, que, n'étant pas un évènement orienté technique, les profils des participants sont bien plus variés.
+
+Ainsi, j'ai pu échanger avec plusieurs développeurs (dont certains que je connais de longue date), mais également (et surtout), avec toute sorte de ~~profils~~ gens :)
+
+## Des lieux
+
+Aix-en-Provence est une ville superbe, c'était un excellent choix (et je ne dis pas ça parce que je vis à moins d'une heure de route...).
+
+Le lieu des conférences était un hôtel 4*, rien que ça.  
+J'ai trouvé que c'était en décalage avec le côté "recherche de la simplicité et de l'authenticité" que promeut Sud Web. Mais bon, on va pas cracher dans la soupe, c'était vraiment un endroit sympa.
+
+Les ateliers ont eu lieu dans une école de design, en plein cœur de la ville. Un endroit sympa, qui tranchait fortement avec l'hôtel de la veille.  
+Toutefois, on était plutôt bien installés et surtout là pour rencontrer, discuter, échanger.
+
+## Et l'année prochaine ?
+
+Une fois n'est pas coutume (il me semble), la ville du prochain Sud Web n'a pas été années.  
+Habituellement (enfin, dans les 2 autres éditions auxquelles j'ai participé), le lieu était annoncé à la fin des conférences, pendant les remerciements.  
+Mais bon, j'imagine qu'on apprendra tout ça prochainement, ou au moins, suffisamment longtemps avant les inscriptions pour pouvoir se pré-décider et pouvoir ensuite rusher sur les places.
+
+Et bien entendu, je tenterai d'en être :)
