@@ -1,0 +1,58 @@
+---
+layout: post
+title: "La veille du week-end S1E50"
+date: 2017-05-26 06:00:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.  
+
+Bonne lecture, et bon week-end.
+
+## Dev / backend / Code
+- [T](http://twitter.com/leeb/status/866608841533861888) par [@leeb](https://twitter.com/leeb) GitHub's preview GraphQL API is now their official API. [https://t.co/EjASDSiehu](https://t.co/EjASDSiehu)
+- [T](http://twitter.com/Anahkiasen/status/866926848084779009) par [@Anahkiasen](https://twitter.com/Anahkiasen) PHP Generics and why we need them [https://t.co/bK5oUqAgIL](https://t.co/bK5oUqAgIL)
+- [T](http://twitter.com/senthil_hi/status/866751651964637184) par [@senthil_hi](https://twitter.com/senthil_hi) JS RegExp, Fast and Slow paths [https://t.co/l6i8f9gXfJ](https://t.co/l6i8f9gXfJ) #JavaScript
+- [T](http://twitter.com/osteel/status/867002455363657728) par [@osteel](https://twitter.com/osteel) "Give it a REST: use GraphQL for your APIs" [https://t.co/TFZaxZxHP8](https://t.co/TFZaxZxHP8) https://t.co/vxe8D1yGkg
+- [T](http://twitter.com/freekmurze/status/867039514769977345) par [@freekmurze](https://twitter.com/freekmurze) Need to handle images and/or files in your @laravelphp app? Be sure to take a look at our medialibrary… [https://t.co/j5VoAhScVi](https://t.co/j5VoAhScVi)
+
+
+## Front / Web Apps
+- [T](http://twitter.com/tut_tuuut/status/865543057499766785) par [@tut_tuuut](https://twitter.com/tut_tuuut) Je découvre qu'il y a une vulnérabilité fourbe liée à target="\_blank", vous étiez au courant ? [https://t.co/xnhZV8wkhI](https://t.co/xnhZV8wkhI)
+- [T](http://twitter.com/sam_et_max/status/866324007880097792) par [@sam_et_max](https://twitter.com/sam_et_max) Kill Google AMP before it KILLS the web  [https://t.co/xaIy9C0Dmk](https://t.co/xaIy9C0Dmk) +1 +10 +1000
+- [T](http://twitter.com/francoisz/status/867368340637048836) par [@francoisz](https://twitter.com/francoisz) react-pdf: Create PDF files using #React and #CSS (including Flexbox). Super promising! [https://t.co/rhPRnxyi0c](https://t.co/rhPRnxyi0c) https://t.co/M33R1VndE1
+
+
+## Tooling / OS / Hosting
+- [T](http://twitter.com/waxzce/status/865570995511242752) par [@waxzce](https://twitter.com/waxzce) Android to launch TensorFlow Lite for mobile machine learning [https://t.co/ksg1FgMkdH](https://t.co/ksg1FgMkdH) https://t.co/LdcyCAt1Qe
+- [T](http://twitter.com/newsycombinator/status/866519431303892992) par [@newsycombinator](https://twitter.com/newsycombinator) Linux utils that you might not know [https://t.co/Z3QpEWkfOi](https://t.co/Z3QpEWkfOi)
+- [T](http://twitter.com/freshdaz/status/866607504188485634) par [@freshdaz](https://twitter.com/freshdaz) #MySQL 8.0: When to use utf8mb3 over utf8mb4 #utf8 [https://t.co/oUt5JRdsto](https://t.co/oUt5JRdsto)
+- [T](http://twitter.com/waxzce/status/867123979458314243) par [@waxzce](https://twitter.com/waxzce) Linux utils that you might not know [https://t.co/pMHOo2RkAb](https://t.co/pMHOo2RkAb)
+
+
+## Marketing / SEO / Comportement
+// Rien de particulier cette semaine :/
+
+## Sécurité / Vie privée / Libre
+- [T](http://twitter.com/m4d_z/status/865098543731789824) par [@m4d_z](https://twitter.com/m4d_z) WannaCry et le chiffrement - [https://t.co/fPRpN12LCJ](https://t.co/fPRpN12LCJ)
+- [T](http://twitter.com/Korben/status/867290833212628992) par [@Korben](https://twitter.com/Korben) Comment désactiver la collecte de données sur les routeurs Netgear ? [https://t.co/j4rRuFVKfk](https://t.co/j4rRuFVKfk)
+
+
+## Geek / IOT / Électronique
+- [T](http://twitter.com/FrenchTech_Tlse/status/865064730792210432) par [@FrenchTech_Tlse](https://twitter.com/FrenchTech_Tlse) À Toulouse, le robot désherbeur de Naïo Technologies est unique au monde [https://t.co/ieGfqe6TbH](https://t.co/ieGfqe6TbH)
+- [T](http://twitter.com/kevinchen/status/865734799293468672) par [@kevinchen](https://twitter.com/kevinchen) They posted my talk from @bangbangcon!! Learn how to edit photos in Microsoft Excel: [https://t.co/MmwvOgMu4U](https://t.co/MmwvOgMu4U)
+
+
+## Humain / Développement personnel / Santé
+- [T](http://twitter.com/ExpertDefense1/status/864730534324449280) par [@ExpertDefense1](https://twitter.com/ExpertDefense1) 🔵 Le sexisme ordinaire au sein de l’armée dénoncé dans le Tumblr 'Paye ton treillis' ⏩ [https://t.co/xsqMbZEV0R](https://t.co/xsqMbZEV0R) https://t.co/Z8POh5hhx4
+- [T](http://twitter.com/goulvench/status/865915658822922243) par [@goulvench](https://twitter.com/goulvench) Merci pour la discussion #ZeroDechet #sudweb ! L'article où j'explique ma démarche [https://t.co/1i6696OAI0](https://t.co/1i6696OAI0) Je mettrai les diapos en ligne.
+- [T](http://twitter.com/goulvench/status/866903766863413249) par [@goulvench](https://twitter.com/goulvench) Et voici le support de présentation de l'atelier #zerodechet organisé à @SudWeb : [https://t.co/Zc9yRWF9UK](https://t.co/Zc9yRWF9UK) / https://t.co/4C9wdlxPxF
+- [T](http://twitter.com/BIUK/status/866247350829944833) par [@BIUK](https://twitter.com/BIUK) How to fix all of your sleep problems with science [https://t.co/nTd83mK7bu](https://t.co/nTd83mK7bu) https://t.co/g4Mda0YwqJ
+- [T](http://twitter.com/CarineReignault/status/866653019110244353) par [@CarineReignault](https://twitter.com/CarineReignault) Mes photos de #SudWeb sont disponibles ici [https://t.co/TBl4W7GDHC](https://t.co/TBl4W7GDHC) et sur le groupe ad'hoc de @SudWeb. Enjoy!
+- [T](http://twitter.com/tut_tuuut/status/867328729776873472) par [@tut_tuuut](https://twitter.com/tut_tuuut) Ayé, j'ai fini le transcript de la conf qu'on a donnée avec @mereteresa sur l'allaitement au travail [https://t.co/98gMwx5g1k](https://t.co/98gMwx5g1k) #boobsLactés
+
+
+## Divers / Conneries
+- [T](http://twitter.com/Bouletcorp/status/867462214868901888) par [@Bouletcorp](https://twitter.com/Bouletcorp) Les dessins d'Heidi Smith=♥ Ici: [https://t.co/wWLWG7pzmm](https://t.co/wWLWG7pzmm) https://t.co/El2hHY9zYg
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
