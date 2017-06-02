@@ -1,0 +1,56 @@
+---
+layout: post
+title: "La veille du week-end S1E51"
+date: 2017-06-02 08:43:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.  
+
+Ce matin, j'apprends que cet abruti de Trump a fait sortir les USA de l'accord de Paris (COP21)... Bien...  
+Pendant ce temps, Thomas Pesquet s'apprête à revenir sur la terre ferme.  
+Quel synchronisation 👌
+
+Bonne lecture, et bon week-end.
+
+## Dev / backend / Code
+- [T](http://twitter.com/pbourgau/status/867624961007136768) par [@pbourgau](https://twitter.com/pbourgau) 20 Bad Excuses For Not Writing Unit Tests [https://t.co/5si5qFxTvC](https://t.co/5si5qFxTvC) #joke #software #testing
+- [T](http://twitter.com/waxzce/status/868211163020107776) par [@waxzce](https://twitter.com/waxzce) How Your Data is Stored, or, The Laws of the Imaginary Greeks [https://t.co/kONbCrcO7C](https://t.co/kONbCrcO7C) https://t.co/PwxbuyOJES
+- [T](http://twitter.com/_davideast/status/869568637262155776) par [@_davideast](https://twitter.com/_davideast) HTTP/2 Push is really hard. This post by @jaffathecake is a must read. [https://t.co/eTz1e7vqYs](https://t.co/eTz1e7vqYs)
+
+
+## Front / Web Apps
+- [T](http://twitter.com/_zouhir/status/867733179003580418) par [@_zouhir](https://twitter.com/_zouhir) 🎉 just published lqip-loader for webpack ⚡️ fast blurry version of your image asset 🖼 load full image when you read… [https://t.co/gskJd5FbeD](https://t.co/gskJd5FbeD)
+- [T](http://twitter.com/dracos/status/868103849193742337) par [@dracos](https://twitter.com/dracos) I’ve written about [https://t.co/m53L95COqe](https://t.co/m53L95COqe)’s service worker, HTTP/2, removing jQuery, and other performance things:… https://t.co/gPDu1wEfBc
+- [T](http://twitter.com/thekitze/status/868872008624459777) par [@thekitze](https://twitter.com/thekitze) This is GOLD! 👌 😂 “11 things I learned reading the flexbox spec” by @D__Gilbertson [https://t.co/IC4aAx2NHJ](https://t.co/IC4aAx2NHJ)
+
+
+## Tooling / OS / Hosting
+- [T](http://twitter.com/danluu/status/867948114250014720) par [@danluu](https://twitter.com/danluu) This blog, which has one explanation a day on a Postgres feature or component, seems pretty great [https://t.co/kjCgsUYKpa](https://t.co/kjCgsUYKpa)
+- [T](http://twitter.com/FGRibreau/status/868046805988249600) par [@FGRibreau](https://twitter.com/FGRibreau) Sitespeed.io - Open Source tools that helps make your web pages faster [https://t.co/ZTz7eLnC9M](https://t.co/ZTz7eLnC9M)
+- [T](http://twitter.com/JavaScriptDaily/status/868052831860928512) par [@JavaScriptDaily](https://twitter.com/JavaScriptDaily) npm 5.0 is out: [https://t.co/FMUh3inepx](https://t.co/FMUh3inepx) (good summary of changes and updates here)
+
+
+## Marketing / SEO / Comportement
+- [T](http://twitter.com/4h18/status/867614520096763906) par [@4h18](https://twitter.com/4h18) 10 erreurs d’implémentation HTTPS – Étude SEMrush [https://t.co/h9nZxoGEKd](https://t.co/h9nZxoGEKd) https://t.co/ZtRMPqdDHh
+
+## Sécurité / Vie privée / Libre
+// Rien, mais n'ayez crainte, avec notre bel Etat d'Urgence souverain, vous êtes en sécurité 👌
+
+## Geek / IOT / Électronique
+- [T](http://twitter.com/ID_R_McGregor/status/868127218664435713) par [@ID_R_McGregor](https://twitter.com/ID_R_McGregor) Your future Avatar.. Example-Based Synthesis of Stylized Facial Animations, Daniel Sýkora.… [https://t.co/2bqWqM0sCm](https://t.co/2bqWqM0sCm)
+- [T](http://twitter.com/Raspberry_Pi/status/869529611918598144) par [@Raspberry_Pi](https://twitter.com/Raspberry_Pi) New post: Live-stream to YouTube with a Raspberry Pi Zero, @Docker and @alexellisuk [https://t.co/Gn27VbHawf](https://t.co/Gn27VbHawf) https://t.co/O54AotmxjB
+
+
+## Humain / Développement personnel / Santé
+- [T](http://twitter.com/guerirleburnout/status/867643005590753280) par [@guerirleburnout](https://twitter.com/guerirleburnout) "L'enfer des open spaces" : l'espace de travail, instrument de contrôle social [https://t.co/GCqGfIYlmK](https://t.co/GCqGfIYlmK)
+- [T](http://twitter.com/tut_tuuut/status/867328729776873472) par [@tut_tuuut](https://twitter.com/tut_tuuut) Ayé, j'ai fini le transcript de la conf qu'on a donnée avec @mereteresa sur l'allaitement au travail [https://t.co/98gMwx5g1k](https://t.co/98gMwx5g1k) #boobsLactés
+- [T](http://twitter.com/dequaliter/status/869420105523879936) par [@dequaliter](https://twitter.com/dequaliter) #PodcastDuJour : Le nouveau sujet de "Ramène Ta Science" ? Le trouble du sommeil -\_-Zzzz [https://t.co/TFgHKv9xZB](https://t.co/TFgHKv9xZB)
+- [T](http://twitter.com/libellule/status/869974751191740416) par [@libellule](https://twitter.com/libellule) Indépendants, vous valez plus que ce que vous pensez ! Explications plus détaillées de mon LT à @SudWeb [https://t.co/VkJM9gqv9A](https://t.co/VkJM9gqv9A)
+
+
+## Divers / Conneries
+- [T](http://twitter.com/fodderfigure/status/867768658348523520) par [@fodderfigure](https://twitter.com/fodderfigure) I have SO MANY things to say about the fidget spinner phenomenon and I tried to cram them all into this one piece: [https://t.co/nqOmwfbLC6](https://t.co/nqOmwfbLC6)
+- [T](http://twitter.com/JoliCode/status/869472566225899520) par [@JoliCode](https://twitter.com/JoliCode) Avec #sudweb, #phptour et #reacteurope, nous avons bien voyagé la semaine dernière ! Voici notre compte-rendu… [https://t.co/CQkUsRqHmS](https://t.co/CQkUsRqHmS)
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
