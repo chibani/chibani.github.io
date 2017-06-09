@@ -1,0 +1,63 @@
+---
+layout: post
+title: "La veille du week-end S1E52"
+date: 2017-06-09 08:43:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.  
+
+Voici la 52ème édition hebdomadaire de la "veille du week-end".  
+52 semaines, ça doit faire, environ, 1 an, si je ne m'abuse... Ouais, quand même.
+
+Et bien, je pense que je vais continuer ;)
+
+Bonne lecture, et bon week-end.
+
+## Dev / backend / Code
+- [T](http://twitter.com/thorstenfrommen/status/870293450574487552) par [@thorstenfrommen](https://twitter.com/thorstenfrommen) —Log, log. —Who's there? —It's me. Wonolog! #Monolog for #WordPress #PHP #Logging // cc @seldaek [https://t.co/kf4Fva1WG5](https://t.co/kf4Fva1WG5)
+- [T](http://twitter.com/epiloic/status/870587798901989376) par [@epiloic](https://twitter.com/epiloic) Functional Programming in #PHP: slides [https://t.co/66np5frHYF](https://t.co/66np5frHYF) and code https://t.co/Zq6uqAbyLg // by Zsolt Szende
+- [T](http://twitter.com/ticabri/status/871652893585268736) par [@ticabri](https://twitter.com/ticabri) GOTO 2017 • Programming Across Paradigms @AnjanaVakil Very clear talk, must watch. [https://t.co/fA7QEg1kbs](https://t.co/fA7QEg1kbs)
+
+
+## Front / Web Apps
+- [T](http://twitter.com/waxzce/status/872406553177059328) par [@waxzce](https://twitter.com/waxzce) FlexBox cheatsheet [https://t.co/yQmpi009PL](https://t.co/yQmpi009PL) https://t.co/0gvSxzcboP
+- [T](http://twitter.com/sonniesedge/status/872403845502050305) par [@sonniesedge](https://twitter.com/sonniesedge) I tried to have a day without javascript. Here's what happened. [https://t.co/JXEGotRt8I](https://t.co/JXEGotRt8I)
+- [T](http://twitter.com/DelicioInsights/status/872437994485145600) par [@DelicioInsights](https://twitter.com/DelicioInsights) 14 trucs !@# dans votre code JS -&gt; [https://t.co/5e7Pvyk8jU](https://t.co/5e7Pvyk8jU)
+- [T](http://twitter.com/MicheleBertoli/status/872370053542445059) par [@MicheleBertoli](https://twitter.com/MicheleBertoli) Automatically generate fake props for your #Reactjs tests (Jest, Enzyme, ...) [https://t.co/4AnvHG4YQ9](https://t.co/4AnvHG4YQ9)
+
+
+## Tooling / OS / Hosting
+- [T](http://twitter.com/k33g_org/status/871338625732149248) par [@k33g_org](https://twitter.com/k33g_org) 2mins10: generate #Hubot application + deploy to @clever_cloud + chat [https://t.co/yfj9Jx1c31](https://t.co/yfj9Jx1c31)
+- [T](http://twitter.com/SaraSoueidan/status/872055053754015744) par [@SaraSoueidan](https://twitter.com/SaraSoueidan) New blog post ✨📝 Migrating from Jekyll+Github Pages to Hugo+Netlify [https://t.co/nXGaYPFix5](https://t.co/nXGaYPFix5) —or what I like to call The Power Combination!
+- [T](http://twitter.com/samuelroze/status/872418586157035521) par [@samuelroze](https://twitter.com/samuelroze) Your #Varnish logs (`varnishlog`) into a graph. Great to debug caching problems! [https://t.co/jrOvb0fYYg](https://t.co/jrOvb0fYYg)
+- [T](http://twitter.com/laravelphp/status/872464821253541888) par [@laravelphp](https://twitter.com/laravelphp) 🔥 Forge: You can now automatically run recipes after a server is provisioned! [https://t.co/WFnxBa9lpJ](https://t.co/WFnxBa9lpJ)
+
+
+
+## Marketing / SEO / Comportement
+- [T](http://twitter.com/DavidLaboure/status/870152221161394176) par [@DavidLaboure](https://twitter.com/DavidLaboure) #Spotter, l'outil gratuit qui repère les plagiats de vidéos en ligne  [https://t.co/o1Xad3SP3Q](https://t.co/o1Xad3SP3Q)
+
+
+
+## Sécurité / Vie privée / Libre
+- [T](http://twitter.com/waxzce/status/870191439325663232) par [@waxzce](https://twitter.com/waxzce) Daring Fireball: Russian Hackers Are Using Google's Own Infrastructure to Hack Gmail Users [https://t.co/cpbbkCNsdz](https://t.co/cpbbkCNsdz) 🙆🙆‍♂️
+
+## Geek / IOT / Électronique
+- [T](http://twitter.com/n1k0/status/871349728918765569) par [@n1k0](https://twitter.com/n1k0) Paper robots! [https://t.co/jQCiO2HkAX](https://t.co/jQCiO2HkAX) https://t.co/PP2rOzTPw9
+- [T](http://twitter.com/waxzce/status/871731589415411714) par [@waxzce](https://twitter.com/waxzce) A hands-on introduction to video technology: image, video, codec (av1, h264, h265) and more (ffmpeg encoding)… [https://t.co/Z0wh6aCLz6](https://t.co/Z0wh6aCLz6)
+- [T](http://twitter.com/dascritch/status/872064069154557952) par [@dascritch](https://twitter.com/dascritch) Contrairement à HFS+ qu'il est censé remplacer, APFS, le nouveau système de fichier de MacOS gère très mal l'i18n [https://t.co/hXbPqkv4wF](https://t.co/hXbPqkv4wF)
+
+
+## Humain / Développement personnel / Santé
+- [T](http://twitter.com/edasfr/status/870369999856087040) par [@edasfr](https://twitter.com/edasfr) La fille et le taureau [https://t.co/Dmi4feS8ni](https://t.co/Dmi4feS8ni) [blog]
+- [T](http://twitter.com/dirtybiology/status/871721690924974081) par [@dirtybiology](https://twitter.com/dirtybiology) Des mots étrangers pour décrire des émotions uniques. [https://t.co/qVYpcIj134](https://t.co/qVYpcIj134)
+- [T](http://twitter.com/LamHua/status/871956819719081984) par [@LamHua](https://twitter.com/LamHua) *blog* Bilan de mon week end déconnecté : il ne faut pas tant échapper à la Technologie qu'au Temps.… [https://t.co/Tm0iA2ulpz](https://t.co/Tm0iA2ulpz)
+
+## Divers / Conneries
+- [T](http://twitter.com/LibeDesintox/status/871772970242502656) par [@LibeDesintox](https://twitter.com/LibeDesintox) Hausse de la CSG : les calculs foireux de @JLMelenchon. [https://t.co/hdcxfPdhf1](https://t.co/hdcxfPdhf1)
+- [T](http://twitter.com/onlmaps/status/871922117763227648) par [@onlmaps](https://twitter.com/onlmaps) Subway-style diagram of major Roman roads  #map #maps [https://t.co/eyefwh8tYk](https://t.co/eyefwh8tYk)
+
+
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
