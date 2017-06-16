@@ -1,0 +1,66 @@
+---
+layout: post
+title: "La veille du week-end S2E1"
+date: 2017-06-16 07:43:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.  
+
+On attaque la saison 2 :)
+
+Bonne lecture, et bon week-end.
+
+## Dev / backend / Code
+- [T](http://twitter.com/thierrypigot/status/873070833077338113) par [@thierrypigot](https://twitter.com/thierrypigot) Accélérer le backoffice de #WordPress si vous utilisez @wp_acf  [https://t.co/rBpXOB4P4Q](https://t.co/rBpXOB4P4Q)
+- [T](http://twitter.com/manekinekko/status/873657983808548870) par [@manekinekko](https://twitter.com/manekinekko) understanding #javascript Generators in 15 seconds [https://t.co/okkUPF8FX4](https://t.co/okkUPF8FX4)
+- [T](http://twitter.com/dsampaolo/status/874264669489250304) par [@dsampaolo](https://twitter.com/dsampaolo) Si tu as entendu un cri de victoire, c'est parce que [https://t.co/zxFm77vg0y](https://t.co/zxFm77vg0y) te permet de générer des Migrations à partir d'une DB. #laravel
+- [T](http://twitter.com/rauschma/status/874299123096268800) par [@rauschma](https://twitter.com/rauschma) Categorizing callable entities in JS has become hard. Distinction: syntax vs. entity created by syntax. New version: [https://t.co/cdjpHJkN3S](https://t.co/cdjpHJkN3S)
+- [T](http://twitter.com/laracasts/status/875028976930041858) par [@laracasts](https://twitter.com/laracasts) Get a head start on what’s new in Laravel 5.5. Series starts today and will be updated each week! [https://t.co/K9hTacs5j8](https://t.co/K9hTacs5j8) #free
+
+
+## Front / Web Apps
+- [T](http://twitter.com/ajdant/status/872931345269260288) par [@ajdant](https://twitter.com/ajdant) This 'worst volume slider' contest is UX gold: [https://t.co/ClOPjrdphr](https://t.co/ClOPjrdphr) https://t.co/RTMrrAp4hg
+- [T](http://twitter.com/greweb/status/874140784001392640) par [@greweb](https://twitter.com/greweb) [https://t.co/nZxpYcsQFN](https://t.co/nZxpYcsQFN) already have 46 transitions! waiting more of your creations :) https://t.co/CANuymyT2c
+- [T](http://twitter.com/geoffrey_crofte/status/874168236262162432) par [@geoffrey_crofte](https://twitter.com/geoffrey_crofte) Flubber — Tools for smoother shape animations/transitions. [https://t.co/F5V6yIsSDr](https://t.co/F5V6yIsSDr) #SVG #Animation https://t.co/unU0zlbnMP
+- [T](http://twitter.com/aemkei/status/874531455334055936) par [@aemkei](https://twitter.com/aemkei) Everything you always wanted to do with brackets: ({[{}]([]){}}[{}])([]) expression,call,member,object,property,f… [https://t.co/MlOqgBuzJe](https://t.co/MlOqgBuzJe)
+
+
+## Tooling / OS / Hosting
+- [T](http://twitter.com/laravelphp/status/872464821253541888) par [@laravelphp](https://twitter.com/laravelphp) 🔥 Forge: You can now automatically run recipes after a server is provisioned! [https://t.co/WFnxBa9lpJ](https://t.co/WFnxBa9lpJ)
+- [T](http://twitter.com/indirect/status/872974938658922496) par [@indirect](https://twitter.com/indirect) I am a fan of this trend to replace unix utilities with faster versions with modern ux in rust [https://t.co/mYw5bYIiDc](https://t.co/mYw5bYIiDc)
+- [T](http://twitter.com/captainsafia/status/872863582249242624) par [@captainsafia](https://twitter.com/captainsafia) command line tip of the day: use `man ascii` to display an ASCII table. I always need to look up ASCII codes and th… [https://t.co/z12fOKtfn3](https://t.co/z12fOKtfn3)
+- [T](http://twitter.com/vtlynch/status/874301119089999881) par [@vtlynch](https://twitter.com/vtlynch) High Sierra/iOS11 have lots of crypto/SSL improvements including new library (LibreSSL), TLS1.3 beta, no more SHA-1 [https://t.co/h7XP2wCGAX](https://t.co/h7XP2wCGAX)
+
+
+## Marketing / SEO / Comportement
+- [T](http://twitter.com/soumettrefr/status/874547319923933184) par [@soumettrefr](https://twitter.com/soumettrefr) Suite à de nombreuses demandes, nous avons ajouté 20 sites de Presse "Gold" Anglais 🇬🇧/ #SEO [https://t.co/rWm9ATTOL5](https://t.co/rWm9ATTOL5)
+
+
+## Sécurité / Vie privée / Libre
+- [T](http://twitter.com/greg_harvey/status/874191875988705281) par [@greg_harvey](https://twitter.com/greg_harvey) Excellent video from @aaisp demonstrating cryptography on PAPER &amp; exposing how ridiculous the idea of banning it is: [https://t.co/Q8IIrjg2Ek](https://t.co/Q8IIrjg2Ek)
+- [T](http://twitter.com/StephBerthomet/status/874630278664380416) par [@StephBerthomet](https://twitter.com/StephBerthomet) Comprendre la stupidité et l'inutilité de certaines mesures de sécurité en 3 minutes et avec le sourire ![https://t.co/lqcjiY6MgS](https://t.co/lqcjiY6MgS)
+
+
+## Geek / IOT / Électronique
+- [T](http://twitter.com/waxzce/status/874268308069109760) par [@waxzce](https://twitter.com/waxzce) My experience using hackintosh low-end PC for 3 years. [https://t.co/0mpRor9xVF](https://t.co/0mpRor9xVF) https://t.co/CHeTgCa64D
+
+
+## Humain / Développement personnel / Santé
+- [T](http://twitter.com/CamilleRoux/status/872708455664111617) par [@CamilleRoux](https://twitter.com/CamilleRoux) Comment je fais ma veille en 2017 [https://t.co/qC8AeDiqdg](https://t.co/qC8AeDiqdg) cc @inoreader @ferrouzzz @jbuget https://t.co/W6KGCAjWdf
+- [T](http://twitter.com/JoliCode/status/874185493323194369) par [@JoliCode](https://twitter.com/JoliCode) JoliDay 2017, avec des joysticks, des bulles et des LEDs 🕶 [https://t.co/TpUpgdZoxt](https://t.co/TpUpgdZoxt) https://t.co/Ft6Y8qW0ZI
+- [T](http://twitter.com/TEDTalks/status/874289230444462081) par [@TEDTalks](https://twitter.com/TEDTalks) Why you should define your fears instead of your goals: [https://t.co/bQLBEjIxA5](https://t.co/bQLBEjIxA5) @tferriss https://t.co/DI7g3SyHqH
+- [T](http://twitter.com/hellgy/status/874358418672365570) par [@hellgy](https://twitter.com/hellgy) Imprimez vous-même vos #CarteBlanches à la maison (ou au travail) : [https://t.co/bjXtvUjD4H](https://t.co/bjXtvUjD4H) https://t.co/kReu5SUR1r
+- [T](http://twitter.com/borisschapira/status/874735560178446336) par [@borisschapira](https://twitter.com/borisschapira) Utiliser GitHub pour évaluer les devoirs des étudiants. Je n'y aurais pas pensé​, et c'est génial. [https://t.co/TwEA5YmMmV](https://t.co/TwEA5YmMmV)
+
+
+## Divers / Conneries
+- [T](http://twitter.com/VsauceThree/status/872889649181712384) par [@VsauceThree](https://twitter.com/VsauceThree) This Video Isn't Real [NEW VIDEO] --&gt; [https://t.co/LMMTOWBt1P](https://t.co/LMMTOWBt1P) https://t.co/Mya7gZ5uU5
+- [T](http://twitter.com/contourcorsets/status/873663702171615233) par [@contourcorsets](https://twitter.com/contourcorsets) The awesome beauty behind that Frappin' 8-Ball - the Apollo FDAI attitude indicator... [https://t.co/Jxd7497ESa](https://t.co/Jxd7497ESa) https://t.co/jenKGhGQ7P
+- [T](http://twitter.com/SuperSaf/status/874180370249519104) par [@SuperSaf](https://twitter.com/SuperSaf) A Geography Class for Racist People. Hilariously awesome video by @IISuperwomanII 😂 [https://t.co/lQO784lm7I](https://t.co/lQO784lm7I)
+- [T](http://twitter.com/gcouprie/status/874308318931636226) par [@gcouprie](https://twitter.com/gcouprie) great work on how the opening of the Batman animated series was made! [https://t.co/ru5RwHHLKW](https://t.co/ru5RwHHLKW) I loved that serie https://t.co/Jk3YP7o7rp
+
+
+
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
