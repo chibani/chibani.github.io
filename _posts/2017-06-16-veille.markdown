@@ -38,7 +38,7 @@ Bonne lecture, et bon week-end.
 
 ## Sécurité / Vie privée / Libre
 - [T](http://twitter.com/greg_harvey/status/874191875988705281) par [@greg_harvey](https://twitter.com/greg_harvey) Excellent video from @aaisp demonstrating cryptography on PAPER &amp; exposing how ridiculous the idea of banning it is: [https://t.co/Q8IIrjg2Ek](https://t.co/Q8IIrjg2Ek)
-- [T](http://twitter.com/StephBerthomet/status/874630278664380416) par [@StephBerthomet](https://twitter.com/StephBerthomet) Comprendre la stupidité et l'inutilité de certaines mesures de sécurité en 3 minutes et avec le sourire ![https://t.co/lqcjiY6MgS](https://t.co/lqcjiY6MgS)
+- [T](http://twitter.com/StephBerthomet/status/874630278664380416) par [@StephBerthomet](https://twitter.com/StephBerthomet) Comprendre la stupidité et l'inutilité de certaines mesures de sécurité en 3 minutes et avec le sourire ! [https://t.co/lqcjiY6MgS](https://t.co/lqcjiY6MgS)
 
 
 ## Geek / IOT / Électronique
