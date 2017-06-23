@@ -1,0 +1,53 @@
+---
+layout: post
+title: "La veille du week-end S2E2"
+date: 2017-06-23 06:43:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.  
+
+Bonne lecture, et bon week-end.
+
+## Dev / backend / Code
+- [T](http://twitter.com/kornelski/status/875504123550085123) par [@kornelski](https://twitter.com/kornelski) Saliency detection (predicting where people look in images) is mostly about detecting faces, BUT… [https://t.co/a8eRvOat56](https://t.co/a8eRvOat56)
+- [T](http://twitter.com/pierredargham/status/875358012004720641) par [@pierredargham](https://twitter.com/pierredargham) wp-cubi release 0.1 is here ! [https://t.co/4AiSAUxKrd](https://t.co/4AiSAUxKrd) #WCEU #WP #WordPress #composer #wpcli cc @GLOBALISms https://t.co/37efGzBero
+- [T](http://twitter.com/DidierGirard/status/877044853632364544) par [@DidierGirard](https://twitter.com/DidierGirard) Supercharge your Computer Vision models with the TensorFlow Object Detection API [https://t.co/CHN54NI9Br](https://t.co/CHN54NI9Br) https://t.co/x8EEgQyZ6M
+- [T](http://twitter.com/waxzce/status/877439198260854785) par [@waxzce](https://twitter.com/waxzce) #PHP in 2017 - Rasmus Lerdorf @rasmus WeAreDevelopers Conference 2017 [https://t.co/9PoK1pCnrJ](https://t.co/9PoK1pCnrJ)
+- [T](http://twitter.com/enunomaduro/status/877645320808779777) par [@enunomaduro](https://twitter.com/enunomaduro) Laravel Zero v2 brings desktop notifications on Linux, Windows and MacOS 🚀 [https://t.co/Cmw1d931E9](https://t.co/Cmw1d931E9) Beautiful… https://t.co/5PEdYOK6Be
+
+
+## Front / Web Apps
+- [T](http://twitter.com/LilGast8/status/875615637946499072) par [@LilGast8](https://twitter.com/LilGast8) This is crazy #2d #canvas sorcery! [https://t.co/M4kNIPhCzk](https://t.co/M4kNIPhCzk) https://t.co/W3StJMlMZk
+- [T](http://twitter.com/waxzce/status/876065280350453760) par [@waxzce](https://twitter.com/waxzce) How to get the most out of the JavaScript console [https://t.co/TjckZGakab](https://t.co/TjckZGakab) https://t.co/DPVAgEc5Pk
+- [T](http://twitter.com/waxzce/status/876607720685809668) par [@waxzce](https://twitter.com/waxzce) svgi, the SVG inspection tool [https://t.co/S4yuTemwBz](https://t.co/S4yuTemwBz) https://t.co/9g3QbUUQEL
+
+
+## Tooling / OS / Hosting
+- [T](http://twitter.com/g33konaut/status/875470374636580868) par [@g33konaut](https://twitter.com/g33konaut) Day 2 of my Firefox-as-main-browser month: [https://t.co/yyR6T59IQq](https://t.co/yyR6T59IQq) https://t.co/1k3F6cUVt4
+- [T](http://twitter.com/speude/status/876079327640727554) par [@speude](https://twitter.com/speude) L'infra du Bon Coin par @jlb666 [https://t.co/crPbxTtjEH](https://t.co/crPbxTtjEH)
+- [T](http://twitter.com/fdevillamil/status/876554342819651584) par [@fdevillamil](https://twitter.com/fdevillamil) I've just published "Designing the Perfect Elasticsearch Cluster: the (almost) Definitive Guide" [https://t.co/YqKExmpNub](https://t.co/YqKExmpNub)
+- [T](http://twitter.com/TheLarkInn/status/876852949766602753) par [@TheLarkInn](https://twitter.com/TheLarkInn) I just published “🍾🚀 webpack 3: Official Release!! 🚀🍾” [https://t.co/wmg0LWlk8P](https://t.co/wmg0LWlk8P)
+- [T](http://twitter.com/jamstatic_fr/status/877498865682919424) par [@jamstatic_fr](https://twitter.com/jamstatic_fr) Vous hésitez à passer à @GoHugoIO? Les premiers pas de @SaraSoueidan vous aideront peut-être à vous lancer [https://t.co/NhEXx80L1i](https://t.co/NhEXx80L1i)
+
+
+## Marketing / SEO / Comportement
+// Rien, désolé. Mais je vous invite à lire les autres catégories ;)
+
+## Sécurité / Vie privée / Libre
+// Rien, mais je citerai (je ne sais plus qui) : "Danse like nobody is watching. Encrypt like everyone is."
+
+
+## Geek / IOT / Électronique
+- [T](http://twitter.com/MKBHD/status/875518219926286336) par [@MKBHD](https://twitter.com/MKBHD) NEW VIDEO - iPad Pro 2017 (10.5") Review! [https://t.co/FHLWNuhfPe](https://t.co/FHLWNuhfPe) - RT! https://t.co/5UymTYaJ2b
+- [T](http://twitter.com/methylbro/status/877266226841612288) par [@methylbro](https://twitter.com/methylbro) Pourquoi et comment je filme les meetups ? [https://t.co/kyFvpm0i2E](https://t.co/kyFvpm0i2E)
+
+
+## Humain / Développement personnel / Santé
+- [T](http://twitter.com/LaetitiaPhan/status/875695137795575808) par [@LaetitiaPhan](https://twitter.com/LaetitiaPhan) Feeling depressed? [https://t.co/MIzgowP15g](https://t.co/MIzgowP15g) (VOST disponible)
+
+
+## Divers / Conneries
+- [T](http://twitter.com/LamHua/status/876837464937287684) par [@LamHua](https://twitter.com/LamHua) Pour découvrir ou faire découvrir l'Esport, regardez "L'Esport Fait Vivre", la série de webdocs que j'ai co-écrit !… [https://t.co/KzZdwjiY3f](https://t.co/KzZdwjiY3f)
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
