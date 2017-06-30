@@ -1,0 +1,71 @@
+---
+layout: post
+title: "La veille du week-end S2E3"
+date: 2017-06-30 08:15:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.  
+
+Bonne lecture, et bon week-end.
+
+## Dev / backend / Code
+- [T](http://twitter.com/imath/status/878171566172807168) par [@imath](https://twitter.com/imath) Maintenant vous pouvez installer et mettre à jour mes extensions #WordPress depuis l'administration de votre site [https://t.co/wsuMQ1ZoE9](https://t.co/wsuMQ1ZoE9)
+- [T](http://twitter.com/nfroidure/status/878933913741209603) par [@nfroidure](https://twitter.com/nfroidure) “What the heck is time-series data (and why do I need a time-series database)?” by @acoustik [https://t.co/sxYnfLAqTI](https://t.co/sxYnfLAqTI)
+- [T](http://twitter.com/mickael_andrieu/status/878940528494227456) par [@mickael_andrieu](https://twitter.com/mickael_andrieu) When we learn that remove useless dependencies improve performance :) [https://t.co/zVAIym57m3](https://t.co/zVAIym57m3)
+- [T](http://twitter.com/waxzce/status/879008044952297472) par [@waxzce](https://twitter.com/waxzce) “Efficient data structures for #PHP 7” @rudi_theunissen [https://t.co/JklTKbqsk4](https://t.co/JklTKbqsk4)
+- [T](http://twitter.com/taylorotwell/status/878991143039623172) par [@taylorotwell](https://twitter.com/taylorotwell) Just wrote a make:rule command for Laravel 5.5 to create new custom validation rules ([https://t.co/7K1iEXtwVF](https://t.co/7K1iEXtwVF)) ... ✅
+- [T](http://twitter.com/neoziro/status/879345064748756992) par [@neoziro](https://twitter.com/neoziro) Introducing loadable-components ✂️✨, a library to solve React code splitting on browser and server… [https://t.co/qeicxvJXqK](https://t.co/qeicxvJXqK)
+
+
+
+## Front / Web Apps
+- [T](http://twitter.com/mhaagens/status/878962993723297792) par [@mhaagens](https://twitter.com/mhaagens) @addyosmani @ryanflorence @mjackson Short writeup on transitions with React Router 4, TransitionGroup and Animated;… [https://t.co/K042qKZ7iZ](https://t.co/K042qKZ7iZ)
+- [T](http://twitter.com/b0rk/status/879510624522428418) par [@b0rk](https://twitter.com/b0rk) a tiny whack-a-mole game with vue.js [https://t.co/f0NuEN1coa](https://t.co/f0NuEN1coa)
+- [T](http://twitter.com/jgthms/status/880052973363003392) par [@jgthms](https://twitter.com/jgthms) I created a simple JSFiddle to explain how #HTML5 "srcset" and "sizes" attributes work! 😃 [https://t.co/ehS8eI5HxQ](https://t.co/ehS8eI5HxQ) https://t.co/nxLI88Mdbz
+
+
+
+## Tooling / OS / Hosting
+- [T](http://twitter.com/methylbro/status/877812188273975296) par [@methylbro](https://twitter.com/methylbro) Les commandes méconnues de #Git par Zsigmond Vladar [https://t.co/MiSlFgBX7v](https://t.co/MiSlFgBX7v)
+- [T](http://twitter.com/bcrypt/status/877782985386348545) par [@bcrypt](https://twitter.com/bcrypt) A single person gained the ability to compromise 52% of Node packages by harvesting NPM credentials. [https://t.co/9YSUGa0XGy](https://t.co/9YSUGa0XGy)
+- [T](http://twitter.com/gitlab/status/877957211598671872) par [@gitlab](https://twitter.com/gitlab) We’re proud to release GitLab 9.3  with Code Quality, Multi-Project Pipeline Graphs, and much more!! Enjoy! 😃 🎉 🙌  [https://t.co/6JizC4QmGI](https://t.co/6JizC4QmGI)
+- [T](http://twitter.com/BoiteAWeb/status/878266791306383360) par [@BoiteAWeb](https://twitter.com/BoiteAWeb) What's new in Gutenberg? (June 23rd) [https://t.co/MKwV2eLTmB](https://t.co/MKwV2eLTmB) via @WordPress
+- [T](http://twitter.com/mpjme/status/879260866083991552) par [@mpjme](https://twitter.com/mpjme) Continuous Integration: Is it worth it? [https://t.co/coJbwCHFcT](https://t.co/coJbwCHFcT) https://t.co/2eq1tZbmcL
+- [T](http://twitter.com/FGRibreau/status/879670151850971137) par [@FGRibreau](https://twitter.com/FGRibreau) Arachni - Web Application Security Scanner Framework [https://t.co/lzJYQQ4Hpu](https://t.co/lzJYQQ4Hpu)
+- [T](http://twitter.com/methylbro/status/879729843612659712) par [@methylbro](https://twitter.com/methylbro) Filmer correctement vos meetups avec des téléphones c'est possible mais avec plusieurs appareils ! [https://t.co/oDBhyxr4Ip](https://t.co/oDBhyxr4Ip)
+
+
+
+## Marketing / SEO / Comportement
+- [T](http://twitter.com/Julien_Gadanho/status/877782959318630400) par [@Julien_Gadanho](https://twitter.com/Julien_Gadanho) Twitter Hijacking, je vous ai préparé un case-study qui vous plaira surement ! [https://t.co/8O027DHVJx](https://t.co/8O027DHVJx) https://t.co/FryZsYlKIW
+
+
+## Sécurité / Vie privée / Libre
+- [T](http://twitter.com/verge/status/879076744912875522) par [@verge](https://twitter.com/verge) Internal Apple presentation on how to handle leaks gets leaked [https://t.co/b1ZnI4vrY0](https://t.co/b1ZnI4vrY0) https://t.co/MJUYxPT4iv
+
+
+## Geek / IOT / Électronique
+- [T](http://twitter.com/NicoleHemsoth/status/879424020667658241) par [@NicoleHemsoth](https://twitter.com/NicoleHemsoth) Neat-building a Raspberry Pi #HPC cluster for MPI and deep learning (TensorFlow) - [https://t.co/Ut4Skqwrzb](https://t.co/Ut4Skqwrzb)
+
+
+
+## Humain / Développement personnel / Santé
+- [T](http://twitter.com/desbenoit/status/877816079485153280) par [@desbenoit](https://twitter.com/desbenoit) Ce que ces dernières années à travailler autour de la communication, du changement et de l’UX m’ont appris :… [https://t.co/tiW4uvbUdJ](https://t.co/tiW4uvbUdJ)
+- [T](http://twitter.com/ElieSl/status/879586734958366720) par [@ElieSl](https://twitter.com/ElieSl) Comme d’habitude, John Oliver fait un boulot d’utilité publique (hilarant, en plus). Les vaccins [https://t.co/BZTWJlZx92](https://t.co/BZTWJlZx92)
+
+
+
+## Divers / Conneries
+- [T](http://twitter.com/FranckLassagne/status/877759394552791041) par [@FranckLassagne](https://twitter.com/FranckLassagne) Daft Punk collabore avec Parcels pour lancer le titre Overnight. Futur tube de l'été ? 🎧🕺 [https://t.co/KSvuadUzkg](https://t.co/KSvuadUzkg)
+- [T](http://twitter.com/netsabes/status/877959602125582336) par [@netsabes](https://twitter.com/netsabes) Beyond Good &amp; Evil 2 : [https://t.co/RpdSlAeOOi](https://t.co/RpdSlAeOOi)
+- [T](http://twitter.com/_HarmO_/status/877990562741145600) par [@_HarmO_](https://twitter.com/_HarmO_) Origami everything De l'algo au papier [https://t.co/KleusyDyrd](https://t.co/KleusyDyrd)
+- [T](http://twitter.com/Meeea/status/878630098496368640) par [@Meeea](https://twitter.com/Meeea) Chez Pixar la vérité derrière Toy Story est encore plus triste que les théories [https://t.co/keaRDol9wf](https://t.co/keaRDol9wf)
+- [T](http://twitter.com/dirtybiology/status/878875650920038400) par [@dirtybiology](https://twitter.com/dirtybiology) Si ça vous réveille pas en douceur en vous donnant la pêche d'explorer le monde avec le sourire, rien ne le fera : [https://t.co/nlUS7OnHad](https://t.co/nlUS7OnHad)
+- [T](http://twitter.com/bcrypt/status/878812342439395328) par [@bcrypt](https://twitter.com/bcrypt) the way these videos are generated is SUPER COOL [https://t.co/OzKnLfy21X](https://t.co/OzKnLfy21X)
+- [T](http://twitter.com/edform/status/878976361930653697) par [@edform](https://twitter.com/edform) Finally got a trailer together for my extreme physics climbing game Hang Line [https://t.co/FTQdw4fnug](https://t.co/FTQdw4fnug)…
+
+
+
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
