@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "La veille du week-end S2E4"
-date: 2017-07-07 08:15:00 +0200
+date: 2017-07-07 07:15:00 +0200
 category: veille
 ---
 C’est vendredi et c’est la “veille du week-end”.  
