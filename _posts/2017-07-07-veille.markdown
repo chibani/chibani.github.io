@@ -1,0 +1,66 @@
+---
+layout: post
+title: "La veille du week-end S2E4"
+date: 2017-07-07 08:15:00 +0200
+category: veille
+---
+C’est vendredi et c’est la “veille du week-end”.  
+
+Bonne lecture, et bon week-end.
+
+## Dev / backend / Code
+- [T](http://twitter.com/waxzce/status/881981889862672385) par [@waxzce](https://twitter.com/waxzce) Type-hint all the things! - #PHP [https://t.co/wgNCXtMThs](https://t.co/wgNCXtMThs) https://t.co/o1CzvdPep1
+- [T](http://twitter.com/laravelnews/status/882607688911384576) par [@laravelnews](https://twitter.com/laravelnews) Laravel 5.5 Pivot Casting via @casey_dwyer [https://t.co/zZsrVdeeeY](https://t.co/zZsrVdeeeY) https://t.co/maHou6tLjY
+
+
+## Front / Web Apps
+- [T](http://twitter.com/L_Demontiers/status/881145518914752512) par [@L_Demontiers](https://twitter.com/L_Demontiers) La vidéo de la conf de @alexisjanvier sur les services workers et les progressives web apps est (enfin) en ligne ! [https://t.co/xSRrLRuUew](https://t.co/xSRrLRuUew)
+- [T](http://twitter.com/VueJsNews/status/881513004017254400) par [@VueJsNews](https://twitter.com/VueJsNews) Code Splitting With Vue.js And Webpack [https://t.co/uMNv8AsQKy](https://t.co/uMNv8AsQKy) #VueJS https://t.co/fRQvVm51lS
+- [T](http://twitter.com/dhoko_/status/881858094225129473) par [@dhoko_](https://twitter.com/dhoko_) Navalia 🔧 ~ Simple, easy-to-use browser automation at scale [https://t.co/DxvG2FwoU2](https://t.co/DxvG2FwoU2) tip top #JavaScript https://t.co/Njc8EigGWB
+
+
+
+
+## Tooling / OS / Hosting
+- [T](http://twitter.com/HumanCodersNews/status/880718333687025664) par [@HumanCodersNews](https://twitter.com/HumanCodersNews) Makefile / Make "task runners" great again par @GillesRoustan [https://t.co/X9yFPqEJZx](https://t.co/X9yFPqEJZx) https://t.co/zcsnRbTvMZ
+- [T](http://twitter.com/DirtyF/status/881231279789887488) par [@DirtyF](https://twitter.com/DirtyF) #Serverless by numbers: “less than 10 bucks for every million requests, and it can scale with no effort” — @adampash [https://t.co/ziWTlgMkjf](https://t.co/ziWTlgMkjf)
+- [T](http://twitter.com/waxzce/status/881551300273614848) par [@waxzce](https://twitter.com/waxzce) What is a File? - Microsoft Research [https://t.co/OZMEXX9SY2](https://t.co/OZMEXX9SY2)
+- [T](http://twitter.com/waxzce/status/882191004547153926) par [@waxzce](https://twitter.com/waxzce) #NoSQL Database Architectural Comparison [https://t.co/lNGs3aNHsX](https://t.co/lNGs3aNHsX)
+- [T](http://twitter.com/ldoguin/status/882263235327651840) par [@ldoguin](https://twitter.com/ldoguin) Code Running on Ionized Particles, or WTF is #Serverless [https://t.co/0elyEVzm1n](https://t.co/0elyEVzm1n) #automation #faas &lt;- Slightly opinionated post
+
+
+## Marketing / SEO / UX
+- [T](http://twitter.com/annso_/status/880430787719565313) par [@annso_](https://twitter.com/annso_) #ux #feelGoodButton [https://t.co/gjECA3LcIM](https://t.co/gjECA3LcIM)
+- [T](http://twitter.com/semrush_fr/status/882293443074162689) par [@semrush_fr](https://twitter.com/semrush_fr) Dès maintenant vous pouvez vérifier les métriques essentielles des #backlinks jusqu'à 200 domaines !… [https://t.co/zdyJGJs52W](https://t.co/zdyJGJs52W)
+
+
+## Sécurité / Vie privée / Libre
+- [T](http://twitter.com/edasfr/status/881555707136417792) par [@edasfr](https://twitter.com/edasfr) J’efface mes traces [https://t.co/K8lck70hvK](https://t.co/K8lck70hvK) [blog]
+- [T](http://twitter.com/rudyrigot/status/882247273723375621) par [@rudyrigot](https://twitter.com/rudyrigot) Ahah, guy hacked CodeWars's validation system, and passed a bunch of their challenges doing nothing! :D [https://t.co/NB3W1TQZ9c](https://t.co/NB3W1TQZ9c)
+- [T](http://twitter.com/_reflets_/status/882476461797642241) par [@_reflets_](https://twitter.com/_reflets_) Amesys : les tribulations égyptiennes d'un marchand d’armes numériques français [https://t.co/2XZoI9WWJe](https://t.co/2XZoI9WWJe) via @oliviertesquet
+- [T](http://twitter.com/journalduhacker/status/882526936085516288) par [@journalduhacker](https://twitter.com/journalduhacker) La FSF approuve neuf ordinateurs centrés sur la vie privée [https://t.co/EeO0bMNckm](https://t.co/EeO0bMNckm) https://t.co/Jsk88T2WPH #vieprivée #sécurité
+
+
+## Geek / IOT / Électronique
+- [T](http://twitter.com/PatrickFaramaz/status/880348154327158785) par [@PatrickFaramaz](https://twitter.com/PatrickFaramaz) Classement des smartphones en fonction de leurs capacités à être réparés [https://t.co/IyZ916VOhO](https://t.co/IyZ916VOhO)
+
+
+## Humain / Développement personnel / Santé
+- [T](http://twitter.com/LaetitiaPhan/status/880430945173725185) par [@LaetitiaPhan](https://twitter.com/LaetitiaPhan) The 10 rules the 3rd times happiest country follow, for inspiration ;-) [https://t.co/qUfzgHWVJ9](https://t.co/qUfzgHWVJ9)
+- [T](http://twitter.com/jBleuzen/status/881038405341073409) par [@jBleuzen](https://twitter.com/jBleuzen) Devenir Développeur Freelance — Guide pratique en 10 parties [https://t.co/1PVRC95kB0](https://t.co/1PVRC95kB0)
+- [T](http://twitter.com/Le_M_Poireau/status/881831256719314945) par [@Le_M_Poireau](https://twitter.com/Le_M_Poireau) «Plus on te répète qu’une crise existe, plus ton cerveau va l’accepter comme un fait» [https://t.co/yaEDX7VZpz](https://t.co/yaEDX7VZpz) via @cyceron
+- [T](http://twitter.com/borisschapira/status/882268812179120128) par [@borisschapira](https://twitter.com/borisschapira) Évaluations [https://t.co/UTzQn74JhF](https://t.co/UTzQn74JhF)
+- [T](http://twitter.com/CoralineAda/status/882627909118304256) par [@CoralineAda](https://twitter.com/CoralineAda) I am finally ready tell my story. “Antisocial Coding: My Year at GitHub” [https://t.co/HDYofXS82o](https://t.co/HDYofXS82o)
+
+
+## Divers / Conneries
+- [T](http://twitter.com/KeydeeGamerBoy/status/880291394505625601) par [@KeydeeGamerBoy](https://twitter.com/KeydeeGamerBoy) Voilà comment se lever du bon pied avec ce remix épique d'une de mes musiques favorites de #ChronoTrigger😍 #DuLourd [https://t.co/PSzIGcWgJx](https://t.co/PSzIGcWgJx)
+- [T](http://twitter.com/Godefroy/status/881470260448288768) par [@Godefroy](https://twitter.com/Godefroy) Science based Games list [https://t.co/bXyJtFiIA9](https://t.co/bXyJtFiIA9)
+- [T](http://twitter.com/philogb/status/882067372055580673) par [@philogb](https://twitter.com/philogb) Hotel: 10k interior and exterior photos of a hotel to build a full 3D cross-section visualization… [https://t.co/BvrAeCtbpQ](https://t.co/BvrAeCtbpQ)
+
+
+
+
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
