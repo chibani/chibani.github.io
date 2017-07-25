@@ -1,0 +1,66 @@
+---
+layout: post
+title: "La veille du week-end S2E5"
+date: 2017-07-14 13:33:00 +0200
+category: veille
+---
+
+Allons enfants de la patriiiiiiie, la veille du week-end est arrivéééée.
+Comme vous l'aurez compris, c’est vendredi et c’est la “veille du week-end”.  
+
+Bonne lecture, et bon week-end.
+
+## Dev / backend / Code
+- [T](http://twitter.com/afup/status/882871747476901888) par [@afup](https://twitter.com/afup) Tagua VM, a safe PHP virtual machine. La conférence de @mnt_io à revoir sur le site de l'AFUP : [https://t.co/NFMS28nmi0](https://t.co/NFMS28nmi0)
+- [T](http://twitter.com/GromNaN/status/883003430448529409) par [@GromNaN](https://twitter.com/GromNaN) Retrospective des nouveautés #PHP et #Symfony — Présentation aux développeurs @PrismaMedia [https://t.co/VLuTmrXztT](https://t.co/VLuTmrXztT)
+- [T](http://twitter.com/noopkat/status/883376882015719425) par [@noopkat](https://twitter.com/noopkat) I wrote about my first year of live coding regularly on @Twitch and the lessons I learned 👩🏻‍🚀 [https://t.co/A0IFqilz88](https://t.co/A0IFqilz88)
+- [T](http://twitter.com/FredBouchery/status/885255252139806721) par [@FredBouchery](https://twitter.com/FredBouchery) How to Analyze Tweet Sentiments with PHP Machine Learning: [https://t.co/0BgAYOg9gm](https://t.co/0BgAYOg9gm) #PHP #MachineLearning https://t.co/T6p7zmN8wT
+
+
+## Front / Web Apps
+- [T](http://twitter.com/jaredforsyth/status/882785923234234368) par [@jaredforsyth](https://twitter.com/jaredforsyth) It's done! For all you @reactjs JavaScript folks who want to learn @reasonml, here you go! "A ReasonReact Tutorial"… [https://t.co/WHiGIGWZ8K](https://t.co/WHiGIGWZ8K)
+- [T](http://twitter.com/accessiblestef/status/882966751402754048) par [@accessiblestef](https://twitter.com/accessiblestef) Comme promis @kReEsTaL [https://t.co/mNGZFI1Zro](https://t.co/mNGZFI1Zro) : _Des arguments pour l’accessibilité_
+- [T](http://twitter.com/addyosmani/status/883002839995301888) par [@addyosmani](https://twitter.com/addyosmani) Use Web Fonts? Have a solid font loading strategy to deliver the best user experience 🔥 [https://t.co/7HThUtp0AZ](https://t.co/7HThUtp0AZ)… https://t.co/vddf74mJrK
+- [T](http://twitter.com/davrous/status/883559550703611905) par [@davrous](https://twitter.com/davrous) Tutorial to create #WebVR content on all platforms: [https://t.co/5rtgutwf01](https://t.co/5rtgutwf01) from mobile Cardboard to #htcvive… https://t.co/TYbeKIUelZ
+- [T](http://twitter.com/sharifsbeat/status/883695732829691904) par [@sharifsbeat](https://twitter.com/sharifsbeat) Haven't seen this React pattern yet. Very elegant from my point of view. WithState: the Component as a view prop.… [https://t.co/DKWikGGUEQ](https://t.co/DKWikGGUEQ)
+
+
+## Tooling / OS / Hosting
+- [T](http://twitter.com/dhoko_/status/884423658881593344) par [@dhoko_](https://twitter.com/dhoko_) SKIP grep, use AWK [https://t.co/7ckWWUuQd8](https://t.co/7ckWWUuQd8) /me utilise jamais awk, on va se lancer donc
+- [T](http://twitter.com/waxzce/status/884777550672736256) par [@waxzce](https://twitter.com/waxzce) GPU Performance for Game Artists [https://t.co/Dw2asSO42H](https://t.co/Dw2asSO42H) // really interesting to understand how rendering is made https://t.co/TltASRSmfh
+- [T](http://twitter.com/L_Demontiers/status/885020734871003136) par [@L_Demontiers](https://twitter.com/L_Demontiers) ÉNORME ! [https://t.co/xiKEyuQsQc](https://t.co/xiKEyuQsQc) , le Git des designers permet de versionner les compos, de travailler à plusieurs sur le même fichier, etc
+
+
+## Marketing / SEO / UX
+- [T](http://twitter.com/waxzce/status/884056573332639744) par [@waxzce](https://twitter.com/waxzce) Medium-like text selection sharing without dependencies  [https://t.co/UxcSwXUCqn](https://t.co/UxcSwXUCqn) // AWESOME https://t.co/XVwFdlsSmy
+
+
+## Sécurité / Vie privée / Libre
+- [T](http://twitter.com/jedisct1/status/882895298351308800) par [@jedisct1](https://twitter.com/jedisct1) RT @geek_at: Defending your website with ZIP bombs. It's as nasty as it sounds [https://t.co/z75XWGun7C](https://t.co/z75XWGun7C)
+- [T](http://twitter.com/troyhunt/status/885037383858761729) par [@troyhunt](https://twitter.com/troyhunt) Does my site need HTTPS? [https://t.co/smHQchEimN](https://t.co/smHQchEimN)
+
+
+## Geek / IOT / Électronique
+- [T](http://twitter.com/wproof/status/883360470702448641) par [@wproof](https://twitter.com/wproof) Tu hésites à te lancer dans le podcast ? @Quenton et @BlastAndCo t’expliquent que le son, c’est pas sorcier. [https://t.co/W5U6IiZAA3](https://t.co/W5U6IiZAA3)
+
+
+## Humain / Développement personnel / Santé
+- [T](http://twitter.com/CoralineAda/status/882627909118304256) par [@CoralineAda](https://twitter.com/CoralineAda) I am finally ready tell my story. “Antisocial Coding: My Year at GitHub” [https://t.co/HDYofXS82o](https://t.co/HDYofXS82o)
+- [T](http://twitter.com/LaetitiaPhan/status/883014099499724800) par [@LaetitiaPhan](https://twitter.com/LaetitiaPhan) Tell me who you like, I'll tell you who you are : on personality and people around you [https://t.co/0TqErzJreS](https://t.co/0TqErzJreS)
+- [T](http://twitter.com/mickael_andrieu/status/882514030799319042) par [@mickael_andrieu](https://twitter.com/mickael_andrieu) “On toxicity in the PHP community” [https://t.co/9FLz7rDn9e](https://t.co/9FLz7rDn9e)
+- [T](http://twitter.com/Projet_Arcadie/status/883745197624102912) par [@Projet_Arcadie](https://twitter.com/Projet_Arcadie) Changement d'URL. La conférence sur "la petite corruption du quotidien" (en politique) est disponible ici [https://t.co/yY61wJ1MVV](https://t.co/yY61wJ1MVV)
+- [T](http://twitter.com/julien_lafont/status/884124303549181953) par [@julien_lafont](https://twitter.com/julien_lafont) “Why I Only Work Remotely” by @yanismydj [https://t.co/MG7aYEbCog](https://t.co/MG7aYEbCog)
+- [T](http://twitter.com/LaetitiaPhan/status/884818620970409985) par [@LaetitiaPhan](https://twitter.com/LaetitiaPhan) Always ruminating the past or worrying/planning about the future? Here a few routines to come back to the present &lt;3 [https://t.co/WIwlouyTeW](https://t.co/WIwlouyTeW)
+- [T](http://twitter.com/jonathanpath/status/884353089138036736) par [@jonathanpath](https://twitter.com/jonathanpath) Mon nouvel article : Quand votre client veut baisser votre tarif [https://t.co/6qpBpo9QKK](https://t.co/6qpBpo9QKK) via @freelanceboost - merci pour les RT :)
+
+
+## Divers / Conneries
+- [T](http://twitter.com/SylvainPaley/status/882885335969128448) par [@SylvainPaley](https://twitter.com/SylvainPaley) Seconde partie du road trip sur la côte ouest des Etats-Unis : Oregon, bières et subduction [https://t.co/al9mYfnkEf](https://t.co/al9mYfnkEf)•-portland-•-seattle/
+- [T](http://twitter.com/Sansdieux/status/884012395080945664) par [@Sansdieux](https://twitter.com/Sansdieux) @Pontifex_fr Voilà un excellent documentaire sur l'argent et l'Eglise...Regardez à quoi sert le denier du culte ;) [https://t.co/G4q9lmWzRF](https://t.co/G4q9lmWzRF)
+
+
+
+
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
