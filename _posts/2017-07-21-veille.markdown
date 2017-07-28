@@ -1,0 +1,48 @@
+---
+layout: post
+title: "La veille du week-end S2E6"
+date: 2017-07-21 08:33:00 +0200
+category: veille
+---
+
+Bonjour, c’est vendredi et c’est la “veille du week-end”.  
+
+Bonne lecture, et bon week-end.
+
+## Dev / backend / Code
+- [T](http://twitter.com/jedisct1/status/887378579834769412) par [@jedisct1](https://twitter.com/jedisct1) Stop writing PHP like it’s 2009… [https://t.co/9wer6B2FIo](https://t.co/9wer6B2FIo)
+
+
+## Front / Web Apps
+- [T](http://twitter.com/WalterStephanie/status/887560189733474305) par [@WalterStephanie](https://twitter.com/WalterStephanie) A Beginner’s Guide to Progressive Web Apps &amp; the Frontend Web, really long and detailed tutorial [https://t.co/BrV3bh7g2Q](https://t.co/BrV3bh7g2Q)
+- [T](http://twitter.com/LodsDorian/status/887396680773062656) par [@LodsDorian](https://twitter.com/LodsDorian) A little preview of my first #webgl project as a freelance ! 😀 #threejs #creativecoding #design #ComingSoon [https://t.co/npNYhnjEEw](https://t.co/npNYhnjEEw)
+
+
+## Tooling / OS / Hosting
+- [T](http://twitter.com/peterbe/status/886280381649080320) par [@peterbe](https://twitter.com/peterbe) ▶ du -sh .git : 866M    .git  -> 57M    .git ... Wow!
+
+
+## Marketing / SEO / UX
+// Rien :D
+
+## Sécurité / Vie privée / Libre
+- [T](http://twitter.com/fdevillamil/status/886491135933378560) par [@fdevillamil](https://twitter.com/fdevillamil) Browsing the web from a virtual machine to avoid malware infecting your computer is good but not enough. Host escape exists.
+
+
+## Geek / IOT / Électronique
+// rien :/
+
+## Humain / Développement personnel / Santé
+- [T](http://twitter.com/alchymi/status/886288426290597889) par [@alchymi](https://twitter.com/alchymi) Children who struggle to focus in class should be given 'prescription video games', neuroscientist claims [https://t.co/qG8fToHtnU](https://t.co/qG8fToHtnU)
+- [T](http://twitter.com/Bouletcorp/status/886915826074480641) par [@Bouletcorp](https://twitter.com/Bouletcorp) Une petite vidéo sur l'inné/l'acquis par Pierre-Henri Gouyon [https://t.co/oJffBENAKe](https://t.co/oJffBENAKe) (via @DrCouine )
+- [T](http://twitter.com/KaesHohenheim/status/887253575008755712) par [@KaesHohenheim](https://twitter.com/KaesHohenheim) Fantastique billet qui fait réfléchir et dédramatise &gt; Comment j’ai quitté Google et plaqué Microsoft [https://t.co/chQQjQB7WP](https://t.co/chQQjQB7WP) (cc @NkL4)
+
+
+## Divers / Conneries
+- [T](http://twitter.com/SensCritique/status/885816486480273408) par [@SensCritique](https://twitter.com/SensCritique) #DragonBallZ : la saison 1 disponible gratuitement et en intégralité ! &gt;[https://t.co/YwpxuQf6Lb](https://t.co/YwpxuQf6Lb) https://t.co/LsWGDfcyxe
+- [T](http://twitter.com/mozilla/status/887356583696642049) par [@mozilla](https://twitter.com/mozilla) We're trying to collect at least 10,000 hours of human speech. Have 1 or 2 minutes to spare?  [https://t.co/zjS6oD8cXc](https://t.co/zjS6oD8cXc)
+
+
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
