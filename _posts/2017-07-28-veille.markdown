@@ -1,0 +1,55 @@
+---
+layout: post
+title: "La veille du week-end S2E7"
+date: 2017-07-28 08:33:00 +0200
+category: veille
+---
+
+Bonjour, c’est vendredi et c’est la “veille du week-end”.  
+
+Bonne lecture, et bon week-end.
+
+## Dev / backend / Code
+- [T](http://twitter.com/TalAter/status/888025242974683136) par [@TalAter](https://twitter.com/TalAter) You can test code in any version of Node without installing different versions or nvm using "npx -p node-bin@6 -- &lt;…" [https://t.co/NNnyrQ5rAZ](https://t.co/NNnyrQ5rAZ)
+- [T](http://twitter.com/nzgb/status/889078639714684928) par [@nzgb](https://twitter.com/nzgb) 📓 My book on ES6 is being released on Amazon today! 🏰 Practical Modern JavaScript ↪️ [https://t.co/REvyr2XBUe](https://t.co/REvyr2XBUe) https://t.co/dg7bBQcpYo
+- [T](http://twitter.com/thibaultj/status/889398520683388928) par [@thibaultj](https://twitter.com/thibaultj) Mon temps de développement. Je pense qu'on est pas loin de la vérité. [https://t.co/nwM3HUYG3f](https://t.co/nwM3HUYG3f)
+- [T](http://twitter.com/algolia/status/889885652841623553) par [@algolia](https://twitter.com/algolia) Computing metrics on 2 TB of logs/day didn’t fit on any of our machines. The solution: some simple math.… [https://t.co/effaRP1uHP](https://t.co/effaRP1uHP)
+
+
+## Front / Web Apps
+- [T](http://twitter.com/_kud/status/888058497912516609) par [@_kud](https://twitter.com/_kud) recompose — A React utility belt for function components and higher-order components. [https://t.co/D9jTdp12Hv](https://t.co/D9jTdp12Hv)
+- [T](http://twitter.com/yasakura_/status/888409231015251968) par [@yasakura_](https://twitter.com/yasakura_) Hey ! Premier article écrit par moi-même avec mes petites mains que j'ose partager : [https://t.co/6W0wcujkgw](https://t.co/6W0wcujkgw)
+- [T](http://twitter.com/Godefroy/status/888699142914138112) par [@Godefroy](https://twitter.com/Godefroy) 8 things to learn in React before using Redux [https://t.co/YMM12L44it](https://t.co/YMM12L44it)
+- [T](http://twitter.com/_kud/status/889407654375849984) par [@_kud](https://twitter.com/_kud) High Performance React: 3 New Tools to Speed Up Your Apps [https://t.co/XM7pEW3mmC](https://t.co/XM7pEW3mmC) #reactjs https://t.co/4SauQJzYfM
+- [T](http://twitter.com/waxzce/status/889592028300029958) par [@waxzce](https://twitter.com/waxzce) Hot reloading configuration: why and how? [https://t.co/vSwO0MBmkj](https://t.co/vSwO0MBmkj) // very important sozu conception principle https://t.co/mNRVgmLrML
+
+
+## Tooling / OS / Hosting
+- [T](http://twitter.com/mpjme/status/888560958926237696) par [@mpjme](https://twitter.com/mpjme) Monospaced programming fonts with ligatures ❤️[https://t.co/4ZMhdNtz2x](https://t.co/4ZMhdNtz2x) https://t.co/fCOJHUxoQH
+- [T](http://twitter.com/mozhacks/status/890330423561039872) par [@mozhacks](https://twitter.com/mozhacks) For anyone working with React/Redux, proper developer tooling is an indispensable part of an efficient workflow: [https://t.co/Nsp9iYsT8D](https://t.co/Nsp9iYsT8D)
+
+
+## Marketing / SEO / UX
+// Rien :D
+
+## Sécurité / Vie privée / Libre
+- [T](http://twitter.com/Benazdia/status/889788071490842624) par [@Benazdia](https://twitter.com/Benazdia) Dans la série "j'ai fait fuiter les données ultraconfidentielles de tous les services secrets", je veux...la Suède… [https://t.co/Eg8GKECL4w](https://t.co/Eg8GKECL4w)
+
+
+## Geek / IOT / Électronique
+- [T](http://twitter.com/sam_et_max/status/888009326257942528) par [@sam_et_max](https://twitter.com/sam_et_max) The Gambler's Fallacy Dice [https://t.co/I1JbJTX29x](https://t.co/I1JbJTX29x) blague de statisticiens, mais implémenté en code
+
+## Humain / Développement personnel / Santé
+- [T](http://twitter.com/Grincheux/status/889391043753410560) par [@Grincheux](https://twitter.com/Grincheux) Très belle page sur le Refroidissement social, traduit par l'équipe #framalang de @framasoft [https://t.co/7fwFe4R7Sy](https://t.co/7fwFe4R7Sy) #bigData
+- [T](http://twitter.com/dhh/status/890308510927515649) par [@dhh](https://twitter.com/dhh) Impressed by [https://t.co/2FpgQFupLy](https://t.co/2FpgQFupLy). It's an app for administering real-world programming tests for job applicants in their environment. 👍
+- [T](http://twitter.com/ncasenmare/status/889928694516645890) par [@ncasenmare](https://twitter.com/ncasenmare) Trust is falling. Why? And how can we fix it? My interactive guide to the game theory of trust is now OUT! 👉… [https://t.co/A0ygo5oSmQ](https://t.co/A0ygo5oSmQ)
+- [T](http://twitter.com/fdevillamil/status/890146568732647426) par [@fdevillamil](https://twitter.com/fdevillamil) I wrote about the most common and honest answer you get when asking a technical question. [https://t.co/D1j1NSjw1O](https://t.co/D1j1NSjw1O)
+
+
+## Divers / Conneries
+- [T](http://twitter.com/desbenoit/status/888043456341389312) par [@desbenoit](https://twitter.com/desbenoit) Fantastique vidéo de @Thom_astro et @googlemaps dans l’#iss ! [https://t.co/ffmgc2GCnX](https://t.co/ffmgc2GCnX)
+- [T](http://twitter.com/galka_max/status/890259618055823360) par [@galka_max](https://twitter.com/galka_max) This is the longest ground-to-ground photo ever taken - a shot of the Alps taken from the Pyrenees… [https://t.co/930eWfFvlI](https://t.co/930eWfFvlI)
+
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
