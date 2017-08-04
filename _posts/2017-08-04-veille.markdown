@@ -1,0 +1,54 @@
+---
+layout: post
+title: "La veille du week-end S2E8"
+date: 2017-08-04 08:05:00 +0200
+category: veille
+---
+
+Bonjour, c’est vendredi et c’est la “veille du week-end”.  
+
+Bonne lecture, et bon week-end.
+
+## Dev / backend / Code
+- [T](http://twitter.com/thekitze/status/891630459112837120) par [@thekitze](https://twitter.com/thekitze) Bundlephobia - the fear of installing a massive npm module. I started checking all of my modules before installing… [https://t.co/ALnUlZKY15](https://t.co/ALnUlZKY15)
+- [T](http://twitter.com/JoliCode/status/892728082716667905) par [@JoliCode](https://twitter.com/JoliCode) Obtenir le meilleur des deux mondes avec React ⚛️ et Symfony 🤓, @_ClaireColoma et @SFavot vous explique tout : [https://t.co/sGXCaEmSIS](https://t.co/sGXCaEmSIS) #PHP
+
+
+## Front / Web Apps
+- [T](http://twitter.com/iammerrick/status/890605382812356610) par [@iammerrick](https://twitter.com/iammerrick) React's new `componentDidCatch` is all the more reason to provide `setState` with a function! [https://t.co/4qoNDzvnGM](https://t.co/4qoNDzvnGM)
+- [T](http://twitter.com/dhoko_/status/892748199429013505) par [@dhoko_](https://twitter.com/dhoko_) Quick Intro to the Payment Request API [https://t.co/XeXH7CDF4T](https://t.co/XeXH7CDF4T) #JavaScript // Ce serait cool ça partout. https://t.co/8PQBh1VyJ3
+
+
+## Tooling / OS / Hosting
+- [T](http://twitter.com/nhoizey/status/890635589170585600) par [@nhoizey](https://twitter.com/nhoizey) So long Disqus, hello Webmention [https://t.co/WBbLctiLLl](https://t.co/WBbLctiLLl) #blog
+- [T](http://twitter.com/waxzce/status/892297107171942400) par [@waxzce](https://twitter.com/waxzce) SOZU, le reverse-proxy magique [https://t.co/S7f8kF9eQl](https://t.co/S7f8kF9eQl) :: un article par le super @k33g_org https://t.co/XvdSGgmNHE
+
+
+## Marketing / SEO / UX
+- [T](http://twitter.com/WalterStephanie/status/890817263439192064) par [@WalterStephanie](https://twitter.com/WalterStephanie) Carousell: a Guerilla UX Case Study – really interesting read with a few UX tools and methods [https://t.co/AaxsbAU0je](https://t.co/AaxsbAU0je)
+- [T](http://twitter.com/boagworld/status/891958350639923200) par [@boagworld](https://twitter.com/boagworld) .6% of users use social media buttons on desktop and only .2% on mobile. Time to get rid of the things! [https://t.co/ZoZMjKyJmx](https://t.co/ZoZMjKyJmx)
+
+
+## Sécurité / Vie privée / Libre
+- [T](http://twitter.com/regsecurity/status/890669783036731393) par [@regsecurity](https://twitter.com/regsecurity) Hackers can turn that car wash into a death trap and crush your car [https://t.co/pf1Cd4H0DJ](https://t.co/pf1Cd4H0DJ)
+- [T](http://twitter.com/motherboard/status/891755011071463424) par [@motherboard](https://twitter.com/motherboard) This man has survived for over 20 years simply by hacking online games [https://t.co/n1mSKnrMIz](https://t.co/n1mSKnrMIz) https://t.co/t81Gm9WNJJ
+- [T](http://twitter.com/tecgirl/status/892428149992022016) par [@tecgirl](https://twitter.com/tecgirl) Send any file &lt;1GB, encrypted, w/ any browser! Links auto expire &amp; all files will be auto deleted from server. 🙌 [https://t.co/lJ8v3XwRws](https://t.co/lJ8v3XwRws)
+- [T](http://twitter.com/gwui/status/892760119028711426) par [@gwui](https://twitter.com/gwui) Troy Hunt: Passwords Evolved: Authentication Guidance for the Modern Era [https://t.co/PEGe0bYFdy](https://t.co/PEGe0bYFdy)
+
+
+## Geek / IOT / Électronique
+// rien :/
+
+## Humain / Développement personnel / Santé
+- [T](http://twitter.com/fdevillamil/status/890146568732647426) par [@fdevillamil](https://twitter.com/fdevillamil) I wrote about the most common and honest answer you get when asking a technical question. [https://t.co/D1j1NSjw1O](https://t.co/D1j1NSjw1O)
+- [T](http://twitter.com/clementapap/status/891765375616114688) par [@clementapap](https://twitter.com/clementapap) Comment votre cerveau hallucine votre réalité consciente [https://t.co/dcHAXbSZqX](https://t.co/dcHAXbSZqX) #TEDTalks
+
+
+## Divers / Conneries
+- [T](http://twitter.com/Darklg/status/890972069441265664) par [@Darklg](https://twitter.com/Darklg) Traveling for Work: Packing &amp; Tips [https://t.co/wcuU42PsUY](https://t.co/wcuU42PsUY)
+- [T](http://twitter.com/claragriot/status/892766549408436226) par [@claragriot](https://twitter.com/claragriot) 🚂 Mon long-format sur la disparition des #intercités #train de nuit est publié ! À lire, voir et écouter… [https://t.co/dKFbf9mLp5](https://t.co/dKFbf9mLp5)
+
+
+
+
+Si vous le souhaitez (et que les flux RSS sont une notion totalement abstraite pour vous), vous pouvez recevoir chaque semaine cette même veille dans votre boite mail, en vous inscrivant [ici](/newsletter.html)
