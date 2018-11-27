@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  ParentBlabla
-date:   2017-05-23 21:33:00 +0200
+date:   2018-11-26 09:53:53 +0200
 thumbnail: /assets/posts/parentblabla/parentblabla.png
 categories: autour-dun-cafe
 intro: >#
