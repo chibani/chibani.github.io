@@ -18,24 +18,29 @@ Mon but était d'apporter des éléments de réponses aux parents, et futurs par
 ## Le format
 
 N'ayant aucun charisme, ni de faire un podcast académique ou trop préparé (en somme, je ne voulais pas lire un papier pendant tout l'enregistrement), je suis parti sur un format de discussion.  
-En gros, on se retrouve sur un chan vocal discord, vient qui veut, et libre à chacun d'apporter son grain de sel.  
-Une sorte de PMU de la parentalité...
+En gros, on se retrouve sur [notre espace discord](https://discordapp.com/invite/DkVvAjm), vient qui veut, et libre à chacun d'apporter son grain de sel.  
+Une sorte de PMU de la parentalité...  
+
+Pour faciliter l'échange, j'ai créé un compte Twitter [@parentblabla](https://twitter.com/parentblabla), une page Facebook [ParentBlabla](https://www.facebook.com/parentblabla/).  
+J'y poste quelques actus parentalité, mais surtout les infos sur les enregistrements (Doodle et choix des sujets).
 
 ## Les sujets
 
 Les sujets abordés graviteront toujours autour de la parentalité.  
-A l'heure où j'écris ces quelques lignes, nous avons enregistré 3 épisodes :  
+A l'heure où j'écris ces quelques lignes, nous avons enregistré 5 épisodes :  
  . Un premier épisode, un peu fouilli, mais autour de Montessori   
  . Un second concernant la motricité libre  
  . Le troisième, à propos des modes de garde  
+ . Les enfants face aux écrans
+ . Le jeu et l'enfant
 
-Les sujets sont choisis en concertation avec la communauté, et les personnes intéressées (sous forme d'un sondage dans lequel je regroupe les sujets qui me sont soumis).
+Les sujets sont choisis en concertation avec la communauté, et les personnes intéressées (sous forme d'un sondage dans lequel je regroupe les sujets qui me sont soumis).  
 
 ## Le label  
 
-Ce sont les amis de [PodCut](https://podcut.studio/) qui m'aident à enregistrer, hébergent et diffusent ces émissions.  
-Podcut est un label qui regroupe une quinzaine de podcasts divers et variés.  
-Pèle-mèle, on y parle de : technologie, Stephen King, les règles, jeux-vidéo, whisky, les années 80 ou encore la Corée...  Bref, il y a du choix.
+Ce sont les amis de [PodCut](https://podcut.studio/) qui m'aident à enregistrer, héberger et diffuser ces émissions.  
+Podcut est un label qui regroupe plus d'une vingtaine de podcasts divers et variés.  
+Pèle-mèle, on y parle de : [technologie](https://podcast.ausha.co/l-ecole-des-faq), [Stephen King](https://podcast.ausha.co/le-roi-stephen), [les règles](https://podcast.ausha.co/la-menstruelle), [jeux-vidéo](https://podcast.ausha.co/g7), [bières](https://podcast.ausha.co/binouze-usa), [les années 80](https://podcast.ausha.co/so-80-s-1) ou encore [la Corée](https://podcast.ausha.co/geon-bae)...  Bref, il y a du choix, que je vous invite à explorer.
 
 ## Où écouter
 
