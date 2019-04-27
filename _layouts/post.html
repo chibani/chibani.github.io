@@ -11,7 +11,7 @@ layout: default
   <div class="post-content" itemprop="articleBody">
     {{ content }}
 
-    {{ "_Cet article contient un (ou des) erreur(s) ? Vous pouvez me la signaler ou proposer une correction directement sur [GitHub](" |append: site.repository_url |append: "/blob/" | append: site.branch |append: "/" |append: page.path | append: ")._"|markdownify }}
+    {{ "_Cet article contient une (ou des) erreur(s) ? Vous pouvez me la signaler ou proposer une correction directement sur [GitHub](" |append: site.repository_url |append: "/blob/" | append: site.branch |append: "/" |append: page.path | append: ")._"|markdownify }}
   </div>
 
 </article>
