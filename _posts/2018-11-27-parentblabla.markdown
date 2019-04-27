@@ -44,7 +44,7 @@ Les émissions sont écoutables, en balado-diffusion sur [iTunes](https://itunes
 Vous pouvez, par ailleurs, écouter directement le tout dernier épisode ici :  
 <iframe
   frameborder="0"
-  height="201px"
+  height="400px"
   width="100%"
-  src="https://widget.ausha.co/index.html?chanId=KyAXtDGzNWEo&showId=2B6ztX4XDj7B&color=%232bb699&display=horizontal&v=2&height=201px&mode=latest"
+  src="https://widget.ausha.co/index.html?chanId=KyAXtDGzNWEo&showId=2B6ztX4XDj7B&color=%232bb699&display=horizontal&v=2&height=201px&playlist=1&mode=latest"
 ></iframe>
