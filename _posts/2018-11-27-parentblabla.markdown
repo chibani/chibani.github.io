@@ -5,8 +5,8 @@ date:   2018-11-26 09:53:53 +0200
 thumbnail: /assets/posts/parentblabla/parentblabla.png
 categories: autour-dun-cafe
 intro: >#
-  Depuis juin 2018, j'anime un top podcast par des parents, pour les parents  
-
+  Depuis juin 2018, j'anime un podcast par des parents, pour les parents.  
+  En voici une présentation.
 
 ---
 
