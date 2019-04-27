@@ -40,3 +40,11 @@ Pèle-mèle, on y parle de : technologie, Stephen King, les règles, jeux-vidéo
 ## Où écouter
 
 Les émissions sont écoutables, en balado-diffusion sur [iTunes](https://itunes.apple.com/fr/podcast/parentblabla/id1405485827?mt=2), [Ausha](https://podcast.ausha.co/parentblabla), PodCast Addict, [Spotify](https://open.spotify.com/show/6T2qKOkx88BYdCU7Z4EnJn?si=1C9updQHQAi6JNo3uF86wQ) et autres plateformes.
+
+Vous pouvez, par ailleurs, écouter directement le tout dernier épisode ici :  
+<iframe
+  frameborder="0"
+  height="201px"
+  width="100%"
+  src="https://widget.ausha.co/index.html?chanId=KyAXtDGzNWEo&showId=2B6ztX4XDj7B&color=%232bb699&display=horizontal&v=2&height=201px&mode=latest"
+></iframe>
