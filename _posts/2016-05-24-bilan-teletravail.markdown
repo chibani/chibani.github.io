@@ -15,7 +15,7 @@ Je m’y rendais à pied (à peine plus de 5 minutes porte à porte),  ça me l
 
 Je m’entendais (et m’entends toujours) super bien avec mes collègues, l’ambiance y est plutôt détendue et tout s’y passait bien. Il n’y avait aucune raison, pour moi, de ne plus travailler au bureau.
 
-Mais, des problèmes de santé de [ma douce](http://www.explorateursenherbe.com/ "Blog d'activités pour jeunes enfants") nous ont contraints à devoir quitter l’Île de France pour regagner le Sud (je ne m’étalerai pas sur les détails, ce n’est pas le sujet).
+Mais, des problèmes de santé de [ma douce](https://www.charlinereynaud.fr/ "Auxilliaire de puériculture et aide natale") nous ont contraints à devoir quitter l’Île de France pour regagner le Sud (je ne m’étalerai pas sur les détails, ce n’est pas le sujet).
 
 J’ai parlé de ma situation (familiale) avec mon chef, puis avec le boss, et on s’est mis d’accord pour un fonctionnement en télétravail (au départ j’étais allé les voir dans l’optique de faire une rupture de contrat …).
 
