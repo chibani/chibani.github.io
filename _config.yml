@@ -33,9 +33,6 @@ github: [metadata]
 kramdown:
   input: GFM
 hard_wrap: false
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-redirect-from
-analytics:
-    google:
-        tracking_id: UA-2703255-5
