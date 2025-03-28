@@ -6,13 +6,13 @@ category: veille
 ---
 C'est vendredi et c'est la "veille du week-end".
 
-Première publication sur le blog, mais j'en suis au 10ème tirage par email (via une newsletter, j'en parle en bas).  
-Chaque vendredi matin (normalement), je publierai ici (et par email) ma récolte Twitter de la semaine (enfin, depuis le vendredi précédent).
+Première publication sur le blog, mais j'en suis au 10ème tirage par email (via une newsletter, j'en parle en bas).
+Chaque vendredi matin (normalement), je publierai ici (et par email) ma récolte twitter de la semaine (enfin, depuis le vendredi précédent).
 
-L'idée est de me permettre de garder une trace facilement cherchable de ressources intéressantes que j'ai vu passer.  
+L'idée est de me permettre de garder une trace facilement cherchable de ressources intéressantes que j'ai vu passer.
 Accessoirement, je l'ai proposé à des amis et anciens collègues, qui n'ont pas craché dessus ;)
 
-Cette semaine, parmi les événement marquants :  
+Cette semaine, parmi les événement marquants :
  - jQuery a sorti sa v3 (que je n'ai pas encore regardé, mais ça semble pas mal bouger par rapport à la v2)
  - SudWeb a commencé à publier les premières vidéos des confs de cette année
 
