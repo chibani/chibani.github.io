@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Clavier bizarre
-date:   2025-03-01 13:37:00 +0200
+date:   2025-03-28 08:37:00 +0200
 thumbnail: /assets/posts/clavier-bizarre/ferris.jpg
 categories: geekeries
 intro: >#
