@@ -91,7 +91,7 @@ On trouve aussi des copies pas bien chères sur AliExpress. Quelques revues sont
 Ensemble de configurations, notamment pour les combos ZMK et autres tap-mods
 [Exemple de configuration avancée, pour des 34 keys](https://github.com/urob/zmk-config)
 
-Ma config actuelle : [[https://github.com/chibani/zmk-config][chibani/zmk-config]] (travail en cours, tout n'est pas à jour, à commencer par le README).
+Ma config actuelle : [https://github.com/chibani/zmk-config](chibani/zmk-config) (travail en cours, tout n'est pas à jour, à commencer par le README).
 
 ### Communautés
 
