@@ -97,7 +97,7 @@ Ma config actuelle : [[https://github.com/chibani/zmk-config][chibani/zmk-config
 
 Il existe un Discord géré par les gens de Splitkb.com . La communauté est très accueillante et vous pourrez y obtenir des coups de mains salvateurs.
 
-Il y a un chan Reddit [[https://www.reddit.com/r/ErgoMechKeyboards/][ErgoMechBoards]] , avec principalement du "show and tell" (des gens se montrent leurs claviers) mais il est également possible d'y demander de l'aide.
+Il y a un chan Reddit [[https://www.reddit.com/r/ErgoMechKeyboards/]([ErgoMechBoards]) , avec principalement du "show and tell" (des gens se montrent leurs claviers) mais il est également possible d'y demander de l'aide.
 
 ### Se faire la main
 
