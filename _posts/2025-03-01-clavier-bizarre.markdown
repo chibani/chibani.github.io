@@ -37,7 +37,7 @@ Je me suis donc mis en quête d'une nouvelle monture pour :
 - Pouvoir le transporter, donc ne pas avoir à changer trop souvent
 - Tenter de taper avec tous mes doigts
 
-Et après la lecture des [[https://blog.clement.delafargue.name/posts/2024-03-04-keyboardic-apocalypse.html][aventures de Clément dans le monde des claviers]], j'ai décidé de sauter le pas.
+Et après la lecture des [aventures de Clément dans le monde des claviers](https://blog.clement.delafargue.name/posts/2024-03-04-keyboardic-apocalypse.html), j'ai décidé de sauter le pas.
 
 ## "C'est un clavier ça ???"
 
@@ -91,13 +91,13 @@ On trouve aussi des copies pas bien chères sur AliExpress. Quelques revues sont
 Ensemble de configurations, notamment pour les combos ZMK et autres tap-mods
 [Exemple de configuration avancée, pour des 34 keys](https://github.com/urob/zmk-config)
 
-Ma config actuelle : [https://github.com/chibani/zmk-config](chibani/zmk-config) (travail en cours, tout n'est pas à jour, à commencer par le README).
+Ma config actuelle : [chibani/zmk-config](https://github.com/chibani/zmk-config) (travail en cours, tout n'est pas à jour, à commencer par le README).
 
 ### Communautés
 
 Il existe un Discord géré par les gens de Splitkb.com . La communauté est très accueillante et vous pourrez y obtenir des coups de mains salvateurs.
 
-Il y a un chan Reddit [[https://www.reddit.com/r/ErgoMechKeyboards/]([ErgoMechBoards]) , avec principalement du "show and tell" (des gens se montrent leurs claviers) mais il est également possible d'y demander de l'aide.
+Il y a un chan Reddit [ErgoMechBoards](https://www.reddit.com/r/ErgoMechKeyboards/) , avec principalement du "show and tell" (des gens se montrent leurs claviers) mais il est également possible d'y demander de l'aide.
 
 ### Se faire la main
 
